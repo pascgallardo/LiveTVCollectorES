@@ -267,7 +267,7 @@ def main():
         "https://www.apsattv.com/eslg.m3u",
         "https://kutt.it/Xiaomi",
         "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/m3u/FreeLiveSportsTV_tv.m3u",
-
+        "https://www.apsattv.com/whaletvplus_es.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
