@@ -1,4 +1,4 @@
-# LiveTVCollector
+# LiveTVCollectorES
 
 A GitHub repository that automatically collects, filters, and exports live TV streaming links for Country/Category wise using GitHub Actions. This project fetches M3U playlists from multiple sources, removes duplicates, verifies active links, and exports them into various formats under the `LiveTV/Country Name/` directory.
 # 📊 Project Stats
