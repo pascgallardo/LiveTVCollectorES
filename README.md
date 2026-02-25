@@ -91,14 +91,14 @@ Custom JSON list without extension:
 ## Setup Instructions
 
 ### Prerequisites
-- A GitHub account and repository (`bugsfreeweb/LiveTVCollector`).
+- A GitHub account and repository (`bugsfreeweb/LiveTVCollectorES`).
 - No local setup required; everything runs via GitHub Actions.
 
 ### Steps
 1. **Clone or Fork**:
    ```bash
    git clone https://github.com/bugsfreeweb/LiveTVCollector.git
-   cd LiveTVCollector
+   cd LiveTVCollectorES
    ```
 
 2. **Customize Sources** (Optional):
