@@ -258,7 +258,6 @@ def main():
     # Specific M3U sources (12 sources)
     source_urls = [        
         "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "https://helmerluzo.github.io/PlutoTV_HL/tv/m3u//PlutoTV_tv_US.m3u",
         "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "https://www.apsattv.com/uslg.m3u",
     ]
