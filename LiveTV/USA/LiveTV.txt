@@ -1,17 +1,12 @@
 Group: Action & Drama
-Name: Bounce XL
-URL: https://jmp2.uk/stvp-USBD300008G1
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20260303T070412SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: CW Gold
-URL: https://jmp2.uk/stvp-US25000063S
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Samsung Television Network
 URL: https://jmp2.uk/stvp-US300068X7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260303T070433SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: CW FOREVER
+URL: https://jmp2.uk/stvp-US25000075Y
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260303T070417SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: ALL ACTION
@@ -34,9 +29,9 @@ URL: https://jmp2.uk/stvp-USBD2500018X6
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
-Name: CW FOREVER
-URL: https://jmp2.uk/stvp-US25000075Y
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260303T070417SQUARE.png
+Name: CW Gold
+URL: https://jmp2.uk/stvp-US25000063S
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: ElectricNOW
@@ -62,6 +57,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Designated Survivor
 URL: https://jmp2.uk/stvp-US1800019OC
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20251110T235057SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Bounce XL
+URL: https://jmp2.uk/stvp-USBD300008G1
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20260303T070412SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: ALLBLK Gems
@@ -918,6 +918,13 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
+Group: Comedy;Series
+Name: Anger Management Channel (1080p)
+URL: https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+Logo: https://i.imgur.com/VXZgrNy.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
 Group: Cooking
 Name: America's Test Kitchen (1080p) [Geo-blocked]
 URL: https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
@@ -983,6 +990,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Crime
+Name: Oxygen True Crimes Archive
+URL: https://jmp2.uk/stvp-US1900005VB
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260303T094040SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: Crime Zone
 URL: https://jmp2.uk/stvp-USBB36000040M
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260303T093851SQUARE.png
@@ -1066,11 +1078,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: American Crimes
 URL: https://jmp2.uk/stvp-USBD42000250Q
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20251202T005858SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: Oxygen True Crimes Archive
-URL: https://jmp2.uk/stvp-US1900005VB
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260303T094040SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Crime ThrillHer
@@ -1383,11 +1390,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Education
-Name: Anger Management Channel (1080p)
-URL: https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-Logo: https://i.imgur.com/VXZgrNy.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Arkansas PBS [Geo-blocked]
 URL: https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 Logo: https://i.imgur.com/dNBZLtD.png
@@ -3146,9 +3148,9 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Home & Food
-Name: TheSorryGirls TV
-URL: https://jmp2.uk/stvp-US2100008CW
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100008CW_20260303T070436SQUARE.png
+Name: Rachael Ray Presents
+URL: https://jmp2.uk/stvp-US47000287B
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260303T070431SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Home Refresh
@@ -3201,6 +3203,11 @@ URL: https://jmp2.uk/stvp-USBC3200022W6
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240910T003655SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
+Name: TheSorryGirls TV
+URL: https://jmp2.uk/stvp-US2100008CW
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100008CW_20260303T070436SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: NBC LX Home
 URL: https://jmp2.uk/stvp-USBB40000028E
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20250325T014929SQUARE.png
@@ -3249,11 +3256,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: The Martha Stewart Channel
 URL: https://jmp2.uk/stvp-US4500011SP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500011SP_20250819T224356SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: Rachael Ray Presents
-URL: https://jmp2.uk/stvp-US47000287B
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260303T070431SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Emeril Lagasse Channel
@@ -4445,6 +4447,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Lifestyle & Pop Culture
+Name: BuzzFeed Celeb
+URL: https://jmp2.uk/stvp-US400006304
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260303T070415SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: The Ringer from Spotify
 URL: https://jmp2.uk/stvp-US1900021H0
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20251028T011134SQUARE.png
@@ -4553,11 +4560,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: OUTflix Movies
 URL: https://jmp2.uk/stvp-US8000024G
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260127T205321SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: BuzzFeed Celeb
-URL: https://jmp2.uk/stvp-US400006304
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260303T070415SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: ET
@@ -4761,11 +4763,6 @@ URL: https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/pl
 Logo: https://i.imgur.com/h1ejU90.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: MovieSphere (1080p)
-URL: https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: MyTime Movie Network (1080p)
 URL: https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/HYgxPVQ.png
@@ -4806,11 +4803,6 @@ URL: https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 Logo: https://i.imgur.com/zgiuNNj.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Movie Hub Action
-URL: https://jmp2.uk/stvp-USBD3500032H0
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260303T094124SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Movie Hub
 URL: https://jmp2.uk/stvp-USBA3000041ZP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260303T093921SQUARE.png
@@ -4819,6 +4811,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Movie Hub West
 URL: https://jmp2.uk/stvp-USBD3500036HP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20260303T094130SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Movie Hub Action
+URL: https://jmp2.uk/stvp-USBD3500032H0
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260303T094124SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Movie Hub Action West
@@ -5364,6 +5361,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Nature, History & Science
+Name: History & Science" , Mark Rober TV
+URL: https://jmp2.uk/stvp-US2000010PO
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260303T070422SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: History & Science" , Samsung Wild Life
 URL: https://jmp2.uk/stvp-USBA3000043LH
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250826T234450SQUARE.png
@@ -5487,11 +5489,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: History & Science" , PBS Digital Studios
 URL: https://jmp2.uk/stvp-USBB800001O7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: History & Science" , Mark Rober TV
-URL: https://jmp2.uk/stvp-US2000010PO
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260303T070422SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 
@@ -6149,11 +6146,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Reality Competition
-Name: Alone By History
-URL: https://jmp2.uk/stvp-USBD27000156I
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20260303T070409SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Hell's Kitchen
 URL: https://jmp2.uk/stvp-USBB2900002Z7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20251125T030826SQUARE.png
@@ -6212,6 +6204,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Ax Men
 URL: https://jmp2.uk/stvp-USBB5200020Z0
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20250826T234514SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Alone By History
+URL: https://jmp2.uk/stvp-USBD27000156I
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20260303T070409SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Project Runway
@@ -10443,7 +10440,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: The Q India (1080p)
 URL: https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
-Logo: https://i.imgur.com/VYrpCEN.png
+Logo: https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: The Walk TV (720p)

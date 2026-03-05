@@ -786,12 +786,6 @@
     "img": "https://i.imgur.com/h1ejU90.png"
   },
   {
-    "name": "MovieSphere (1080p)",
-    "type": "Movies",
-    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "MyTime Movie Network (1080p)",
     "type": "Movies",
     "url": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8",
@@ -840,12 +834,6 @@
     "img": "https://i.imgur.com/zgiuNNj.png"
   },
   {
-    "name": "Movie Hub Action",
-    "type": "Movies",
-    "url": "https://jmp2.uk/stvp-USBD3500032H0",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260303T094124SQUARE.png"
-  },
-  {
     "name": "Movie Hub",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
@@ -856,6 +844,12 @@
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBD3500036HP",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20260303T094130SQUARE.png"
+  },
+  {
+    "name": "Movie Hub Action",
+    "type": "Movies",
+    "url": "https://jmp2.uk/stvp-USBD3500032H0",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260303T094124SQUARE.png"
   },
   {
     "name": "Movie Hub Action West",
@@ -6163,9 +6157,51 @@
   },
   {
     "name": "Anger Management Channel (1080p)",
-    "type": "Education",
+    "type": "Comedy;Series",
     "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
     "img": "https://i.imgur.com/VXZgrNy.png"
+  },
+  {
+    "name": "Animation+ (1080p) [Geo-blocked]",
+    "type": "Animation",
+    "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+    "img": "https://i.imgur.com/OIFK6JB.png"
+  },
+  {
+    "name": "ANIME x HIDIVE (720p)",
+    "type": "Animation",
+    "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "img": "https://i.imgur.com/v0BlxCa.png"
+  },
+  {
+    "name": "Blues TV",
+    "type": "Animation",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "img": "https://i.imgur.com/px0CSti.png"
+  },
+  {
+    "name": "FilmRise Anime (720p)",
+    "type": "Animation",
+    "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
+    "img": "https://i.imgur.com/3wqeGXM.png"
+  },
+  {
+    "name": "Naruto (1080p)",
+    "type": "Animation",
+    "url": "https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8",
+    "img": "https://i.imgur.com/M8X3Kvc.png"
+  },
+  {
+    "name": "Toonami Aftermath East (480p)",
+    "type": "Animation",
+    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+    "img": "https://i.imgur.com/aSjhZK7.png"
+  },
+  {
+    "name": "Yu-Gi-Oh! (1080p)",
+    "type": "Animation",
+    "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
+    "img": "https://i.imgur.com/Tl6aW2u.png"
   },
   {
     "name": "Arkansas PBS [Geo-blocked]",
@@ -6376,48 +6412,6 @@
     "type": "Education",
     "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8",
     "img": "https://i.imgur.com/zwzmwse.jpg"
-  },
-  {
-    "name": "Animation+ (1080p) [Geo-blocked]",
-    "type": "Animation",
-    "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
-    "img": "https://i.imgur.com/OIFK6JB.png"
-  },
-  {
-    "name": "ANIME x HIDIVE (720p)",
-    "type": "Animation",
-    "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
-    "img": "https://i.imgur.com/v0BlxCa.png"
-  },
-  {
-    "name": "Blues TV",
-    "type": "Animation",
-    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
-    "img": "https://i.imgur.com/px0CSti.png"
-  },
-  {
-    "name": "FilmRise Anime (720p)",
-    "type": "Animation",
-    "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
-    "img": "https://i.imgur.com/3wqeGXM.png"
-  },
-  {
-    "name": "Naruto (1080p)",
-    "type": "Animation",
-    "url": "https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8",
-    "img": "https://i.imgur.com/M8X3Kvc.png"
-  },
-  {
-    "name": "Toonami Aftermath East (480p)",
-    "type": "Animation",
-    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
-    "img": "https://i.imgur.com/aSjhZK7.png"
-  },
-  {
-    "name": "Yu-Gi-Oh! (1080p)",
-    "type": "Animation",
-    "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
-    "img": "https://i.imgur.com/Tl6aW2u.png"
   },
   {
     "name": "Artflix Movie Classics (720p)",
@@ -6867,7 +6861,7 @@
     "name": "The Q India (1080p)",
     "type": "Undefined",
     "url": "https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8",
-    "img": "https://i.imgur.com/VYrpCEN.png"
+    "img": "https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "The Walk TV (720p)",
@@ -8172,22 +8166,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250401T004834SQUARE.png"
   },
   {
-    "name": "Bounce XL",
-    "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-USBD300008G1",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20260303T070412SQUARE.png"
-  },
-  {
-    "name": "CW Gold",
-    "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-US25000063S",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png"
-  },
-  {
     "name": "Samsung Television Network",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US300068X7",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260303T070433SQUARE.png"
+  },
+  {
+    "name": "CW FOREVER",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-US25000075Y",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260303T070417SQUARE.png"
   },
   {
     "name": "ALL ACTION",
@@ -8214,10 +8202,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png"
   },
   {
-    "name": "CW FOREVER",
+    "name": "CW Gold",
     "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-US25000075Y",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260303T070417SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US25000063S",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png"
   },
   {
     "name": "ElectricNOW",
@@ -8248,6 +8236,12 @@
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US1800019OC",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20251110T235057SQUARE.png"
+  },
+  {
+    "name": "Bounce XL",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-USBD300008G1",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20260303T070412SQUARE.png"
   },
   {
     "name": "ALLBLK Gems",
@@ -8418,6 +8412,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png"
   },
   {
+    "name": "Oxygen True Crimes Archive",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US1900005VB",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260303T094040SQUARE.png"
+  },
+  {
     "name": "Crime Zone",
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBB36000040M",
@@ -8518,12 +8518,6 @@
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBD42000250Q",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20251202T005858SQUARE.png"
-  },
-  {
-    "name": "Oxygen True Crimes Archive",
-    "type": "Crime",
-    "url": "https://jmp2.uk/stvp-US1900005VB",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260303T094040SQUARE.png"
   },
   {
     "name": "Crime ThrillHer",
@@ -8766,10 +8760,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500001DM_20250812T003515SQUARE.png"
   },
   {
-    "name": "TheSorryGirls TV",
+    "name": "Rachael Ray Presents",
     "type": "Home & Food",
-    "url": "https://jmp2.uk/stvp-US2100008CW",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100008CW_20260303T070436SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US47000287B",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260303T070431SQUARE.png"
   },
   {
     "name": "Home Refresh",
@@ -8832,6 +8826,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240910T003655SQUARE.png"
   },
   {
+    "name": "TheSorryGirls TV",
+    "type": "Home & Food",
+    "url": "https://jmp2.uk/stvp-US2100008CW",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100008CW_20260303T070436SQUARE.png"
+  },
+  {
     "name": "NBC LX Home",
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-USBB40000028E",
@@ -8890,12 +8890,6 @@
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-US4500011SP",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500011SP_20250819T224356SQUARE.png"
-  },
-  {
-    "name": "Rachael Ray Presents",
-    "type": "Home & Food",
-    "url": "https://jmp2.uk/stvp-US47000287B",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260303T070431SQUARE.png"
   },
   {
     "name": "Emeril Lagasse Channel",
@@ -9360,12 +9354,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png"
   },
   {
-    "name": "Alone By History",
-    "type": "Reality Competition",
-    "url": "https://jmp2.uk/stvp-USBD27000156I",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20260303T070409SQUARE.png"
-  },
-  {
     "name": "Hell's Kitchen",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBB2900002Z7",
@@ -9438,6 +9426,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20250826T234514SQUARE.png"
   },
   {
+    "name": "Alone By History",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-USBD27000156I",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20260303T070409SQUARE.png"
+  },
+  {
     "name": "Project Runway",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBB3500004RC",
@@ -9508,6 +9502,12 @@
     "type": "Game Shows",
     "url": "https://jmp2.uk/stvp-US1900010IY",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20260112T181529SQUARE.png"
+  },
+  {
+    "name": "BuzzFeed Celeb",
+    "type": "Lifestyle & Pop Culture",
+    "url": "https://jmp2.uk/stvp-US400006304",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260303T070415SQUARE.png"
   },
   {
     "name": "The Ringer from Spotify",
@@ -9640,12 +9640,6 @@
     "type": "Lifestyle & Pop Culture",
     "url": "https://jmp2.uk/stvp-US8000024G",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260127T205321SQUARE.png"
-  },
-  {
-    "name": "BuzzFeed Celeb",
-    "type": "Lifestyle & Pop Culture",
-    "url": "https://jmp2.uk/stvp-US400006304",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260303T070415SQUARE.png"
   },
   {
     "name": "ET",
@@ -9858,6 +9852,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US240000434_20250812T003525SQUARE.png"
   },
   {
+    "name": "History & Science\" , Mark Rober TV",
+    "type": "Nature, History & Science",
+    "url": "https://jmp2.uk/stvp-US2000010PO",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260303T070422SQUARE.png"
+  },
+  {
     "name": "History & Science\" , Samsung Wild Life",
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-USBA3000043LH",
@@ -10006,12 +10006,6 @@
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-USBB800001O7",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png"
-  },
-  {
-    "name": "History & Science\" , Mark Rober TV",
-    "type": "Nature, History & Science",
-    "url": "https://jmp2.uk/stvp-US2000010PO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260303T070422SQUARE.png"
   },
   {
     "name": "AMC en Español",
