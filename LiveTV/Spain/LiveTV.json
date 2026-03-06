@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-05 23:38:29",
+  "date": "2026-03-06 07:59:04",
   "channels": {
     "Generalistas": [
       {
@@ -249,7 +249,7 @@
         "logo": "https://graph.facebook.com/VinxTV/picture?width=200&height=200",
         "group": "Deportivos",
         "source": "https://www.tdtchannels.com/lists/tv.m3u",
-        "url": "https://live.astreaming.es/Vinx/index.m3u8"
+        "url": "https://live.astreaming.es:5443/live/streams/vinxtv.m3u8"
       },
       {
         "name": "Real Madrid TV",
@@ -1570,13 +1570,6 @@
         "group": "Cataluña",
         "source": "https://www.tdtchannels.com/lists/tv.m3u",
         "url": "https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8"
-      },
-      {
-        "name": "El 9 TV",
-        "logo": "https://graph.facebook.com/el9nou/picture?width=200&height=200",
-        "group": "Cataluña",
-        "source": "https://www.tdtchannels.com/lists/tv.m3u",
-        "url": "https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR"
       },
       {
         "name": "Empordà TV",
@@ -13434,7 +13427,7 @@
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
         "group": "",
         "source": "https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.172"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.222"
       },
       {
         "name": "Corazón",

@@ -35,7 +35,7 @@ Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance
 Source: https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
 Name: MyTime Movie Network
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.172
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.222
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg
 Source: https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
@@ -1070,11 +1070,6 @@ URL: https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8
 Logo: https://graph.facebook.com/canalreus.cat/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
-Name: El 9 TV
-URL: https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR
-Logo: https://graph.facebook.com/el9nou/picture?width=200&height=200
-Source: https://www.tdtchannels.com/lists/tv.m3u
---------------------------------------------------
 Name: Empordà TV
 URL: https://video3.lhdserver.es/empordatv2/live.m3u8
 Logo: https://graph.facebook.com/empordatv/picture?width=200&height=200
@@ -1790,7 +1785,7 @@ Logo: https://graph.facebook.com/aragondeporte/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
 Name: Vinx TV Asturias
-URL: https://live.astreaming.es/Vinx/index.m3u8
+URL: https://live.astreaming.es:5443/live/streams/vinxtv.m3u8
 Logo: https://graph.facebook.com/VinxTV/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
