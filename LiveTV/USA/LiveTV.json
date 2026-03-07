@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06 22:05:06",
+  "date": "2026-03-07 06:58:50",
   "channels": {
     "Religious": [
       {
@@ -1698,7 +1698,7 @@
       },
       {
         "name": "CNBC (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8"
@@ -9432,27 +9432,6 @@
         "url": "https://jmp2.uk/stvp-USBD3000073N"
       },
       {
-        "name": "WSOC Charlotte",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png",
-        "group": "News & Opinion",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC1000017D8"
-      },
-      {
-        "name": "WBTV News",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png",
-        "group": "News & Opinion",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US700004OA"
-      },
-      {
-        "name": "WCNC",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png",
-        "group": "News & Opinion",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US1400004HN"
-      },
-      {
         "name": "FOX Weather",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
         "group": "News & Opinion",
@@ -9467,11 +9446,11 @@
         "url": "https://jmp2.uk/stvp-US50000551O"
       },
       {
-        "name": "WN Charlotte",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png",
+        "name": "WeatherNation",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png",
         "group": "News & Opinion",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC3200001S5"
+        "url": "https://jmp2.uk/stvp-USBC1500009LD"
       },
       {
         "name": "BBC News",
