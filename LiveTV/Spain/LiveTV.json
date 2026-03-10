@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-10 07:57:17",
+  "date": "2026-03-10 14:21:33",
   "channels": {
     "Generalistas": [
       {
@@ -21,7 +21,7 @@
         "logo": "https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",
         "group": "Generalistas",
         "source": "https://www.tdtchannels.com/lists/tv.m3u",
-        "url": "https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8"
+        "url": "https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8"
       },
       {
         "name": "La 2",
@@ -42,7 +42,7 @@
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
         "group": "Generalistas",
         "source": "https://www.tdtchannels.com/lists/tv.m3u",
-        "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
+        "url": "https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8"
       },
       {
         "name": "TRECE",
@@ -100,7 +100,7 @@
         "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
         "group": "Informativos",
         "source": "https://www.tdtchannels.com/lists/tv.m3u",
-        "url": "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8"
+        "url": "https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8"
       },
       {
         "name": "Euronews",
@@ -158,7 +158,7 @@
         "logo": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",
         "group": "Deportivos",
         "source": "https://www.tdtchannels.com/lists/tv.m3u",
-        "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"
+        "url": "https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8"
       },
       {
         "name": "Esport 3 GEO CAT",
@@ -300,7 +300,7 @@
         "logo": "https://graph.facebook.com/clantve/picture?width=200&height=200",
         "group": "Infantiles",
         "source": "https://www.tdtchannels.com/lists/tv.m3u",
-        "url": "https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8"
+        "url": "https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8"
       },
       {
         "name": "SX3 GEO CAT",
@@ -11054,6 +11054,13 @@
         "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
       },
       {
+        "name": "24 Horas (1080p)",
+        "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+        "group": "News;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8"
+      },
+      {
         "name": "24 Horas Internacional [Geo-Blocked]",
         "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
         "group": "News;Public",
@@ -11336,6 +11343,13 @@
         "group": "General;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8"
+      },
+      {
+        "name": "La 2 (1080p)",
+        "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
       }
     ],
     "News": [
@@ -12022,6 +12036,22 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/6009b36d-1660-4a24-b1b9-f4d3371b352e/playlist.m3u8"
+      },
+      {
+        "name": "Teledeporte (1080p)",
+        "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"
+      }
+    ],
+    "Kids;Public": [
+      {
+        "name": "Clan (1280p)",
+        "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+        "group": "Kids;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8"
       }
     ],
     "Culture": [
@@ -13518,7 +13548,7 @@
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
         "group": "",
         "source": "https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=217.216.126.14"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.218"
       },
       {
         "name": "Corazón",

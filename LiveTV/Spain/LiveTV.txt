@@ -35,7 +35,7 @@ Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance
 Source: https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
 Name: MyTime Movie Network
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=217.216.126.14
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.218
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg
 Source: https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
@@ -1735,7 +1735,7 @@ Logo: https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
 Name: Teledeporte
-URL: https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+URL: https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 Logo: https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
@@ -2784,6 +2784,11 @@ URL: https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/276px-CMMedia.svg.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
+Name: La 2 (1080p)
+URL: https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+Logo: https://i.ibb.co/rfsr9PSh/La-2.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 
 Group: Generalistas
 Name: La 1
@@ -2797,7 +2802,7 @@ Logo: https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
 Name: La 1
-URL: https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
+URL: https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
 Logo: https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
@@ -2812,7 +2817,7 @@ Logo: https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBL
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
 Name: La 2
-URL: https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+URL: https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 Logo: https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
@@ -2903,7 +2908,7 @@ Logo: https://graph.facebook.com/clantve/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
 Name: Clan
-URL: https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+URL: https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
 Logo: https://graph.facebook.com/clantve/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
@@ -2945,7 +2950,7 @@ Logo: https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
 Name: 24h
-URL: https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+URL: https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
 Logo: https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
@@ -3670,6 +3675,13 @@ Logo: https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tv.m3u
 --------------------------------------------------
 
+Group: Kids;Public
+Name: Clan (1280p)
+URL: https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+Logo: https://i.ibb.co/vv3FC2Nv/clan.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+
 Group: Kids;Religious
 Name: Logos TV Kids (720p) [Not 24/7]
 URL: https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
@@ -4341,6 +4353,11 @@ Group: News;Public
 Name: 3CatInfo (1080p)
 URL: https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+Name: 24 Horas (1080p)
+URL: https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+Logo: https://i.ibb.co/21sXZ3GT/24h.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: 24 Horas Internacional [Geo-Blocked]
@@ -10430,6 +10447,11 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 Name: Real Madrid TV US Version (720p) [Geo-blocked]
 URL: https://aegis-cloudfront-1.tubi.video/6009b36d-1660-4a24-b1b9-f4d3371b352e/playlist.m3u8
 Logo: https://i.imgur.com/5pMo7dL.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+Name: Teledeporte (1080p)
+URL: https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+Logo: https://i.ibb.co/0jxLdjnY/TDP.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 
