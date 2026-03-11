@@ -265,6 +265,7 @@ def main():
         "https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u",
         "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
         "https://www.apsattv.com/eslg.m3u",
+        "https://raw.githubusercontent.com/BuddyChewChew/plex/main/playlists/plex_es.m3u",
         "https://kutt.it/Xiaomi",
         "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/m3u/FreeLiveSportsTV_tv.m3u",
         "https://www.apsattv.com/whaletvplus_es.m3u",
