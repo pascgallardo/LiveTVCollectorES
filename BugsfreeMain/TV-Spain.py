@@ -260,6 +260,7 @@ def main():
         "https://www.tdtchannels.com/lists/tv.m3u",
         "https://www.tdtchannels.com/lists/radio.m3u",
         "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_es.m3u",
         "https://helmerluzo.github.io/RakutenTV_HL/tv/m3u/RakutenTV_tv.m3u",
         "https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u",
         "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
