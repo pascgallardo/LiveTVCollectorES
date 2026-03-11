@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-10 22:22:55",
+  "date": "2026-03-11 06:59:31",
   "channels": {
     "Religious": [
       {
@@ -382,7 +382,7 @@
       },
       {
         "name": "KQSL Channel 8 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/512px-TLN_2015.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
@@ -648,7 +648,7 @@
       },
       {
         "name": "TBN",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/960px-TBN_logo_2015.jpg",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8"
@@ -850,7 +850,7 @@
       },
       {
         "name": "FX Movie Channel (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/FXMovieChannel/hd"
@@ -919,6 +919,13 @@
         "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8"
       },
       {
+        "name": "MovieSphere (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/h1ejU90.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8"
+      },
+      {
         "name": "MyTime Movie Network (1080p)",
         "logo": "https://i.imgur.com/HYgxPVQ.png",
         "group": "Movies",
@@ -976,7 +983,7 @@
       },
       {
         "name": "Movie Hub",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260303T093921SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260310T031242SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBA3000041ZP"
@@ -1025,7 +1032,7 @@
       },
       {
         "name": "Lifetime Movies Love & Drama",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260224T212703SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260310T031227SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US1600002OK"
@@ -1046,7 +1053,7 @@
       },
       {
         "name": "Miramax Channel",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260310T031336SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US18000163F"
@@ -1211,7 +1218,7 @@
       },
       {
         "name": "Entertainment Tonight (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/2048px-Entertainment_Tonight_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png",
         "group": "Entertainment;News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8"
@@ -1297,7 +1304,7 @@
       },
       {
         "name": "ESPN Deportes (360p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://e3.thetvapp.to/hls/espn-deportes/index.m3u8"
@@ -1325,7 +1332,7 @@
       },
       {
         "name": "FIFA+ United States (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
@@ -1346,7 +1353,7 @@
       },
       {
         "name": "Fox Sports en Espanol (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
@@ -1381,7 +1388,7 @@
       },
       {
         "name": "KCMN-LD6 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8"
@@ -1423,7 +1430,7 @@
       },
       {
         "name": "NBA TV (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8"
@@ -1437,7 +1444,7 @@
       },
       {
         "name": "NBC Sports Boston (1080p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/960px-NBC_Sports_Boston.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/nbc-sports-boston/hd"
@@ -1451,7 +1458,7 @@
       },
       {
         "name": "NBC Sports Philadelphia (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/nbc-sports-philadelphia/hd"
@@ -1528,7 +1535,7 @@
       },
       {
         "name": "Stadium (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8"
@@ -1691,7 +1698,7 @@
       },
       {
         "name": "Fox Business Network (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/FoxBusiness/hd"
@@ -1742,77 +1749,77 @@
       },
       {
         "name": "ABC (WPLG-DT1) Miami FL (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/884px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/500px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8"
       },
       {
         "name": "ABC News Live 1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 2 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 3 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 4 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 5 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 6 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 7 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 8 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 9 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8"
       },
       {
         "name": "ABC News Live 10 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8"
@@ -1854,7 +1861,7 @@
       },
       {
         "name": "CBS News 24/7 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
@@ -1980,7 +1987,7 @@
       },
       {
         "name": "Fox News Channel (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/FoxNewsChannel/hd"
@@ -2008,7 +2015,7 @@
       },
       {
         "name": "i24NEWS English USA",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8"
@@ -2043,14 +2050,14 @@
       },
       {
         "name": "NBC 8 Lancaster PA (WGAL) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8"
       },
       {
         "name": "NBC 12 Winston-Salem NC (WXII) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8"
@@ -2113,28 +2120,28 @@
       },
       {
         "name": "News12 Conneticut [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/512px-News_12_logo_2019.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
       },
       {
         "name": "News12 Hudson Valley [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/512px-News_12_logo_2019.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
       },
       {
         "name": "News12 Long Island (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/512px-News_12_logo_2019.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
       },
       {
         "name": "News12 New Jersey [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/512px-News_12_logo_2019.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
@@ -2148,7 +2155,7 @@
       },
       {
         "name": "News12 Westchester [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/512px-News_12_logo_2019.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
@@ -2162,7 +2169,7 @@
       },
       {
         "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"News\",Newsmax TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=Td2nCUXB4ha"
@@ -2176,14 +2183,14 @@
       },
       {
         "name": "Newsy (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8"
       },
       {
         "name": "OAN (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://oneamericanews-roku-us.amagi.tv/playlist.m3u8"
@@ -2225,7 +2232,7 @@
       },
       {
         "name": "RT en Español (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8"
@@ -2330,7 +2337,7 @@
       },
       {
         "name": "WTMO-CD1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/512px-Telemundo_31_(2019).svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8"
@@ -2945,7 +2952,7 @@
       },
       {
         "name": "SMTOWN",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260224T212627SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260310T031247SQUARE.png",
         "group": "Music",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US10000135V"
@@ -3241,7 +3248,7 @@
       },
       {
         "name": "Conan O'Brien TV",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20251006T225022SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260310T031309SQUARE.png",
         "group": "Comedy",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD120001614"
@@ -3474,7 +3481,7 @@
       },
       {
         "name": "A&E East (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/AEEast/hd"
@@ -3523,7 +3530,7 @@
       },
       {
         "name": "BUZZR (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pb-zwgnik5g9oqng.akamaized.net/BUZZR.m3u8"
@@ -3537,21 +3544,21 @@
       },
       {
         "name": "Circle (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/960px-Circle_Network_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://circle-roku.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Comet (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8"
       },
       {
         "name": "Cozi TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://173.225.32.123/Cozi-2358/index.m3u8"
@@ -3565,7 +3572,7 @@
       },
       {
         "name": "Decades",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/512px-Decades_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/960px-Decades_Logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8"
@@ -3656,7 +3663,7 @@
       },
       {
         "name": "FXX East (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/FXXEast/hd"
@@ -3712,7 +3719,7 @@
       },
       {
         "name": "ION (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8"
@@ -3733,7 +3740,7 @@
       },
       {
         "name": "KCWE-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8"
@@ -3754,14 +3761,14 @@
       },
       {
         "name": "KMBC-DT2 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8"
       },
       {
         "name": "KMCI-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8"
@@ -3782,21 +3789,21 @@
       },
       {
         "name": "KMIZ-DT3 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/MyZouTV_logo.png/200px-MyZouTV_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/MyZouTV_logo.png/960px-MyZouTV_logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8"
       },
       {
         "name": "KOMU-DT3 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MID_MISSOURI_CW_LOGO.png/150px-MID_MISSOURI_CW_LOGO.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MID_MISSOURI_CW_LOGO.png/960px-MID_MISSOURI_CW_LOGO.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8"
       },
       {
         "name": "KPXE-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8"
@@ -3810,7 +3817,7 @@
       },
       {
         "name": "KRCG-DT2 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8"
@@ -3838,14 +3845,14 @@
       },
       {
         "name": "KTLA-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl04.tulix.tv/teleup-ktla/mpegts"
       },
       {
         "name": "KTVO-DT3 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8"
@@ -3866,7 +3873,7 @@
       },
       {
         "name": "KYOU-DT4 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8"
@@ -3887,7 +3894,7 @@
       },
       {
         "name": "Logo East (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/500px-Logo_TV_2015.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/LogoEast/hd"
@@ -4204,7 +4211,7 @@
       },
       {
         "name": "QVC Live (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8"
@@ -4427,7 +4434,7 @@
       },
       {
         "name": "ABC 13 Las Vegas NV (KTNV) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/960px-KTNV_2023.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8"
@@ -4707,7 +4714,7 @@
       },
       {
         "name": "CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8"
@@ -4826,14 +4833,14 @@
       },
       {
         "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
       },
       {
         "name": "FOX 13 Seattle WA (KCPQ) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
@@ -4896,7 +4903,7 @@
       },
       {
         "name": "KABC-DT1 (360p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/960px-KABC-TV-Logo-2021.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd"
@@ -4917,7 +4924,7 @@
       },
       {
         "name": "KDFW-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
@@ -4938,7 +4945,7 @@
       },
       {
         "name": "KMBC-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/KMBC_9_ABC.svg/512px-KMBC_9_ABC.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/KMBC_9_ABC.svg/960px-KMBC_9_ABC.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8"
@@ -4980,14 +4987,14 @@
       },
       {
         "name": "KNBC-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8"
       },
       {
         "name": "KNTV-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA"
@@ -5015,14 +5022,14 @@
       },
       {
         "name": "KRCA-TV Estrella Los Angeles (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/512px-Estrella_TV_Logo_2020.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
       },
       {
         "name": "KRCG-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8"
@@ -5036,14 +5043,14 @@
       },
       {
         "name": "KSAZ-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/512px-Fts-phoenix-a.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/960px-Fts-phoenix-a.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
       },
       {
         "name": "KSHB-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8"
@@ -5057,21 +5064,21 @@
       },
       {
         "name": "KTBC-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fts-austin-a.svg/512px-Fts-austin-a.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fts-austin-a.svg/960px-Fts-austin-a.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8"
       },
       {
         "name": "KTTV-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
       },
       {
         "name": "KTVK-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/960px-KTVK_logo.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8"
@@ -5085,7 +5092,7 @@
       },
       {
         "name": "KTVO-DT2 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8"
@@ -5099,21 +5106,21 @@
       },
       {
         "name": "KVEA-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://104.238.205.28:9090/278661_.m3u8"
       },
       {
         "name": "KXAS-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KXAS_2023.svg/512px-KXAS_2023.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KXAS_2023.svg/960px-KXAS_2023.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL"
       },
       {
         "name": "KYOU-DT2 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8"
@@ -5239,28 +5246,28 @@
       },
       {
         "name": "NBC 3 Sacramento CA (KCRA) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8"
       },
       {
         "name": "NBC 6 Santa Barbara CA (KSBY) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8"
       },
       {
         "name": "NBC 8 Salinas CA (KSBW) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8"
       },
       {
         "name": "NBC West (San Diego) (1080p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8"
@@ -6304,7 +6311,7 @@
       },
       {
         "name": "FOX Weather (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png",
         "group": "Weather",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg01542-foxweatherllc-foxweather-rokuus-e6l7m.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8"
@@ -7022,7 +7029,7 @@
       },
       {
         "name": "True Crime Network+ (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
@@ -7036,7 +7043,7 @@
       },
       {
         "name": "Univision Tlnovelas [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/512px-Univision_tlnovelas_%282019%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8"
@@ -7549,7 +7556,7 @@
       },
       {
         "name": "CBS 6 Richmond VA (WTVR) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8"
@@ -7570,7 +7577,7 @@
       },
       {
         "name": "CoastTV NBC (WRDE-LD) (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://live.field59.com/wrde/wrde1/playlist.m3u8"
@@ -7598,7 +7605,7 @@
       },
       {
         "name": "Fox 25 Boston (WFXT-TV) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8"
@@ -7689,14 +7696,14 @@
       },
       {
         "name": "NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
       },
       {
         "name": "NBC 10 Providence MA (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/960px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8"
@@ -7892,7 +7899,7 @@
       },
       {
         "name": "SuperChannel Orlando (WACX-DT1) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/512px-WACX_logo_2021.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/960px-WACX_logo_2021.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8"
@@ -8046,7 +8053,7 @@
       },
       {
         "name": "Vice TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8"
@@ -8060,7 +8067,7 @@
       },
       {
         "name": "WABC-DT1 (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/960px-WABC_TV_New_2021.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/WABCDT1/hd"
@@ -8081,35 +8088,35 @@
       },
       {
         "name": "WBTS-CD1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/960px-WBTS-LD_NBC_10_Boston_logo.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS"
       },
       {
         "name": "WBTV-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8"
       },
       {
         "name": "WCAU-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/960px-WCAUlogo2.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI"
       },
       {
         "name": "WCBI (Columbus MI) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8"
       },
       {
         "name": "WCBS-DT1 (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/960px-CBS_2.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/WCBSDT1/hd"
@@ -8158,7 +8165,7 @@
       },
       {
         "name": "WFLD-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
@@ -8172,21 +8179,21 @@
       },
       {
         "name": "WFTX News Fort Myers FL (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
       },
       {
         "name": "WFUT-DT1 (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/512px-WFUT-DT_(2021).svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8"
       },
       {
         "name": "WFXT-DT2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8"
@@ -8221,7 +8228,7 @@
       },
       {
         "name": "WHIO-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
@@ -8235,14 +8242,14 @@
       },
       {
         "name": "WHSG-DT4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/512px-Enlace_Televisi%C3%B3n_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/960px-Enlace_Televisi%C3%B3n_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8"
       },
       {
         "name": "WHSV-DT4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://104.255.88.155/metv/index.m3u8"
@@ -8270,7 +8277,7 @@
       },
       {
         "name": "WIS-DT2 (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd"
@@ -8305,14 +8312,14 @@
       },
       {
         "name": "WKCF-DT2",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8"
       },
       {
         "name": "WKMG-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8"
@@ -8347,21 +8354,21 @@
       },
       {
         "name": "WMGT-TV News (Macon GA) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8"
       },
       {
         "name": "WMPT-DT2 (PBS Create)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8"
       },
       {
         "name": "WNBC-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/960px-WNBC_4_NY.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY"
@@ -8375,7 +8382,7 @@
       },
       {
         "name": "WNJU-DT1 (1080p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/TelemundoEast/hd"
@@ -8410,14 +8417,14 @@
       },
       {
         "name": "WPIX-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl04.tulix.tv/teleup-wpix/mpegts"
       },
       {
         "name": "WPTV News West Palm Beach FL (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
@@ -8431,7 +8438,7 @@
       },
       {
         "name": "WPXX-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://104.255.88.155/ion/index.m3u8"
@@ -8459,7 +8466,7 @@
       },
       {
         "name": "WSCV-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8"
@@ -8501,7 +8508,7 @@
       },
       {
         "name": "WTTW-DT3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://68.251.105.81:5004/auto/v11.3"
@@ -8522,7 +8529,7 @@
       },
       {
         "name": "WTVT-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
@@ -8536,28 +8543,28 @@
       },
       {
         "name": "WUPA-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8"
       },
       {
         "name": "WVIT-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/960px-WVIT_Logo_2017.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT"
       },
       {
         "name": "WWOR-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts"
       },
       {
         "name": "WXIX-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8"
@@ -8578,7 +8585,7 @@
       },
       {
         "name": "WXXV-TV News (Biloxi MS) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
@@ -8717,21 +8724,21 @@
       },
       {
         "name": "National Geographic HD East (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/NationalGeographicEast/hd"
       },
       {
         "name": "National Geographic Wild HD East (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/NationalGeographicWildEast/hd"
       },
       {
         "name": "REELZ Famous & Infamous (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d3serb1fmh623s.cloudfront.net/playlist.m3u8"
@@ -8904,7 +8911,7 @@
       },
       {
         "name": "Geb Tv (KBPX LD5) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/512px-GEB_logo_blue.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/960px-GEB_logo_blue.png",
         "group": "Culture;News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
@@ -9284,7 +9291,7 @@
     "Comedy;Movies;Series;Sports": [
       {
         "name": "USA Network East (1080p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
         "group": "Comedy;Movies;Series;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/USANetworkEast/hd"
@@ -9556,14 +9563,14 @@
     "Action & Drama": [
       {
         "name": "Samsung Television Network",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260303T070433SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260310T031347SQUARE.png",
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US300068X7"
       },
       {
         "name": "CW FOREVER",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260303T070417SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260310T031307SQUARE.png",
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US25000075Y"
@@ -9845,7 +9852,7 @@
     "Crime": [
       {
         "name": "Oxygen True Crimes Archive",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260303T094040SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260310T031339SQUARE.png",
         "group": "Crime",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US1900005VB"
@@ -10255,7 +10262,7 @@
     "Home & Food": [
       {
         "name": "Rachael Ray Presents",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260303T070431SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260310T031345SQUARE.png",
         "group": "Home & Food",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US47000287B"
@@ -11059,7 +11066,7 @@
       },
       {
         "name": "Deal Zone",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260127T205348SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260310T031312SQUARE.png",
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBB52000246M"
@@ -11133,14 +11140,14 @@
     "Lifestyle & Pop Culture": [
       {
         "name": "BuzzFeed Celeb",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260303T070415SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260310T031304SQUARE.png",
         "group": "Lifestyle & Pop Culture",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US400006304"
       },
       {
         "name": "The Ringer from Spotify",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20251028T011134SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260310T031354SQUARE.png",
         "group": "Lifestyle & Pop Culture",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US1900021H0"
@@ -11452,7 +11459,7 @@
     "Anime & Gaming": [
       {
         "name": "It’s Anime",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US11000020V_20250714T223132SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US11000020V_20260310T031250SQUARE.png",
         "group": "Anime & Gaming",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US11000020V"
@@ -11545,7 +11552,7 @@
     "Nature, History & Science": [
       {
         "name": "History & Science\" , Mark Rober TV",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260303T070422SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260310T031333SQUARE.png",
         "group": "Nature, History & Science",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2000010PO"
@@ -11841,14 +11848,14 @@
       },
       {
         "name": "Sony One Competencias",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20241210T231512SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20260310T031236SQUARE.png",
         "group": "Latino",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USAJ3504719A"
       },
       {
         "name": "Sony One Novelas",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20241119T232803SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20260310T031532SQUARE.png",
         "group": "Latino",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USAJ3000002OC"
@@ -11974,7 +11981,7 @@
       },
       {
         "name": "Noticias Univision 24/7",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20260310T031252SQUARE.png",
         "group": "Latino",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD1700014QU"
