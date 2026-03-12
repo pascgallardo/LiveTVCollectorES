@@ -840,6 +840,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260310T031242SQUARE.png"
   },
   {
+    "name": "Miramax Movie Channel",
+    "type": "Movies",
+    "url": "https://jmp2.uk/stvp-US18000163F",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260310T031336SQUARE.png"
+  },
+  {
     "name": "Movie Hub West",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBD3500036HP",
@@ -892,12 +898,6 @@
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA300017PK",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20241112T000721SQUARE.png"
-  },
-  {
-    "name": "Miramax Channel",
-    "type": "Movies",
-    "url": "https://jmp2.uk/stvp-US18000163F",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260310T031336SQUARE.png"
   },
   {
     "name": "CINEVAULT",
@@ -2748,6 +2748,12 @@
     "img": "https://i.imgur.com/rXORbti.png"
   },
   {
+    "name": "Conan O'Brien TV",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/stvp-USBD120001614",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260310T031309SQUARE.png"
+  },
+  {
     "name": "Animation+",
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-US400002PS",
@@ -2758,12 +2764,6 @@
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-US4000004N1",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000004N1_20260303T094120SQUARE.png"
-  },
-  {
-    "name": "Conan O'Brien TV",
-    "type": "Comedy",
-    "url": "https://jmp2.uk/stvp-USBD120001614",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260310T031309SQUARE.png"
   },
   {
     "name": "AFV with Alfonso Ribeiro",
@@ -2874,6 +2874,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900012GD_20260303T094153SQUARE.png"
   },
   {
+    "name": "According to Jim",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/stvp-US4100028ZF",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100028ZF_20260310T031259SQUARE.png"
+  },
+  {
     "name": "TV Land Sitcoms",
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-USBA300019WF",
@@ -2926,6 +2932,12 @@
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-USAJ30000039U",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000039U_20240520T215832SQUARE.png"
+  },
+  {
+    "name": "Gotham Comedy Live",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/stvp-US4700029QM",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700029QM_20260310T031325SQUARE.png"
   },
   {
     "name": "Comedy Dynamics",
@@ -8088,12 +8100,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260310T031347SQUARE.png"
   },
   {
-    "name": "CW FOREVER",
-    "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-US25000075Y",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260310T031307SQUARE.png"
-  },
-  {
     "name": "ALL ACTION",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-USBB2300001QP",
@@ -8116,6 +8122,12 @@
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-USBD2500018X6",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png"
+  },
+  {
+    "name": "CW FOREVER",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-US25000075Y",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260310T031307SQUARE.png"
   },
   {
     "name": "CW Gold",
@@ -8212,6 +8224,12 @@
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US4100005NW",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100005NW_20260224T212720SQUARE.png"
+  },
+  {
+    "name": "Felicity",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-US4100029G5",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100029G5_20260310T031322SQUARE.png"
   },
   {
     "name": "Dhar Mann TV",
@@ -8328,12 +8346,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png"
   },
   {
-    "name": "Oxygen True Crimes Archive",
-    "type": "Crime",
-    "url": "https://jmp2.uk/stvp-US1900005VB",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260310T031339SQUARE.png"
-  },
-  {
     "name": "Crime Zone",
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBB36000040M",
@@ -8382,6 +8394,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200004X3_20240625T011347SQUARE.png"
   },
   {
+    "name": "Killer Mysteries",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US2001109K",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2001109K_20260310T031327SQUARE.png"
+  },
+  {
     "name": "World’s Most Evil Killers",
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBC1000002NP",
@@ -8404,6 +8422,12 @@
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-US700010XK",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700010XK_20250915T233927SQUARE.png"
+  },
+  {
+    "name": "To Catch a Smuggler",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US4100030YU",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100030YU_20260310T031356SQUARE.png"
   },
   {
     "name": "Dateline 24/7",
@@ -8434,6 +8458,12 @@
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBD42000250Q",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20251202T005858SQUARE.png"
+  },
+  {
+    "name": "Oxygen True Crimes Archive",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US1900005VB",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260310T031339SQUARE.png"
   },
   {
     "name": "Crime ThrillHer",
@@ -8646,6 +8676,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20251110T235109SQUARE.png"
   },
   {
+    "name": "Life Below Zero",
+    "type": "Reality TV",
+    "url": "https://jmp2.uk/stvp-US4100033DZ",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100033DZ_20260310T031330SQUARE.png"
+  },
+  {
     "name": "INFAST",
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-USBA300022JX",
@@ -8674,12 +8710,6 @@
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-US4500001DM",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500001DM_20250812T003515SQUARE.png"
-  },
-  {
-    "name": "Rachael Ray Presents",
-    "type": "Home & Food",
-    "url": "https://jmp2.uk/stvp-US47000287B",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260310T031345SQUARE.png"
   },
   {
     "name": "Home Refresh",
@@ -8808,6 +8838,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500011SP_20250819T224356SQUARE.png"
   },
   {
+    "name": "Rachael Ray Presents",
+    "type": "Home & Food",
+    "url": "https://jmp2.uk/stvp-US47000287B",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260310T031345SQUARE.png"
+  },
+  {
     "name": "Emeril Lagasse Channel",
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-US4500010B0",
@@ -8904,6 +8940,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600023WY_20251028T011053SQUARE.png"
   },
   {
+    "name": "Amazon Live",
+    "type": "Home & Food",
+    "url": "https://jmp2.uk/stvp-US4900004KP",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260310T031302SQUARE.png"
+  },
+  {
     "name": "NFL Channel",
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US2600007WJ",
@@ -8914,6 +8956,12 @@
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US1400001WV",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20250929T231756SQUARE.png"
+  },
+  {
+    "name": "MiLB",
+    "type": "Sports & Outdoors",
+    "url": "https://jmp2.uk/stvp-US4100032W9",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260310T031535SQUARE.png"
   },
   {
     "name": "The NBA Channel",
@@ -9270,6 +9318,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png"
   },
   {
+    "name": "Deal Zone",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-USBB52000246M",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260310T031312SQUARE.png"
+  },
+  {
     "name": "Hell's Kitchen",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBB2900002Z7",
@@ -9360,16 +9414,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20241112T000620SQUARE.png"
   },
   {
-    "name": "Deal Zone",
-    "type": "Reality Competition",
-    "url": "https://jmp2.uk/stvp-USBB52000246M",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260310T031312SQUARE.png"
-  },
-  {
     "name": "Xtreme Outdoor Presented by HISTORY",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USAK3508706A",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20260117T020334SQUARE.png"
+  },
+  {
+    "name": "Wicked Tuna",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-US4100034UO",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260310T031359SQUARE.png"
   },
   {
     "name": "Pluto TV Pixel World",
@@ -9382,6 +9436,12 @@
     "type": "Game Shows",
     "url": "https://jmp2.uk/stvp-US7000229B",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png"
+  },
+  {
+    "name": "Price is Right",
+    "type": "Game Shows",
+    "url": "https://jmp2.uk/stvp-US5000052H1",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260310T031342SQUARE.png"
   },
   {
     "name": "BUZZR",
@@ -9414,16 +9474,22 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20241112T000832SQUARE.png"
   },
   {
+    "name": "Family Feud",
+    "type": "Game Shows",
+    "url": "https://jmp2.uk/stvp-US5000053YV",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000053YV_20260310T031316SQUARE.png"
+  },
+  {
+    "name": "Family Feud Classic",
+    "type": "Game Shows",
+    "url": "https://jmp2.uk/stvp-US490000330",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US490000330_20260310T031319SQUARE.png"
+  },
+  {
     "name": "Celebrity Name Game",
     "type": "Game Shows",
     "url": "https://jmp2.uk/stvp-US1900010IY",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20260112T181529SQUARE.png"
-  },
-  {
-    "name": "BuzzFeed Celeb",
-    "type": "Lifestyle & Pop Culture",
-    "url": "https://jmp2.uk/stvp-US400006304",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260310T031304SQUARE.png"
   },
   {
     "name": "The Ringer from Spotify",
@@ -9556,6 +9622,12 @@
     "type": "Lifestyle & Pop Culture",
     "url": "https://jmp2.uk/stvp-US8000024G",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260127T205321SQUARE.png"
+  },
+  {
+    "name": "BuzzFeed Celeb",
+    "type": "Lifestyle & Pop Culture",
+    "url": "https://jmp2.uk/stvp-US400006304",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260310T031304SQUARE.png"
   },
   {
     "name": "ET",
@@ -9768,12 +9840,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US240000434_20250812T003525SQUARE.png"
   },
   {
-    "name": "History & Science\" , Mark Rober TV",
-    "type": "Nature, History & Science",
-    "url": "https://jmp2.uk/stvp-US2000010PO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260310T031333SQUARE.png"
-  },
-  {
     "name": "History & Science\" , Samsung Wild Life",
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-USBA3000043LH",
@@ -9820,6 +9886,12 @@
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-USBC2400024FN",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20240520T214832SQUARE.png"
+  },
+  {
+    "name": "History & Science\" , The Incredible Dr. Pol",
+    "type": "Nature, History & Science",
+    "url": "https://jmp2.uk/stvp-US4100031FK",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100031FK_20260310T031351SQUARE.png"
   },
   {
     "name": "History & Science\" , Clarity 4K",
@@ -9924,6 +9996,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png"
   },
   {
+    "name": "History & Science\" , Mark Rober TV",
+    "type": "Nature, History & Science",
+    "url": "https://jmp2.uk/stvp-US2000010PO",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260310T031333SQUARE.png"
+  },
+  {
     "name": "AMC en Español",
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-USBD7000017L",
@@ -10020,13 +10098,13 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20241217T202304SQUARE.png"
   },
   {
-    "name": "Sony One Competencias",
+    "name": "Escape Perfecto",
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-USAJ3504719A",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20260310T031236SQUARE.png"
   },
   {
-    "name": "Sony One Novelas",
+    "name": "Dramon",
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-USAJ3000002OC",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20260310T031532SQUARE.png"
@@ -10092,6 +10170,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20241228T011539SQUARE.png"
   },
   {
+    "name": "40 y 20",
+    "type": "Latino",
+    "url": "https://jmp2.uk/stvp-US4000064JE",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000064JE_20260310T031255SQUARE.png"
+  },
+  {
     "name": "Rebelde",
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-USBD1700018II",
@@ -10134,7 +10218,7 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20241228T011456SQUARE.png"
   },
   {
-    "name": "Noticias Univision 24/7",
+    "name": "N+ Univision 24/7",
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-USBD1700014QU",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20260310T031252SQUARE.png"
