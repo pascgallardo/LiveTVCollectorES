@@ -1005,13 +1005,13 @@
     "name": "Movie Hub",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260310T031242SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260317T034513SQUARE.png"
   },
   {
     "name": "Miramax Movie Channel",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-US18000163F",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260310T031336SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260317T034540SQUARE.png"
   },
   {
     "name": "Movie Hub West",
@@ -1047,7 +1047,7 @@
     "name": "Lifetime Movie Favorites",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBB5200019FO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260120T230336SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260317T034535SQUARE.png"
   },
   {
     "name": "Lifetime Movies Love & Drama",
@@ -3057,7 +3057,7 @@
     "name": "Conan O'Brien TV",
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-USBD120001614",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260310T031309SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260317T034525SQUARE.png"
   },
   {
     "name": "Animation+",
@@ -7910,7 +7910,7 @@
   {
     "name": "Pluto TV Anime",
     "type": "Animation",
-    "url": "https://jmp2.uk/plu-62a2e8d8a1c8650007e95bac.m3u8",
+    "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
     "img": "https://i.imgur.com/bYZtd0G.png"
   },
   {
@@ -8073,7 +8073,7 @@
     "name": "PBS National East (1080p) [Geo-blocked]",
     "type": "Education",
     "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
   },
   {
     "name": "PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]",
@@ -9111,7 +9111,7 @@
     "name": "BET x Tyler Perry Drama",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US2500008CV",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260210T002148SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260317T034520SQUARE.png"
   },
   {
     "name": "BET Pluto TV",
@@ -9471,7 +9471,7 @@
     "name": "Challenge Accepted",
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-US2100006EH",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20251110T235054SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260317T034523SQUARE.png"
   },
   {
     "name": "Little Women: LA",
@@ -9639,7 +9639,7 @@
     "name": "Home Refresh",
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-USBC21000142T",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20251125T030930SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20260317T034531SQUARE.png"
   },
   {
     "name": "Million Dollar Dream Home",
@@ -9885,7 +9885,7 @@
     "name": "MiLB",
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US4100032W9",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260310T031535SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260317T034537SQUARE.png"
   },
   {
     "name": "The NBA Channel",
@@ -10245,7 +10245,7 @@
     "name": "Deal Zone",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBB52000246M",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260310T031312SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260317T034528SQUARE.png"
   },
   {
     "name": "Hell's Kitchen",
@@ -10419,7 +10419,7 @@
     "name": "The Ringer from Spotify",
     "type": "Lifestyle & Pop Culture",
     "url": "https://jmp2.uk/stvp-US1900021H0",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260310T031354SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260317T034543SQUARE.png"
   },
   {
     "name": "Biography: The Icons",

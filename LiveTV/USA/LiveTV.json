@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-17 22:30:02",
+  "date": "2026-03-18 07:21:33",
   "channels": {
     "Religious": [
       {
@@ -1179,14 +1179,14 @@
       },
       {
         "name": "Movie Hub",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260310T031242SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260317T034513SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBA3000041ZP"
       },
       {
         "name": "Miramax Movie Channel",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260310T031336SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260317T034540SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US18000163F"
@@ -1228,7 +1228,7 @@
       },
       {
         "name": "Lifetime Movie Favorites",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260120T230336SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260317T034535SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBB5200019FO"
@@ -3591,7 +3591,7 @@
       },
       {
         "name": "Conan O'Brien TV",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260310T031309SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260317T034525SQUARE.png",
         "group": "Comedy",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD120001614"
@@ -9289,7 +9289,7 @@
         "logo": "https://i.imgur.com/bYZtd0G.png",
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-62a2e8d8a1c8650007e95bac.m3u8"
+        "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8"
       },
       {
         "name": "Toonami Aftermath East (480p)",
@@ -9477,7 +9477,7 @@
       },
       {
         "name": "PBS National East (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
@@ -10764,7 +10764,7 @@
       },
       {
         "name": "BET x Tyler Perry Drama",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260210T002148SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260317T034520SQUARE.png",
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2500008CV"
@@ -11188,7 +11188,7 @@
       },
       {
         "name": "Challenge Accepted",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20251110T235054SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260317T034523SQUARE.png",
         "group": "Reality TV",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2100006EH"
@@ -11386,7 +11386,7 @@
     "Home & Food": [
       {
         "name": "Home Refresh",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20251125T030930SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20260317T034531SQUARE.png",
         "group": "Home & Food",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBC21000142T"
@@ -11675,7 +11675,7 @@
       },
       {
         "name": "MiLB",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260310T031535SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260317T034537SQUARE.png",
         "group": "Sports & Outdoors",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US4100032W9"
@@ -12099,7 +12099,7 @@
     "Reality Competition": [
       {
         "name": "Deal Zone",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260310T031312SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260317T034528SQUARE.png",
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBB52000246M"
@@ -12306,7 +12306,7 @@
     "Lifestyle & Pop Culture": [
       {
         "name": "The Ringer from Spotify",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260310T031354SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260317T034543SQUARE.png",
         "group": "Lifestyle & Pop Culture",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US1900021H0"

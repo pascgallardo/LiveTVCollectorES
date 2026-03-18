@@ -76,7 +76,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: BET x Tyler Perry Drama
 URL: https://jmp2.uk/stvp-US2500008CV
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260210T002148SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260317T034520SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: BET Pluto TV
@@ -324,7 +324,7 @@ Logo: https://i.imgur.com/XsvbAWR.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Anime
-URL: https://jmp2.uk/plu-62a2e8d8a1c8650007e95bac.m3u8
+URL: https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 Logo: https://i.imgur.com/bYZtd0G.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -832,7 +832,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Conan O'Brien TV
 URL: https://jmp2.uk/stvp-USBD120001614
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260310T031309SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260317T034525SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Animation+
@@ -1644,7 +1644,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: PBS National East (1080p) [Geo-blocked]
 URL: https://pbs.lls.cdn.pbs.org/est/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
@@ -3392,7 +3392,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Home & Food
 Name: Home Refresh
 URL: https://jmp2.uk/stvp-USBC21000142T
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20251125T030930SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20260317T034531SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Million Dollar Dream Home
@@ -4731,7 +4731,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Lifestyle & Pop Culture
 Name: The Ringer from Spotify
 URL: https://jmp2.uk/stvp-US1900021H0
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260310T031354SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260317T034543SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Biography: The Icons
@@ -5227,12 +5227,12 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Movie Hub
 URL: https://jmp2.uk/stvp-USBA3000041ZP
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260310T031242SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260317T034513SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Miramax Movie Channel
 URL: https://jmp2.uk/stvp-US18000163F
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260310T031336SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260317T034540SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Movie Hub West
@@ -5262,7 +5262,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Lifetime Movie Favorites
 URL: https://jmp2.uk/stvp-USBB5200019FO
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260120T230336SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260317T034535SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Lifetime Movies Love & Drama
@@ -6615,7 +6615,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Reality Competition
 Name: Deal Zone
 URL: https://jmp2.uk/stvp-USBB52000246M
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260310T031312SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260317T034528SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Hell's Kitchen
@@ -6727,7 +6727,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Challenge Accepted
 URL: https://jmp2.uk/stvp-US2100006EH
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20251110T235054SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260317T034523SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Little Women: LA
@@ -8253,7 +8253,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: MiLB
 URL: https://jmp2.uk/stvp-US4100032W9
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260310T031535SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260317T034537SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: The NBA Channel
