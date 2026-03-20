@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-19 22:23:15",
+  "date": "2026-03-20 07:16:37",
   "channels": {
     "Religious": [
       {
@@ -10339,6 +10339,15 @@
         "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
       }
     ],
+    "Outdoor;Sports": [
+      {
+        "name": "Red Bull TV US (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
+        "group": "Outdoor;Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
+      }
+    ],
     "Animation;Classic": [
       {
         "name": "RetroCrush (1080p)",
@@ -15136,13 +15145,6 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]"
-      },
-      {
-        "name": "484 Red Bull TV",
-        "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/redbull/channels/MediaBull_Logo_single_vec_hor_RGB_400x200.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
       },
       {
         "name": "485 DP World Tour",
