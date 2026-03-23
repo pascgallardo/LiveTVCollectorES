@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-22 21:54:41",
+  "date": "2026-03-23 07:22:55",
   "channels": {
     "Religious": [
       {
@@ -3914,11 +3914,11 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8"
       },
       {
-        "name": "BUZZR (1080p) [Geo-blocked]",
+        "name": "BUZZR (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://pb-zwgnik5g9oqng.akamaized.net/BUZZR.m3u8"
+        "url": "https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8"
       },
       {
         "name": "Canela.TV (1080p)",
@@ -4708,7 +4708,7 @@
         "logo": "https://i.imgur.com/Q7THHhX.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8"
       },
       {
         "name": "Acapulco Shore",
@@ -7097,13 +7097,6 @@
         "url": "https://dt9mwqwe98q7o.cloudfront.net/master.m3u8"
       },
       {
-        "name": "Rakuten Viki (1080p)",
-        "logo": "https://i.imgur.com/pbyd1g2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Real America's Voice (1080p)",
         "logo": "https://i.imgur.com/l7tmTjX.png",
         "group": "Undefined",
@@ -7300,11 +7293,11 @@
         "url": "https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8"
       },
       {
-        "name": "The Q India (1080p)",
+        "name": "The Q India (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8"
+        "url": "https://mumt05.tangotv.in/THEQ/index.m3u8"
       },
       {
         "name": "The Walk TV (720p)",
@@ -9285,11 +9278,32 @@
         "url": "https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8"
       },
       {
+        "name": "Naruto",
+        "logo": "https://i.imgur.com/hG8F0RY.png",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8"
+      },
+      {
         "name": "One Piece",
         "logo": "https://i.imgur.com/XsvbAWR.png",
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8"
+      },
+      {
+        "name": "Pluto TV Anime",
+        "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8"
+      },
+      {
+        "name": "Pluto TV Anime Movies",
+        "logo": "https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8"
       },
       {
         "name": "Toonami Aftermath East (480p)",
@@ -10339,6 +10353,15 @@
         "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
       }
     ],
+    "Entertainment;Series": [
+      {
+        "name": "Rakuten Viki (1080p)",
+        "logo": "https://i.imgur.com/pbyd1g2.png",
+        "group": "Entertainment;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8"
+      }
+    ],
     "Outdoor;Sports": [
       {
         "name": "Red Bull TV US (1080p)",
@@ -10439,6 +10462,27 @@
         "url": "https://jmp2.uk/stvp-USBD3000073N"
       },
       {
+        "name": "WSOC Charlotte",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBC1000017D8"
+      },
+      {
+        "name": "WBTV News",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US700004OA"
+      },
+      {
+        "name": "WCNC",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US1400004HN"
+      },
+      {
         "name": "FOX Weather",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
         "group": "News & Opinion",
@@ -10453,11 +10497,11 @@
         "url": "https://jmp2.uk/stvp-US50000551O"
       },
       {
-        "name": "WeatherNation",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png",
+        "name": "WN Charlotte",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png",
         "group": "News & Opinion",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC1500009LD"
+        "url": "https://jmp2.uk/stvp-USBC3200001S5"
       },
       {
         "name": "BBC News",

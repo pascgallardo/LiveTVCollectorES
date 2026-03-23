@@ -318,9 +318,24 @@ URL: https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/M8X3Kvc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Naruto
+URL: https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+Logo: https://i.imgur.com/hG8F0RY.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: One Piece
 URL: https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 Logo: https://i.imgur.com/XsvbAWR.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Anime
+URL: https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+Logo: https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Anime Movies
+URL: https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+Logo: https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Toonami Aftermath East (480p)
@@ -1793,8 +1808,8 @@ URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl
 Logo: https://i.imgur.com/GzxgSkc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: BUZZR (1080p) [Geo-blocked]
-URL: https://pb-zwgnik5g9oqng.akamaized.net/BUZZR.m3u8
+Name: BUZZR (720p)
+URL: https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -2292,6 +2307,13 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: HollyWire (720p)
 URL: https://bozztv.com/hwotta/playlist/playlist.m3u8
 Logo: https://i.imgur.com/oVNjFoj.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
+Group: Entertainment;Series
+Name: Rakuten Viki (1080p)
+URL: https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+Logo: https://i.imgur.com/pbyd1g2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
@@ -6432,6 +6454,21 @@ URL: https://jmp2.uk/stvp-USBD3000073N
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
+Name: WSOC Charlotte
+URL: https://jmp2.uk/stvp-USBC1000017D8
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: WBTV News
+URL: https://jmp2.uk/stvp-US700004OA
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: WCNC
+URL: https://jmp2.uk/stvp-US1400004HN
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: FOX Weather
 URL: https://jmp2.uk/stvp-USBD700003L7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png
@@ -6442,9 +6479,9 @@ URL: https://jmp2.uk/stvp-US50000551O
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260224T212706SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
-Name: WeatherNation
-URL: https://jmp2.uk/stvp-USBC1500009LD
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png
+Name: WN Charlotte
+URL: https://jmp2.uk/stvp-USBC3200001S5
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: BBC News
@@ -7498,7 +7535,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 
 Group: Series
 Name: 48 Hours
-URL: https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
+URL: https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 Logo: https://i.imgur.com/Q7THHhX.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -11034,11 +11071,6 @@ URL: https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
 Logo: https://i.imgur.com/eHNU2OQ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Rakuten Viki (1080p)
-URL: https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/pbyd1g2.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Real America's Voice (1080p)
 URL: https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
 Logo: https://i.imgur.com/l7tmTjX.png
@@ -11179,8 +11211,8 @@ URL: https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east
 Logo: https://i.imgur.com/WthgOWL.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: The Q India (1080p)
-URL: https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+Name: The Q India (576p)
+URL: https://mumt05.tangotv.in/THEQ/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
