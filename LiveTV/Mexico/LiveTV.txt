@@ -1,4 +1,9 @@
 Group: Culture
+Name: A+ [Geo-blocked]
+URL: https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+Logo: https://i.imgur.com/TWk9gfd.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 Name: El Sonorense (1080p) [Not 24/7]
 URL: https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 Logo: https://i.imgur.com/aKvPd4g.jpg
