@@ -726,7 +726,7 @@ https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today (1080p)
 https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="News",VOA Persian
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+https://voaphls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA TV Africa (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News",W14DK-D 14.2 NEWSNET
@@ -1253,8 +1253,8 @@ https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gh1ghp4.png" group-title="Entertainment",Royal Time Television (1080p)
 https://tixbolt.com/royaltv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHmh5Jb.png" group-title="Entertainment",Shabakeh 7 (576p)
-https://t.northtelecom.org/Shabakeh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHmh5Jb.png" group-title="Entertainment",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Entertainment",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Entertainment",Stories by AMC

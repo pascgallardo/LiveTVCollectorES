@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-23 22:23:43",
+  "date": "2026-03-24 07:14:42",
   "channels": {
     "Religious": [
       {
@@ -2564,7 +2564,7 @@
         "logo": "https://i.imgur.com/TmqComb.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
+        "url": "https://voaphls.wns.live/hls/stream.m3u8"
       },
       {
         "name": "VOA TV Africa (1080p)",
@@ -4418,11 +4418,11 @@
         "url": "https://tixbolt.com/royaltv/index.fmp4.m3u8"
       },
       {
-        "name": "Shabakeh 7 (576p)",
+        "name": "Shabakeh 7",
         "logo": "https://i.imgur.com/oHmh5Jb.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://t.northtelecom.org/Shabakeh.m3u8"
+        "url": "https://sh7hls.wns.live/hls/stream.m3u8"
       },
       {
         "name": "STAR International (720p)",
