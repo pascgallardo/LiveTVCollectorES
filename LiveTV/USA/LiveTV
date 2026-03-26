@@ -1002,12 +1002,6 @@
     "img": "https://i.imgur.com/zgiuNNj.png"
   },
   {
-    "name": "Lifetime Movie Favorites",
-    "type": "Movies",
-    "url": "https://jmp2.uk/stvp-USBB5200019FO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260324T032350SQUARE.png"
-  },
-  {
     "name": "Movie Hub",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
@@ -1042,6 +1036,12 @@
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBD270001633",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20260217T231325SQUARE.png"
+  },
+  {
+    "name": "Lifetime Movie Favorites",
+    "type": "Movies",
+    "url": "https://jmp2.uk/stvp-USBB5200019FO",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260324T032350SQUARE.png"
   },
   {
     "name": "Lifetime Movies Love & Drama",
@@ -2646,7 +2646,7 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png"
   },
   {
-    "name": "XITE Women in Music",
+    "name": "XITE Spring Vibes",
     "type": "Music",
     "url": "https://jmp2.uk/stvp-USBD350003932",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260324T032121SQUARE.png"
@@ -3066,6 +3066,12 @@
     "img": "https://i.imgur.com/rXORbti.png"
   },
   {
+    "name": "AFV with Alfonso Ribeiro",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/stvp-US4100038R9",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260324T032335SQUARE.png"
+  },
+  {
     "name": "Animation+",
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-US400002PS",
@@ -3082,12 +3088,6 @@
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-USBD120001614",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260317T034525SQUARE.png"
-  },
-  {
-    "name": "AFV with Alfonso Ribeiro",
-    "type": "Comedy",
-    "url": "https://jmp2.uk/stvp-US4100038R9",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260324T032335SQUARE.png"
   },
   {
     "name": "Hot Ones",
@@ -3478,12 +3478,6 @@
     "type": "Entertainment",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Haunt TV (1080p)",
-    "type": "Entertainment",
-    "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
-    "img": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png"
   },
   {
     "name": "Heartland",
@@ -4017,7 +4011,7 @@
     "name": "48 Hours",
     "type": "Series",
     "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
-    "img": "https://i.imgur.com/Q7THHhX.png"
+    "img": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png"
   },
   {
     "name": "Acapulco Shore",
@@ -6226,12 +6220,6 @@
     "type": "Undefined",
     "url": "https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8",
     "img": "https://i.imgur.com/WthgOWL.png"
-  },
-  {
-    "name": "The Q India (576p)",
-    "type": "Undefined",
-    "url": "https://mumt05.tangotv.in/THEQ/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "The Walk TV (720p)",
@@ -8970,7 +8958,7 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US44000027B_20250204T014310SQUARE.png"
   },
   {
-    "name": "FilmRise Westerns",
+    "name": "FilmRise Western",
     "type": "Western & Classic TV",
     "url": "https://jmp2.uk/stvp-USBB32000196O",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20260324T032124SQUARE.png"
@@ -9036,10 +9024,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250401T004834SQUARE.png"
   },
   {
-    "name": "BET x Tyler Perry Drama",
+    "name": "Nash Bridges",
     "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-US2500008CV",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260324T032339SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US1900014Y2",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260324T032358SQUARE.png"
   },
   {
     "name": "Samsung Television Network",
@@ -9132,6 +9120,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20250513T012658SQUARE.png"
   },
   {
+    "name": "BET x Tyler Perry Drama",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-US2500008CV",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260324T032339SQUARE.png"
+  },
+  {
     "name": "BET Pluto TV",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-USBC450000130",
@@ -9202,12 +9196,6 @@
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-USBB3500002FL",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20241112T000745SQUARE.png"
-  },
-  {
-    "name": "Nash Bridges",
-    "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-US1900014Y2",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260324T032358SQUARE.png"
   },
   {
     "name": "21 Jump Street",
@@ -9372,6 +9360,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100030YU_20260310T031356SQUARE.png"
   },
   {
+    "name": "Locked Up Abroad",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US4100035CD",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100035CD_20260324T032353SQUARE.png"
+  },
+  {
     "name": "Dateline 24/7",
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBB5200007BY",
@@ -9468,12 +9462,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20250513T012620SQUARE.png"
   },
   {
-    "name": "Challenge Accepted",
-    "type": "Reality TV",
-    "url": "https://jmp2.uk/stvp-US2100006EH",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260324T032342SQUARE.png"
-  },
-  {
     "name": "All-Out Reality",
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-USBB4400016F9",
@@ -9490,6 +9478,12 @@
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-US2900010UT",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900010UT_20250630T232513SQUARE.png"
+  },
+  {
+    "name": "Challenge Accepted",
+    "type": "Reality TV",
+    "url": "https://jmp2.uk/stvp-US2100006EH",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260324T032342SQUARE.png"
   },
   {
     "name": "Little Women: LA",
@@ -9588,6 +9582,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20260117T020339SQUARE.png"
   },
   {
+    "name": "Untold Stories of the ER",
+    "type": "Reality TV",
+    "url": "https://jmp2.uk/stvp-US4700030X8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700030X8_20260324T032407SQUARE.png"
+  },
+  {
     "name": "Intervention by A&E",
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-USBD3500040WX",
@@ -9652,6 +9652,12 @@
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-US4500001DM",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500001DM_20250812T003515SQUARE.png"
+  },
+  {
+    "name": "Amazon Live",
+    "type": "Home & Food",
+    "url": "https://jmp2.uk/stvp-US4900004KP",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260324T032337SQUARE.png"
   },
   {
     "name": "Home Refresh",
@@ -9882,18 +9888,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600023WY_20251028T011053SQUARE.png"
   },
   {
-    "name": "Amazon Live",
-    "type": "Home & Food",
-    "url": "https://jmp2.uk/stvp-US4900004KP",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260324T032337SQUARE.png"
-  },
-  {
-    "name": "MiLB",
-    "type": "Sports & Outdoors",
-    "url": "https://jmp2.uk/stvp-US4100032W9",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260324T032356SQUARE.png"
-  },
-  {
     "name": "NFL Channel",
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US2600007WJ",
@@ -9904,6 +9898,12 @@
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US1400001WV",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20250929T231756SQUARE.png"
+  },
+  {
+    "name": "MiLB",
+    "type": "Sports & Outdoors",
+    "url": "https://jmp2.uk/stvp-US4100032W9",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260324T032356SQUARE.png"
   },
   {
     "name": "The NBA Channel",
@@ -10260,6 +10260,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png"
   },
   {
+    "name": "Forged In Fire",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-USBD2700014QW",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260324T032344SQUARE.png"
+  },
+  {
     "name": "Hell's Kitchen",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBB2900002Z7",
@@ -10312,12 +10318,6 @@
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBD3500041ZF",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20250526T230401SQUARE.png"
-  },
-  {
-    "name": "Forged In Fire",
-    "type": "Reality Competition",
-    "url": "https://jmp2.uk/stvp-USBD2700014QW",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260324T032344SQUARE.png"
   },
   {
     "name": "Ice Road Truckers",
@@ -10374,16 +10374,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20241112T000723SQUARE.png"
   },
   {
-    "name": "Let's Make A Deal Classic",
-    "type": "Game Shows",
-    "url": "https://jmp2.uk/stvp-US7000229B",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png"
-  },
-  {
     "name": "Price is Right",
     "type": "Game Shows",
     "url": "https://jmp2.uk/stvp-US5000052H1",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260324T032401SQUARE.png"
+  },
+  {
+    "name": "Let's Make A Deal Classic",
+    "type": "Game Shows",
+    "url": "https://jmp2.uk/stvp-US7000229B",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png"
   },
   {
     "name": "BUZZR",
@@ -10830,6 +10830,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20240520T214832SQUARE.png"
   },
   {
+    "name": "History & Science\" , The Yorkshire Vet",
+    "type": "Nature, History & Science",
+    "url": "https://jmp2.uk/stvp-US5000051IN",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000051IN_20260324T032409SQUARE.png"
+  },
+  {
     "name": "History & Science\" , The Incredible Dr. Pol",
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-US4100031FK",
@@ -11208,7 +11214,7 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000030Y_20250217T210827SQUARE.png"
   },
   {
-    "name": "Winter Vibes",
+    "name": "Spring Vibes",
     "type": "Ambiance",
     "url": "https://jmp2.uk/stvp-US1400010S0",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20260324T032329SQUARE.png"
