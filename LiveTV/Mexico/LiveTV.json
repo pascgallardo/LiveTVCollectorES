@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-26 22:22:53",
+  "date": "2026-03-27 06:48:55",
   "channels": {
     "General": [
       {
@@ -967,7 +967,7 @@
     ],
     "Entertainment;Sports": [
       {
-        "name": "ITV Deportes",
+        "name": "ITV Deportes (720p)",
         "logo": "https://iili.io/J1kV1Bn.png",
         "group": "Entertainment;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
