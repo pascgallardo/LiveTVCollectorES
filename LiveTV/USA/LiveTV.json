@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-29 21:59:23",
+  "date": "2026-03-30 07:32:16",
   "channels": {
     "Religious": [
       {
@@ -4138,13 +4138,6 @@
         "url": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8"
       },
       {
-        "name": "KFMB-DT2 (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/GCB3vun.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
-      },
-      {
         "name": "KFTR-DT1 [Geo-blocked]",
         "logo": "https://i.imgur.com/e3Z2wzG.png",
         "group": "Entertainment",
@@ -4278,11 +4271,11 @@
         "url": "https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8"
       },
       {
-        "name": "LATV (720p) [Geo-blocked]",
+        "name": "LATV (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/fJxySUg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8"
+        "url": "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8"
       },
       {
         "name": "Logo East (720p) [Not 24/7]",
@@ -4912,6 +4905,13 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8"
+      },
+      {
+        "name": "Haunt TV (1080p)",
+        "logo": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8"
       },
       {
         "name": "Home.Made.Nation (1080p)",
@@ -6899,6 +6899,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Homeful (1080p)",
+        "logo": "https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8"
       },
       {
         "name": "KNLJ-DT1 (720p)",
@@ -9666,6 +9673,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007"
+      },
+      {
+        "name": "Declassified (720p)",
+        "logo": "https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8"
       },
       {
         "name": "Documentary+ (1080p)",

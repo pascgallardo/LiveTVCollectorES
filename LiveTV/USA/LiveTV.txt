@@ -1431,6 +1431,11 @@ URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xum
 Logo: https://i.imgur.com/8mAJuut.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Declassified (720p)
+URL: https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8
+Logo: https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Documentary+ (1080p)
 URL: https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/x57klfS.png
@@ -1968,11 +1973,6 @@ URL: https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: KFMB-DT2 (720p) [Not 24/7]
-URL: https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-Logo: https://i.imgur.com/GCB3vun.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: KFTR-DT1 [Geo-blocked]
 URL: https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 Logo: https://i.imgur.com/e3Z2wzG.png
@@ -2068,8 +2068,8 @@ URL: https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 Logo: https://i.imgur.com/6w1Wj3j.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: LATV (720p) [Geo-blocked]
-URL: https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
+Name: LATV (1080p) [Geo-blocked]
+URL: https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
 Logo: https://i.imgur.com/fJxySUg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -7679,6 +7679,11 @@ URL: https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 Logo: https://i.imgur.com/LPjoORg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Haunt TV (1080p)
+URL: https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+Logo: https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Home.Made.Nation (1080p)
 URL: https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
 Logo: https://i.imgur.com/IdGNIoB.png
@@ -10924,6 +10929,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: History Hit (720p)
 URL: https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/ulHoqlP.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Homeful (1080p)
+URL: https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
+Logo: https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: KNLJ-DT1 (720p)
