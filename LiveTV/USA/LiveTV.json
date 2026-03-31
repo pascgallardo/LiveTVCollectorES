@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-30 22:21:30",
+  "date": "2026-03-31 07:27:55",
   "channels": {
     "Religious": [
       {
@@ -1239,6 +1239,13 @@
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD17000117B"
+      },
+      {
+        "name": "The Hunger Games",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260330T002404SQUARE.png",
+        "group": "Movies",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US900060H4"
       },
       {
         "name": "Pluto TV Fantastic",
