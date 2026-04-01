@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-31 22:23:10",
+  "date": "2026-04-01 07:36:53",
   "channels": {
     "Religious": [
       {
@@ -1193,7 +1193,7 @@
       },
       {
         "name": "Movie Hub Action",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260303T094124SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD3500032H0"
@@ -3612,7 +3612,7 @@
       },
       {
         "name": "AFV with Alfonso Ribeiro",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260324T032335SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png",
         "group": "Comedy",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US4100038R9"
@@ -7447,7 +7447,7 @@
         "url": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8"
       },
       {
-        "name": "WCBS-DT1 (720p) [Not 24/7]",
+        "name": "WCBS-DT1 (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/960px-CBS_2.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -9211,7 +9211,7 @@
         "url": "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8"
       },
       {
-        "name": "Freeform (720p)",
+        "name": "Freeform (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/BGAGeIf.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -10483,6 +10483,27 @@
         "url": "https://jmp2.uk/stvp-USBD3000073N"
       },
       {
+        "name": "WSOC Charlotte",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBC1000017D8"
+      },
+      {
+        "name": "WBTV News",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US700004OA"
+      },
+      {
+        "name": "WCNC",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US1400004HN"
+      },
+      {
         "name": "FOX Weather",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
         "group": "News & Opinion",
@@ -10497,11 +10518,11 @@
         "url": "https://jmp2.uk/stvp-US50000551O"
       },
       {
-        "name": "WeatherNation",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png",
+        "name": "WN Charlotte",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png",
         "group": "News & Opinion",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC1500009LD"
+        "url": "https://jmp2.uk/stvp-USBC3200001S5"
       },
       {
         "name": "BBC News",
@@ -10691,14 +10712,14 @@
     "Action & Drama": [
       {
         "name": "Nash Bridges",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260324T032358SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png",
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US1900014Y2"
       },
       {
         "name": "Samsung Television Network",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260324T032403SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260331T031931SQUARE.png",
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US300068X7"
@@ -11155,7 +11176,7 @@
       },
       {
         "name": "Cold Case Files",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260117T020345SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png",
         "group": "Crime",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBC390002256"
@@ -11432,7 +11453,7 @@
     "Home & Food": [
       {
         "name": "Amazon Live",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260324T032337SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png",
         "group": "Home & Food",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US4900004KP"
@@ -11551,7 +11572,7 @@
       },
       {
         "name": "Epic Gardening TV",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20251028T011109SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png",
         "group": "Home & Food",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2000017HT"
@@ -12145,7 +12166,7 @@
     "Reality Competition": [
       {
         "name": "Forged In Fire",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260324T032344SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png",
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD2700014QW"
@@ -12280,7 +12301,7 @@
     "Game Shows": [
       {
         "name": "Price is Right",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260324T032401SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png",
         "group": "Game Shows",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US5000052H1"

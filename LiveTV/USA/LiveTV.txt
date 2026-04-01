@@ -1,12 +1,12 @@
 Group: Action & Drama
 Name: Nash Bridges
 URL: https://jmp2.uk/stvp-US1900014Y2
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260324T032358SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Samsung Television Network
 URL: https://jmp2.uk/stvp-US300068X7
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260324T032403SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260331T031931SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: ALL ACTION
@@ -847,7 +847,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: AFV with Alfonso Ribeiro
 URL: https://jmp2.uk/stvp-US4100038R9
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260324T032335SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Animation+
@@ -1229,7 +1229,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Cold Case Files
 URL: https://jmp2.uk/stvp-USBC390002256
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260117T020345SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Unsolved Mysteries
@@ -2340,7 +2340,7 @@ URL: https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Freeform (720p)
+Name: Freeform (720p) [Geo-blocked]
 URL: https://tvpass.org/live/FreeformEast/hd
 Logo: https://i.imgur.com/BGAGeIf.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
@@ -2364,7 +2364,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Game Shows
 Name: Price is Right
 URL: https://jmp2.uk/stvp-US5000052H1
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260324T032401SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Let's Make A Deal Classic
@@ -3414,7 +3414,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Home & Food
 Name: Amazon Live
 URL: https://jmp2.uk/stvp-US4900004KP
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260324T032337SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Home Refresh
@@ -3499,7 +3499,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Epic Gardening TV
 URL: https://jmp2.uk/stvp-US2000017HT
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20251028T011109SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: BBC Home & Garden
@@ -5254,7 +5254,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Movie Hub Action
 URL: https://jmp2.uk/stvp-USBD3500032H0
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260303T094124SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Movie Hub Action West
@@ -6469,6 +6469,21 @@ URL: https://jmp2.uk/stvp-USBD3000073N
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
+Name: WSOC Charlotte
+URL: https://jmp2.uk/stvp-USBC1000017D8
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: WBTV News
+URL: https://jmp2.uk/stvp-US700004OA
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: WCNC
+URL: https://jmp2.uk/stvp-US1400004HN
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: FOX Weather
 URL: https://jmp2.uk/stvp-USBD700003L7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png
@@ -6479,9 +6494,9 @@ URL: https://jmp2.uk/stvp-US50000551O
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260224T212706SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
-Name: WeatherNation
-URL: https://jmp2.uk/stvp-USBC1500009LD
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png
+Name: WN Charlotte
+URL: https://jmp2.uk/stvp-USBC3200001S5
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: BBC News
@@ -6639,7 +6654,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Reality Competition
 Name: Forged In Fire
 URL: https://jmp2.uk/stvp-USBD2700014QW
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260324T032344SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Hell's Kitchen
@@ -11321,7 +11336,7 @@ URL: https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/mai
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: WCBS-DT1 (720p) [Not 24/7]
+Name: WCBS-DT1 (720p) [Geo-blocked]
 URL: https://tvpass.org/live/WCBSDT1/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/960px-CBS_2.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u

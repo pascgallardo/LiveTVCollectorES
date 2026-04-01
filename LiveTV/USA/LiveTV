@@ -1017,7 +1017,7 @@
     "name": "Movie Hub Action",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBD3500032H0",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260303T094124SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png"
   },
   {
     "name": "Movie Hub Action West",
@@ -3075,7 +3075,7 @@
     "name": "AFV with Alfonso Ribeiro",
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-US4100038R9",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260324T032335SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png"
   },
   {
     "name": "Animation+",
@@ -6348,7 +6348,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png"
   },
   {
-    "name": "WCBS-DT1 (720p) [Not 24/7]",
+    "name": "WCBS-DT1 (720p) [Geo-blocked]",
     "type": "Undefined",
     "url": "https://tvpass.org/live/WCBSDT1/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/960px-CBS_2.svg.png"
@@ -7848,7 +7848,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Freeform (720p)",
+    "name": "Freeform (720p) [Geo-blocked]",
     "type": "Family",
     "url": "https://tvpass.org/live/FreeformEast/hd",
     "img": "https://i.imgur.com/BGAGeIf.png"
@@ -8868,6 +8868,24 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png"
   },
   {
+    "name": "WSOC Charlotte",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-USBC1000017D8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png"
+  },
+  {
+    "name": "WBTV News",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-US700004OA",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png"
+  },
+  {
+    "name": "WCNC",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-US1400004HN",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png"
+  },
+  {
     "name": "FOX Weather",
     "type": "News & Opinion",
     "url": "https://jmp2.uk/stvp-USBD700003L7",
@@ -8880,10 +8898,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260224T212706SQUARE.png"
   },
   {
-    "name": "WeatherNation",
+    "name": "WN Charlotte",
     "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-USBC1500009LD",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBC3200001S5",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png"
   },
   {
     "name": "BBC News",
@@ -9045,13 +9063,13 @@
     "name": "Nash Bridges",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US1900014Y2",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260324T032358SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png"
   },
   {
     "name": "Samsung Television Network",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US300068X7",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260324T032403SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260331T031931SQUARE.png"
   },
   {
     "name": "ALL ACTION",
@@ -9441,7 +9459,7 @@
     "name": "Cold Case Files",
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBC390002256",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260117T020345SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png"
   },
   {
     "name": "Unsolved Mysteries",
@@ -9675,7 +9693,7 @@
     "name": "Amazon Live",
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-US4900004KP",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260324T032337SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png"
   },
   {
     "name": "Home Refresh",
@@ -9777,7 +9795,7 @@
     "name": "Epic Gardening TV",
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-US2000017HT",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20251028T011109SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png"
   },
   {
     "name": "BBC Home & Garden",
@@ -10281,7 +10299,7 @@
     "name": "Forged In Fire",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBD2700014QW",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260324T032344SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png"
   },
   {
     "name": "Hell's Kitchen",
@@ -10395,7 +10413,7 @@
     "name": "Price is Right",
     "type": "Game Shows",
     "url": "https://jmp2.uk/stvp-US5000052H1",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260324T032401SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png"
   },
   {
     "name": "Let's Make A Deal Classic",
