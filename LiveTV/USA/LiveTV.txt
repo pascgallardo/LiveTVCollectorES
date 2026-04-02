@@ -1,9 +1,4 @@
 Group: Action & Drama
-Name: Nash Bridges
-URL: https://jmp2.uk/stvp-US1900014Y2
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Samsung Television Network
 URL: https://jmp2.uk/stvp-US300068X7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260331T031931SQUARE.png
@@ -142,6 +137,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: TV Land Drama
 URL: https://jmp2.uk/stvp-USBB3500002FL
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20241112T000745SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Nash Bridges
+URL: https://jmp2.uk/stvp-US1900014Y2
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: 21 Jump Street
@@ -845,11 +845,6 @@ URL: https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 Logo: https://i.imgur.com/rXORbti.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: AFV with Alfonso Ribeiro
-URL: https://jmp2.uk/stvp-US4100038R9
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Animation+
 URL: https://jmp2.uk/stvp-US400002PS
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png
@@ -863,6 +858,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Conan O'Brien TV
 URL: https://jmp2.uk/stvp-USBD120001614
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260317T034525SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: AFV with Alfonso Ribeiro
+URL: https://jmp2.uk/stvp-US4100038R9
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Hot Ones
@@ -1107,6 +1107,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Crime
+Name: Cold Case Files
+URL: https://jmp2.uk/stvp-USBC390002256
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: Crime Zone
 URL: https://jmp2.uk/stvp-USBB36000040M
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260303T093851SQUARE.png
@@ -1225,11 +1230,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Forensic Files
 URL: https://jmp2.uk/stvp-USBB3200017MY
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20251202T005853SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: Cold Case Files
-URL: https://jmp2.uk/stvp-USBC390002256
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Unsolved Mysteries
@@ -2362,14 +2362,14 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Game Shows
-Name: Price is Right
-URL: https://jmp2.uk/stvp-US5000052H1
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Let's Make A Deal Classic
 URL: https://jmp2.uk/stvp-US7000229B
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Price is Right
+URL: https://jmp2.uk/stvp-US5000052H1
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: BUZZR
@@ -3412,9 +3412,9 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Home & Food
-Name: Amazon Live
-URL: https://jmp2.uk/stvp-US4900004KP
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png
+Name: Epic Gardening TV
+URL: https://jmp2.uk/stvp-US2000017HT
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Home Refresh
@@ -3495,11 +3495,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Antiques Roadshow
 URL: https://jmp2.uk/stvp-USBC600018CF
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600018CF_20240520T221408SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: Epic Gardening TV
-URL: https://jmp2.uk/stvp-US2000017HT
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: BBC Home & Garden
@@ -3605,6 +3600,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: CraftsyTV
 URL: https://jmp2.uk/stvp-US2600023WY
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600023WY_20251028T011053SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Amazon Live
+URL: https://jmp2.uk/stvp-US4900004KP
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 
@@ -5242,6 +5242,16 @@ URL: https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 Logo: https://i.imgur.com/zgiuNNj.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Movie Hub Action
+URL: https://jmp2.uk/stvp-USBD3500032H0
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: The Hunger Games
+URL: https://jmp2.uk/stvp-US900060H4
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260331T204809SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: Movie Hub
 URL: https://jmp2.uk/stvp-USBA3000041ZP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260317T034513SQUARE.png
@@ -5250,11 +5260,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Movie Hub West
 URL: https://jmp2.uk/stvp-USBD3500036HP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20260303T094130SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: Movie Hub Action
-URL: https://jmp2.uk/stvp-USBD3500032H0
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Movie Hub Action West
@@ -5285,11 +5290,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: MovieSphere
 URL: https://jmp2.uk/stvp-USBD17000117B
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: The Hunger Games
-URL: https://jmp2.uk/stvp-US900060H4
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260330T002404SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Pluto TV Fantastic
@@ -6652,11 +6652,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Reality Competition
-Name: Forged In Fire
-URL: https://jmp2.uk/stvp-USBD2700014QW
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Hell's Kitchen
 URL: https://jmp2.uk/stvp-USBB2900002Z7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20251125T030826SQUARE.png
@@ -6700,6 +6695,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: American Pickers by History
 URL: https://jmp2.uk/stvp-USBD3500041ZF
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20250526T230401SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Forged In Fire
+URL: https://jmp2.uk/stvp-USBD2700014QW
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Ice Road Truckers

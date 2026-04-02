@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-01 22:18:47",
+  "date": "2026-04-02 07:24:39",
   "channels": {
     "Religious": [
       {
@@ -1178,6 +1178,20 @@
         "url": "https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8"
       },
       {
+        "name": "Movie Hub Action",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png",
+        "group": "Movies",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBD3500032H0"
+      },
+      {
+        "name": "The Hunger Games",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260331T204809SQUARE.png",
+        "group": "Movies",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US900060H4"
+      },
+      {
         "name": "Movie Hub",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260317T034513SQUARE.png",
         "group": "Movies",
@@ -1190,13 +1204,6 @@
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD3500036HP"
-      },
-      {
-        "name": "Movie Hub Action",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png",
-        "group": "Movies",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBD3500032H0"
       },
       {
         "name": "Movie Hub Action West",
@@ -1239,13 +1246,6 @@
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD17000117B"
-      },
-      {
-        "name": "The Hunger Games",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260330T002404SQUARE.png",
-        "group": "Movies",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US900060H4"
       },
       {
         "name": "Pluto TV Fantastic",
@@ -3611,13 +3611,6 @@
         "url": "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
       },
       {
-        "name": "AFV with Alfonso Ribeiro",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png",
-        "group": "Comedy",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US4100038R9"
-      },
-      {
         "name": "Animation+",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png",
         "group": "Comedy",
@@ -3637,6 +3630,13 @@
         "group": "Comedy",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD120001614"
+      },
+      {
+        "name": "AFV with Alfonso Ribeiro",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png",
+        "group": "Comedy",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US4100038R9"
       },
       {
         "name": "Hot Ones",
@@ -10711,13 +10711,6 @@
     ],
     "Action & Drama": [
       {
-        "name": "Nash Bridges",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png",
-        "group": "Action & Drama",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US1900014Y2"
-      },
-      {
         "name": "Samsung Television Network",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260331T031931SQUARE.png",
         "group": "Action & Drama",
@@ -10914,6 +10907,13 @@
         "url": "https://jmp2.uk/stvp-USBB3500002FL"
       },
       {
+        "name": "Nash Bridges",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png",
+        "group": "Action & Drama",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US1900014Y2"
+      },
+      {
         "name": "21 Jump Street",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png",
         "group": "Action & Drama",
@@ -11006,6 +11006,13 @@
       }
     ],
     "Crime": [
+      {
+        "name": "Cold Case Files",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png",
+        "group": "Crime",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBC390002256"
+      },
       {
         "name": "Crime Zone",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260303T093851SQUARE.png",
@@ -11173,13 +11180,6 @@
         "group": "Crime",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBB3200017MY"
-      },
-      {
-        "name": "Cold Case Files",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png",
-        "group": "Crime",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC390002256"
       },
       {
         "name": "Unsolved Mysteries",
@@ -11452,11 +11452,11 @@
     ],
     "Home & Food": [
       {
-        "name": "Amazon Live",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png",
+        "name": "Epic Gardening TV",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png",
         "group": "Home & Food",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US4900004KP"
+        "url": "https://jmp2.uk/stvp-US2000017HT"
       },
       {
         "name": "Home Refresh",
@@ -11569,13 +11569,6 @@
         "group": "Home & Food",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBC600018CF"
-      },
-      {
-        "name": "Epic Gardening TV",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png",
-        "group": "Home & Food",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US2000017HT"
       },
       {
         "name": "BBC Home & Garden",
@@ -11723,6 +11716,13 @@
         "group": "Home & Food",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2600023WY"
+      },
+      {
+        "name": "Amazon Live",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png",
+        "group": "Home & Food",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US4900004KP"
       }
     ],
     "Sports & Outdoors": [
@@ -12165,13 +12165,6 @@
     ],
     "Reality Competition": [
       {
-        "name": "Forged In Fire",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png",
-        "group": "Reality Competition",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBD2700014QW"
-      },
-      {
         "name": "Hell's Kitchen",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20251125T030826SQUARE.png",
         "group": "Reality Competition",
@@ -12233,6 +12226,13 @@
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD3500041ZF"
+      },
+      {
+        "name": "Forged In Fire",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png",
+        "group": "Reality Competition",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBD2700014QW"
       },
       {
         "name": "Ice Road Truckers",
@@ -12300,18 +12300,18 @@
     ],
     "Game Shows": [
       {
-        "name": "Price is Right",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png",
-        "group": "Game Shows",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US5000052H1"
-      },
-      {
         "name": "Let's Make A Deal Classic",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png",
         "group": "Game Shows",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US7000229B"
+      },
+      {
+        "name": "Price is Right",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png",
+        "group": "Game Shows",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US5000052H1"
       },
       {
         "name": "BUZZR",
