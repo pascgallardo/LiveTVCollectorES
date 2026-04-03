@@ -257,14 +257,12 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [
-        "https://m3u.work/OI0Q3l.m3u, 
-        "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "https://m3u.work/OI0Q3l.m3u", 
+        "https://m3u.work/qKChzP8.m3u",
         "https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_es.m3u",
         "https://helmerluzo.github.io/RakutenTV_HL/tv/m3u/RakutenTV_tv.m3u",
-        "https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u",
+        "https://raw.githubusercontent.com/BuddyChewChew/plex/main/playlists/plex_es.m3u",        
         "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "https://www.apsattv.com/eslg.m3u",
-        "https://raw.githubusercontent.com/BuddyChewChew/plex/main/playlists/plex_es.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
