@@ -259,9 +259,9 @@ def main():
     source_urls = [
         "https://m3u.work/OI0Q3l.m3u", 
         "https://m3u.work/qKChzP8.m3u",
-        "https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_es.m3u",
-        "https://helmerluzo.github.io/RakutenTV_HL/tv/m3u/RakutenTV_tv.m3u",
-        "https://raw.githubusercontent.com/BuddyChewChew/plex/main/playlists/plex_es.m3u",        
+        "https://m3u.work/YawDD3.m3u",
+        "https://m3u.work/ICEQGPH.m3u",
+        "https://m3u.work/hJiHE3ad.m3u",        
         "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
     ]
 
