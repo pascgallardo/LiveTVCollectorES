@@ -81,6 +81,8 @@ https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_horizontal.jpg" group-title="Infantiles",Clan
 https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200" group-title="Infantiles",EnerGeek TV
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Infantiles",Disney Junior
 https://bbb.exoadash.com/TVD1561/index.mpd
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_rectangular.jpg" group-title="Int. Europa",TVE Int. Europa

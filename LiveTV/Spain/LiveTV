@@ -246,6 +246,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_horizontal.jpg"
   },
   {
+    "name": "EnerGeek TV",
+    "type": "Infantiles",
+    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025",
+    "img": "https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200"
+  },
+  {
     "name": "Disney Junior",
     "type": "Infantiles",
     "url": "https://bbb.exoadash.com/TVD1561/index.mpd",

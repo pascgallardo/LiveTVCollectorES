@@ -1161,6 +1161,11 @@ URL: https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: EnerGeek TV
+URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+Logo: https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Disney Junior
 URL: https://bbb.exoadash.com/TVD1561/index.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg
