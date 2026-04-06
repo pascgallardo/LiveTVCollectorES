@@ -8198,6 +8198,11 @@ URL: https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
 Logo: https://i.imgur.com/J0TY9dG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV Futbol Para Fans (1080p)
+URL: https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+Logo: https://i.imgur.com/yJlY9Rr.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Poker Go (1080p)
 URL: https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
 Logo: https://i.imgur.com/1603HED.png
