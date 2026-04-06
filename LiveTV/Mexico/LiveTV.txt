@@ -708,6 +708,11 @@ URL: https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 Logo: https://i.imgur.com/W4xwCdl.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
+Name: TUDN (1080p)
+URL: https://streaming.alwaysdata.net/tudn.php
+Logo: https://i.imgur.com/oT5CAvd.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 Name: TV Lobo Durango (720p)
 URL: https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 Logo: https://i.imgur.com/q9p1Spj.png

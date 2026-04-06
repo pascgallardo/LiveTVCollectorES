@@ -636,6 +636,12 @@
     "img": "https://i.imgur.com/W4xwCdl.png"
   },
   {
+    "name": "TUDN (1080p)",
+    "type": "Undefined",
+    "url": "https://streaming.alwaysdata.net/tudn.php",
+    "img": "https://i.imgur.com/oT5CAvd.png"
+  },
+  {
     "name": "TV Lobo Durango (720p)",
     "type": "Undefined",
     "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
