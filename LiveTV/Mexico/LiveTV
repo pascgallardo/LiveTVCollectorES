@@ -768,6 +768,12 @@
     "img": "https://i.imgur.com/8ign49i.png"
   },
   {
+    "name": "Comedy Central Latin America (1080p)",
+    "type": "Comedy",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+  },
+  {
     "name": "Conecta TV (720p)",
     "type": "Music",
     "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
@@ -820,6 +826,12 @@
     "type": "Culture;Education",
     "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
     "img": "https://i.imgur.com/N4meE8I.png"
+  },
+  {
+    "name": "Nickelodeon Latin America North (480p)",
+    "type": "Kids",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8",
+    "img": "https://i.imgur.com/E84jnP8.png"
   },
   {
     "name": "PSN (288p)",

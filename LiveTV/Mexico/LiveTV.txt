@@ -1,3 +1,10 @@
+Group: Comedy
+Name: Comedy Central Latin America (1080p)
+URL: http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+
 Group: Culture
 Name: A+ [Geo-blocked]
 URL: https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -477,6 +484,13 @@ Group: General;News
 Name: Canal 33 Tijuana (720p)
 URL: https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 Logo: https://iili.io/JCt1Nbn.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+
+Group: Kids
+Name: Nickelodeon Latin America North (480p)
+URL: http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
+Logo: https://i.imgur.com/E84jnP8.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
