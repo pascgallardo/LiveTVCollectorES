@@ -1,14 +1,4 @@
 Group: Andalucía
-Name: Canal Sur+ Semana Santa Málaga - Tribuna-Larios
-URL: https://cdnlive.codev8.net/rtvalive/smil:channel19.smil/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsur+ssanta_malaga-tribuna-larios_horizontal.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Canal Sur+ Semana Santa Málaga - Alameda-Catedral
-URL: https://cdnlive.codev8.net/rtvalive/smil:channel20.smil/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsur+ssanta_malaga-alameda_horizontal.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Canal Málaga
 URL: https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_2025_horizontal.jpg
@@ -47,11 +37,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Parlamento de Andalucía
 URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_horizontal.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: 101TV Costa del Sol
-URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:BENALMADENA.smil/playlist.m3u8
-Logo: https://graph.facebook.com/101TVSevilla/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1168,7 +1153,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: EnerGeek TV
 URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
-Logo: https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Disney Junior
@@ -1236,7 +1221,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Molahits TV España
 URL: https://ventdelnord.tv:8080/mola/directe.m3u8
-Logo: https://graph.facebook.com/molahitstv/picture?width=200&height=200
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/molahitstv_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Verbena TV España
@@ -2437,16 +2422,6 @@ URL: https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_2025_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: 90 FM
-URL: http://185.23.192.118:8010/;stream.mp3
-Logo: https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Chocolate FM
-URL: https://streaming2.elitecomunicacion.es:8082/live.mp3
-Logo: https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: COPE Málaga
 URL: https://wecast-bl02.flumotion.com/copesedes/malaga.mp3
 Logo: https://graph.facebook.com/COPE/picture?width=200&height=200
@@ -2460,6 +2435,21 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: SER Málaga
 URL: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
 Logo: https://graph.facebook.com/cadenaser/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: esRadio Málaga
+URL: https://azura.abcorp.es/listen/esradio_malaga/radio.mp3
+Logo: https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: 90 FM
+URL: http://185.23.192.118:8010/;stream.mp3
+Logo: https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Chocolate FM
+URL: https://streaming2.elitecomunicacion.es:8082/live.mp3
+Logo: https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Beachgrooves
@@ -2480,11 +2470,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Elixir FM
 URL: https://radio.grupoelixir.es:9006/stream
 Logo: https://graph.facebook.com/elixirfiestas/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: esRadio Málaga
-URL: https://azura.abcorp.es/listen/esradio_malaga/radio.mp3
-Logo: https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Fiebre Latina Radio

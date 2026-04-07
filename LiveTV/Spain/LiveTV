@@ -36,18 +36,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_negro_horizontal.jpg"
   },
   {
-    "name": "Canal Sur+ Semana Santa Málaga - Tribuna-Larios",
-    "type": "Andalucía",
-    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel19.smil/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsur+ssanta_malaga-tribuna-larios_horizontal.jpg"
-  },
-  {
-    "name": "Canal Sur+ Semana Santa Málaga - Alameda-Catedral",
-    "type": "Andalucía",
-    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel20.smil/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsur+ssanta_malaga-alameda_horizontal.jpg"
-  },
-  {
     "name": "Canal Málaga",
     "type": "Andalucía",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
@@ -94,12 +82,6 @@
     "type": "Andalucía",
     "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_horizontal.jpg"
-  },
-  {
-    "name": "101TV Costa del Sol",
-    "type": "Andalucía",
-    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:BENALMADENA.smil/playlist.m3u8",
-    "img": "https://graph.facebook.com/101TVSevilla/picture?width=200&height=200"
   },
   {
     "name": "Canal Parlamento",
@@ -255,7 +237,7 @@
     "name": "EnerGeek TV",
     "type": "Infantiles",
     "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025",
-    "img": "https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_horizontal.jpg"
   },
   {
     "name": "Disney Junior",
@@ -297,7 +279,7 @@
     "name": "Molahits TV España",
     "type": "Musicales",
     "url": "https://ventdelnord.tv:8080/mola/directe.m3u8",
-    "img": "https://graph.facebook.com/molahitstv/picture?width=200&height=200"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/molahitstv_horizontal.jpg"
   },
   {
     "name": "Verbena TV España",
@@ -750,18 +732,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_2025_horizontal.jpg"
   },
   {
-    "name": "90 FM",
-    "type": "Radio_Andalucía",
-    "url": "http://185.23.192.118:8010/;stream.mp3",
-    "img": "https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg"
-  },
-  {
-    "name": "Chocolate FM",
-    "type": "Radio_Andalucía",
-    "url": "https://streaming2.elitecomunicacion.es:8082/live.mp3",
-    "img": "https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200"
-  },
-  {
     "name": "COPE Málaga",
     "type": "Radio_Andalucía",
     "url": "https://wecast-bl02.flumotion.com/copesedes/malaga.mp3",
@@ -778,6 +748,24 @@
     "type": "Radio_Andalucía",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3",
     "img": "https://graph.facebook.com/cadenaser/picture?width=200&height=200"
+  },
+  {
+    "name": "esRadio Málaga",
+    "type": "Radio_Andalucía",
+    "url": "https://azura.abcorp.es/listen/esradio_malaga/radio.mp3",
+    "img": "https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg"
+  },
+  {
+    "name": "90 FM",
+    "type": "Radio_Andalucía",
+    "url": "http://185.23.192.118:8010/;stream.mp3",
+    "img": "https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg"
+  },
+  {
+    "name": "Chocolate FM",
+    "type": "Radio_Andalucía",
+    "url": "https://streaming2.elitecomunicacion.es:8082/live.mp3",
+    "img": "https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200"
   },
   {
     "name": "Beachgrooves",
@@ -802,12 +790,6 @@
     "type": "Radio_Andalucía",
     "url": "https://radio.grupoelixir.es:9006/stream",
     "img": "https://graph.facebook.com/elixirfiestas/picture?width=200&height=200"
-  },
-  {
-    "name": "esRadio Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://azura.abcorp.es/listen/esradio_malaga/radio.mp3",
-    "img": "https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg"
   },
   {
     "name": "Fiebre Latina Radio",
