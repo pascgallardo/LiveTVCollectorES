@@ -1451,6 +1451,11 @@ URL: https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 Logo: https://i.imgur.com/V5vvuLK.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: History en Espanol (480p)
+URL: http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+Logo: https://i.imgur.com/KP4e1kk.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Ink Master
 URL: https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
 Logo: https://i.imgur.com/DiBojYh.png
@@ -7664,11 +7669,6 @@ URL: https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/
 Logo: https://i.imgur.com/lMICupK.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Don't Tell The Bride (1080p)
-URL: https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/h0bc3Fa.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Family Ties
 URL: https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 Logo: https://i.imgur.com/WJEkKCb.png
@@ -8039,7 +8039,7 @@ Logo: https://i.imgur.com/SFYhgrt.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: ESPN Deportes (360p)
-URL: https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+URL: http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -10966,11 +10966,6 @@ URL: https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 Logo: https://i.imgur.com/wlYUEYc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: History Hit (720p)
-URL: https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/ulHoqlP.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Homeful (1080p)
 URL: https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
 Logo: https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png
@@ -11124,11 +11119,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Real America's Voice (1080p)
 URL: https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
 Logo: https://i.imgur.com/l7tmTjX.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Real Wild (1080p)
-URL: https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/T9HHmAO.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Rev and Roll (720p)

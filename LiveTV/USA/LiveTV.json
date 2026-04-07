@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-06 22:10:49",
+  "date": "2026-04-07 07:28:53",
   "channels": {
     "Religious": [
       {
@@ -1531,7 +1531,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://e3.thetvapp.to/hls/espn-deportes/index.m3u8"
+        "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
         "name": "F1 Channel (1080p) [Geo-blocked]",
@@ -4872,13 +4872,6 @@
         "url": "https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8"
       },
       {
-        "name": "Don't Tell The Bride (1080p)",
-        "logo": "https://i.imgur.com/h0bc3Fa.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "Family Ties",
         "logo": "https://i.imgur.com/WJEkKCb.png",
         "group": "Series",
@@ -6908,13 +6901,6 @@
         "url": "https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       },
       {
-        "name": "History Hit (720p)",
-        "logo": "https://i.imgur.com/ulHoqlP.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "Homeful (1080p)",
         "logo": "https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png",
         "group": "Undefined",
@@ -7130,13 +7116,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8"
-      },
-      {
-        "name": "Real Wild (1080p)",
-        "logo": "https://i.imgur.com/T9HHmAO.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Rev and Roll (720p)",
@@ -9715,6 +9694,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8"
+      },
+      {
+        "name": "History en Espanol (480p)",
+        "logo": "https://i.imgur.com/KP4e1kk.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8"
       },
       {
         "name": "Ink Master",

@@ -432,7 +432,7 @@ https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sports",ESPN Deportes (360p)
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lMjSj.png" group-title="Sports",FanDuel Racing
@@ -1381,8 +1381,6 @@ https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMICupK.png" group-title="Series",Dog the Bounty Hunter (1080p)
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0bc3Fa.png" group-title="Series",Don't Tell The Bride (1080p)
-https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="Series",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WH4lSc.png" group-title="Series",Farscape
@@ -1961,8 +1959,6 @@ https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="Undefined",Gilroy CMAP TV Channel 19 (720p)
 https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Undefined",History Hit (720p)
-https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="Undefined",Homeful (1080p)
 https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="Undefined",KNLJ-DT1 (720p)
@@ -2025,8 +2021,6 @@ https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/in
 https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7tmTjX.png" group-title="Undefined",Real America's Voice (1080p)
 https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Undefined",Real Wild (1080p)
-https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Undefined",Rev and Roll (720p)
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="Undefined",Revolt (1080p)
@@ -2755,6 +2749,8 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="Documentary",Forensic Files
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KP4e1kk.png" group-title="Documentary",History en Espanol (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBojYh.png" group-title="Documentary",Ink Master
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary",INWILD (1080p)
