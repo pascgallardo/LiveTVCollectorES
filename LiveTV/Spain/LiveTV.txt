@@ -49,6 +49,11 @@ URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: 101TV Costa del Sol
+URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:BENALMADENA.smil/playlist.m3u8
+Logo: https://graph.facebook.com/101TVSevilla/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 
 Group: Anime
 Name: Anime Onegai SCI-FI

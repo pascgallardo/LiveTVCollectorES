@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-07 08:17:56",
+  "date": "2026-04-07 14:39:10",
   "channels": {
     "Generalistas": [
       {
@@ -115,6 +115,13 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8"
+      },
+      {
+        "name": "101TV Costa del Sol",
+        "logo": "https://graph.facebook.com/101TVSevilla/picture?width=200&height=200",
+        "group": "Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:BENALMADENA.smil/playlist.m3u8"
       }
     ],
     "Eventuales": [
