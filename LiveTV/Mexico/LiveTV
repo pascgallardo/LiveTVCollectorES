@@ -492,6 +492,12 @@
     "img": "https://i.imgur.com/R3icGuG.png"
   },
   {
+    "name": "MTV Latin America",
+    "type": "Entertainment",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
     "name": "Teleplay Sureste (720p)",
     "type": "Entertainment",
     "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
