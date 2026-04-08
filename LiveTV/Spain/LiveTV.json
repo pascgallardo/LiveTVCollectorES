@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 14:38:09",
+  "date": "2026-04-08 22:39:47",
   "channels": {
     "Generalistas": [
       {
@@ -87,20 +87,6 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8"
-      },
-      {
-        "name": "Andalucía Cocina",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciacocina_horizontal.jpg",
-        "group": "Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8"
-      },
-      {
-        "name": "Andalucía Turismo",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciaturismo_horizontal.jpg",
-        "group": "Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1"
       },
       {
         "name": "Parlamento de Andalucía",
@@ -255,14 +241,14 @@
       },
       {
         "name": "CNN en Español",
-        "logo": "https://d2mxb63djushzm.cloudfront.net/images/cnnus/CNNe_logo.png",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_horizontal.jpg",
         "group": "Informativos",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce"
       },
       {
         "name": "Actualidad 360",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovenews360_horizontal.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveactualidad360_horizontal.jpg",
         "group": "Informativos",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8"
@@ -282,6 +268,234 @@
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+      }
+    ],
+    "Cocina": [
+      {
+        "name": "Andalucía Cocina",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciacocina_horizontal.jpg",
+        "group": "Cocina",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8"
+      },
+      {
+        "name": "Tastemade",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tastemade_horizontal.jpg",
+        "group": "Cocina",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8"
+      },
+      {
+        "name": "NEW KFOOD",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_horizontal.jpg",
+        "group": "Cocina",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-4ab945a0&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+      },
+      {
+        "name": "Gusto TV",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/gustotv_horizontal.jpg",
+        "group": "Cocina",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://742a5e35.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR3VzdG9UVl9ITFM/playlist.m3u8"
+      }
+    ],
+    "Documentales": [
+      {
+        "name": "Andalucía Turismo",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciaturismo_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1"
+      },
+      {
+        "name": "Historia",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+      },
+      {
+        "name": "Historia y Vida",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovehistoriayvida_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+      },
+      {
+        "name": "Crimen&Historia",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://amg01821-lovetv-amg01821c23-lg-es-6727.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-crimenandhistoria-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+      },
+      {
+        "name": "Love The Planet",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetheplanet_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Love Wine",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
+      },
+      {
+        "name": "Viajes&Sabores",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetravel&taste_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+      },
+      {
+        "name": "Inglés Total",
+        "logo": "https://media.tvup.cloud/canales/generic_cd_628ce71965774400228da9ae.jpg?t=1658242386?t=1683806449?t=1687212737?width=200&height=200",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
+      },
+      {
+        "name": "NatureTime",
+        "logo": "https://i.imgur.com/72JmyjM.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8"
+      },
+      {
+        "name": "NatureVision",
+        "logo": "https://image.xumo.com/v1/channels/channel/99992449/600x200.png?type=white_cropped",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=naturevision_es&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
+      },
+      {
+        "name": "Naturaleza",
+        "logo": "https://image.xumo.com/v1/channels/channel/99992502/600x200.png?type=white_cropped",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992502&ads.xumo_streamId=99992502&ads.channelId=99992502&ads.ad_tag_id=134054&ads.csid=lgchannels_es_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_es&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
+      },
+      {
+        "name": "Wildearth",
+        "logo": "https://d2rx6itp6voihr.cloudfront.net/WE_LOGO_LIGHT_LGPlus_V2.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
+      },
+      {
+        "name": "Space Live",
+        "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://linear-1224.frequency.stream/dist/lg-es/1224/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
+      },
+      {
+        "name": "Buen Viaje",
+        "logo": "https://image.xumo.com/v1/channels/channel/99992224/600x200.png?type=white_cropped",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992224&ads.xumo_streamId=99992224&ads.channelId=99992224&ads.ad_tag_id=134052&ads.csid=lgchannels_es_indigeniusbonviajespanish_ssai&ads.channelName=indigeniusbonviajespanish_es&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_contentId=2459&ads.xumo_providerName=IndigeniusBonViajeSpanish&ads.xumo_providerId=2459&ads.content_category=IAB20&ads.content_genre=Travel%20%26%20Lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
+      },
+      {
+        "name": "Travelxp",
+        "logo": "https://img.platform.wurl.dev/channel/1613/lg/e2e0ef/LG-Logo-PNG-100x100_v1.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8"
+      },
+      {
+        "name": "Ice Pilots",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES24000028L"
+      },
+      {
+        "name": "La Fiebre del Jade",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES1600002QL"
+      },
+      {
+        "name": "Top Gear",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES2700002YP"
+      },
+      {
+        "name": "Mayday: Catástrofe Aérea",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES2800002MM"
+      },
+      {
+        "name": "CURIOSITY Now",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES1400002CJ"
+      },
+      {
+        "name": "Historia y Vida",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260407T040050SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES12000024R"
+      },
+      {
+        "name": "Royalworld - Nobleza y Dinastias",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ESBD1400003QN"
+      },
+      {
+        "name": "BBC Earth",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES3200001F1"
+      },
+      {
+        "name": "NatureTime",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ESBA22000102A"
+      },
+      {
+        "name": "WildEarth",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ESBA330004121"
+      },
+      {
+        "name": "Naturaleza",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20250527T014628SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ES1600003FF"
+      },
+      {
+        "name": "Love the Planet",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ESBC4700002TD"
+      },
+      {
+        "name": "WaterBear",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png",
+        "group": "Documentales",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+        "url": "https://jmp2.uk/stvp-ESBC170000388"
       }
     ],
     "Infantiles": [
@@ -356,6 +570,13 @@
         "url": "http://animezonetv.net/hls/stream.m3u8"
       },
       {
+        "name": "La Abeja Maya",
+        "logo": "https://media.tvup.cloud/canales/generic_cd_6479dd1666328d12f0eb0843_1741875547087.jpg?width=200&height=200",
+        "group": "Infantiles",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://daiconnect.com/live/hls/tvup/lg-planetajunior/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
+      },
+      {
         "name": "Disney Junior",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
         "group": "Infantiles",
@@ -377,15 +598,6 @@
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8"
-      }
-    ],
-    "Int. Otros": [
-      {
-        "name": "Tastemade",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tastemade_horizontal.jpg",
-        "group": "Int. Otros",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8"
       }
     ],
     "Musicales": [
@@ -434,48 +646,6 @@
     ],
     "Radio_Populares": [
       {
-        "name": "Cadena SER",
-        "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3"
-      },
-      {
-        "name": "Canal Sur Radio",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_horizontal.jpg",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3"
-      },
-      {
-        "name": "COPE",
-        "logo": "https://graph.facebook.com/COPE/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://flucast31-h-cloud.flumotion.com/cope/net2.mp3"
-      },
-      {
-        "name": "esRadio",
-        "logo": "https://graph.facebook.com/esradio/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3"
-      },
-      {
-        "name": "Onda Cero",
-        "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8"
-      },
-      {
-        "name": "RAC1",
-        "logo": "https://graph.facebook.com/rac1oficial/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3"
-      },
-      {
         "name": "Radio Nacional",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_horizontal.jpg",
         "group": "Radio_Populares",
@@ -490,11 +660,62 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8"
       },
       {
+        "name": "Canal Sur Radio",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_horizontal.jpg",
+        "group": "Radio_Populares",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3"
+      },
+      {
+        "name": "Cadena SER",
+        "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
+        "group": "Radio_Populares",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3"
+      },
+      {
+        "name": "COPE",
+        "logo": "https://graph.facebook.com/COPE/picture?width=200&height=200",
+        "group": "Radio_Populares",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://flucast31-h-cloud.flumotion.com/cope/net2.mp3"
+      },
+      {
+        "name": "Onda Cero",
+        "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
+        "group": "Radio_Populares",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8"
+      },
+      {
+        "name": "esRadio",
+        "logo": "https://graph.facebook.com/esradio/picture?width=200&height=200",
+        "group": "Radio_Populares",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3"
+      },
+      {
         "name": "Radio Marca",
         "logo": "https://graph.facebook.com/RadioMARCA/picture?width=200&height=200",
         "group": "Radio_Populares",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3"
+      },
+      {
+        "name": "RAC1",
+        "logo": "https://graph.facebook.com/rac1oficial/picture?width=200&height=200",
+        "group": "Radio_Populares",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3"
+      }
+    ],
+    "Radio_Internacional": [
+      {
+        "name": "Radio Exterior",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioexteriorrne_horizontal.jpg",
+        "group": "Radio_Internacional",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8"
       }
     ],
     "Radio_Musicales": [
@@ -513,18 +734,18 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3"
       },
       {
-        "name": "LOS40 Urban",
-        "logo": "https://graph.facebook.com/los40urban/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3"
-      },
-      {
         "name": "LOS40 Dance",
         "logo": "https://graph.facebook.com/los40dance/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3"
+      },
+      {
+        "name": "LOS40 Urban",
+        "logo": "https://graph.facebook.com/los40urban/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3"
       },
       {
         "name": "Kiss FM",
@@ -548,11 +769,11 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3"
       },
       {
-        "name": "Rock FM",
-        "logo": "https://graph.facebook.com/RockFM/picture?width=200&height=200",
+        "name": "Canal Fiesta Radio",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_horizontal.jpg",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8"
+        "url": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3"
       },
       {
         "name": "Europa FM",
@@ -569,41 +790,6 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8"
       },
       {
-        "name": "Radiolé",
-        "logo": "https://graph.facebook.com/radiole/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3"
-      },
-      {
-        "name": "Loca FM",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s3.we4stream.com:2020/stream/locafm"
-      },
-      {
-        "name": "Hit FM",
-        "logo": "https://graph.facebook.com/hitfm.es/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
-      },
-      {
-        "name": "Melodía FM",
-        "logo": "https://graph.facebook.com/tumelodiafm/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac"
-      },
-      {
-        "name": "Canal Fiesta Radio",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_horizontal.jpg",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3"
-      },
-      {
         "name": "Radio Clásica RNE",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioclasicarne_horizontal.jpg",
         "group": "Radio_Musicales",
@@ -611,11 +797,18 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8"
       },
       {
-        "name": "MegaStar FM",
-        "logo": "https://graph.facebook.com/MegaStarFM/picture?width=200&height=200",
+        "name": "Rock FM",
+        "logo": "https://graph.facebook.com/RockFM/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://megastar-cope.flumotion.com/playlist.m3u8"
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8"
+      },
+      {
+        "name": "Dial Latino",
+        "logo": "https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3"
       },
       {
         "name": "Dial Baladas",
@@ -625,11 +818,11 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3"
       },
       {
-        "name": "Dial Latino",
-        "logo": "https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg",
+        "name": "digitalHits FM",
+        "logo": "https://graph.facebook.com/digitalhits/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3"
+        "url": "https://dhits.frilab.com:8443/dhits"
       },
       {
         "name": "Flaix FM",
@@ -646,6 +839,48 @@
         "url": "https://stream.flaixbac.cat/icecast"
       },
       {
+        "name": "Hit FM",
+        "logo": "https://graph.facebook.com/hitfm.es/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
+      },
+      {
+        "name": "MegaStar FM",
+        "logo": "https://graph.facebook.com/MegaStarFM/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://megastar-cope.flumotion.com/playlist.m3u8"
+      },
+      {
+        "name": "Melodía FM",
+        "logo": "https://graph.facebook.com/tumelodiafm/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac"
+      },
+      {
+        "name": "La Urban Radio",
+        "logo": "https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3"
+      },
+      {
+        "name": "MariskalRock Radio",
+        "logo": "https://graph.facebook.com/mariskalrock/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://media.profesionalhosting.com:8047/stream"
+      },
+      {
+        "name": "Radiolé",
+        "logo": "https://graph.facebook.com/radiole/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3"
+      },
+      {
         "name": "RAC 105",
         "logo": "https://graph.facebook.com/rac105/picture?width=200&height=200",
         "group": "Radio_Musicales",
@@ -653,18 +888,32 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3"
       },
       {
-        "name": "MDT Radio Remember",
-        "logo": "https://graph.facebook.com/mdtradio/picture?width=200&height=200",
+        "name": "Élite Love",
+        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams1.mdtradio.com:8443/mdtweb"
+        "url": "https://streaming2.elitecomunicacion.es/proxy/elitelove/stream"
       },
       {
-        "name": "MDT Radio Pop Stars",
-        "logo": "https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg",
+        "name": "Élite Dance",
+        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams1.mdtradio.com:8443/PopStarsFm"
+        "url": "https://streaming2.elitecomunicacion.es/proxy/elitedance/stream"
+      },
+      {
+        "name": "Élite Oldies",
+        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream"
+      },
+      {
+        "name": "Élite Urban",
+        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream"
       },
       {
         "name": "MDT Radio 80s",
@@ -686,6 +935,27 @@
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://streams1.mdtradio.com:8443/MDTradio2000"
+      },
+      {
+        "name": "MDT Radio Pop Stars",
+        "logo": "https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://streams1.mdtradio.com:8443/PopStarsFm"
+      },
+      {
+        "name": "MDT Radio Remember",
+        "logo": "https://graph.facebook.com/mdtradio/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://streams1.mdtradio.com:8443/mdtweb"
+      },
+      {
+        "name": "Loca FM",
+        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://s3.we4stream.com:2020/stream/locafm"
       },
       {
         "name": "Loca FM Urban",
@@ -826,55 +1096,6 @@
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://s2.we4stream.com/listen/loca_drum__bass/live"
-      },
-      {
-        "name": "digitalHits FM",
-        "logo": "https://graph.facebook.com/digitalhits/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://dhits.frilab.com:8443/dhits"
-      },
-      {
-        "name": "Élite Love",
-        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es/proxy/elitelove/stream"
-      },
-      {
-        "name": "Élite Dance",
-        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es/proxy/elitedance/stream"
-      },
-      {
-        "name": "Élite Oldies",
-        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream"
-      },
-      {
-        "name": "Élite Urban",
-        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream"
-      },
-      {
-        "name": "MariskalRock Radio",
-        "logo": "https://graph.facebook.com/mariskalrock/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://media.profesionalhosting.com:8047/stream"
-      },
-      {
-        "name": "La Urban Radio",
-        "logo": "https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3"
       }
     ],
     "Radio_Andalucía": [
@@ -905,13 +1126,6 @@
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/rai.mp3"
-      },
-      {
-        "name": "Tocata FM Radio",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tocatafmradio_horizontal.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radios.lamaster.es:8030/tocatafm"
       },
       {
         "name": "Radio Nacional Andalucía",
@@ -949,6 +1163,20 @@
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/malaga/master.m3u8"
       },
       {
+        "name": "esRadio Málaga",
+        "logo": "https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg",
+        "group": "Radio_Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://azura.abcorp.es/listen/esradio_malaga/radio.mp3"
+      },
+      {
+        "name": "Radio Marca Málaga",
+        "logo": "https://graph.facebook.com/RadioMARCA/picture?width=200&height=200",
+        "group": "Radio_Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://malagafm.streaming-pro.com:8131/malagafmmobile"
+      },
+      {
         "name": "SER Málaga",
         "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
         "group": "Radio_Andalucía",
@@ -956,11 +1184,11 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3"
       },
       {
-        "name": "esRadio Málaga",
-        "logo": "https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg",
+        "name": "Tocata FM Radio",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tocatafmradio_horizontal.jpg",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://azura.abcorp.es/listen/esradio_malaga/radio.mp3"
+        "url": "https://radios.lamaster.es:8030/tocatafm"
       },
       {
         "name": "90 FM",
@@ -1075,13 +1303,6 @@
         "url": "http://185.23.192.118:8014/;stream.mp3"
       },
       {
-        "name": "Radio Marca Málaga",
-        "logo": "https://graph.facebook.com/RadioMARCA/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://malagafm.streaming-pro.com:8131/malagafmmobile"
-      },
-      {
         "name": "Radio Oro",
         "logo": "https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200",
         "group": "Radio_Andalucía",
@@ -1119,18 +1340,11 @@
     ],
     "Radio_C. Valenciana": [
       {
-        "name": "Remember The Music FM",
-        "logo": "https://pbs.twimg.com/profile_images/1034848375705878528/qt4gn64O_200x200.jpg",
+        "name": "+ Activa",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/05/11022613/activa--200x200.png",
         "group": "Radio_C. Valenciana",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://eu1.lhdserver.es:9041/stream"
-      },
-      {
-        "name": "Relax FM",
-        "logo": "https://pbs.twimg.com/profile_images/1629684463507570690/k6cWRSGU_200x200.jpg",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RELAX_FM.mp3"
+        "url": "https://stream.emisorasmusicales.net/radio/8110/mas-activa.mp3"
       },
       {
         "name": "Activa FM",
@@ -1140,32 +1354,39 @@
         "url": "https://stream.emisorasmusicales.net/radio/8000/activafm.mp3"
       },
       {
-        "name": "+ Activa",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/05/11022613/activa--200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/radio/8110/mas-activa.mp3"
-      },
-      {
-        "name": "La Mega FM",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023732/LaMega-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/radio/8020/lamega.mp3"
-      },
-      {
-        "name": "MuyBuena",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023735/MuyBuena-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/radio/8010/muybuena.mp3"
-      },
-      {
         "name": "Bikini FM",
         "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/04134801/logo-BIKINI-FM-web-1.png",
         "group": "Radio_C. Valenciana",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream.emisorasmusicales.net/radio/8030/bikinifm.mp3"
+      },
+      {
+        "name": "Cassette FM",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.costafm.es/listen/cassettefm/radio.mp3"
+      },
+      {
+        "name": "Código FM",
+        "logo": "https://graph.facebook.com/codigofmradio/picture?width=200&height=200",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://cloudstream2036.conectarhosting.com/8422/stream"
+      },
+      {
+        "name": "Comboi",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2024/04/23134127/LOGO-DEF.-COMBOI-1000x1000px-RGB-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3"
+      },
+      {
+        "name": "Corazón FM",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2022/11/11020420/Corazon_1000x1000-con-fondo-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3"
       },
       {
         "name": "Esencia FM",
@@ -1182,67 +1403,11 @@
         "url": "https://stream.emisorasmusicales.net/radio/8050/goldfm.mp3"
       },
       {
-        "name": "RockStar",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023734/Rockstar-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3"
-      },
-      {
-        "name": "La Flamenca",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023733/LaFlamenca-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/radio/8070/laflamenca.mp3"
-      },
-      {
-        "name": "La Que Suena",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11022654/laquesuena-logo-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/radio/8090/laquesuena.mp3"
-      },
-      {
-        "name": "La Indie",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/04/11023707/LA-INDIE-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/radio/8130/laindie-valencia.mp3"
-      },
-      {
-        "name": "Motiva",
-        "logo": "https://graph.facebook.com/motivafm/picture?width=200&height=200",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://server5.mediasector.es/listen/motiva_mix/motivaparty.mp3"
-      },
-      {
-        "name": "Corazón FM",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2022/11/11020420/Corazon_1000x1000-con-fondo-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3"
-      },
-      {
-        "name": "Comboi",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2024/04/23134127/LOGO-DEF.-COMBOI-1000x1000px-RGB-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3"
-      },
-      {
         "name": "Hallo FM",
         "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2023/08/31105659/radioHallo-1200x1200-f-200x200.png",
         "group": "Radio_C. Valenciana",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3"
-      },
-      {
-        "name": "Sol Latino",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2024/04/11131523/Sol-Latino-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.emisorasmusicales.net/listen/sol-latino/sol-latino.mp3"
       },
       {
         "name": "Hola Pop",
@@ -1252,39 +1417,53 @@
         "url": "https://stream.emisorasmusicales.net/listen/hola-pop/holapop.mp3"
       },
       {
+        "name": "La Flamenca",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023733/LaFlamenca-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/radio/8070/laflamenca.mp3"
+      },
+      {
+        "name": "La Indie",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/04/11023707/LA-INDIE-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/radio/8130/laindie-valencia.mp3"
+      },
+      {
+        "name": "La Mega FM",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023732/LaMega-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/radio/8020/lamega.mp3"
+      },
+      {
+        "name": "La Que Suena",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11022654/laquesuena-logo-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/radio/8090/laquesuena.mp3"
+      },
+      {
+        "name": "Motiva",
+        "logo": "https://graph.facebook.com/motivafm/picture?width=200&height=200",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://server5.mediasector.es/listen/motiva_mix/motivaparty.mp3"
+      },
+      {
+        "name": "MuyBuena",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023735/MuyBuena-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/radio/8010/muybuena.mp3"
+      },
+      {
         "name": "Party FM",
         "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2025/05/27094024/PARTY-FM-definitivo-color-200x200.jpg",
         "group": "Radio_C. Valenciana",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream.emisorasmusicales.net/listen/party_fm/partyfm.mp3"
-      },
-      {
-        "name": "Remember Radio",
-        "logo": "https://graph.facebook.com/rememberradiocs/picture?width=200&height=200",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB"
-      },
-      {
-        "name": "Spektra FM",
-        "logo": "https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stm2.emiteonline.com:9008/spektrafm#.mp3"
-      },
-      {
-        "name": "Código FM",
-        "logo": "https://graph.facebook.com/codigofmradio/picture?width=200&height=200",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://cloudstream2036.conectarhosting.com/8422/stream"
-      },
-      {
-        "name": "Cassette FM",
-        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png",
-        "group": "Radio_C. Valenciana",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.costafm.es/listen/cassettefm/radio.mp3"
       },
       {
         "name": "Radio 90FM",
@@ -1299,602 +1478,435 @@
         "group": "Radio_C. Valenciana",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream.costafm.es/listen/malibu_radio_102.3/radio.mp3"
-      }
-    ],
-    "Radio_Internacional": [
+      },
       {
-        "name": "Radio Exterior",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioexteriorrne_horizontal.jpg",
-        "group": "Radio_Internacional",
+        "name": "Relax FM",
+        "logo": "https://pbs.twimg.com/profile_images/1629684463507570690/k6cWRSGU_200x200.jpg",
+        "group": "Radio_C. Valenciana",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8"
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RELAX_FM.mp3"
+      },
+      {
+        "name": "Remember Radio",
+        "logo": "https://graph.facebook.com/rememberradiocs/picture?width=200&height=200",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB"
+      },
+      {
+        "name": "Remember The Music FM",
+        "logo": "https://pbs.twimg.com/profile_images/1034848375705878528/qt4gn64O_200x200.jpg",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://eu1.lhdserver.es:9041/stream"
+      },
+      {
+        "name": "RockStar",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023734/Rockstar-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3"
+      },
+      {
+        "name": "Sol Latino",
+        "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2024/04/11131523/Sol-Latino-200x200.png",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.emisorasmusicales.net/listen/sol-latino/sol-latino.mp3"
+      },
+      {
+        "name": "Spektra FM",
+        "logo": "https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg",
+        "group": "Radio_C. Valenciana",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stm2.emiteonline.com:9008/spektrafm#.mp3"
       }
     ],
-    "IPTV Películas y Series": [
+    "Peliculas y Series": [
       {
         "name": "Atrescine",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/a3cine_amarillo_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8"
       },
       {
         "name": "LG 1",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "LG 1: Film",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1film_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "LG 1: Spotlight",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1spotlight_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "Moviesphere",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/moviesphere_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg00353-amg00353c71-lg-es-10828.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatetvfast-moviespherespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "Sony One | Hits Acción",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitsaccion_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8"
       },
       {
         "name": "Sony One | Hits Comedia",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitscomedia_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8"
       },
       {
         "name": "Sony One | Series Thriller",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriesthriller_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8"
       },
       {
         "name": "Sony One | Series Comedia",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriescomedia_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8"
       },
       {
         "name": "Sony One | Éxitos",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-exitos_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8"
       },
       {
         "name": "308 Sony One | The Blacklist",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-blacklist_horizontal.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8"
       },
       {
         "name": "Runtime Acción",
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1"
       },
       {
         "name": "MyTime Movie Network",
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.162"
       },
       {
         "name": "Cine Feel Good",
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}"
       },
       {
         "name": "Cines Verdi TV",
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}"
       },
       {
         "name": "Pluto TV Horror",
         "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8"
       },
       {
         "name": "FilmRise Sci-Fi",
         "logo": "https://image.xumo.com/v1/channels/channel/99992180/600x200.png?type=white_cropped",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992180&ads.xumo_streamId=99992180&ads.channelId=99992180&ads.csid=lgchannels_es_filmrisespanish_ssai&ads.channelName=filmrisescifi_es&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_contentId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_providerId=2701&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
         "name": "Cine Friki",
         "logo": "https://d2mxb63djushzm.cloudfront.net/images/cinefriki_logo.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg00711-zylo-amg00711c1-lg-es-8026.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
       },
       {
         "name": "Zylo Cine Friki (1080p)",
         "logo": "https://i.imgur.com/b3Ospym.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
       },
       {
         "name": "Zylo Cine Western (1080p)",
         "logo": "https://i.imgur.com/2UROzSc.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
       },
       {
         "name": "Ciné Western",
         "logo": "https://d2mxb63djushzm.cloudfront.net/images/cinewestern_logo.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg00711-zylo-amg00711c9-lg-es-8025.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]"
       },
       {
         "name": "Grjngo - Películas Del Oeste",
         "logo": "https://img.platform.wurl.dev/channel/1906/lg/00f1df/LG-Logo-PNG-100x100_v1.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8"
       },
       {
         "name": "Pelis Top - Rakuten TV",
         "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/d3251db7-8fb9-49d1-bc00-a22504c37a1e-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_language=es&ads.viewsize=&channel_id=5983&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Acción - Rakuten TV",
         "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/06e3fdc0-4d54-4176-a8b4-b905d0b2077f-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_language=es&ads.viewsize=&channel_id=6069&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Comedia - Rakuten TV",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/0a261879-2f0c-476b-9f46-0f7d4e3e8b72-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_language=es&ads.viewsize=&channel_id=6180&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Thrillers - Rakuten TV",
         "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/bec014df-87c0-4215-885b-a5f8fc2a9422-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_language=es&ads.viewsize=&channel_id=6480&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Cine Español - Rakuten TV",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/2c834a13-dcc4-4914-8148-9fc1bb82b4c2-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_language=es&ads.viewsize=&channel_id=6196&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Románticas - Rakuten TV",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/c860e396-5092-428d-ae7f-57eacc6ec23f-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Drama - Rakuten TV",
         "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/logo-2-1/a9c46921-930e-4f9e-bd54-5828ee5d2390-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_language=es&ads.viewsize=&channel_id=6092&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "En Familia - Rakuten TV",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/3556448b-31da-416a-a4e2-c9c7cd38d543-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_language=es&ads.viewsize=&channel_id=6205&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Sci-Fi - Rakuten TV",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/c4973ec6-e9d6-4d11-8709-3b6d1d0d79c2-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_language=es&ads.viewsize=&channel_id=6740&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "Crimen - Rakuten TV",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/cb5aaf2e-da5e-42a3-9fbe-d38f5881cae5-width400-height200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_language=es&ads.viewsize=&channel_id=6220&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
         "name": "322 BBC Drama",
         "logo": "https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20251111/channel_600x200_a99c5395-cc5d-4813-8fcc-a67368cb9442.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg00793-amg00793c40-lg-es-7759.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
         "name": "944 Mr.Bean",
         "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEAN/MrBEAN_800x200.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg00627-banijay-amg00627c30-lg-es-4254.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]"
       },
       {
         "name": "Todo Comedia",
         "logo": "https://image.xumo.com/v1/channels/channel/99993069/600x200.png?type=white_cropped",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993069&ads.xumo_streamId=99993069&ads.channelId=99993069&ads.ad_tag_id=140650&ads.csid=lgchannels_es_todocomedia_ssai&ads.channelName=todocomedia_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
         "name": "336 Todo Crimen",
         "logo": "https://image.xumo.com/v1/channels/channel/99992176/600x200.png?type=white_cropped",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992176&ads.xumo_streamId=99992176&ads.channelId=99992176&ads.ad_tag_id=134053&ads.csid=lgchannels_es_indigeniuscrimenspanish_ssai&ads.channelName=indigeniuscrimenspanish_es&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_contentId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_providerId=2192&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=es&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
         "name": "Todo Drama",
         "logo": "https://image.xumo.com/v1/channels/channel/99993053/600x200.png?type=white_cropped",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993053&ads.xumo_streamId=99993053&ads.channelId=99993053&ads.ad_tag_id=120204&ads.csid=lgchannels_es_tododrama_ssai&ads.channelName=tododrama_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
         "name": "ARTFLIX - Películas Clásicas",
         "logo": "https://img.platform.wurl.dev/channel/1249/lg/dfa8d0/LG-Logo-PNG-100x100_v1.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8"
       },
       {
         "name": "Univers TV (720p)",
         "logo": "https://i.imgur.com/EW2bfix.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
       },
       {
         "name": "Rakuten TV Family Movies Spain (1080p)",
         "logo": "https://i.imgur.com/Meew6eX.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
       },
       {
         "name": "Cines Verdi",
         "logo": "https://media.tvup.cloud/canales/generic_cd_61c334655ca0550022dd5bad.png?t=1670423468?t=1682523821?t=1682579705?t=1684244478?t=1685027302?width=200&height=200",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://daiconnect.com/live/hls/tvup/lg-verdi/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
       },
       {
         "name": "Cine Feel Good Verdi",
         "logo": "https://media.tvup.cloud/canales/generic_cd_61c335178a6158002173130d.png?t=1681700682?t=1682523806?t=1685353350?width=200&height=200",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://daiconnect.com/live/hls/tvup/lg-feelgood/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
       },
       {
         "name": "220 Runtime",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_espana_1400x2000.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "221 Runtime Acción",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_3.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "222 Runtime Crimen",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_1.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "223 Runtime Thriller",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "224 Runtime Comedia",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/logo/711x400/runtime_comedia_16x9.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "225 Runtime Romance",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_0.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "226 Runtime Clásicos",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_2.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "312 Runtime Series",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_5.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "914 Runtime Familia",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/267x400/runtime_familia_2x3.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13804&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "Rakuten TV Action Movies Spain (1080p)",
         "logo": "https://i.imgur.com/Meew6eX.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
       },
       {
         "name": "Rakuten TV Comedy Movies Spain (1080p)",
         "logo": "https://i.imgur.com/Meew6eX.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
       },
       {
         "name": "Rakuten TV Drama Movies Spain (1080p)",
         "logo": "https://i.imgur.com/Meew6eX.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
       },
       {
         "name": "Rakuten TV Top Movies Spain (1080p)",
         "logo": "https://i.imgur.com/Meew6eX.png",
-        "group": "IPTV Películas y Series",
+        "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
-      }
-    ],
-    "Cocina": [
-      {
-        "name": "822 NEW KFOOD",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_002/lg_channels/img/channel_logo/default/channel_logo.png",
-        "group": "Cocina",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-4ab945a0&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
-      },
-      {
-        "name": "622 Gusto TV",
-        "logo": "https://img.platform.wurl.dev/channel/858/lg/a0ee4b/LG-Logo-PNG-100x100_v1.png",
-        "group": "Cocina",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://742a5e35.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR3VzdG9UVl9ITFM/playlist.m3u8"
-      }
-    ],
-    "Documentales": [
-      {
-        "name": "Historia",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_horizontal.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
-      },
-      {
-        "name": "Historia y Vida",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovehistoriayvida_horizontal.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
-      },
-      {
-        "name": "Crimen&Historia",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_horizontal.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c23-lg-es-6727.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-crimenandhistoria-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
-      },
-      {
-        "name": "Love The Planet",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetheplanet_horizontal.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Love Wine",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_horizontal.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
-      },
-      {
-        "name": "Viajes&Sabores",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetaste&taste_horizontal.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
-      },
-      {
-        "name": "Inglés Total",
-        "logo": "https://media.tvup.cloud/canales/generic_cd_628ce71965774400228da9ae.jpg?t=1658242386?t=1683806449?t=1687212737?width=200&height=200",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
-      },
-      {
-        "name": "NatureTime",
-        "logo": "https://i.imgur.com/72JmyjM.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8"
-      },
-      {
-        "name": "NatureVision",
-        "logo": "https://image.xumo.com/v1/channels/channel/99992449/600x200.png?type=white_cropped",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=naturevision_es&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
-      },
-      {
-        "name": "Naturaleza",
-        "logo": "https://image.xumo.com/v1/channels/channel/99992502/600x200.png?type=white_cropped",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992502&ads.xumo_streamId=99992502&ads.channelId=99992502&ads.ad_tag_id=134054&ads.csid=lgchannels_es_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_es&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
-      },
-      {
-        "name": "Wildearth",
-        "logo": "https://d2rx6itp6voihr.cloudfront.net/WE_LOGO_LIGHT_LGPlus_V2.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
-      },
-      {
-        "name": "Space Live",
-        "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://linear-1224.frequency.stream/dist/lg-es/1224/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
-      },
-      {
-        "name": "613 Travelxp",
-        "logo": "https://img.platform.wurl.dev/channel/1613/lg/e2e0ef/LG-Logo-PNG-100x100_v1.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8"
-      },
-      {
-        "name": "Ice Pilots",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES24000028L"
-      },
-      {
-        "name": "La Fiebre del Jade",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES1600002QL"
-      },
-      {
-        "name": "Top Gear",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES2700002YP"
-      },
-      {
-        "name": "Mayday: Catástrofe Aérea",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES2800002MM"
-      },
-      {
-        "name": "CURIOSITY Now",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES1400002CJ"
-      },
-      {
-        "name": "Historia y Vida",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260407T040050SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES12000024R"
-      },
-      {
-        "name": "Royalworld - Nobleza y Dinastias",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ESBD1400003QN"
-      },
-      {
-        "name": "BBC Earth",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES3200001F1"
-      },
-      {
-        "name": "NatureTime",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ESBA22000102A"
-      },
-      {
-        "name": "WildEarth",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ESBA330004121"
-      },
-      {
-        "name": "Naturaleza",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20250527T014628SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES1600003FF"
-      },
-      {
-        "name": "Love the Planet",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ESBC4700002TD"
-      },
-      {
-        "name": "WaterBear",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ESBC170000388"
       }
     ],
     "PlutoTV Films": [
