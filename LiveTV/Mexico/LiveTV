@@ -834,12 +834,6 @@
     "img": "https://i.imgur.com/N4meE8I.png"
   },
   {
-    "name": "Nickelodeon Latin America North (480p)",
-    "type": "Kids",
-    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8",
-    "img": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
     "name": "PSN (288p)",
     "type": "Entertainment;News",
     "url": "https://srspsn.live/live/livestream.m3u8",
