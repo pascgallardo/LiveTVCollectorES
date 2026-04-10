@@ -830,12 +830,12 @@ URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: La 1
+Name: La 1 (720p)
 URL: https://ztnr.rtve.es/ztnr/1688877.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: La 2
+Name: La 2 (720p)
 URL: https://ztnr.rtve.es/ztnr/1688885.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u

@@ -9,9 +9,9 @@ https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_horizontal.jpg" group-title="Generalistas",RNE para todos
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg" group-title="Generalistas",La 1
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg" group-title="Generalistas",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2 (720p)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_negro_horizontal.jpg" group-title="Generalistas",Antena 3 Internacional
 http://187.190.55.136:5501/udp/225.1.1.101:5101

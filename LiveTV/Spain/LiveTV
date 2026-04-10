@@ -30,13 +30,13 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_horizontal.jpg"
   },
   {
-    "name": "La 1",
+    "name": "La 1 (720p)",
     "type": "Generalistas",
     "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg"
   },
   {
-    "name": "La 2",
+    "name": "La 2 (720p)",
     "type": "Generalistas",
     "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg"
