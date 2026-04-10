@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-09 22:32:18",
+  "date": "2026-04-10 07:34:52",
   "channels": {
     "Religious": [
       {
@@ -7435,11 +7435,11 @@
         "url": "https://reflector.watchtstv.com/hls/livestream.m3u8"
       },
       {
-        "name": "TUDN (1080p) [Geo-blocked]",
+        "name": "TUDN (1080p)",
         "logo": "https://i.imgur.com/oT5CAvd.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
+        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8"
       },
       {
         "name": "TV Asia (1080p)",

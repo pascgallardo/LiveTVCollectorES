@@ -6336,9 +6336,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "TUDN (1080p) [Geo-blocked]",
+    "name": "TUDN (1080p)",
     "type": "Undefined",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+    "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8",
     "img": "https://i.imgur.com/oT5CAvd.png"
   },
   {

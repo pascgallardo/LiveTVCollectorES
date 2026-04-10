@@ -11358,8 +11358,8 @@ URL: https://reflector.watchtstv.com/hls/livestream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: TUDN (1080p) [Geo-blocked]
-URL: https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+Name: TUDN (1080p)
+URL: http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 Logo: https://i.imgur.com/oT5CAvd.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
