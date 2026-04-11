@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-10 22:14:25",
+  "date": "2026-04-11 07:23:21",
   "channels": {
     "Religious": [
       {
@@ -7926,7 +7926,7 @@
       },
       {
         "name": "WTVJ-DT1 (1080p)",
-        "logo": "https://i.imgur.com/p3HXpSv.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WTVJ_2023.svg/960px-WTVJ_2023.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8"
