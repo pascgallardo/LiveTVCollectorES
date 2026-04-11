@@ -35,6 +35,13 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoan
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
+Group: Animation;Kids
+Name: Mr. Bean Anime Spain (1080p)
+URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+Logo: https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+
 Group: Basadas en libros
 Name: Los Mosqueteros
 URL: https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/67c7249be979b84e78ca43ff/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=462fbd0e-350f-11f1-b627-7c1e52685e7a&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=462fbd0e-350f-11f1-b627-7c1e52685e7a&deviceLat=40.4400&deviceLon=-3.7100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=ES&serverSideAds=false&sessionID=46357893-350f-11f1-b5b8-3e3dd1ebee63&sid=46357893-350f-11f1-b5b8-3e3dd1ebee63&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAyMDhmZGQ0LTliZmMtNDdjYy1iOGVjLTk4NWNjZmJiYTliZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0NjM1Nzg5My0zNTBmLTExZjEtYjViOC0zZTNkZDFlYmVlNjMiLCJjbGllbnRJUCI6Ijg4LjI2LjI0MS4yNDgiLCJjaXR5IjoiTWFkcmlkIiwicG9zdGFsQ29kZSI6IjI4MDAzIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6NDAuNDM5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOi0zLjcxMDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMS4wIiwiY2xpZW50SUQiOiI0NjJmYmQwZS0zNTBmLTExZjEtYjYyNy03YzFlNTI2ODVlN2EiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjQ2MmZiZDBlLTM1MGYtMTFmMS1iNjI3LTdjMWU1MjY4NWU3YSIsImZ3VmNJRDJDb3BwYSI6IjQ2MmZiZDBlLTM1MGYtMTFmMS1iNjI3LTdjMWU1MjY4NWU3YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNDYyZmJkMGUtMzUwZi0xMWYxLWI2MjctN2MxZTUyNjg1ZTdhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxMywxMDAyMSwxMDAyMywxMDAwMCwxMDAwOSwxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3NTg0NzUxNDM4OCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5EWXlabUprTUdVdE16VXdaaTB4TVdZeExXSTJNamN0TjJNeFpUVXlOamcxWlRkaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzU5MzM5MTQsImlhdCI6MTc3NTg0NzUxNCwianRpIjoiZGIxZTY0NTQtZDZkMy00YzkzLWE2OGMtOGM0Y2FlMmRiZGQxIn0.RoW_jo8t2p_DGT47BV7ZFL9BOhIATq2I8eBXXKgkGVQ&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
@@ -1284,7 +1291,7 @@ Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: MyTime Movie Network
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.162
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.246
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------

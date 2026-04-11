@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-11 08:09:55",
+  "date": "2026-04-11 14:21:21",
   "channels": {
     "Generalistas": [
       {
@@ -1605,7 +1605,7 @@
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.162"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.246"
       },
       {
         "name": "Cine Feel Good",
@@ -1900,6 +1900,15 @@
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Mr. Bean Anime Spain (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
       }
     ],
     "PlutoTV Films": [
