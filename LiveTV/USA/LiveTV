@@ -8958,6 +8958,24 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png"
   },
   {
+    "name": "WSOC Charlotte",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-USBC1000017D8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png"
+  },
+  {
+    "name": "WBTV News",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-US700004OA",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png"
+  },
+  {
+    "name": "WCNC",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-US1400004HN",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png"
+  },
+  {
     "name": "FOX Weather",
     "type": "News & Opinion",
     "url": "https://jmp2.uk/stvp-USBD700003L7",
@@ -8970,10 +8988,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260224T212706SQUARE.png"
   },
   {
-    "name": "WeatherNation",
+    "name": "WN Charlotte",
     "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-USBC1500009LD",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBC3200001S5",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png"
   },
   {
     "name": "BBC News",
