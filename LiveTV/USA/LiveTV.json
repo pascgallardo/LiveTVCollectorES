@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-12 22:02:46",
+  "date": "2026-04-13 07:40:32",
   "channels": {
     "Religious": [
       {
@@ -6089,6 +6089,13 @@
         "url": "https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8"
       },
       {
+        "name": "KNSO 51.1 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8"
+      },
+      {
         "name": "KNTV-DT1 (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
@@ -6653,7 +6660,7 @@
         "logo": "https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://mlb.essastream.com:8081/dajatv/playlist.m3u8"
+        "url": "https://edge.essastream.com/dajatv/playlist.m3u8"
       },
       {
         "name": "TV Hispanic [Not 24/7]",
