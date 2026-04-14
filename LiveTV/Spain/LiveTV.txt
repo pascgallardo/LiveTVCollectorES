@@ -1291,7 +1291,7 @@ Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: MyTime Movie Network
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.246
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=217.216.126.48
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
@@ -2425,6 +2425,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Radio Andalucía Información
 URL: https://rtva-live-radio.flumotion.com/rtva/rai.mp3
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_horizontal.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Radio Andalucía Información Málaga
+URL: https://rtva-live-radio.flumotion.com/rtva/raimal.mp3
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio Nacional Andalucía

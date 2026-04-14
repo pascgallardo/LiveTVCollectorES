@@ -936,6 +936,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_horizontal.jpg"
   },
   {
+    "name": "Radio Andalucía Información Málaga",
+    "type": "Radio_Andalucía",
+    "url": "https://rtva-live-radio.flumotion.com/rtva/raimal.mp3",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_horizontal.jpg"
+  },
+  {
     "name": "Radio Nacional Andalucía",
     "type": "Radio_Andalucía",
     "url": "https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high",
@@ -1346,7 +1352,7 @@
   {
     "name": "MyTime Movie Network",
     "type": "Peliculas y Series",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.246",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=217.216.126.48",
     "img": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg"
   },
   {

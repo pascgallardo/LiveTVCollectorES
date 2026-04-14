@@ -311,6 +311,8 @@ https://rtva-live-radio.flumotion.com/rtva/csm.mp3
 https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_horizontal.jpg" group-title="Radio_Andalucía",Radio Andalucía Información
 https://rtva-live-radio.flumotion.com/rtva/rai.mp3
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_horizontal.jpg" group-title="Radio_Andalucía",Radio Andalucía Información Málaga
+https://rtva-live-radio.flumotion.com/rtva/raimal.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_horizontal.jpg" group-title="Radio_Andalucía",Radio Nacional Andalucía
 https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_horizontal.jpg" group-title="Radio_Andalucía",Radio 5 Andalucía
@@ -448,7 +450,7 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="Peliculas y Series",Runtime Acción
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Peliculas y Series",MyTime Movie Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.246
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=217.216.126.48
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg" group-title="Peliculas y Series",Cine Feel Good
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg" group-title="Peliculas y Series",Cines Verdi TV
