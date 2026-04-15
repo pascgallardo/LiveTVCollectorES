@@ -1,7 +1,7 @@
 Group: Andalucía
 Name: Canal Málaga
 URL: https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_2025_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagatv_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101TV Málaga
@@ -33,13 +33,6 @@ Name: Parlamento de Andalucía
 URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
-Group: Animation;Kids
-Name: Mr Bean Animated
-URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png
-Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
 Group: Basadas en libros
@@ -471,14 +464,29 @@ URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewines
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Viajes&Sabores
+Name: Viajes y Sabores
 URL: https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetravel&taste_horizontal.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: El Mueble
+URL: https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Inglés Total
 URL: https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/inglestotal_horizontal.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: NatureTime
+URL: https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+Logo: https://i.imgur.com/72JmyjM.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: NatureTime Finland (1080p)
+URL: https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+Logo: https://i.imgur.com/72JmyjM.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: NatureVision
@@ -899,14 +907,14 @@ URL: https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ani
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_sports_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Anime Zone TV
-URL: http://animezonetv.net/hls/stream.m3u8
-Logo: https://i.imgur.com/AHaXlCh.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: La Abeja Maya
 URL: https://daiconnect.com/live/hls/tvup/lg-planetajunior/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
 Logo: https://media.tvup.cloud/canales/generic_cd_6479dd1666328d12f0eb0843_1741875547087.jpg?width=200&height=200
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Mr Bean Animated
+URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
@@ -1255,39 +1263,39 @@ URL: https://amg00353-amg00353c71-lg-es-10828.playouts.now.amagi.tv/ts-eu-w1-n2/
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/moviesphere_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Sony One | Hits Acción
+Name: Sony One Hits Acción
 URL: https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitsaccion_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Sony One | Hits Comedia
+Name: Sony One Hits Comedia
 URL: https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitscomedia_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Sony One | Series Thriller
+Name: Sony One Series Thriller
 URL: https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriesthriller_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Sony One | Series Comedia
+Name: Sony One Series Comedia
 URL: https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriescomedia_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Sony One | Éxitos
+Name: Sony One Éxitos
 URL: https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-exitos_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 308 Sony One | The Blacklist
+Name: Sony One The Blacklist
 URL: https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-blacklist_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Runtime Acción
-URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg
+Name: Film&Co
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=5625&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=runtime.tv&app_name=Runtime&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=1&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=es&country_region=andalusia&postal_code=29006&gender=not_specified&yob=0&consent=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: MyTime Movie Network
@@ -1420,69 +1428,59 @@ URL: https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.co
 Logo: https://img.platform.wurl.dev/channel/1249/lg/dfa8d0/LG-Logo-PNG-100x100_v1.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Univers TV (720p)
+Name: Univers TV
 URL: https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-Logo: https://i.imgur.com/EW2bfix.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Rakuten TV Family Movies Spain (1080p)
-URL: https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-Logo: https://i.imgur.com/Meew6eX.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Cines Verdi
-URL: https://daiconnect.com/live/hls/tvup/lg-verdi/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
-Logo: https://media.tvup.cloud/canales/generic_cd_61c334655ca0550022dd5bad.png?t=1670423468?t=1682523821?t=1682579705?t=1684244478?t=1685027302?width=200&height=200
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Cine Feel Good Verdi
-URL: https://daiconnect.com/live/hls/tvup/lg-feelgood/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
-Logo: https://media.tvup.cloud/canales/generic_cd_61c335178a6158002173130d.png?t=1681700682?t=1682523806?t=1685353350?width=200&height=200
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: 220 Runtime
+Name: Runtime Cine y Series
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_espana_1400x2000.png
+Logo: https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online-1536x864.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 221 Runtime Acción
+Name: Runtime Acción
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_3.png
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 222 Runtime Crimen
+Name: Runtime Crimen
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_1.png
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 223 Runtime Thriller
+Name: Runtime Thriller-Terror
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000.png
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 224 Runtime Comedia
+Name: Runtime Comedia
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 Logo: https://lge-static.ottera.tv/prod/run/linear_channel/logo/711x400/runtime_comedia_16x9.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 225 Runtime Romance
+Name: Runtime Romance
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_0.png
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 226 Runtime Clásicos
+Name: Runtime Clásicos
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_2.png
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: 312 Runtime Series
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_5.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: 914 Runtime Familia
+Name: Runtime Familia
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13804&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/267x400/runtime_familia_2x3.png
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Runtime Series
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+Logo: https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_series_16x9_0.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Rakuten TV Top Movies Spain (1080p)
+URL: https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+Logo: https://i.imgur.com/Meew6eX.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Rakuten TV Action Movies Spain (1080p)
@@ -1500,8 +1498,8 @@ URL: https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.co
 Logo: https://i.imgur.com/Meew6eX.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Rakuten TV Top Movies Spain (1080p)
-URL: https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+Name: Rakuten TV Family Movies Spain (1080p)
+URL: https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 Logo: https://i.imgur.com/Meew6eX.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
@@ -2442,9 +2440,14 @@ URL: https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: 101 FM Radio
+URL: https://liveingesta318.cdnmedia.tv/101weblive/101FM/chunklist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101fmradio_horizontal.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Canal Málaga RTV
 URL: https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_2025_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagaradio_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: COPE Málaga

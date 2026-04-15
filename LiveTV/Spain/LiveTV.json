@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-15 14:55:26",
+  "date": "2026-04-15 22:40:29",
   "channels": {
     "Generalistas": [
       {
@@ -62,7 +62,7 @@
     "Andalucía": [
       {
         "name": "Canal Málaga",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_2025_horizontal.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagatv_horizontal.jpg",
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
@@ -379,18 +379,18 @@
         "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisports&channel_id=newid_212&mpf=3a2ef9c5-39af1962-b3553a43&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=2a148a9d-d3d99606-56757225-a4a90caa&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
-        "name": "Anime Zone TV",
-        "logo": "https://i.imgur.com/AHaXlCh.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "http://animezonetv.net/hls/stream.m3u8"
-      },
-      {
         "name": "La Abeja Maya",
         "logo": "https://media.tvup.cloud/canales/generic_cd_6479dd1666328d12f0eb0843_1741875547087.jpg?width=200&height=200",
         "group": "Infantiles",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://daiconnect.com/live/hls/tvup/lg-planetajunior/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
+      },
+      {
+        "name": "Mr Bean Animated",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_horizontal.jpg",
+        "group": "Infantiles",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
       }
     ],
     "Int. Europa": [
@@ -497,11 +497,18 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
-        "name": "Viajes&Sabores",
+        "name": "Viajes y Sabores",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetravel&taste_horizontal.jpg",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+      },
+      {
+        "name": "El Mueble",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_horizontal.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8"
       },
       {
         "name": "Inglés Total",
@@ -509,6 +516,20 @@
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
+      },
+      {
+        "name": "NatureTime",
+        "logo": "https://i.imgur.com/72JmyjM.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+      },
+      {
+        "name": "NatureTime Finland (1080p)",
+        "logo": "https://i.imgur.com/72JmyjM.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
       },
       {
         "name": "NatureVision",
@@ -1142,8 +1163,15 @@
         "url": "https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high"
       },
       {
+        "name": "101 FM Radio",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101fmradio_horizontal.jpg",
+        "group": "Radio_Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://liveingesta318.cdnmedia.tv/101weblive/101FM/chunklist.m3u8"
+      },
+      {
         "name": "Canal Málaga RTV",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_2025_horizontal.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagaradio_horizontal.jpg",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3"
@@ -1559,53 +1587,53 @@
         "url": "https://amg00353-amg00353c71-lg-es-10828.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatetvfast-moviespherespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
-        "name": "Sony One | Hits Acción",
+        "name": "Sony One Hits Acción",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitsaccion_horizontal.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8"
       },
       {
-        "name": "Sony One | Hits Comedia",
+        "name": "Sony One Hits Comedia",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitscomedia_horizontal.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8"
       },
       {
-        "name": "Sony One | Series Thriller",
+        "name": "Sony One Series Thriller",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriesthriller_horizontal.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8"
       },
       {
-        "name": "Sony One | Series Comedia",
+        "name": "Sony One Series Comedia",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriescomedia_horizontal.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8"
       },
       {
-        "name": "Sony One | Éxitos",
+        "name": "Sony One Éxitos",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-exitos_horizontal.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8"
       },
       {
-        "name": "308 Sony One | The Blacklist",
+        "name": "Sony One The Blacklist",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-blacklist_horizontal.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8"
       },
       {
-        "name": "Runtime Acción",
-        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg",
+        "name": "Film&Co",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=5625&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=runtime.tv&app_name=Runtime&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=1&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=es&country_region=andalusia&postal_code=29006&gender=not_specified&yob=0&consent=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web"
       },
       {
         "name": "MyTime Movie Network",
@@ -1790,95 +1818,81 @@
         "url": "https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8"
       },
       {
-        "name": "Univers TV (720p)",
-        "logo": "https://i.imgur.com/EW2bfix.png",
+        "name": "Univers TV",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_horizontal.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
       },
       {
-        "name": "Rakuten TV Family Movies Spain (1080p)",
-        "logo": "https://i.imgur.com/Meew6eX.png",
-        "group": "Peliculas y Series",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-      },
-      {
-        "name": "Cines Verdi",
-        "logo": "https://media.tvup.cloud/canales/generic_cd_61c334655ca0550022dd5bad.png?t=1670423468?t=1682523821?t=1682579705?t=1684244478?t=1685027302?width=200&height=200",
-        "group": "Peliculas y Series",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://daiconnect.com/live/hls/tvup/lg-verdi/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
-      },
-      {
-        "name": "Cine Feel Good Verdi",
-        "logo": "https://media.tvup.cloud/canales/generic_cd_61c335178a6158002173130d.png?t=1681700682?t=1682523806?t=1685353350?width=200&height=200",
-        "group": "Peliculas y Series",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://daiconnect.com/live/hls/tvup/lg-feelgood/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
-      },
-      {
-        "name": "220 Runtime",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_espana_1400x2000.png",
+        "name": "Runtime Cine y Series",
+        "logo": "https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online-1536x864.png",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "221 Runtime Acción",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_3.png",
+        "name": "Runtime Acción",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "222 Runtime Crimen",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_1.png",
+        "name": "Runtime Crimen",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "223 Runtime Thriller",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000.png",
+        "name": "Runtime Thriller-Terror",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "224 Runtime Comedia",
+        "name": "Runtime Comedia",
         "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/logo/711x400/runtime_comedia_16x9.png",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "225 Runtime Romance",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_0.png",
+        "name": "Runtime Romance",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "226 Runtime Clásicos",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_2.png",
+        "name": "Runtime Clásicos",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "312 Runtime Series",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_5.png",
+        "name": "Runtime Familia",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg",
+        "group": "Peliculas y Series",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13804&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+      },
+      {
+        "name": "Runtime Series",
+        "logo": "https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_series_16x9_0.jpg",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "914 Runtime Familia",
-        "logo": "https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/267x400/runtime_familia_2x3.png",
+        "name": "Rakuten TV Top Movies Spain (1080p)",
+        "logo": "https://i.imgur.com/Meew6eX.png",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13804&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+        "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
       },
       {
         "name": "Rakuten TV Action Movies Spain (1080p)",
@@ -1902,20 +1916,11 @@
         "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
       },
       {
-        "name": "Rakuten TV Top Movies Spain (1080p)",
+        "name": "Rakuten TV Family Movies Spain (1080p)",
         "logo": "https://i.imgur.com/Meew6eX.png",
         "group": "Peliculas y Series",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
-      }
-    ],
-    "Animation;Kids": [
-      {
-        "name": "Mr Bean Animated",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
-        "group": "Animation;Kids",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+        "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
       }
     ],
     "PlutoTV Films": [
