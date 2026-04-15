@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-14 22:24:39",
+  "date": "2026-04-15 06:53:38",
   "channels": {
     "General": [
       {
@@ -986,6 +986,15 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+      }
+    ],
+    "Animation;Culture;Entertainment": [
+      {
+        "name": "GikTVMX (720p)",
+        "logo": "https://i.imgur.com/Gwz78jZ.png",
+        "group": "Animation;Culture;Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://pistream.ddns.net/hls/stream.m3u8"
       }
     ],
     "Entertainment;Sports": [

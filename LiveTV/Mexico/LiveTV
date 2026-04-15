@@ -822,6 +822,12 @@
     "img": "https://i.imgur.com/pw4NZK1.png"
   },
   {
+    "name": "GikTVMX (720p)",
+    "type": "Animation;Culture;Entertainment",
+    "url": "https://pistream.ddns.net/hls/stream.m3u8",
+    "img": "https://i.imgur.com/Gwz78jZ.png"
+  },
+  {
     "name": "ITV Deportes (720p)",
     "type": "Entertainment;Sports",
     "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
