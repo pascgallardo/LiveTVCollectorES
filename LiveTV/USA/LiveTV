@@ -1002,6 +1002,12 @@
     "img": "https://i.imgur.com/zgiuNNj.png"
   },
   {
+    "name": "Lifetime Movie Favorites",
+    "type": "Movies",
+    "url": "https://jmp2.uk/stvp-USBB5200019FO",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260414T005535SQUARE.png"
+  },
+  {
     "name": "Movie Hub",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
@@ -1036,12 +1042,6 @@
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBD270001633",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20260217T231325SQUARE.png"
-  },
-  {
-    "name": "Lifetime Movie Favorites",
-    "type": "Movies",
-    "url": "https://jmp2.uk/stvp-USBB5200019FO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260414T005535SQUARE.png"
   },
   {
     "name": "Lifetime Movies Love & Drama",
@@ -3084,10 +3084,16 @@
     "img": "https://i.imgur.com/rXORbti.png"
   },
   {
-    "name": "National Lampoon",
+    "name": "Hot Ones",
     "type": "Comedy",
-    "url": "https://jmp2.uk/stvp-US1800015K5",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20260414T005547SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US2900006IV",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900006IV_20260414T005530SQUARE.png"
+  },
+  {
+    "name": "BET x Tyler Perry Comedy",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/stvp-US2500009PQ",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20260414T005511SQUARE.png"
   },
   {
     "name": "Animation+",
@@ -3112,12 +3118,6 @@
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-US4100038R9",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png"
-  },
-  {
-    "name": "Hot Ones",
-    "type": "Comedy",
-    "url": "https://jmp2.uk/stvp-US2900006IV",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900006IV_20260414T005530SQUARE.png"
   },
   {
     "name": "Smosh",
@@ -3156,16 +3156,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20260407T042308SQUARE.png"
   },
   {
-    "name": "BET x Tyler Perry Comedy",
-    "type": "Comedy",
-    "url": "https://jmp2.uk/stvp-US2500009PQ",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20260414T005511SQUARE.png"
-  },
-  {
     "name": "Are We There Yet?",
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-US1900011ZN",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900011ZN_20260210T002145SQUARE.png"
+  },
+  {
+    "name": "National Lampoon",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/stvp-US1800015K5",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20260414T005547SQUARE.png"
   },
   {
     "name": "GET Comedy",
@@ -7596,46 +7596,22 @@
     "img": "https://i.imgur.com/HHmc14i.png"
   },
   {
+    "name": "Watch it KID! (480i)",
+    "type": "Kids",
+    "url": "https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256",
+    "img": "https://i.imgur.com/YNx0j1b.png"
+  },
+  {
     "name": "Nick Pluto TV",
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBA3000158L",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png"
   },
   {
-    "name": "Mattel Jr.",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US4500002UB",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500002UB_20260414T005540SQUARE.png"
-  },
-  {
-    "name": "Barbie and Friends",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD490000209",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20260414T005516SQUARE.png"
-  },
-  {
-    "name": "Hot Wheels Action",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US2900013AY",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20260414T005648SQUARE.png"
-  },
-  {
     "name": "PBS Kids",
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBC3600013PC",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20260414T005552SQUARE.png"
-  },
-  {
-    "name": "Moonbug",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBB11000015Q",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20260414T005315SQUARE.png"
-  },
-  {
-    "name": "Blippi",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US9000032J",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20260414T005522SQUARE.png"
   },
   {
     "name": "Peppa Pig & Friends",
@@ -7650,22 +7626,28 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US17000208H_20260414T005505SQUARE.png"
   },
   {
+    "name": "Blippi",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US9000032J",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20260414T005522SQUARE.png"
+  },
+  {
+    "name": "Moonbug",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBB11000015Q",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20260414T005315SQUARE.png"
+  },
+  {
+    "name": "Mattel Jr.",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US4500002UB",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500002UB_20260414T005540SQUARE.png"
+  },
+  {
     "name": "Caillou",
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBD50000048H",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20260414T005524SQUARE.png"
-  },
-  {
-    "name": "Baby Einstein",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD350002338",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20260414T005514SQUARE.png"
-  },
-  {
-    "name": "Teletubbies",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD3500015R5",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20260414T005629SQUARE.png"
   },
   {
     "name": "Barney and Friends",
@@ -7674,10 +7656,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300001UO_20260414T005519SQUARE.png"
   },
   {
-    "name": "Strawberry Shortcake",
+    "name": "Baby Einstein",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBC4400012QS",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20260414T005627SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBD350002338",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20260414T005514SQUARE.png"
+  },
+  {
+    "name": "Barbie and Friends",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBD490000209",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20260414T005516SQUARE.png"
   },
   {
     "name": "My Little Pony",
@@ -7686,58 +7674,28 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900011CJ_20260414T005544SQUARE.png"
   },
   {
-    "name": "HappyKids",
+    "name": "Strawberry Shortcake",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBC44000072I",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20260414T005527SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBC4400012QS",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20260414T005627SQUARE.png"
   },
   {
-    "name": "Rainbow Ruby",
+    "name": "Pokémon",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD3300015BY",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20260414T005604SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US5100003NU",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5100003NU_20260414T005559SQUARE.png"
   },
   {
-    "name": "ZooMoo",
+    "name": "Yu-Gi-Oh",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBC2400019EF",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20260414T005640SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US1000003G8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000003G8_20260414T005637SQUARE.png"
   },
   {
-    "name": "Rev and Roll",
+    "name": "Ninja Kidz",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD3300016AK",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20260414T005607SQUARE.png"
-  },
-  {
-    "name": "TG Junior",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBB3600001R6",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20260414T005428SQUARE.png"
-  },
-  {
-    "name": "All Babies Channel",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD3300019OU",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20260414T005500SQUARE.png"
-  },
-  {
-    "name": "ducktv",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US3400003HI",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20260414T005642SQUARE.png"
-  },
-  {
-    "name": "Sensical Jr",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD3300013KV",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300013KV_20260414T005616SQUARE.png"
-  },
-  {
-    "name": "Kartoon Channel!",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US2900015RO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20260414T005532SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US2200007QG",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20260414T005549SQUARE.png"
   },
   {
     "name": "Power Rangers",
@@ -7746,10 +7704,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900012T8_20260414T005601SQUARE.png"
   },
   {
-    "name": "Transformers",
+    "name": "Hot Wheels Action",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US29000168D",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20260303T094158SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US2900013AY",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20260414T005648SQUARE.png"
   },
   {
     "name": "The LEGO Channel",
@@ -7764,22 +7722,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20260414T005621SQUARE.png"
   },
   {
-    "name": "Slugterra",
+    "name": "Teletubbies",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USBD33000180S",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD33000180S_20260414T005618SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBD3500015R5",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20260414T005629SQUARE.png"
   },
   {
-    "name": "Yu-Gi-Oh",
+    "name": "Sensical Jr",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US1000003G8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000003G8_20260414T005637SQUARE.png"
-  },
-  {
-    "name": "Pokémon",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US5100003NU",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5100003NU_20260414T005559SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBD3300013KV",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300013KV_20260414T005616SQUARE.png"
   },
   {
     "name": "Ryan and Friends",
@@ -7788,28 +7740,88 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000239N_20260414T005610SQUARE.png"
   },
   {
+    "name": "Rev and Roll",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBD3300016AK",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20260414T005607SQUARE.png"
+  },
+  {
+    "name": "Transformers",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US29000168D",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20260303T094158SQUARE.png"
+  },
+  {
+    "name": "BBC Kids",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US800003JM",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20260414T005508SQUARE.png"
+  },
+  {
+    "name": "Rainbow Ruby",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBD3300015BY",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20260414T005604SQUARE.png"
+  },
+  {
     "name": "pocket.watch Game-On",
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBD12000153A",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000153A_20260414T005645SQUARE.png"
   },
   {
-    "name": "Ninja Kidz",
+    "name": "Kidoodle.TV",
     "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US2200007QG",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20260414T005549SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USAK3508716A",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20260414T005302SQUARE.png"
+  },
+  {
+    "name": "TG Junior",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBB3600001R6",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20260414T005428SQUARE.png"
+  },
+  {
+    "name": "All Babies Channel",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBD3300019OU",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20260414T005500SQUARE.png"
+  },
+  {
+    "name": "HappyKids",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBC44000072I",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20260414T005527SQUARE.png"
+  },
+  {
+    "name": "ZooMoo",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBC2400019EF",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20260414T005640SQUARE.png"
+  },
+  {
+    "name": "Kartoon Channel!",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US2900015RO",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20260414T005532SQUARE.png"
+  },
+  {
+    "name": "Slugterra",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-USBD33000180S",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD33000180S_20260414T005618SQUARE.png"
+  },
+  {
+    "name": "ducktv",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US3400003HI",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20260414T005642SQUARE.png"
   },
   {
     "name": "Toon Goggles",
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBB1900004J9",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20260414T005441SQUARE.png"
-  },
-  {
-    "name": "Kidoodle.TV",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-USAK3508716A",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20260414T005302SQUARE.png"
   },
   {
     "name": "Sensical Makers",
@@ -7822,12 +7834,6 @@
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBD3300012VX",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20250211T021653SQUARE.png"
-  },
-  {
-    "name": "BBC Kids",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US800003JM",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20260414T005508SQUARE.png"
   },
   {
     "name": "America's Test Kitchen (1080p) [Geo-blocked]",
@@ -9144,6 +9150,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260414T005613SQUARE.png"
   },
   {
+    "name": "Stories by AMC",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-USBD2500018X6",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20260414T005624SQUARE.png"
+  },
+  {
     "name": "ALL ACTION",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-USBB2300001QP",
@@ -9160,12 +9172,6 @@
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-USBD300003LK",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20251125T030844SQUARE.png"
-  },
-  {
-    "name": "Stories by AMC",
-    "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-USBD2500018X6",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20260414T005624SQUARE.png"
   },
   {
     "name": "CW FOREVER",
@@ -9768,12 +9774,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500001DM_20250812T003515SQUARE.png"
   },
   {
-    "name": "Plated",
-    "type": "Home & Food",
-    "url": "https://jmp2.uk/stvp-USBC1300008AZ",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20260414T005345SQUARE.png"
-  },
-  {
     "name": "Home Refresh",
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-USBC21000142T",
@@ -9886,6 +9886,12 @@
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-USBC6000108Z",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000108Z_20241105T024216SQUARE.png"
+  },
+  {
+    "name": "Plated",
+    "type": "Home & Food",
+    "url": "https://jmp2.uk/stvp-USBC1300008AZ",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20260414T005345SQUARE.png"
   },
   {
     "name": "The Martha Stewart Channel",
@@ -10002,10 +10008,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png"
   },
   {
-    "name": "The NBA Channel",
+    "name": "MLB Channel",
     "type": "Sports & Outdoors",
-    "url": "https://jmp2.uk/stvp-US3600003R7",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20260414T005635SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US1400001WV",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20260414T005538SQUARE.png"
   },
   {
     "name": "NFL Channel",
@@ -10014,16 +10020,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20260210T002203SQUARE.png"
   },
   {
-    "name": "MLB Channel",
-    "type": "Sports & Outdoors",
-    "url": "https://jmp2.uk/stvp-US1400001WV",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20260414T005538SQUARE.png"
-  },
-  {
     "name": "MiLB",
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US4100032W9",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100032W9_20260324T032356SQUARE.png"
+  },
+  {
+    "name": "The NBA Channel",
+    "type": "Sports & Outdoors",
+    "url": "https://jmp2.uk/stvp-US3600003R7",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20260414T005635SQUARE.png"
   },
   {
     "name": "Victory+",
@@ -10704,12 +10710,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900006GL_20251028T011106SQUARE.png"
   },
   {
-    "name": "Ancient Aliens",
-    "type": "Sci-Fi & Horror",
-    "url": "https://jmp2.uk/stvp-US3300010F5",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20260414T005503SQUARE.png"
-  },
-  {
     "name": "Fear Zone",
     "type": "Sci-Fi & Horror",
     "url": "https://jmp2.uk/stvp-USBC1300012VK",
@@ -10798,6 +10798,12 @@
     "type": "Sci-Fi & Horror",
     "url": "https://jmp2.uk/stvp-US700011JL",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700011JL_20260105T175816SQUARE.png"
+  },
+  {
+    "name": "Ancient Aliens",
+    "type": "Sci-Fi & Horror",
+    "url": "https://jmp2.uk/stvp-US3300010F5",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20260414T005503SQUARE.png"
   },
   {
     "name": "The Asylum",
