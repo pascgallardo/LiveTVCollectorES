@@ -270,16 +270,16 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/realmadridtv_horizontal.jpg"
   },
   {
-    "name": "LaLiga Hypermotion (1080p)",
+    "name": "LaLiga Hypermotion",
     "type": "Deportivos",
     "url": "http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_horizontal.jpg"
   },
   {
     "name": "LaLiga TV",
     "type": "Deportivos",
     "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8",
-    "img": "https://i.imgur.com/ilay5Jr.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_horizontal.jpg"
   },
   {
     "name": "MODUS Super Series Darts",
@@ -308,7 +308,7 @@
   {
     "name": "NEW KFOOD",
     "type": "Cocina",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-4ab945a0&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-7d42feb9&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_horizontal.jpg"
   },
   {
@@ -456,10 +456,10 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_horizontal.jpg"
   },
   {
-    "name": "La Abeja Maya",
+    "name": "La abeja Maya",
     "type": "Infantiles",
     "url": "https://daiconnect.com/live/hls/tvup/lg-planetajunior/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]",
-    "img": "https://media.tvup.cloud/canales/generic_cd_6479dd1666328d12f0eb0843_1741875547087.jpg?width=200&height=200"
+    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/66532545-7c48-4163-8602-4c17c8bb12ac.jpeg"
   },
   {
     "name": "Pluto TV Anime",
@@ -1059,7 +1059,7 @@
     "name": "Love The Planet",
     "type": "Documentales",
     "url": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetheplanet_horizontal.jpg"
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/refs/heads/main/lovetheplanet_horizontal.jpg"
   },
   {
     "name": "Love Wine",
@@ -1089,43 +1089,31 @@
     "name": "NatureTime",
     "type": "Documentales",
     "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8",
-    "img": "https://i.imgur.com/72JmyjM.png"
-  },
-  {
-    "name": "NatureTime Finland (1080p)",
-    "type": "Documentales",
-    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/72JmyjM.png"
+    "img": "https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg"
   },
   {
     "name": "NatureVision",
     "type": "Documentales",
     "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=naturevision_es&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://image.xumo.com/v1/channels/channel/99992449/600x200.png?type=white_cropped"
-  },
-  {
-    "name": "Wildearth",
-    "type": "Documentales",
-    "url": "https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://d2rx6itp6voihr.cloudfront.net/WE_LOGO_LIGHT_LGPlus_V2.png"
+    "img": "https://image.xumo.com/v1/channels/channel/99991197/600x337.webp?type=channelTile"
   },
   {
     "name": "Naturaleza",
     "type": "Documentales",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992502&ads.xumo_streamId=99992502&ads.channelId=99992502&ads.ad_tag_id=134054&ads.csid=lgchannels_es_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_es&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://image.xumo.com/v1/channels/channel/99992502/600x200.png?type=white_cropped"
+    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7f26f4ea-f964-4d23-a365-dbbd55108e26.jpeg"
   },
   {
-    "name": "Buen Viaje",
+    "name": "Wildearth",
     "type": "Documentales",
-    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992224&ads.xumo_streamId=99992224&ads.channelId=99992224&ads.ad_tag_id=134052&ads.csid=lgchannels_es_indigeniusbonviajespanish_ssai&ads.channelName=indigeniusbonviajespanish_es&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_contentId=2459&ads.xumo_providerName=IndigeniusBonViajeSpanish&ads.xumo_providerId=2459&ads.content_category=IAB20&ads.content_genre=Travel%20%26%20Lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://image.xumo.com/v1/channels/channel/99992224/600x200.png?type=white_cropped"
+    "url": "https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipuUH5EhYeGLb72vLY-31jNtWivdrvIyDh_m1eH1uwJVIn_Wqx3gYQNmIXeVcqfUA8zaLgDebFaPFNAkly5vIqymmvtmtP5SpigAW-GJxBrg9abdStEE-aH0nSkn08MUZ5VZEQraQ4IQwzvTNVZ_a49ihvxh0MshtDpYK2TCZP0bH4WUXMct21hc1r0Jod/s1920/WildEarth_artwork_Horizontal_logordx.jpg"
   },
   {
     "name": "Travelxp",
     "type": "Documentales",
     "url": "https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8",
-    "img": "https://img.platform.wurl.dev/channel/1613/lg/e2e0ef/LG-Logo-PNG-100x100_v1.png"
+    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg"
   },
   {
     "name": "Pluto TV Historia",
@@ -1242,22 +1230,10 @@
     "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg"
   },
   {
-    "name": "Buen Viaje",
-    "type": "Documentales",
-    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
-    "img": "https://provider-static.plex.tv/epg/cms/production/820fe677-05d1-49d1-ae4d-e109423ba2d9/channel_logo_1500x1000_lightRDX.png"
-  },
-  {
     "name": "Cirque du Soleil",
     "type": "Documentales",
     "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67642f277c5e3b38af72dcdb/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
     "img": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png"
-  },
-  {
-    "name": "Crimen Y Historia",
-    "type": "Documentales",
-    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67200026769d5ec4bf51d63e/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
-    "img": "https://provider-static.plex.tv/epg/cms/production/0902ab10-e394-4ff0-9c94-506bc528e901/Logo_Crimen_Historia_1500x1000_DarkBackground_-_Belen_Bruno.png"
   },
   {
     "name": "Ideas En 5 Minutos",
@@ -1266,10 +1242,10 @@
     "img": "https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png"
   },
   {
-    "name": "El Mueble",
+    "name": "Crimen Y Historia",
     "type": "Documentales",
-    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-693cb1af58076a970420f591/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
-    "img": "https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png"
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67200026769d5ec4bf51d63e/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
+    "img": "https://provider-static.plex.tv/epg/cms/production/0902ab10-e394-4ff0-9c94-506bc528e901/Logo_Crimen_Historia_1500x1000_DarkBackground_-_Belen_Bruno.png"
   },
   {
     "name": "Historia Y Vida",
@@ -1278,10 +1254,34 @@
     "img": "https://provider-static.plex.tv/epg/cms/production/d93cbfe7-324c-46eb-8c7a-6d959837e20c/Logo_Historia_Vida_1500x1000_DarkBackground_-_Belen_Bruno.png"
   },
   {
+    "name": "Viajes & Sabores",
+    "type": "Documentales",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68251044ae4546e02a6ba4f7/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
+    "img": "https://provider-static.plex.tv/epg/cms/production/03e84b82-8da3-432d-9dfe-fb32927f106e/Logo_Viajes_Sabores_1500x1000_DarkBackground_-_Belen_Bruno.png"
+  },
+  {
+    "name": "Wineman",
+    "type": "Documentales",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68645f7c1a2f321847ec0393/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
+    "img": "https://provider-static.plex.tv/epg/cms/production/9a15a24f-c9ae-40f1-b9e5-16a95f4b650c/Wineman_whiteRDX.png"
+  },
+  {
+    "name": "El Mueble",
+    "type": "Documentales",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-693cb1af58076a970420f591/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
+    "img": "https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png"
+  },
+  {
     "name": "Mi Casa",
     "type": "Documentales",
     "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
     "img": "https://provider-static.plex.tv/epg/cms/production/024f4cb9-2765-4ec5-b222-dc3388106f16/channel_logo_1500x1000_light.png.png"
+  },
+  {
+    "name": "Buen Viaje",
+    "type": "Documentales",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
+    "img": "https://provider-static.plex.tv/epg/cms/production/820fe677-05d1-49d1-ae4d-e109423ba2d9/channel_logo_1500x1000_lightRDX.png"
   },
   {
     "name": "Naturaleza",
@@ -1296,22 +1296,10 @@
     "img": "https://provider-static.plex.tv/epg/cms/production/2264f961-88d5-46c6-a987-9d5dd7a15d69/NATURE_TIMEWHITE_LOGO.png"
   },
   {
-    "name": "Viajes & Sabores",
-    "type": "Documentales",
-    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68251044ae4546e02a6ba4f7/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
-    "img": "https://provider-static.plex.tv/epg/cms/production/03e84b82-8da3-432d-9dfe-fb32927f106e/Logo_Viajes_Sabores_1500x1000_DarkBackground_-_Belen_Bruno.png"
-  },
-  {
     "name": "WildEarth",
     "type": "Documentales",
     "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60d4edddb2fdec002c141135/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
     "img": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png"
-  },
-  {
-    "name": "Wineman",
-    "type": "Documentales",
-    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68645f7c1a2f321847ec0393/?X-Plex-Token=xBczQn9oG3dctXy49i_G",
-    "img": "https://provider-static.plex.tv/epg/cms/production/9a15a24f-c9ae-40f1-b9e5-16a95f4b650c/Wineman_whiteRDX.png"
   },
   {
     "name": "Historia y Vida",
@@ -2154,6 +2142,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/a3cine_amarillo_horizontal.jpg"
   },
   {
+    "name": "Univers TV",
+    "type": "Films",
+    "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_horizontal.jpg"
+  },
+  {
     "name": "LG 1: Film",
     "type": "Films",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]",
@@ -2226,118 +2220,112 @@
     "img": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg"
   },
   {
-    "name": "MyTime Movie Network",
+    "name": "MyTime Movie Network (Rakuten TV)",
     "type": "Films",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=217.216.126.48",
-    "img": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg"
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.37",
+    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg"
   },
   {
     "name": "Cine Feel Good",
     "type": "Films",
     "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
-    "img": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg"
+    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg"
   },
   {
     "name": "Cines Verdi TV",
     "type": "Films",
     "url": "https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}",
-    "img": "https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg"
+    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d5f81eaf-cdac-4537-b5db-5d927af79833.jpeg"
   },
   {
-    "name": "Univers TV",
-    "type": "Films",
-    "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_horizontal.jpg"
-  },
-  {
-    "name": "Pelis Top - Rakuten TV",
+    "name": "Pelis Top (Rakuten TV)",
     "type": "Films",
     "url": "https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_language=es&ads.viewsize=&channel_id=5983&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/d3251db7-8fb9-49d1-bc00-a22504c37a1e-width400-height200.png"
+    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde-width200-quality90.jpeg"
   },
   {
-    "name": "Acción - Rakuten TV",
+    "name": "Acción (Rakuten TV)",
     "type": "Films",
     "url": "https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_language=es&ads.viewsize=&channel_id=6069&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/06e3fdc0-4d54-4176-a8b4-b905d0b2077f-width400-height200.png"
+    "img": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8-width200-quality90.jpeg"
   },
   {
-    "name": "Thrillers - Rakuten TV",
+    "name": "Thrillers (Rakuten TV)",
     "type": "Films",
     "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_language=es&ads.viewsize=&channel_id=6480&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/bec014df-87c0-4215-885b-a5f8fc2a9422-width400-height200.png"
+    "img": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg"
   },
   {
-    "name": "Sci-Fi - Rakuten TV",
+    "name": "Sci-Fi (Rakuten TV)",
     "type": "Films",
     "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_language=es&ads.viewsize=&channel_id=6740&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/c4973ec6-e9d6-4d11-8709-3b6d1d0d79c2-width400-height200.png"
+    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg"
   },
   {
-    "name": "Comedia - Rakuten TV",
+    "name": "Comedias (Rakuten TV)",
     "type": "Films",
     "url": "https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_language=es&ads.viewsize=&channel_id=6180&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/0a261879-2f0c-476b-9f46-0f7d4e3e8b72-width400-height200.png"
+    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg"
   },
   {
-    "name": "Románticas - Rakuten TV",
+    "name": "Películas Románticas (Rakuten TV)",
     "type": "Films",
     "url": "https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/c860e396-5092-428d-ae7f-57eacc6ec23f-width400-height200.png"
+    "img": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg"
   },
   {
-    "name": "Cine Español - Rakuten TV",
+    "name": "Cine Español (Rakuten TV)",
     "type": "Films",
     "url": "https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_language=es&ads.viewsize=&channel_id=6196&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/2c834a13-dcc4-4914-8148-9fc1bb82b4c2-width400-height200.png"
+    "img": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg"
   },
   {
-    "name": "Drama - Rakuten TV",
+    "name": "Dramas (Rakuten TV)",
     "type": "Films",
     "url": "https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_language=es&ads.viewsize=&channel_id=6092&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/logo-2-1/a9c46921-930e-4f9e-bd54-5828ee5d2390-width400-height200.png"
+    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg"
   },
   {
-    "name": "En Familia - Rakuten TV",
+    "name": "En Familia (Rakuten TV)",
     "type": "Films",
     "url": "https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_language=es&ads.viewsize=&channel_id=6205&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/3556448b-31da-416a-a4e2-c9c7cd38d543-width400-height200.png"
+    "img": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116-width200-quality90.jpeg"
   },
   {
-    "name": "Crimen - Rakuten TV",
+    "name": "Crimen (Rakuten TV)",
     "type": "Films",
     "url": "https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_language=es&ads.viewsize=&channel_id=6220&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv",
-    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/cb5aaf2e-da5e-42a3-9fbe-d38f5881cae5-width400-height200.png"
-  },
-  {
-    "name": "Pluto TV Horror",
-    "type": "Films",
-    "url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8",
-    "img": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png"
+    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg"
   },
   {
     "name": "Cine Friki",
     "type": "Films",
     "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-    "img": "https://i.imgur.com/b3Ospym.png"
+    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg"
   },
   {
     "name": "Cine Western",
     "type": "Films",
     "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
-    "img": "https://i.imgur.com/2UROzSc.png"
+    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg"
   },
   {
     "name": "Grjngo - Películas Del Oeste",
     "type": "Films",
     "url": "https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8",
-    "img": "https://img.platform.wurl.dev/channel/1906/lg/00f1df/LG-Logo-PNG-100x100_v1.png"
+    "img": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg"
   },
   {
-    "name": "ARTFLIX - Películas Clásicas",
+    "name": "Pluto TV Horror",
+    "type": "Films",
+    "url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8",
+    "img": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5"
+  },
+  {
+    "name": "h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg\" group-title=\"Films\",ARTFLIX - Películas Clásicas",
     "type": "Films",
     "url": "https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8",
-    "img": "https://img.platform.wurl.dev/channel/1249/lg/dfa8d0/LG-Logo-PNG-100x100_v1.png"
+    "img": "https://static.wixstatic.com/media/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg/v1/fill/w_2500,h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg"
   },
   {
     "name": "Paramount Network de Pluto TV",
@@ -2715,31 +2703,31 @@
     "name": "FilmRise Sci-Fi",
     "type": "Shows",
     "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992180&ads.xumo_streamId=99992180&ads.channelId=99992180&ads.csid=lgchannels_es_filmrisespanish_ssai&ads.channelName=filmrisescifi_es&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_contentId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_providerId=2701&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://image.xumo.com/v1/channels/channel/99992180/600x200.png?type=white_cropped"
+    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/277ead19-5335-42c8-8c64-31bda5696bb9.jpeg"
   },
   {
     "name": "BBC Drama",
     "type": "Shows",
     "url": "https://amg00793-amg00793c40-lg-es-7759.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20251111/channel_600x200_a99c5395-cc5d-4813-8fcc-a67368cb9442.png"
+    "img": "https://calama.bbcstudios.com/api/assets/virtual-events/88a94dff-d4c6-4831-88e9-4f8605144f56"
   },
   {
     "name": "Todo Comedia",
     "type": "Shows",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993069&ads.xumo_streamId=99993069&ads.channelId=99993069&ads.ad_tag_id=140650&ads.csid=lgchannels_es_todocomedia_ssai&ads.channelName=todocomedia_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://image.xumo.com/v1/channels/channel/99993069/600x200.png?type=white_cropped"
-  },
-  {
-    "name": "Todo Crimen",
-    "type": "Shows",
-    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992176&ads.xumo_streamId=99992176&ads.channelId=99992176&ads.ad_tag_id=134053&ads.csid=lgchannels_es_indigeniuscrimenspanish_ssai&ads.channelName=indigeniuscrimenspanish_es&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_contentId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_providerId=2192&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=es&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://image.xumo.com/v1/channels/channel/99992176/600x200.png?type=white_cropped"
+    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/90b320ab-42d4-4a7a-9f7b-643d6c028014.jpeg"
   },
   {
     "name": "Todo Drama",
     "type": "Shows",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993053&ads.xumo_streamId=99993053&ads.channelId=99993053&ads.ad_tag_id=120204&ads.csid=lgchannels_es_tododrama_ssai&ads.channelName=tododrama_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://image.xumo.com/v1/channels/channel/99993053/600x200.png?type=white_cropped"
+    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fd26c4b5-868a-4520-8791-d016d0dd46b8.jpeg"
+  },
+  {
+    "name": "Todo Crimen",
+    "type": "Shows",
+    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992176&ads.xumo_streamId=99992176&ads.channelId=99992176&ads.ad_tag_id=134053&ads.csid=lgchannels_es_indigeniuscrimenspanish_ssai&ads.channelName=indigeniuscrimenspanish_es&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_contentId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_providerId=2192&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=es&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
+    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg"
   },
   {
     "name": "Pluto TV Comedia made in Spain",
