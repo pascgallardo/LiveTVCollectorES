@@ -34,6 +34,16 @@ URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: 101tv Malaga
+URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+Logo: https://i.imgur.com/GzI3RC4.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Parlamento de Andalucía (576p) [Not 24/7]
+URL: http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+Logo: https://i.imgur.com/J6h5IQS.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 
 Group: Cine
 Name: Sony One Hits Acción
@@ -451,6 +461,11 @@ URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/realmadridtv_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Realmadrid TV (720p)
+URL: https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+Logo: https://i.imgur.com/5pMo7dL.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: LaLiga Hypermotion
 URL: http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_horizontal.jpg
@@ -459,6 +474,11 @@ Source: https://m3u.work/qKChzP8.m3u
 Name: LaLiga TV
 URL: http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_horizontal.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Teledeporte (720p) [Geo-blocked]
+URL: https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+Logo: https://i.ibb.co/0jxLdjnY/TDP.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: MODUS Super Series Darts
@@ -987,6 +1007,16 @@ URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Congreso de los Diputados 1 (360p) [Not 24/7]
+URL: https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+Logo: https://i.imgur.com/3Qxpe72.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Radio 3 (720p)
+URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 
 Group: Films
 Name: Atrescine
@@ -1060,7 +1090,7 @@ Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: MyTime Movie Network (Rakuten TV)
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.37
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.138
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
@@ -1466,6 +1496,11 @@ URL: http://187.190.55.136:5501/udp/225.1.1.101:5101
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_negro_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: TRECE
+URL: https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 
 Group: Infantiles
 Name: Clan
@@ -1750,6 +1785,11 @@ URL: https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/euronews_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Canal 24 Horas (720p)
+URL: https://ztnr.rtve.es/ztnr/1694255.m3u8
+Logo: https://i.ibb.co/21sXZ3GT/24h.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: CNN en Español
 URL: https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_horizontal.jpg
@@ -1802,6 +1842,11 @@ URL: https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Star TVE HD
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_horizontal.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 
 Group: Musicales
 Name: Sol Música España
@@ -1833,6 +1878,16 @@ Name: Spektra TV España
 URL: https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/spektratv_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: La Urban TV (1080p) [Not 24/7]
+URL: https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+Logo: https://i.imgur.com/hythjEn.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Molahits TV (720p)
+URL: http://ventdelnord.tv:8080/mola/directe.m3u8
+Logo: https://i.imgur.com/FYcLtqT.png
+Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Deluxe Lounge HD
 URL: https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_categories=IAB1&ads%3Acontent_classification=7&ads%3Acontent_genre=entertainment&ads%3Acontent_livestream=0&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Agoogle_ad_manager_nonce=&ads%3Aifa_type=&ads%3Ainv_partner_domain=rakuten.tv&ads%3Alanguage=&ads%3Amarket=es&ads%3Anetwork_name=RakutenTV&ads%3Aos_language=&ads%3Aplacement=1&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Aprodq=1&ads%3Artv_content_id=4222&ads%3Astreaming_id=a27a3363-601a-42c2-9bb2-ea4307c3ddb8&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten

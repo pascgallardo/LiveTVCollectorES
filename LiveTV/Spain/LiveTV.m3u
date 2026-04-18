@@ -15,6 +15,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_negro_horizontal.jpg" group-title="Generalistas",Antena 3 Internacional
 http://187.190.55.136:5501/udp/225.1.1.101:5101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Generalistas",TRECE
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagatv_horizontal.jpg" group-title="Andalucía",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tv_horizontal.jpg" group-title="Andalucía",101TV Málaga
@@ -29,6 +31,10 @@ https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 https://especial7tv.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_horizontal.jpg" group-title="Andalucía",Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Andalucía",101tv Malaga
+https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6h5IQS.png" group-title="Andalucía",Parlamento de Andalucía (576p) [Not 24/7]
+http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalparlamento_horizontal.jpg" group-title="Eventuales",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/congresodelosdiputados_horizontal.jpg" group-title="Eventuales",Congreso de los Diputados
@@ -63,12 +69,18 @@ https://ztnr.rtve.es/ztnr/16464377.m3u8
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_horizontal.jpg" group-title="Eventuales",Conciertos Radio 3 (RTVE)
 https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Qxpe72.png" group-title="Eventuales",Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png" group-title="Eventuales",Radio 3 (720p)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_horizontal.jpg" group-title="Informativos",24h
 https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurnoticias_blanco_horizontal.jpg" group-title="Informativos",Canal Sur Más Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/euronews_horizontal.jpg" group-title="Informativos",Euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Informativos",Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_horizontal.jpg" group-title="Informativos",CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveactualidad360_horizontal.jpg" group-title="Informativos",Actualidad 360
@@ -89,10 +101,14 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60089d97f682
 https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/realmadridtv_horizontal.jpg" group-title="Deportivos",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportivos",Realmadrid TV (720p)
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_horizontal.jpg" group-title="Deportivos",LaLiga Hypermotion
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_horizontal.jpg" group-title="Deportivos",LaLiga TV
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="Deportivos",Teledeporte (720p) [Geo-blocked]
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png" group-title="Deportivos",MODUS Super Series Darts
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/67164414e40c4a00087f450d/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=57e17e76-3a90-11f1-898a-7ced8d564b1a&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=57e17e76-3a90-11f1-898a-7ced8d564b1a&deviceLat=40.4400&deviceLon=-3.7100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=ES&serverSideAds=false&sessionID=57edcaee-3a90-11f1-904b-86e7a4414eff&sid=57edcaee-3a90-11f1-904b-86e7a4414eff&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjllYzFiMjAwLWVjNjQtNGEyOS05N2NjLWI3MDAyZWUwZmNkZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1N2VkY2FlZS0zYTkwLTExZjEtOTA0Yi04NmU3YTQ0MTRlZmYiLCJjbGllbnRJUCI6Ijg4LjI2LjI0MS4yNDgiLCJjaXR5IjoiTWFkcmlkIiwicG9zdGFsQ29kZSI6IjI4MDAzIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6NDAuNDM5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOi0zLjcxMDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMS4wIiwiY2xpZW50SUQiOiI1N2UxN2U3Ni0zYTkwLTExZjEtODk4YS03Y2VkOGQ1NjRiMWEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjU3ZTE3ZTc2LTNhOTAtMTFmMS04OThhLTdjZWQ4ZDU2NGIxYSIsImZ3VmNJRDJDb3BwYSI6IjU3ZTE3ZTc2LTNhOTAtMTFmMS04OThhLTdjZWQ4ZDU2NGIxYSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNTdlMTdlNzYtM2E5MC0xMWYxLTg5OGEtN2NlZDhkNTY0YjFhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAxNiwxMDAxNSwxMDAyMSwxMDAyMywxMDAwOSwxMDAxMywxMDAxNCwxMDAyMCJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3NjQ1MjcwNTAwOSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5UZGxNVGRsTnpZdE0yRTVNQzB4TVdZeExUZzVPR0V0TjJObFpEaGtOVFkwWWpGaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzY1MzkxMDUsImlhdCI6MTc3NjQ1MjcwNSwianRpIjoiYmNlODU0MDktOTZmNS00NzFmLTlhMTUtZDhhYjE0MTA5OTQ3In0.fuKt1EgJrgKWR_VgqG6qfbRepoZ8isQaI1kfHI3b0Hk&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Deportivos",Pluto TV Snooker 900
@@ -241,6 +257,8 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-64b1dd6046d9
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_horizontal.jpg" group-title="Int. Europa",Star TVE Europa
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_horizontal.jpg" group-title="Int. Europa",Star TVE HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/solmusica_rosa_horizontal.jpg" group-title="Musicales",Sol Música España
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/activatv_horizontal.jpg" group-title="Musicales",Activa TV España
@@ -253,6 +271,10 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/spektratv_horizontal.jpg" group-title="Musicales",Spektra TV España
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hythjEn.png" group-title="Musicales",La Urban TV (1080p) [Not 24/7]
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYcLtqT.png" group-title="Musicales",Molahits TV (720p)
+http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg" group-title="Musicales",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_categories=IAB1&ads%3Acontent_classification=7&ads%3Acontent_genre=entertainment&ads%3Acontent_livestream=0&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Agoogle_ad_manager_nonce=&ads%3Aifa_type=&ads%3Ainv_partner_domain=rakuten.tv&ads%3Alanguage=&ads%3Amarket=es&ads%3Anetwork_name=RakutenTV&ads%3Aos_language=&ads%3Aplacement=1&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Aprodq=1&ads%3Artv_content_id=4222&ads%3Astreaming_id=a27a3363-601a-42c2-9bb2-ea4307c3ddb8&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg" group-title="Musicales",Qello Concerts by Stingray
@@ -744,7 +766,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg" group-title="Films",Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13804&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="Films",MyTime Movie Network (Rakuten TV)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.37
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.138
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg" group-title="Films",Cine Feel Good
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d5f81eaf-cdac-4537-b5db-5d927af79833.jpeg" group-title="Films",Cines Verdi TV

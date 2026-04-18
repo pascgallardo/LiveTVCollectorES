@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 08:17:50",
+  "date": "2026-04-18 14:26:47",
   "channels": {
     "Generalistas": [
       {
@@ -57,6 +57,13 @@
         "group": "Generalistas",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "http://187.190.55.136:5501/udp/225.1.1.101:5101"
+      },
+      {
+        "name": "TRECE",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
       }
     ],
     "Andalucía": [
@@ -108,6 +115,20 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8"
+      },
+      {
+        "name": "101tv Malaga",
+        "logo": "https://i.imgur.com/GzI3RC4.png",
+        "group": "Andalucía",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
+      },
+      {
+        "name": "Parlamento de Andalucía (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/J6h5IQS.png",
+        "group": "Andalucía",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8"
       }
     ],
     "Eventuales": [
@@ -229,6 +250,20 @@
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8"
+      },
+      {
+        "name": "Congreso de los Diputados 1 (360p) [Not 24/7]",
+        "logo": "https://i.imgur.com/3Qxpe72.png",
+        "group": "Eventuales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+      },
+      {
+        "name": "Radio 3 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png",
+        "group": "Eventuales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8"
       }
     ],
     "Informativos": [
@@ -252,6 +287,13 @@
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8"
+      },
+      {
+        "name": "Canal 24 Horas (720p)",
+        "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+        "group": "Informativos",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
       },
       {
         "name": "CNN en Español",
@@ -326,6 +368,13 @@
         "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
       },
       {
+        "name": "Realmadrid TV (720p)",
+        "logo": "https://i.imgur.com/5pMo7dL.png",
+        "group": "Deportivos",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8"
+      },
+      {
         "name": "LaLiga Hypermotion",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_horizontal.jpg",
         "group": "Deportivos",
@@ -338,6 +387,13 @@
         "group": "Deportivos",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8"
+      },
+      {
+        "name": "Teledeporte (720p) [Geo-blocked]",
+        "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+        "group": "Deportivos",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
       },
       {
         "name": "MODUS Super Series Darts",
@@ -862,6 +918,13 @@
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8"
+      },
+      {
+        "name": "Star TVE HD",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_horizontal.jpg",
+        "group": "Int. Europa",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
       }
     ],
     "Musicales": [
@@ -906,6 +969,20 @@
         "group": "Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+      },
+      {
+        "name": "La Urban TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/hythjEn.png",
+        "group": "Musicales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8"
+      },
+      {
+        "name": "Molahits TV (720p)",
+        "logo": "https://i.imgur.com/FYcLtqT.png",
+        "group": "Musicales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "http://ventdelnord.tv:8080/mola/directe.m3u8"
       },
       {
         "name": "Deluxe Lounge HD",
@@ -2641,7 +2718,7 @@
         "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg",
         "group": "Films",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.37"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.138"
       },
       {
         "name": "Cine Feel Good",
