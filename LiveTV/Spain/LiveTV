@@ -45,13 +45,13 @@
     "name": "Antena 3 Internacional",
     "type": "Generalistas",
     "url": "http://187.190.55.136:5501/udp/225.1.1.101:5101",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_negro_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_negro_cuadrado.jpg"
   },
   {
     "name": "TRECE",
     "type": "Generalistas",
     "url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg"
   },
   {
     "name": "Canal Málaga",
@@ -99,13 +99,13 @@
     "name": "101tv Malaga",
     "type": "Andalucía",
     "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/GzI3RC4.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tv_cuadrado.jpg"
   },
   {
-    "name": "Parlamento de Andalucía (576p) [Not 24/7]",
+    "name": "Parlamento de Andalucía",
     "type": "Andalucía",
     "url": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8",
-    "img": "https://i.imgur.com/J6h5IQS.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg"
   },
   {
     "name": "Canal Parlamento",
@@ -210,16 +210,16 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_horizontal.jpg"
   },
   {
-    "name": "Congreso de los Diputados 1 (360p) [Not 24/7]",
+    "name": "Congreso de los Diputados",
     "type": "Eventuales",
     "url": "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8",
-    "img": "https://i.imgur.com/3Qxpe72.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/congresodelosdiputados_cuadrado.jpg"
   },
   {
-    "name": "Radio 3 (720p)",
+    "name": "Radio 3",
     "type": "Eventuales",
     "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg"
   },
   {
     "name": "24h",
@@ -240,22 +240,22 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/euronews_horizontal.jpg"
   },
   {
-    "name": "Canal 24 Horas (720p)",
+    "name": "24 Horas",
     "type": "Informativos",
     "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "img": "https://i.ibb.co/21sXZ3GT/24h.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg"
   },
   {
     "name": "CNN en Español",
     "type": "Informativos",
     "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_cuadrado.jpg"
   },
   {
     "name": "Actualidad 360",
     "type": "Informativos",
     "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveactualidad360_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveactualidad360_cuadrado.jpg"
   },
   {
     "name": "Actualidad 360",
@@ -306,28 +306,28 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/realmadridtv_horizontal.jpg"
   },
   {
-    "name": "Realmadrid TV (720p)",
+    "name": "Teledeporte",
+    "type": "Deportivos",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg"
+  },
+  {
+    "name": "Real Madrid TV",
     "type": "Deportivos",
     "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
-    "img": "https://i.imgur.com/5pMo7dL.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/realmadridtv_cuadrado.jpg"
   },
   {
     "name": "LaLiga Hypermotion",
     "type": "Deportivos",
     "url": "http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_cuadrado.jpg"
   },
   {
     "name": "LaLiga TV",
     "type": "Deportivos",
     "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_horizontal.jpg"
-  },
-  {
-    "name": "Teledeporte (720p) [Geo-blocked]",
-    "type": "Deportivos",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
-    "img": "https://i.ibb.co/0jxLdjnY/TDP.png"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_cuadrado.jpg"
   },
   {
     "name": "MODUS Super Series Darts",
@@ -354,16 +354,16 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tastemade_horizontal.jpg"
   },
   {
-    "name": "NEW KFOOD",
-    "type": "Cocina",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-7d42feb9&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_horizontal.jpg"
-  },
-  {
     "name": "Gusto TV",
     "type": "Cocina",
     "url": "https://742a5e35.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR3VzdG9UVl9ITFM/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/gustotv_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/gustotv_cuadrado.jpg"
+  },
+  {
+    "name": "NEW KFOOD",
+    "type": "Cocina",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-7d42feb9&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_cuadrado.jpg"
   },
   {
     "name": "Pluto TV Cocina",
@@ -456,58 +456,64 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_horizontal.jpg"
   },
   {
+    "name": "Clan",
+    "type": "Infantiles",
+    "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrado.jpg"
+  },
+  {
     "name": "Anime Vision",
     "type": "Infantiles",
     "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevision_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevision_cuadrado.jpg"
   },
   {
     "name": "Anime Vision Classics",
     "type": "Infantiles",
     "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevisionclassics_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevisionclassics_cuadrado.jpg"
   },
   {
     "name": "Anime Onegai Action",
     "type": "Infantiles",
     "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaiaction&channel_id=newid_202&mpf=2335c884-39af1962-d13ce60d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=003cb2ff-3bce06a7-ae78c1b5-4cbe9c0b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_action_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_action_cuadrado.jpg"
   },
   {
     "name": "Anime Onegai Comedy",
     "type": "Infantiles",
     "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaicomedy&channel_id=newid_214&mpf=d34d5cf0-39af1962-c59c7535&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=630dbac6-86a0f716-ef4860aa-f1d06dba&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_comedy_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_comedy_cuadrado.jpg"
   },
   {
     "name": "Anime Onegai Drama",
     "type": "Infantiles",
     "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaidrama&channel_id=newid_213&mpf=4d29c953-39af1962-d0e330d9&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=6d077c66-7c9d0441-39688bf8-0bed9eed&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_drama_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_drama_cuadrado.jpg"
   },
   {
     "name": "Anime Onegai SCI-FI",
     "type": "Infantiles",
     "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisci-fi&channel_id=newid_215&mpf=a44a6c66-39af1962-a8421679&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=241e4c3d-29e46551-80559977-5e94fffd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_sci-fi_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_sci-fi_cuadrado.jpg"
   },
   {
     "name": "Anime Onegai Sports",
     "type": "Infantiles",
     "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisports&channel_id=newid_212&mpf=3a2ef9c5-39af1962-b3553a43&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=2a148a9d-d3d99606-56757225-a4a90caa&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_sports_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_sports_cuadrado.jpg"
   },
   {
     "name": "Mr Bean Animated",
     "type": "Infantiles",
     "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg"
   },
   {
     "name": "La abeja Maya",
     "type": "Infantiles",
     "url": "https://daiconnect.com/live/hls/tvup/lg-planetajunior/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]",
-    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/66532545-7c48-4163-8602-4c17c8bb12ac.jpeg"
+    "img": "https://media.tvup.cloud/canales/generic_cd_6479dd1666328d12f0eb0843_1741875547087.jpg?width=200&height=200"
   },
   {
     "name": "Pluto TV Anime",
@@ -777,7 +783,7 @@
     "name": "Star TVE HD",
     "type": "Int. Europa",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg"
   },
   {
     "name": "Sol Música España",
@@ -816,16 +822,16 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/spektratv_horizontal.jpg"
   },
   {
-    "name": "La Urban TV (1080p) [Not 24/7]",
+    "name": "Molahits TV",
+    "type": "Musicales",
+    "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/molahitstv_cuadrado.jpg"
+  },
+  {
+    "name": "La Urban TV",
     "type": "Musicales",
     "url": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8",
     "img": "https://i.imgur.com/hythjEn.png"
-  },
-  {
-    "name": "Molahits TV (720p)",
-    "type": "Musicales",
-    "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
-    "img": "https://i.imgur.com/FYcLtqT.png"
   },
   {
     "name": "Deluxe Lounge HD",
@@ -1119,49 +1125,49 @@
     "name": "Historia",
     "type": "Documentales",
     "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_cuadrado.jpg"
   },
   {
     "name": "Historia y Vida",
     "type": "Documentales",
     "url": "https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovehistoriayvida_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovehistoriayvida_redondo.png"
   },
   {
     "name": "Crimen&Historia",
     "type": "Documentales",
     "url": "https://amg01821-lovetv-amg01821c23-lg-es-6727.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-crimenandhistoria-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.dmake=[DEVICE_MAKE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_redondo.png"
   },
   {
-    "name": "Love The Planet",
+    "name": "Love the Planet",
     "type": "Documentales",
     "url": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/refs/heads/main/lovetheplanet_horizontal.jpg"
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/refs/heads/main/lovetheplanet_redondo.png"
   },
   {
     "name": "Love Wine",
     "type": "Documentales",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_redondo.png"
   },
   {
     "name": "Viajes y Sabores",
     "type": "Documentales",
     "url": "https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetravel&taste_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetravel&taste_redondo.png"
   },
   {
     "name": "El Mueble",
     "type": "Documentales",
     "url": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_redondo.png"
   },
   {
     "name": "Inglés Total",
     "type": "Documentales",
     "url": "https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/inglestotal_horizontal.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/inglestotal_cuadrado.jpg"
   },
   {
     "name": "NatureTime",
