@@ -1578,6 +1578,12 @@
     "img": "https://i.imgur.com/8hC4PfF.png"
   },
   {
+    "name": "TyC Sports USA",
+    "type": "Sports",
+    "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png"
+  },
+  {
     "name": "Unbeaten Sports Channel (1080p)",
     "type": "Sports",
     "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
@@ -7452,9 +7458,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"
   },
   {
-    "name": "Disney Junior East (720p) [Not 24/7]",
+    "name": "Disney Junior (1080i)",
     "type": "Kids",
-    "url": "https://tvpass.org/live/DisneyJuniorEast/hd",
+    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
   },
   {
