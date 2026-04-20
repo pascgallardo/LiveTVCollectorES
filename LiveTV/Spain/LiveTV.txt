@@ -49,167 +49,57 @@ Group: Cine
 Name: Sony One Hits Acción
 URL: https://jmp2.uk/stvp-ES300006QJ
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260407T040056SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Runtime Familia
 URL: https://jmp2.uk/stvp-ES700004C8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: En Familia - Rakuten TV
-URL: https://jmp2.uk/stvp-ES260001081
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: RTVE Somos Cine
-URL: https://jmp2.uk/stvp-ES33000058B
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Trailers
-URL: https://jmp2.uk/stvp-ESBC1700004PX
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: MyTime Movie Network
-URL: https://jmp2.uk/stvp-ESBA2200004G5
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Cines Verdi TV
-URL: https://jmp2.uk/stvp-ESBC2700011AZ
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Pluto TV Cine Estelar
-URL: https://jmp2.uk/stvp-ESAJ3800001KT
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Runtime
 URL: https://jmp2.uk/stvp-ESBC400001QQ
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Películas Top - Rakuten TV
-URL: https://jmp2.uk/stvp-ES2600013H4
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Moviesphere
 URL: https://jmp2.uk/stvp-ES4200001MR
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20251209T125859SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Runtime Romance
 URL: https://jmp2.uk/stvp-ESBD800004KU
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260224T030809SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Películas Románticas - Rakuten TV
-URL: https://jmp2.uk/stvp-ES2600012C9
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Todo Pasión
-URL: https://jmp2.uk/stvp-ES900002ZD
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Cine Feel Good – Verdi TV
-URL: https://jmp2.uk/stvp-ESBC2700012RP
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Runtime Comedia
 URL: https://jmp2.uk/stvp-ESBD8000033W
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Comedia - Rakuten TV
-URL: https://jmp2.uk/stvp-ES260000700
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Sony One Hits Comedia
 URL: https://jmp2.uk/stvp-ES300007KS
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260324T034839SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Grjngo - Películas Del Oeste
-URL: https://jmp2.uk/stvp-ESBC2700002LO
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Cine Western
-URL: https://jmp2.uk/stvp-ES2300005G7
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Bigtime - Películas Gratis
-URL: https://jmp2.uk/stvp-ESBC2700003T8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Runtime Clásicos
 URL: https://jmp2.uk/stvp-ES2200003DA
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: FreeTV Clásico
 URL: https://jmp2.uk/stvp-ES500008IU
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Planeta de Cine
-URL: https://jmp2.uk/stvp-ES2800001G7
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Cine Español - Rakuten TV
-URL: https://jmp2.uk/stvp-ES3000008O8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: NEW K-MOVIES
 URL: https://jmp2.uk/stvp-ES170000433
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Action Movie Channel
-URL: https://jmp2.uk/stvp-ESBC40000248
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Sci-Fi - Rakuten TV
-URL: https://jmp2.uk/stvp-ES500004NO
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Cine Friki
-URL: https://jmp2.uk/stvp-ESBD800001RJ
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20260407T040044SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Thrillers - Rakuten TV
-URL: https://jmp2.uk/stvp-ES4100002WB
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20251125T101442SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Runtime Acción
 URL: https://jmp2.uk/stvp-ESBD80000288
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Películas de Drama - Rakuten TV
-URL: https://jmp2.uk/stvp-ES2600003UM
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Acción - Rakuten TV
-URL: https://jmp2.uk/stvp-ES2600004BD
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Cocina
@@ -226,6 +116,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Gusto TV
 URL: https://742a5e35.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR3VzdG9UVl9ITFM/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/gustotv_cuadrado.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Pluto TV Cocina
+URL: https://jmp2.uk/stvp-ESAJ3800007PC
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: NEW KFOOD
@@ -300,154 +195,139 @@ Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
 
 Group: Comedia
-Name: Comedia Made in Spain
-URL: https://jmp2.uk/stvp-ESAJ3800005C5
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: MTV Catfish
 URL: https://jmp2.uk/stvp-ESAJ3800003LX
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: FailArmy
 URL: https://jmp2.uk/stvp-ESBA1400006NP
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20260210T035845SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: People Are Awesome
 URL: https://jmp2.uk/stvp-ESAJ4500023Y5
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: The Pet Collective
 URL: https://jmp2.uk/stvp-ESAJ4500016BH
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Just For Laughs
 URL: https://jmp2.uk/stvp-ESBC2700008SK
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Crimen
 Name: El Comisario
 URL: https://jmp2.uk/stvp-ESBA3300029UG
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Forensic Files
 URL: https://jmp2.uk/stvp-ES2600001MC
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250722T005647SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Todo Crimen
-URL: https://jmp2.uk/stvp-ES1600004JV
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Crimen & Historia
 URL: https://jmp2.uk/stvp-ES33000025N
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: DATELINE 24/7
 URL: https://jmp2.uk/stvp-ESBD3700001S0
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Crimenes Reales
 URL: https://jmp2.uk/stvp-ES3300001MC
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Crimen - Rakuten TV
-URL: https://jmp2.uk/stvp-ES2600005G9
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Alerta Cobra
 URL: https://jmp2.uk/stvp-ES45000012U
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES45000012U_20251202T002544SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Deporte
 Name: Tennis Channel
 URL: https://jmp2.uk/stvp-ESBD2600001ME
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: MyPadel TV
 URL: https://jmp2.uk/stvp-ES30000091V
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Tennis+
 URL: https://jmp2.uk/stvp-ES20000065W
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20260113T032333SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Red Bull TV
 URL: https://jmp2.uk/stvp-ES3800001V1
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Rugby Challenge
 URL: https://jmp2.uk/stvp-ES4300004JP
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Teledeporte
 URL: https://jmp2.uk/stvp-ESBC410000577
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260224T030743SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: La Liga Inside
 URL: https://jmp2.uk/stvp-ESBD3600001Q1
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: DFB Play TV
 URL: https://jmp2.uk/stvp-ES3200003OC
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Top Barça
 URL: https://jmp2.uk/stvp-ES1100001MT
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20260224T030836SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: FIFA+
 URL: https://jmp2.uk/stvp-ESBC2700009B4
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: INTER 24/7
 URL: https://jmp2.uk/stvp-ES31000013F
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES31000013F_20260324T034829SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Motorvision
 URL: https://jmp2.uk/stvp-ESBD3200001EG
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Rally.TV FAST+
 URL: https://jmp2.uk/stvp-ES51000017V
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES51000017V_20260120T031334SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Surf Channel
 URL: https://jmp2.uk/stvp-ES3400002PY
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: World Poker Tour
 URL: https://jmp2.uk/stvp-ESBD2900001P9
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Deportivos
@@ -466,11 +346,6 @@ URL: https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Real Madrid TV
-URL: https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/realmadridtv_cuadrado.jpg
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: LaLiga Hypermotion
 URL: http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_cuadrado.jpg
@@ -479,6 +354,11 @@ Source: https://m3u.work/qKChzP8.m3u
 Name: LaLiga TV
 URL: http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_cuadrado.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Real Madrid TV
+URL: https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/realmadridtv_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: MODUS Super Series Darts
@@ -533,19 +413,49 @@ URL: https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_redondo.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Mayday: Catástrofe Aérea
+URL: https://jmp2.uk/stvp-ES2800002MM
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Inglés Total
 URL: https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/inglestotal_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: BBC Earth
+URL: https://jmp2.uk/stvp-ES3200001F1
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Ideas en 5 Minutos
+URL: https://jmp2.uk/stvp-ESBC3500002PW
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Mi Casa
+URL: https://jmp2.uk/stvp-ES4400002LI
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260120T031331SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Naturaleza
-URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992502&ads.xumo_streamId=99992502&ads.channelId=99992502&ads.ad_tag_id=134054&ads.csid=lgchannels_es_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_es&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7f26f4ea-f964-4d23-a365-dbbd55108e26.jpeg
+URL: https://jmp2.uk/stvp-ES1600003FF
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20250527T014628SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: NatureTime
-URL: https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-Logo: https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg
+URL: https://jmp2.uk/stvp-ESBA22000102A
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: WaterBear
+URL: https://jmp2.uk/stvp-ESBC170000388
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: WildEarth
+URL: https://jmp2.uk/stvp-ESBA330004121
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: NatureVision
@@ -556,76 +466,6 @@ Source: https://m3u.work/qKChzP8.m3u
 Name: Travelxp
 URL: https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Wildearth
-URL: https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipuUH5EhYeGLb72vLY-31jNtWivdrvIyDh_m1eH1uwJVIn_Wqx3gYQNmIXeVcqfUA8zaLgDebFaPFNAkly5vIqymmvtmtP5SpigAW-GJxBrg9abdStEE-aH0nSkn08MUZ5VZEQraQ4IQwzvTNVZ_a49ihvxh0MshtDpYK2TCZP0bH4WUXMct21hc1r0Jod/s1920/WildEarth_artwork_Horizontal_logordx.jpg
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Historia y Vida
-URL: https://jmp2.uk/stvp-ES12000024R
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260407T040050SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Ice Pilots
-URL: https://jmp2.uk/stvp-ES24000028L
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: La Fiebre del Jade
-URL: https://jmp2.uk/stvp-ES1600002QL
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Top Gear
-URL: https://jmp2.uk/stvp-ES2700002YP
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Mayday: Catástrofe Aérea
-URL: https://jmp2.uk/stvp-ES2800002MM
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: CURIOSITY Now
-URL: https://jmp2.uk/stvp-ES1400002CJ
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Royalworld - Nobleza y Dinastias
-URL: https://jmp2.uk/stvp-ESBD1400003QN
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: BBC Earth
-URL: https://jmp2.uk/stvp-ES3200001F1
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: NatureTime
-URL: https://jmp2.uk/stvp-ESBA22000102A
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: WildEarth
-URL: https://jmp2.uk/stvp-ESBA330004121
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Naturaleza
-URL: https://jmp2.uk/stvp-ES1600003FF
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20250527T014628SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Love the Planet
-URL: https://jmp2.uk/stvp-ESBC4700002TD
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: WaterBear
-URL: https://jmp2.uk/stvp-ESBC170000388
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Pluto TV Historia
@@ -783,142 +623,137 @@ URL: https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60d4edd
 Logo: https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png
 Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
+Name: Historia y Vida
+URL: https://jmp2.uk/stvp-ES12000024R
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260407T040050SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: Ice Pilots
+URL: https://jmp2.uk/stvp-ES24000028L
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: La Fiebre del Jade
+URL: https://jmp2.uk/stvp-ES1600002QL
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: Top Gear
+URL: https://jmp2.uk/stvp-ES2700002YP
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: CURIOSITY Now
+URL: https://jmp2.uk/stvp-ES1400002CJ
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: Royalworld - Nobleza y Dinastias
+URL: https://jmp2.uk/stvp-ESBD1400003QN
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: Love the Planet
+URL: https://jmp2.uk/stvp-ESBC4700002TD
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
 
 Group: Entretenimiento
 Name: Estilo y Vida – Rakuten TV
 URL: https://jmp2.uk/stvp-ES26000068D
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: La 1
 URL: https://jmp2.uk/stvp-ESBC4100001NZ
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260224T030732SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Canal Sur Andalucía
 URL: https://jmp2.uk/stvp-ESBD3000002GP
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260407T040041SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: La 2
 URL: https://jmp2.uk/stvp-ESBC4100002AG
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260224T030735SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Sony One Shark Tank
 URL: https://jmp2.uk/stvp-ES300004C9
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20260224T030825SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: MTV Cribs
 URL: https://jmp2.uk/stvp-ESAJ3800006TT
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: MTV Originals
-URL: https://jmp2.uk/stvp-ESAJ380000226
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: RTVE Saber y Ganar
-URL: https://jmp2.uk/stvp-ES3300004P0
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250819T033238SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Dhar Mann TV
 URL: https://jmp2.uk/stvp-ES3800002V5
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800002V5_20251111T011933SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Yu-Gi-Oh!
-URL: https://jmp2.uk/stvp-ES7000056Z
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Beyblade
-URL: https://jmp2.uk/stvp-ES1400001T8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Anime Visión
 URL: https://jmp2.uk/stvp-ES300029LP
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Anime Visión Classics
 URL: https://jmp2.uk/stvp-ES3000288I
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Chicas Guapas TV
 URL: https://jmp2.uk/stvp-ES4300001K6
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300001K6_20251125T101421SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: ¡Hola! Play
 URL: https://jmp2.uk/stvp-ES26000025M
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Mark Rober TV
 URL: https://jmp2.uk/stvp-ES4100001XD
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100001XD_20251111T011941SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Ideas en 5 Minutos
-URL: https://jmp2.uk/stvp-ESBC3500002PW
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Ubeat Lite
 URL: https://jmp2.uk/stvp-ES70000710
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES70000710_20260324T034843SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Xataka
-URL: https://jmp2.uk/stvp-ES42000022E
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Azteca Internacional
 URL: https://jmp2.uk/stvp-ESBD1300004IG
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Encantador de Perros
 URL: https://jmp2.uk/stvp-ESBA3300033PL
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Teen Vee
 URL: https://jmp2.uk/stvp-ESBC4700003RJ
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: 2M
 URL: https://jmp2.uk/stvp-ES4700001VS
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: El Mueble
 URL: https://jmp2.uk/stvp-ES4300006I4
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20251202T002547SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Mi Casa
-URL: https://jmp2.uk/stvp-ES4400002LI
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260120T031331SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Coreano by CJ ENM
 URL: https://jmp2.uk/stvp-ES1700003C6
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Fireplace Vibes
-URL: https://jmp2.uk/stvp-ES2200001SF
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Eventuales
@@ -1017,46 +852,86 @@ URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Somos Cine
+URL: https://jmp2.uk/stvp-ES33000058B
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Cocina
+URL: https://jmp2.uk/stvp-ES33000079W
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260324T034836SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Saber y ganar
+URL: https://jmp2.uk/stvp-ES3300004P0
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250819T033238SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Cuéntame
+URL: https://jmp2.uk/stvp-ES400002P5
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260407T040047SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: La Moderna
+URL: https://jmp2.uk/stvp-ES33000036Q
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260310T031635SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: La Promesa
+URL: https://jmp2.uk/stvp-ES3300006QL
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Fireplace Vibes
+URL: https://jmp2.uk/stvp-ES2200001SF
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 
 Group: Films
 Name: Atrescine
 URL: http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/a3cine_amarillo_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/a3cine_amarillo_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Univers TV
 URL: https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: LG 1: Film
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1film_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1film_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: LG 1: Spotlight
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1spotlight_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1spotlight_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Moviesphere
 URL: https://amg00353-amg00353c71-lg-es-10828.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatetvfast-moviespherespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/moviesphere_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/moviesphere_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Sony One Hits Acción
 URL: https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitsaccion_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitsaccion_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Sony One Hits Comedia
 URL: https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitscomedia_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitscomedia_cuadrado.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Runtime Cine y Series
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+Logo: https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_es_1920x1080_0.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Runtime Acción
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Runtime Thriller-Terror
@@ -1071,22 +946,22 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Runtime Romance
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260224T030809SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Runtime Comedia
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/logo/711x400/runtime_comedia_16x9.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Runtime Clásicos
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Runtime Familia
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13804&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Runtime Clásicos
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Pelis Top (Rakuten TV)
@@ -1094,9 +969,19 @@ URL: https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788b
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde-width200-quality90.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Películas Top - Rakuten TV
+URL: https://jmp2.uk/stvp-ES2600013H4
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Acción (Rakuten TV)
 URL: https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_language=es&ads.viewsize=&channel_id=6069&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8-width200-quality90.jpeg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Acción - Rakuten TV
+URL: https://jmp2.uk/stvp-ES2600004BD
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Thrillers (Rakuten TV)
@@ -1104,9 +989,19 @@ URL: https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Thrillers - Rakuten TV
+URL: https://jmp2.uk/stvp-ES4100002WB
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20251125T101442SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Sci-Fi (Rakuten TV)
 URL: https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_language=es&ads.viewsize=&channel_id=6740&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Sci-Fi - Rakuten TV
+URL: https://jmp2.uk/stvp-ES500004NO
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Comedias (Rakuten TV)
@@ -1114,9 +1009,19 @@ URL: https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Comedia - Rakuten TV
+URL: https://jmp2.uk/stvp-ES260000700
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Películas Románticas (Rakuten TV)
 URL: https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Películas Románticas - Rakuten TV
+URL: https://jmp2.uk/stvp-ES2600012C9
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Cine Español (Rakuten TV)
@@ -1124,9 +1029,19 @@ URL: https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Cine Español - Rakuten TV
+URL: https://jmp2.uk/stvp-ES3000008O8
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Dramas (Rakuten TV)
 URL: https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_language=es&ads.viewsize=&channel_id=6092&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Películas de Drama - Rakuten TV
+URL: https://jmp2.uk/stvp-ES2600003UM
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: En Familia (Rakuten TV)
@@ -1134,9 +1049,34 @@ URL: https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116-width200-quality90.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: En Familia - Rakuten TV
+URL: https://jmp2.uk/stvp-ES260001081
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Crimen (Rakuten TV)
 URL: https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_language=es&ads.viewsize=&channel_id=6220&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Crimen - Rakuten TV
+URL: https://jmp2.uk/stvp-ES2600005G9
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: MyTime Movie Network
+URL: https://jmp2.uk/stvp-ESBA2200004G5
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Cines Verdi TV
+URL: https://jmp2.uk/stvp-ESBC2700011AZ
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Cine Feel Good – Verdi TV
+URL: https://jmp2.uk/stvp-ESBC2700012RP
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Cine Friki
@@ -1144,9 +1084,19 @@ URL: https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Cine Friki
+URL: https://jmp2.uk/stvp-ESBD800001RJ
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20260407T040044SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Cine Western
 URL: https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Cine Western
+URL: https://jmp2.uk/stvp-ES2300005G7
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Grjngo - Películas Del Oeste
@@ -1154,14 +1104,49 @@ URL: https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.co
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Grjngo - Películas Del Oeste
+URL: https://jmp2.uk/stvp-ESBC2700002LO
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Estelar
+URL: https://jmp2.uk/stvp-ESAJ3800001KT
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Horror (Pluto TV)
 URL: https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 Logo: https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Action Movie Channel
+URL: https://jmp2.uk/stvp-ESBC40000248
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Bigtime - Películas Gratis
+URL: https://jmp2.uk/stvp-ESBC2700003T8
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Planeta de Cine
+URL: https://jmp2.uk/stvp-ES2800001G7
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Todo Pasión
+URL: https://jmp2.uk/stvp-ES900002ZD
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg" group-title="Films",ARTFLIX - Películas Clásicas
 URL: https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 Logo: https://static.wixstatic.com/media/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg/v1/fill/w_2500,h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Trailers
+URL: https://jmp2.uk/stvp-ESBC1700004PX
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Paramount Network de Pluto TV
@@ -1476,11 +1461,6 @@ URL: https://ztnr.rtve.es/ztnr/1688885.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Antena 3 Internacional
-URL: http://187.190.55.136:5501/udp/225.1.1.101:5101
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_negro_cuadrado.jpg
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: TRECE
 URL: https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg
@@ -1538,14 +1518,69 @@ URL: https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ani
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_sports_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Beyblade
+URL: https://jmp2.uk/stvp-ES1400001T8
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Yu-Gi-Oh!
+URL: https://jmp2.uk/stvp-ES7000056Z
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Caillou
+URL: https://jmp2.uk/stvp-ES4800002OZ
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Bob Esponja
+URL: https://jmp2.uk/stvp-ESBA33000262Z
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: La Abeja Maya
+URL: https://jmp2.uk/stvp-ESBD3200002V5
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Mr Bean Animated
 URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: La abeja Maya
-URL: https://daiconnect.com/live/hls/tvup/lg-planetajunior/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
-Logo: https://media.tvup.cloud/canales/generic_cd_6479dd1666328d12f0eb0843_1741875547087.jpg?width=200&height=200
+Name: Pitufo TV
+URL: https://jmp2.uk/stvp-ESBD130000205
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Pluto TV Kids
+URL: https://jmp2.uk/stvp-ESAJ38000046O
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Pocoyó
+URL: https://jmp2.uk/stvp-ESBC3900004ED
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Rabbids : La invasion
+URL: https://jmp2.uk/stvp-ESBD2300003S5
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Rantaró, El Ninja Boy
+URL: https://jmp2.uk/stvp-ES2600008NX
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Rugrats
+URL: https://jmp2.uk/stvp-ESBA33000324U
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Video Game Heroes
+URL: https://jmp2.uk/stvp-ES340000152
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Pluto TV Anime
@@ -1800,6 +1835,11 @@ URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Xataka
+URL: https://jmp2.uk/stvp-ES42000022E
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Actualidad 360
 URL: https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/67517fae5534bb0008187997/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=6fa4a0c8-3c21-11f1-898a-6045bd0349ca&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=6fa4a0c8-3c21-11f1-898a-6045bd0349ca&deviceLat=40.4400&deviceLon=-3.7100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=ES&serverSideAds=false&sessionID=6fae4c0a-3c21-11f1-85eb-9a7d90bf44e2&sid=6fae4c0a-3c21-11f1-85eb-9a7d90bf44e2&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNlOWU2NDlhLTI0NGQtNDJhNS05M2U0LWI5NTFmNjdjMTExYiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2ZmFlNGMwYS0zYzIxLTExZjEtODVlYi05YTdkOTBiZjQ0ZTIiLCJjbGllbnRJUCI6Ijg4LjI2LjI0MS4yNDgiLCJjaXR5IjoiTWFkcmlkIiwicG9zdGFsQ29kZSI6IjI4MDAzIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6NDAuNDM5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOi0zLjcxMDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMS4wIiwiY2xpZW50SUQiOiI2ZmE0YTBjOC0zYzIxLTExZjEtODk4YS02MDQ1YmQwMzQ5Y2EiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjZmYTRhMGM4LTNjMjEtMTFmMS04OThhLTYwNDViZDAzNDljYSIsImZ3VmNJRDJDb3BwYSI6IjZmYTRhMGM4LTNjMjEtMTFmMS04OThhLTYwNDViZDAzNDljYSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNmZhNGEwYzgtM2MyMS0xMWYxLTg5OGEtNjA0NWJkMDM0OWNhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMywxMDAxMywxMDAxNCwxMDAyMSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3NjYyNDk3MzA0NywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5tWmhOR0V3WXpndE0yTXlNUzB4TVdZeExUZzVPR0V0TmpBME5XSmtNRE0wT1dOaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzY3MTEzNzMsImlhdCI6MTc3NjYyNDk3MywianRpIjoiOTlkZDU4MGMtMmMxYS00M2Y5LThhOTYtZGEwZTQzOGRmOTU3In0.eAh9gpElbUoZ-JQXaaCi8qeiV76qiX6OhXSPXu1hMBg&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 Logo: https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
@@ -1879,21 +1919,6 @@ URL: https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/spektratv_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Vevo Latino
-URL: https://jmp2.uk/stvp-ESBC2100002LV
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Vevo Retro
-URL: https://jmp2.uk/stvp-ESBD230000289
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Vevo Pop
-URL: https://jmp2.uk/stvp-ESBC2100001IU
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: Trace Latina
 URL: https://jmp2.uk/stvp-ESBA3300042Y6
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png
@@ -1904,14 +1929,19 @@ URL: https://jmp2.uk/stvp-ESBA3300043M0
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Sol Música
-URL: https://jmp2.uk/stvp-ESBD2300004Y7
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png
+Name: Vevo Latino
+URL: https://jmp2.uk/stvp-ESBC2100002LV
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Cool Summer Channel
-URL: https://jmp2.uk/stvp-ES2500001F9
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png
+Name: Vevo Pop
+URL: https://jmp2.uk/stvp-ESBC2100001IU
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Vevo Retro
+URL: https://jmp2.uk/stvp-ESBD230000289
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: CLIPS don't lie
@@ -1919,14 +1949,14 @@ URL: https://jmp2.uk/stvp-ES32000027M
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250729T045050SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: NEW KPOP
-URL: https://jmp2.uk/stvp-ES1700005ME
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png
+Name: Cool Summer Channel
+URL: https://jmp2.uk/stvp-ES2500001F9
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: K-POP by CJ ENM
-URL: https://jmp2.uk/stvp-ES3900001QG
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png
+Name: Deluxe Lounge HD
+URL: https://jmp2.uk/stvp-ESBA1500001C4
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: SMTOWN
@@ -1934,9 +1964,9 @@ URL: https://jmp2.uk/stvp-ES1000001EF
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260324T034802SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Deluxe Lounge HD
-URL: https://jmp2.uk/stvp-ESBA1500001C4
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png
+Name: MTV Originals
+URL: https://jmp2.uk/stvp-ESAJ380000226
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Deluxe Lounge HD
@@ -2175,96 +2205,63 @@ Logo: https://provider-static.plex.tv/epg/cms/production/471205b6-08e3-4ee9-8d67
 Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
 
+Group: Música
+Name: Sol Música
+URL: https://jmp2.uk/stvp-ESBD2300004Y7
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: NEW KPOP
+URL: https://jmp2.uk/stvp-ES1700005ME
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+Name: K-POP by CJ ENM
+URL: https://jmp2.uk/stvp-ES3900001QG
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
+--------------------------------------------------
+
 Group: Niños
 Name: Clan
 URL: https://jmp2.uk/stvp-ESBC4100003WE
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260224T030737SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: LooLoo Kids
 URL: https://jmp2.uk/stvp-ES5000001CS
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Pitufo TV
-URL: https://jmp2.uk/stvp-ESBD130000205
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: BABY SHARK TV
 URL: https://jmp2.uk/stvp-ES17000065P
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Caillou
-URL: https://jmp2.uk/stvp-ES4800002OZ
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Pocoyó
-URL: https://jmp2.uk/stvp-ESBC3900004ED
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: duckTV
 URL: https://jmp2.uk/stvp-ESBC4700001GR
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Cry Babies
 URL: https://jmp2.uk/stvp-ES4400005EJ
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400005EJ_20251209T004308SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: SuperToons TV
 URL: https://jmp2.uk/stvp-ESBD5100001G0
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: La Abeja Maya
-URL: https://jmp2.uk/stvp-ESBD3200002V5
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Video Game Heroes
-URL: https://jmp2.uk/stvp-ES340000152
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Rabbids : La invasion
-URL: https://jmp2.uk/stvp-ESBD2300003S5
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Rugrats
-URL: https://jmp2.uk/stvp-ESBA33000324U
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Bob Esponja
-URL: https://jmp2.uk/stvp-ESBA33000262Z
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Rantaró, El Ninja Boy
-URL: https://jmp2.uk/stvp-ES2600008NX
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Las 3 Mellizas
 URL: https://jmp2.uk/stvp-ES4400001N3
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260120T031327SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Pluto TV Kids
-URL: https://jmp2.uk/stvp-ESAJ38000046O
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: iCarly
 URL: https://jmp2.uk/stvp-ESBA3300028OE
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Noticias
@@ -2412,7 +2409,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: SER Málaga
 URL: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
-Logo: https://graph.facebook.com/cadenaser/picture?width=200&height=200
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sermalaga_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Tocata FM Radio
@@ -2955,7 +2952,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cadena SER
 URL: https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
-Logo: https://graph.facebook.com/cadenaser/picture?width=200&height=200
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/ser_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: COPE
@@ -2985,101 +2982,71 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
 Group: Serie
-Name: Cuéntame cómo pasó
-URL: https://jmp2.uk/stvp-ES400002P5
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260407T040047SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: RTVE La Promesa
-URL: https://jmp2.uk/stvp-ES3300006QL
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: RTVE La Moderna
-URL: https://jmp2.uk/stvp-ES33000036Q
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260310T031635SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: FreeTV Estelar
 URL: https://jmp2.uk/stvp-ES500009ZJ
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500009ZJ_20260224T030757SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Águila Roja
 URL: https://jmp2.uk/stvp-ES500005BP
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Corazón
-URL: https://jmp2.uk/stvp-ESBD1300003VN
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Todo Drama
-URL: https://jmp2.uk/stvp-ES440000327
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: BBC Series
-URL: https://jmp2.uk/stvp-ES2900001DQ
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Sony One Series Thriller
 URL: https://jmp2.uk/stvp-ES300002Y6
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20260224T030822SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Sony One Éxitos
 URL: https://jmp2.uk/stvp-ES300003D4
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260224T030832SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Sony One The Blacklist
 URL: https://jmp2.uk/stvp-ES300005EL
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20260224T030828SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Sony One Series Comedia
 URL: https://jmp2.uk/stvp-ES30000145
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20260224T030818SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Los Gipsy Kings - Rakuten TV
 URL: https://jmp2.uk/stvp-ES2900002JG
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900002JG_20250923T011554SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Series K DRAMA
 URL: https://jmp2.uk/stvp-ES200040YF
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: K-Drama+
 URL: https://jmp2.uk/stvp-ESBD4100001DU
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Series K COMEDIA ROMÁNTICA
 URL: https://jmp2.uk/stvp-ES200041FT
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Mr Bean Animated
 URL: https://jmp2.uk/stvp-ES900001SH
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Shows
 Name: LG 1
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Sony One Series Thriller
 URL: https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriesthriller_horizontal.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriesthriller_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Sony One Series Comedia
@@ -3097,11 +3064,6 @@ URL: https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.co
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-blacklist_horizontal.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Runtime Cine y Series
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-Logo: https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_es_1920x1080_0.jpg
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: Runtime Series
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 Logo: https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_series_16x9_0.jpg
@@ -3117,6 +3079,21 @@ URL: https://amg00793-amg00793c40-lg-es-7759.playouts.now.amagi.tv/playlist/amg0
 Logo: https://calama.bbcstudios.com/api/assets/virtual-events/88a94dff-d4c6-4831-88e9-4f8605144f56
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: BBC Series
+URL: https://jmp2.uk/stvp-ES2900001DQ
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Comedia Made in Spain
+URL: https://jmp2.uk/stvp-ESAJ3800005C5
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Corazón
+URL: https://jmp2.uk/stvp-ESBD1300003VN
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Todo Comedia
 URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993069&ads.xumo_streamId=99993069&ads.channelId=99993069&ads.ad_tag_id=140650&ads.csid=lgchannels_es_todocomedia_ssai&ads.channelName=todocomedia_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/90b320ab-42d4-4a7a-9f7b-643d6c028014.jpeg
@@ -3127,9 +3104,19 @@ URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fd26c4b5-868a-4520-8791-d016d0dd46b8.jpeg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
+Name: Todo Drama
+URL: https://jmp2.uk/stvp-ES440000327
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
 Name: Todo Crimen
 URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992176&ads.xumo_streamId=99992176&ads.channelId=99992176&ads.ad_tag_id=134053&ads.csid=lgchannels_es_indigeniuscrimenspanish_ssai&ads.channelName=indigeniuscrimenspanish_es&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_contentId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_providerId=2192&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=es&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: Todo Crimen
+URL: https://jmp2.uk/stvp-ES1600004JV
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Pluto TV Comedia made in Spain
@@ -3397,38 +3384,28 @@ Group: Telenovela
 Name: Todo Novelas
 URL: https://jmp2.uk/stvp-ESBC43000013T
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Rebelde
 URL: https://jmp2.uk/stvp-ES3600001Y7
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260127T040157SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: Piel Salvaje
 URL: https://jmp2.uk/stvp-ES2900003S3
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900003S3_20251111T011943SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
 Group: Viajes y Cocina
-Name: Pluto TV Cocina
-URL: https://jmp2.uk/stvp-ESAJ3800007PC
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: Viajes & Sabores
 URL: https://jmp2.uk/stvp-ES300033TI
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 Name: GoUSA TV
 URL: https://jmp2.uk/stvp-ESBC27000040I
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: RTVE Cocina
-URL: https://jmp2.uk/stvp-ES33000079W
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260324T034836SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u
 --------------------------------------------------
 
