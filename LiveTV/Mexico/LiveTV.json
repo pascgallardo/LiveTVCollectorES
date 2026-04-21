@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-21 06:56:25",
+  "date": "2026-04-21 14:46:45",
   "channels": {
     "General": [
       {
@@ -1145,7 +1145,7 @@
       },
       {
         "name": "125 YTN",
-        "logo": "https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
         "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt032&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb7bc49a-a2090aa9-850d4824-b061f466&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
@@ -1235,18 +1235,18 @@
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13747&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "215 Sony One Novelas",
-        "logo": "https://img.platform.wurl.dev/channel/1001/lg/b5f68a/LG-Logo-PNG-100x100_v1.png",
+        "name": "215 Dramon",
+        "logo": "https://img.platform.wurl.dev/channel/1001/lg/b5f68a/LG-Logo-PNG-100x100_v2.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
         "url": "https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8"
       },
       {
-        "name": "216 Canela.TV Pasion Latina",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Pasion%20Latina-800x200.png",
+        "name": "216 Novelas y Dramas",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Novelas_y_Drama-400x200.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://amg00658-amg00658c99-lg-mx-7904.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://amg00658-amg00658c99-lg-mx-7904.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
       },
       {
         "name": "217 Pluto TV Novelas",
@@ -1285,10 +1285,10 @@
       },
       {
         "name": "227 Unreal, but Real",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_121/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_121/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=unreal%2Cbutreal&channel_id=newid_121&mpf=8a4c45e5-39af1962-f23093ef&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a293a7a3-22171a5f-fe5d0feb-556780f3&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=unreal%2Cbutreal&channel_id=newid_121&mpf=8a4c45e5-39af1962-33e4136a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a293a7a3-22171a5f-fe5d0feb-556780f3&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "230 Shark Tank México",
@@ -1452,7 +1452,7 @@
         "url": "https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=99992411&ads.xumo_streamId=99992411&ads.channelId=99992411&ads.csid=lgchannels_mx_tastemadespanishmexico_ssai&ads.caid=Tastemade&ads.channelName=tastemadespanishmexico_mx&ads._fw_coppa=0&ads.xumo_contentName=TastemadeSpanishMexico&ads.xumo_contentId=2483&ads._fw_content_rating=tv-g&ads.xumo_providerName=TastemadeSpanishMexico&ads.xumo_providerId=2483&ads._fw_content_category=IAB8&ads._fw_content_genre=Food%20TV&ads._fw_content_language=es&ads.xumo_imdb_genre=Reality-TV%252CTalk%2520Show&ads.amznappId=61009c470a264b7c8322f1c45792cc5c&ads.amznslotId=9c67d46e-238a-49e6-a34f-f50fe8eed913&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]"
       },
       {
-        "name": "371 MOTORVISION.TV",
+        "name": "371 Motorvision.TV",
         "logo": "https://image.xumo.com/v1/channels/channel/99992271/600x200.png?type=white_cropped",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
@@ -1460,10 +1460,10 @@
       },
       {
         "name": "374 NEW KFOOD",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_002/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_002/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-7d42feb9&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-ca943dce&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "375 Gusto TV Espanol",
@@ -1565,10 +1565,10 @@
       },
       {
         "name": "392 K-ASMR",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_263/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_263/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-asmr&channel_id=newid_263&mpf=02685f94-39af1962-6dfe6af6&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=bbdfd548-8968fde5-bcdb9bcb-fe186749&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-asmr&channel_id=newid_263&mpf=02685f94-39af1962-ab2738a2&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=bbdfd548-8968fde5-bcdb9bcb-fe186749&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "396 Bloomberg Originals",
@@ -1656,17 +1656,17 @@
       },
       {
         "name": "423 World Billiards TV",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_003/lg_channels/img/default/channel_logo/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_003/lg_channels/img/default/channel_logo/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-6728fb2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-c1ec0f4a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "430 BABY SHARK TV",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_061/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_061/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=babysharktv&channel_id=newid_061&mpf=efe2ead6-39af1962-a3be4744&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a9a56e67-9592d0b7-587e53de-e2e24a1b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=babysharktv&channel_id=newid_061&mpf=efe2ead6-39af1962-3b124532&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a9a56e67-9592d0b7-587e53de-e2e24a1b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "431 Bob Esponja Pantalones Cuadrados",
@@ -1712,17 +1712,17 @@
       },
       {
         "name": "440 Robocar POLI",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_229/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_229/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=robocarpoli&channel_id=newid_229&mpf=86d1738e-39af1962-2a586573&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=c854642d-605f10d3-fa3968d9-172f8a7f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=robocarpoli&channel_id=newid_229&mpf=86d1738e-39af1962-d94aff0d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=c854642d-605f10d3-fa3968d9-172f8a7f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "441 Cocobi",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_191/lg_channels/img/channel_logo/default/channel_logo.png?ver=20231106113621",
+        "logo": "http://accio.its-newid.net/channel/newid_191/lg_channels/img/channel_logo/default/channel_logo.png?ver=20231106113621",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cocobi&channel_id=newid_191&mpf=69b89c2e-39af1962-daa73b4e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=56db2a54-ec2631f1-8093589e-9b56ab5d&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cocobi&channel_id=newid_191&mpf=69b89c2e-39af1962-5602d59c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=56db2a54-ec2631f1-8093589e-9b56ab5d&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "445 Masha y el Oso",
@@ -1782,24 +1782,24 @@
       },
       {
         "name": "509 Anime Onegai Comedy",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_214/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_214/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaicomedy&channel_id=newid_214&mpf=d34d5cf0-39af1962-d5863b1f&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=630dbac6-86a0f716-ef4860aa-f1d06dba&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaicomedy&channel_id=newid_214&mpf=d34d5cf0-39af1962-8942becc&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=630dbac6-86a0f716-ef4860aa-f1d06dba&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "511 Anime Onegai Sports",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_212/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_212/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisports&channel_id=newid_212&mpf=3a2ef9c5-39af1962-1c898e83&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=2a148a9d-d3d99606-56757225-a4a90caa&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisports&channel_id=newid_212&mpf=3a2ef9c5-39af1962-bac58b9e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=2a148a9d-d3d99606-56757225-a4a90caa&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "512 Anime Onegai Action",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_202/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_202/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaiaction&channel_id=newid_202&mpf=2335c884-39af1962-fa54488e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=003cb2ff-3bce06a7-ae78c1b5-4cbe9c0b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaiaction&channel_id=newid_202&mpf=2335c884-39af1962-9b0f1cee&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=003cb2ff-3bce06a7-ae78c1b5-4cbe9c0b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "550 FreeTV Banda",
@@ -1810,17 +1810,17 @@
       },
       {
         "name": "560 SMTOWN",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_332/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_332/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=smtown&channel_id=newid_332&mpf=09daf170-39af1962-def4beb0&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=ddd2d215-79be35eb-8de88db3-0eceaf47&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=smtown&channel_id=newid_332&mpf=09daf170-39af1962-9271f6ad&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=ddd2d215-79be35eb-8de88db3-0eceaf47&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "561 YG TV",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_005/lg_channels/img/default/channel_logo/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_005/lg_channels/img/default/channel_logo/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ygtv&channel_id=newid_005&mpf=bed58949-39af1962-0aac3658&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=926b2286-58f1fa6d-42c61148-2f8160c1&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ygtv&channel_id=newid_005&mpf=bed58949-39af1962-ee979da7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=926b2286-58f1fa6d-42c61148-2f8160c1&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "562 NEW KPOP",
@@ -2027,24 +2027,24 @@
       },
       {
         "name": "622 El Peso del Amor",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_084/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_084/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=elpesodelamor_kbs&channel_id=newid_084&mpf=010b33d7-39af1962-f4326886&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5f48112c-dacdf426-80726d11-adbd6e8a&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=elpesodelamor_kbs&channel_id=newid_084&mpf=010b33d7-39af1962-d74e14f5&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5f48112c-dacdf426-80726d11-adbd6e8a&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "623 Rakuten Viki",
-        "logo": "https://img.platform.wurl.dev/channel/1065/lg/288a2b/LG-Logo-PNG-100x100_v1.png",
+        "logo": "http://accio.its-newid.net/channel/newid_308/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://220f14502d694f3cb7f6a078aeaa4147.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-mx_RakutenViki/playlist.m3u8"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=rakutenviki&channel_id=newid_308&mpf=c2224bad-39af1962-e0819d2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7881ca5e-657c2179-4eb96e92-120cbbd5&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "624 K-DRAMA by MBC",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_337/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_337/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-852d4c1d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-32e2834b&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "625 Zee Mundo",
@@ -2055,59 +2055,59 @@
       },
       {
         "name": "626 Amor Bajo la Luz de la Luna",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_083/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_083/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=amorbajolaluzdelaluna_kbs&channel_id=newid_083&mpf=9f6fa674-39af1962-9360f1e8&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5142d78c-20f00771-56528643-57809ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=amorbajolaluzdelaluna_kbs&channel_id=newid_083&mpf=9f6fa674-39af1962-1accba8e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5142d78c-20f00771-56528643-57809ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "627 The Heirs",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_094/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_094/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=theheirs_sbs&channel_id=newid_094&mpf=18100296-39af1962-56af80e6&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7560294e-32da6487-787fde81-45aafe2b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=theheirs_sbs&channel_id=newid_094&mpf=18100296-39af1962-4ac788e7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7560294e-32da6487-787fde81-45aafe2b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "628 Amor Secreto",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_189/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_189/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=amorsecreto_kbs&channel_id=newid_189&mpf=7e78255d-39af1962-748f6f30&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=29ffaf2d-7e4220af-b6932964-0932ba03&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=amorsecreto_kbs&channel_id=newid_189&mpf=7e78255d-39af1962-7347f648&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=29ffaf2d-7e4220af-b6932964-0932ba03&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "629 Hwarang: La Juventud del Guerrero Poeta",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_190/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_190/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=hwarang%3Alajuventuddelguerreropoeta_kbs&channel_id=newid_190&mpf=1ebfacb8-39af1962-ec6565f3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=11c8dcaf-4362a3b6-ef8ea143-3412391a&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=hwarang%3Alajuventuddelguerreropoeta_kbs&channel_id=newid_190&mpf=1ebfacb8-39af1962-e89f6d2d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=11c8dcaf-4362a3b6-ef8ea143-3412391a&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "630 Bajo la lluvia",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_147/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_147/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bajolalluvia_sll&channel_id=newid_147&mpf=35754756-39af1962-d7daa666&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=177a06b4-6a8c124a-3adebec7-1dfc88e6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bajolalluvia_sll&channel_id=newid_147&mpf=35754756-39af1962-d7aa982b&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=177a06b4-6a8c124a-3adebec7-1dfc88e6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "631 My Secret Romance",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_209/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_209/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mysecretromance_rakutenviki&channel_id=newid_209&mpf=b4e7110c-39af1962-d82c5b0c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c0414e9-6b0137d0-d15309b8-1c71ad7c&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mysecretromance_rakutenviki&channel_id=newid_209&mpf=b4e7110c-39af1962-a41ad233&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c0414e9-6b0137d0-d15309b8-1c71ad7c&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "633 Mi identificación es Belleza de Gangnam",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_208/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_208/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=miidentificaci%C3%B3nesbellezadegangnam_sll&channel_id=newid_208&mpf=c3e0219a-39af1962-b181ef44&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db17e212-c445a597-be4ef065-b3353f3b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=miidentificaci%C3%B3nesbellezadegangnam_sll&channel_id=newid_208&mpf=c3e0219a-39af1962-b05c8225&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db17e212-c445a597-be4ef065-b3353f3b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "635 ROMCOM K-Drama",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_232/lg_channels/img/channel_logo/default/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_232/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-479856f1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-392bae6b&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "641 Mr.Bean Live Action",
@@ -2153,7 +2153,7 @@
       },
       {
         "name": "702 Cindie TV",
-        "logo": "https://lg-epg.muxip.com/channels/images/340/logo.png",
+        "logo": "http://accio.its-newid.net/rt_channel/newid_rt040/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
         "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
@@ -2369,7 +2369,7 @@
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "734 4fangs",
+        "name": "734 Four Fangs",
         "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/versatile_4fangs/4fangs_Log0.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
@@ -2433,10 +2433,10 @@
       },
       {
         "name": "743 NEW KMOVIES",
-        "logo": "https://cdn88-accio.its-newid.net/channel/newid_012/lg_channels/img/default/channel_logo/channel_logo.png",
+        "logo": "http://accio.its-newid.net/channel/newid_012/lg_channels/img/default/channel_logo/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-feacfd68&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-3898dfc4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
         "name": "744 Filmelier TV Vida Real",
@@ -2460,7 +2460,7 @@
         "url": "https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]"
       },
       {
-        "name": "750 CINEMA | SONY ONE",
+        "name": "750 Sony One Cinema",
         "logo": "https://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/mxlg.m3u",
