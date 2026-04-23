@@ -2814,6 +2814,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20260421T141831SQUARE.png"
   },
   {
+    "name": "Yo! MTV",
+    "type": "Music",
+    "url": "https://jmp2.uk/stvp-US3900009ZV",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900009ZV_20260421T143435SQUARE.png"
+  },
+  {
     "name": "SMTOWN",
     "type": "Music",
     "url": "https://jmp2.uk/stvp-US10000135V",
@@ -7650,6 +7656,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20260421T141604SQUARE.png"
   },
   {
+    "name": "Nick en Espanol",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US39000177S",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000177S_20260421T142211SQUARE.png"
+  },
+  {
     "name": "PBS Kids",
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBC3600013PC",
@@ -7792,12 +7804,6 @@
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-US29000168D",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20260421T142329SQUARE.png"
-  },
-  {
-    "name": "BBC Kids",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US800003JM",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20260421T142059SQUARE.png"
   },
   {
     "name": "Rainbow Ruby",
@@ -8994,6 +9000,24 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20260421T133724SQUARE.png"
   },
   {
+    "name": "WSOC Charlotte",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-USBC1000017D8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png"
+  },
+  {
+    "name": "WBTV News",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-US700004OA",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png"
+  },
+  {
+    "name": "WCNC",
+    "type": "News & Opinion",
+    "url": "https://jmp2.uk/stvp-US1400004HN",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png"
+  },
+  {
     "name": "FOX Weather",
     "type": "News & Opinion",
     "url": "https://jmp2.uk/stvp-USBD700003L7",
@@ -9006,10 +9030,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260421T133704SQUARE.png"
   },
   {
-    "name": "WeatherNation",
+    "name": "WN Charlotte",
     "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-USBC1500009LD",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBC3200001S5",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png"
   },
   {
     "name": "BBC News",
@@ -9516,6 +9540,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20260421T133840SQUARE.png"
   },
   {
+    "name": "48 Hours",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US1000005GY",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000005GY_20260421T142104SQUARE.png"
+  },
+  {
     "name": "ABC 20/20",
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-US4800001W5",
@@ -9538,6 +9568,12 @@
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBD42000250Q",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20251202T005858SQUARE.png"
+  },
+  {
+    "name": "COPS",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US10000092P",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000092P_20260421T142126SQUARE.png"
   },
   {
     "name": "Oxygen True Crimes Archive",
@@ -9670,6 +9706,18 @@
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-USBA3000093U",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20260421T133520SQUARE.png"
+  },
+  {
+    "name": "Jersey Shore",
+    "type": "Reality TV",
+    "url": "https://jmp2.uk/stvp-US3900012LC",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900012LC_20260421T142158SQUARE.png"
+  },
+  {
+    "name": "Teen Mom",
+    "type": "Reality TV",
+    "url": "https://jmp2.uk/stvp-US39000134M",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000134M_20260421T142302SQUARE.png"
   },
   {
     "name": "Perform",
@@ -10080,6 +10128,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20260421T143318SQUARE.png"
   },
   {
+    "name": "CBS Sports Golazo Network",
+    "type": "Sports & Outdoors",
+    "url": "https://jmp2.uk/stvp-US100000704",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260421T142122SQUARE.png"
+  },
+  {
     "name": "FOX Sports",
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US2700001QY",
@@ -10158,6 +10212,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20260421T143045SQUARE.png"
   },
   {
+    "name": "Bellator MMA",
+    "type": "Sports & Outdoors",
+    "url": "https://jmp2.uk/stvp-US1000006HT",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000006HT_20260421T142118SQUARE.png"
+  },
+  {
     "name": "DraftKings Network",
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-USBD700013BW",
@@ -10174,6 +10234,12 @@
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-USBD12000255B",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20260421T143129SQUARE.png"
+  },
+  {
+    "name": "UEFA Champions League",
+    "type": "Sports & Outdoors",
+    "url": "https://jmp2.uk/stvp-US1000012ML",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260421T142335SQUARE.png"
   },
   {
     "name": "beIN SPORTS XTRA",
@@ -10446,6 +10512,18 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500001O6_20260421T143005SQUARE.png"
   },
   {
+    "name": "Survivor",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-US3900014MX",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900014MX_20260421T142256SQUARE.png"
+  },
+  {
+    "name": "The Amazing Race",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-US390001557",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260421T142318SQUARE.png"
+  },
+  {
     "name": "America's Got Talent",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-US3500006VF",
@@ -10648,6 +10726,12 @@
     "type": "Lifestyle & Pop Culture",
     "url": "https://jmp2.uk/stvp-US700020AX",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700020AX_20250929T231748SQUARE.png"
+  },
+  {
+    "name": "The Judge Judy Channel",
+    "type": "Lifestyle & Pop Culture",
+    "url": "https://jmp2.uk/stvp-US3900016OI",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900016OI_20260421T142324SQUARE.png"
   },
   {
     "name": "VICE",
@@ -11128,6 +11212,12 @@
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-US2700004DX",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20260421T142008SQUARE.png"
+  },
+  {
+    "name": "Telemundo Deportes Ahora",
+    "type": "Latino",
+    "url": "https://jmp2.uk/stvp-US800015QA",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800015QA_20260421T142311SQUARE.png"
   },
   {
     "name": "WAPA+",
