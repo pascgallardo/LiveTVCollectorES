@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24 08:50:37",
+  "date": "2026-04-24 15:18:19",
   "channels": {
     "Generalistas": [
       {
@@ -1102,6 +1102,13 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8"
       },
       {
+        "name": "TVE Internacional Europa HD",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg",
+        "group": "Int. Europa",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8"
+      },
+      {
         "name": "Star TVE HD",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg",
         "group": "Int. Europa",
@@ -1611,45 +1618,45 @@
       },
       {
         "name": "Historia y Vida",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovehistoriayvida_redondo.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260421T125616SQUARE.png",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+        "url": "https://jmp2.uk/stvp-ES12000024R"
       },
       {
-        "name": "Crimen&Historia",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_redondo.png",
+        "name": "Crimen & Historia",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c23-lg-es-6727.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-crimenandhistoria-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+        "url": "https://jmp2.uk/stvp-ES33000025N"
       },
       {
         "name": "Love the Planet",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/refs/heads/main/lovetheplanet_redondo.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8"
+        "url": "https://jmp2.uk/stvp-ESBC4700002TD"
       },
       {
         "name": "Love Wine",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_redondo.png",
+        "logo": "https://www.advanced-television.com/wp-content/uploads/2023/05/LoveWineChannel.png",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
-        "name": "Viajes y Sabores",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetravel&taste_redondo.png",
+        "name": "Viajes & Sabores",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+        "url": "https://jmp2.uk/stvp-ES300033TI"
       },
       {
         "name": "El Mueble",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_redondo.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20251202T002547SQUARE.png",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8"
+        "url": "https://jmp2.uk/stvp-ES4300006I4"
       },
       {
         "name": "Mayday: Catástrofe Aérea",
@@ -1694,11 +1701,32 @@
         "url": "https://jmp2.uk/stvp-ESBA22000102A"
       },
       {
+        "name": "NatureVision",
+        "logo": "https://m.media-amazon.com/images/I/71z6XLBymhL.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=naturevision_es&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
+      },
+      {
+        "name": "Planeta Salvaje",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20260421T125606SQUARE.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/stvp-ES1600003FF"
+      },
+      {
         "name": "Space Live",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/spacelive_cuadrado.jpg",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://linear-1224.frequency.stream/dist/lg-es/1224/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
+        "url": "https://jmp2.uk/stvp-ES7000088K"
+      },
+      {
+        "name": "Travelxp",
+        "logo": "https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/313412544_486490350163360_4702761094857385076_n.jpg?stp=c0.5000x0.5000f_dst-jpg_e15_p261x261_q65_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_ht=scontent-mad2-1.xx&_nc_cat=108&_nc_ohc=Kx6Ef4XqU9wQ7kNvwEnF1jV&_nc_gid=Kx0WYIpJbooZAdO92bbI7Q&ccb=1-7&_nc_sid=f907e8&oh=00_Af3mFYa9Yf-Dn39iISF_2E37K8Cg-iFf-9Ni02DFMzoJQQ&oe=69F11111",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8"
       },
       {
         "name": "WaterBear",
@@ -1708,32 +1736,11 @@
         "url": "https://jmp2.uk/stvp-ESBC170000388"
       },
       {
-        "name": "WildEarth",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png",
+        "name": "Wildearth",
+        "logo": "https://i.redd.it/simple-logo-concept-for-wild-earth-v0-cqxkaxor72xe1.png?width=1001&format=png&auto=webp&s=cdbe91ead77b40b4601ec833342b2d07bc864d67",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ESBA330004121"
-      },
-      {
-        "name": "NatureVision",
-        "logo": "https://image.xumo.com/v1/channels/channel/99991197/600x337.webp?type=channelTile",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=naturevision_es&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
-      },
-      {
-        "name": "Travelxp",
-        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8"
-      },
-      {
-        "name": "Planeta Salvaje",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20260421T125606SQUARE.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ES1600003FF"
+        "url": "https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
         "name": "Pluto TV Historia",
@@ -1981,13 +1988,6 @@
         "url": "https://jmp2.uk/stvp-ES1400002CJ"
       },
       {
-        "name": "Historia y Vida",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260421T125616SQUARE.png",
-        "group": "Documentales",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES12000024R"
-      },
-      {
         "name": "Royalworld - Nobleza y Dinastias",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png",
         "group": "Documentales",
@@ -1995,11 +1995,11 @@
         "url": "https://jmp2.uk/stvp-ESBD1400003QN"
       },
       {
-        "name": "Love the Planet",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png",
+        "name": "WildEarth",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png",
         "group": "Documentales",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ESBC4700002TD"
+        "url": "https://jmp2.uk/stvp-ESBA330004121"
       }
     ],
     "Radio_Populares": [
@@ -3606,7 +3606,7 @@
       },
       {
         "name": "FilmRise Sci-Fi",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/277ead19-5335-42c8-8c64-31bda5696bb9.jpeg",
+        "logo": "https://image.roku.com/developer_channels/prod/e72e1a5bc8cf11be5b06395d673607937dd06dbc65f90c06fdf4bd038e509bf6.png",
         "group": "Shows",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992180&ads.xumo_streamId=99992180&ads.channelId=99992180&ads.csid=lgchannels_es_filmrisespanish_ssai&ads.channelName=filmrisescifi_es&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_contentId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_providerId=2701&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
@@ -3652,6 +3652,13 @@
         "group": "Shows",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES1600004JV"
+      },
+      {
+        "name": "12 Monkeys",
+        "logo": "https://static.wikia.nocookie.net/12-monkeys-tv/images/d/de/12_Monkeys_Logo.jpg/revision/latest?cb=20160121192811",
+        "group": "Shows",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993070&ads.xumo_streamId=99993070&ads.channelId=99993070&ads.ad_tag_id=154587&ads.csid=lgchannels_es_nbcu12monkeys_ssai&ads.channelName=12monkeys_es&ads.xumo_contentName=NBCUES&ads.xumo_contentId=4342&ads.xumo_providerName=NBCUES&ads.xumo_providerId=4342&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
         "name": "Pluto TV Comedia made in Spain",
@@ -4155,25 +4162,11 @@
         "url": "https://jmp2.uk/stvp-ES4700001VS"
       },
       {
-        "name": "El Mueble",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20251202T002547SQUARE.png",
-        "group": "Entretenimiento",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES4300006I4"
-      },
-      {
         "name": "Coreano by CJ ENM",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png",
         "group": "Entretenimiento",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
         "url": "https://jmp2.uk/stvp-ES1700003C6"
-      },
-      {
-        "name": "Space Live",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260421T125629SQUARE.png",
-        "group": "Entretenimiento",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES7000088K"
       }
     ],
     "Serie": [
@@ -4383,13 +4376,6 @@
         "group": "Crimen",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
         "url": "https://jmp2.uk/stvp-ES2600001MC"
-      },
-      {
-        "name": "Crimen & Historia",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png",
-        "group": "Crimen",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES33000025N"
       },
       {
         "name": "DATELINE 24/7",
@@ -4772,13 +4758,6 @@
       }
     ],
     "Viajes y Cocina": [
-      {
-        "name": "Viajes & Sabores",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png",
-        "group": "Viajes y Cocina",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_ES.m3u",
-        "url": "https://jmp2.uk/stvp-ES300033TI"
-      },
       {
         "name": "GoUSA TV",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png",
