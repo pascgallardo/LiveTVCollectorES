@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24 22:20:33",
+  "date": "2026-04-25 07:30:00",
   "channels": {
     "Religious": [
       {
@@ -1017,6 +1017,13 @@
         "url": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8"
       },
       {
+        "name": "NEW KMOVIES (1080p)",
+        "logo": "https://i.imgur.com/wCgirjc.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK"
+      },
+      {
         "name": "Paramount Movie Channel",
         "logo": "https://i.imgur.com/sj5h9bl.png",
         "group": "Movies",
@@ -1744,11 +1751,11 @@
         "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8"
       },
       {
-        "name": "PGA Tour (1080p) [Geo-blocked]",
+        "name": "PGA Tour (1080p)",
         "logo": "https://i.imgur.com/J0TY9dG.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8"
+        "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8"
       },
       {
         "name": "Pluto TV Futbol Para Fans (1080p)",
@@ -2333,7 +2340,7 @@
         "logo": "https://i.imgur.com/JZt2qh5.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003"
+        "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001"
       },
       {
         "name": "News12+ Connecticut (1080p) [Geo-blocked]",
@@ -2799,7 +2806,7 @@
         "logo": "https://i.imgur.com/4v93XUB.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
+        "url": "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8"
       }
     ],
     "Music": [
@@ -2937,11 +2944,11 @@
         "url": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8"
       },
       {
-        "name": "NEW K-POP (1080p)",
+        "name": "NEW KPOP (1080p)",
         "logo": "https://i.imgur.com/B7ILXMc.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V"
       },
       {
         "name": "Radio Télé Kajou (480p) [Not 24/7]",
@@ -4187,6 +4194,13 @@
         "url": "https://dvrfl04.tulix.tv/teleup-justice/mpegts"
       },
       {
+        "name": "K Content by CJ ENM (1080p)",
+        "logo": "https://i.imgur.com/lRy231d.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8"
+      },
+      {
         "name": "KCWE-DT1 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
         "group": "Entertainment",
@@ -4802,11 +4816,11 @@
         "url": "https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "Are we there Yet? (1080p) [Geo-blocked]",
+        "name": "Are We There Yet? (1080p)",
         "logo": "https://i.imgur.com/3BJQiHP.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
+        "url": "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8"
       },
       {
         "name": "At Home with Family Handyman (720p)",
@@ -8835,7 +8849,7 @@
         "logo": "https://i.imgur.com/XRGioQX.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171"
+        "url": "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8"
       },
       {
         "name": "Kids Pang TV (1080p)",
@@ -8843,13 +8857,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Lego Channel (1080p)",
-        "logo": "https://i.imgur.com/xePwW13.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/stvp-GBBC4300005AL"
       },
       {
         "name": "LEGO Kids TV",
@@ -8927,6 +8934,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "The LEGO Channel (1080p)",
+        "logo": "https://i.imgur.com/xePwW13.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://dltiqboxjw21d.cloudfront.net/index.m3u8"
       },
       {
         "name": "Tom And Jerry (720p)",
@@ -9817,6 +9831,13 @@
         "url": "https://eb3933ec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZTM2MF9ITFM/playlist.m3u8"
       },
       {
+        "name": "Curiosity Now (1080p)",
+        "logo": "https://i.imgur.com/gJ9eMaG.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "DangerTV (720p)",
         "logo": "https://i.imgur.com/4aTk45R.png",
         "group": "Documentary",
@@ -9828,7 +9849,7 @@
         "logo": "https://i.imgur.com/8mAJuut.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007"
+        "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029"
       },
       {
         "name": "Declassified (720p)",
@@ -9877,7 +9898,7 @@
         "logo": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8"
+        "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
       },
       {
         "name": "KTOO 360TV 3 (FNX)",
@@ -9901,11 +9922,11 @@
         "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8"
       },
       {
-        "name": "Love The Planet (1080p) [Geo-blocked]",
+        "name": "Love the Planet (1080p)",
         "logo": "https://i.imgur.com/RBcD49X.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+        "url": "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8"
       },
       {
         "name": "Lucky Dog (720p)",

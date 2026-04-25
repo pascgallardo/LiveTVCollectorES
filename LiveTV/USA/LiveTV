@@ -864,6 +864,12 @@
     "img": "https://i.imgur.com/HYgxPVQ.png"
   },
   {
+    "name": "NEW KMOVIES (1080p)",
+    "type": "Movies",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK",
+    "img": "https://i.imgur.com/wCgirjc.png"
+  },
+  {
     "name": "Paramount Movie Channel",
     "type": "Movies",
     "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
@@ -1482,9 +1488,9 @@
     "img": "https://i.imgur.com/gUxH97E.png"
   },
   {
-    "name": "PGA Tour (1080p) [Geo-blocked]",
+    "name": "PGA Tour (1080p)",
     "type": "Sports",
-    "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8",
+    "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8",
     "img": "https://i.imgur.com/J0TY9dG.png"
   },
   {
@@ -1982,7 +1988,7 @@
   {
     "name": "NBC News NOW (1080p)",
     "type": "News",
-    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003",
+    "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001",
     "img": "https://i.imgur.com/JZt2qh5.png"
   },
   {
@@ -2378,7 +2384,7 @@
   {
     "name": "The Jamie Oliver Channel (1080p)",
     "type": "Lifestyle",
-    "url": "https://jamieoliver-xumo.amagi.tv/playlist.m3u8",
+    "url": "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8",
     "img": "https://i.imgur.com/4v93XUB.png"
   },
   {
@@ -2496,9 +2502,9 @@
     "img": "https://i.imgur.com/thbvJd1.png"
   },
   {
-    "name": "NEW K-POP (1080p)",
+    "name": "NEW KPOP (1080p)",
     "type": "Music",
-    "url": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V",
     "img": "https://i.imgur.com/B7ILXMc.png"
   },
   {
@@ -3564,6 +3570,12 @@
     "img": "https://i.imgur.com/peuHszg.png"
   },
   {
+    "name": "K Content by CJ ENM (1080p)",
+    "type": "Entertainment",
+    "url": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8",
+    "img": "https://i.imgur.com/lRy231d.png"
+  },
+  {
     "name": "KCWE-DT1 (720p)",
     "type": "Entertainment",
     "url": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8",
@@ -4086,9 +4098,9 @@
     "img": "https://i.imgur.com/rKWLv48.png"
   },
   {
-    "name": "Are we there Yet? (1080p) [Geo-blocked]",
+    "name": "Are We There Yet? (1080p)",
     "type": "Series",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8",
+    "url": "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
     "img": "https://i.imgur.com/3BJQiHP.png"
   },
   {
@@ -7526,7 +7538,7 @@
   {
     "name": "Ketchup TV (720p)",
     "type": "Kids",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171",
+    "url": "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8",
     "img": "https://i.imgur.com/XRGioQX.png"
   },
   {
@@ -7534,12 +7546,6 @@
     "type": "Kids",
     "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
     "img": "https://i.imgur.com/mhAAIa2.png"
-  },
-  {
-    "name": "Lego Channel (1080p)",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-GBBC4300005AL",
-    "img": "https://i.imgur.com/xePwW13.png"
   },
   {
     "name": "LEGO Kids TV",
@@ -7606,6 +7612,12 @@
     "type": "Kids",
     "url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8",
     "img": "https://i.imgur.com/3k4F7O9.png"
+  },
+  {
+    "name": "The LEGO Channel (1080p)",
+    "type": "Kids",
+    "url": "https://dltiqboxjw21d.cloudfront.net/index.m3u8",
+    "img": "https://i.imgur.com/xePwW13.png"
   },
   {
     "name": "Tom And Jerry (720p)",
@@ -8352,6 +8364,12 @@
     "img": "https://i.imgur.com/IjtaG1m.png"
   },
   {
+    "name": "Curiosity Now (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/gJ9eMaG.png"
+  },
+  {
     "name": "DangerTV (720p)",
     "type": "Documentary",
     "url": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8",
@@ -8360,7 +8378,7 @@
   {
     "name": "Dateline 24/7 (1080p)",
     "type": "Documentary",
-    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+    "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029",
     "img": "https://i.imgur.com/8mAJuut.png"
   },
   {
@@ -8402,7 +8420,7 @@
   {
     "name": "INWILD (1080p)",
     "type": "Documentary",
-    "url": "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
     "img": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png"
   },
   {
@@ -8424,9 +8442,9 @@
     "img": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png"
   },
   {
-    "name": "Love The Planet (1080p) [Geo-blocked]",
+    "name": "Love the Planet (1080p)",
     "type": "Documentary",
-    "url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8",
     "img": "https://i.imgur.com/RBcD49X.png"
   },
   {

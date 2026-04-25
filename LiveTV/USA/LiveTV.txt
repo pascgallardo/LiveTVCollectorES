@@ -1446,13 +1446,18 @@ URL: https://eb3933ec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 Logo: https://i.imgur.com/IjtaG1m.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Curiosity Now (1080p)
+URL: https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+Logo: https://i.imgur.com/gJ9eMaG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: DangerTV (720p)
 URL: https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 Logo: https://i.imgur.com/4aTk45R.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Dateline 24/7 (1080p)
-URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
+URL: https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
 Logo: https://i.imgur.com/8mAJuut.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -1487,7 +1492,7 @@ Logo: https://i.imgur.com/DiBojYh.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: INWILD (1080p)
-URL: https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+URL: https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 Logo: https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -1506,8 +1511,8 @@ URL: https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/play
 Logo: https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Love The Planet (1080p) [Geo-blocked]
-URL: https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+Name: Love the Planet (1080p)
+URL: https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
 Logo: https://i.imgur.com/RBcD49X.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -2006,6 +2011,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Justice Central TV
 URL: https://dvrfl04.tulix.tv/teleup-justice/mpegts
 Logo: https://i.imgur.com/peuHszg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: K Content by CJ ENM (1080p)
+URL: https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
+Logo: https://i.imgur.com/lRy231d.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: KCWE-DT1 (720p)
@@ -3720,18 +3730,13 @@ Logo: https://i.imgur.com/1luzP3T.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Ketchup TV (720p)
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+URL: https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
 Logo: https://i.imgur.com/XRGioQX.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Kids Pang TV (1080p)
 URL: https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/mhAAIa2.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Lego Channel (1080p)
-URL: https://jmp2.uk/stvp-GBBC4300005AL
-Logo: https://i.imgur.com/xePwW13.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: LEGO Kids TV
@@ -3787,6 +3792,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Super Simple Songs (1080p)
 URL: https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/3k4F7O9.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The LEGO Channel (1080p)
+URL: https://dltiqboxjw21d.cloudfront.net/index.m3u8
+Logo: https://i.imgur.com/xePwW13.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Tom And Jerry (720p)
@@ -4805,7 +4815,7 @@ Logo: https://i.imgur.com/J5YJ3r3.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: The Jamie Oliver Channel (1080p)
-URL: https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+URL: https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 Logo: https://i.imgur.com/4v93XUB.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5187,6 +5197,11 @@ URL: https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/HYgxPVQ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: NEW KMOVIES (1080p)
+URL: https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
+Logo: https://i.imgur.com/wCgirjc.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Paramount Movie Channel
 URL: https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 Logo: https://i.imgur.com/sj5h9bl.png
@@ -5528,8 +5543,8 @@ URL: https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 Logo: https://i.imgur.com/thbvJd1.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: NEW K-POP (1080p)
-URL: https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Name: NEW KPOP (1080p)
+URL: https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
 Logo: https://i.imgur.com/B7ILXMc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6330,7 +6345,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%2
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: NBC News NOW (1080p)
-URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+URL: https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 Logo: https://i.imgur.com/JZt2qh5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -7726,8 +7741,8 @@ URL: https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/rKWLv48.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Are we there Yet? (1080p) [Geo-blocked]
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
+Name: Are We There Yet? (1080p)
+URL: https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 Logo: https://i.imgur.com/3BJQiHP.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8350,8 +8365,8 @@ URL: https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 Logo: https://i.imgur.com/gUxH97E.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: PGA Tour (1080p) [Geo-blocked]
-URL: https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+Name: PGA Tour (1080p)
+URL: https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/J0TY9dG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
