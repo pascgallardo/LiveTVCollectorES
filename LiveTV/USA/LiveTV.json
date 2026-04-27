@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-26 22:07:17",
+  "date": "2026-04-27 07:54:13",
   "channels": {
     "Religious": [
       {
@@ -7894,7 +7894,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dvrfl04.tulix.tv/teleup-wpix/mpegts"
+        "url": "https://e1.thetvapp.to/hls/WPIX/index.m3u8"
       },
       {
         "name": "WPTV News West Palm Beach FL (720p)",

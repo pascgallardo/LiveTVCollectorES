@@ -11734,7 +11734,7 @@ Logo: https://i.imgur.com/xtbkDDN.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WPIX-DT1
-URL: https://dvrfl04.tulix.tv/teleup-wpix/mpegts
+URL: https://e1.thetvapp.to/hls/WPIX/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
