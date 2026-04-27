@@ -124,7 +124,7 @@ Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwor
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Teledeporte
-URL: https://jmp2.uk/stvp-ESBC410000577
+URL: https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260224T030743SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
@@ -1092,12 +1092,12 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: La 1
-URL: https://jmp2.uk/stvp-ESBC4100001NZ
+URL: https://ztnr.rtve.es/ztnr/1688877.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260224T030732SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: La 2
-URL: https://jmp2.uk/stvp-ESBC4100002AG
+URL: https://ztnr.rtve.es/ztnr/1688885.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260224T030735SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
@@ -1119,7 +1119,7 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_hor
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Clan
-URL: https://jmp2.uk/stvp-ESBC4100003WE
+URL: https://ztnr.rtve.es/ztnr/5466990.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260224T030737SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
@@ -1466,18 +1466,13 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/euronews_hor
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 24 Horas
-URL: https://jmp2.uk/stvp-ESBC4100004J1
+URL: https://ztnr.rtve.es/ztnr/1694255.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260224T030740SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: CNN en Español
-URL: https://jmp2.uk/stvp-ES34000039I
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: EuroNews
-URL: https://jmp2.uk/stvp-ES260000968
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250415T021754SQUARE.png
+URL: https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_cuadrado.jpg
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Actualidad 360
@@ -1607,11 +1602,6 @@ Source: https://m3u.work/qKChzP8.m3u
 Name: SMTOWN
 URL: https://jmp2.uk/stvp-ES1000001EF
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260421T125611SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Sol Música
-URL: https://jmp2.uk/stvp-ESBD2300004Y7
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Stingray Naturescape

@@ -32,13 +32,13 @@
   {
     "name": "La 1",
     "type": "Generalistas",
-    "url": "https://jmp2.uk/stvp-ESBC4100001NZ",
+    "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260224T030732SQUARE.png"
   },
   {
     "name": "La 2",
     "type": "Generalistas",
-    "url": "https://jmp2.uk/stvp-ESBC4100002AG",
+    "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260224T030735SQUARE.png"
   },
   {
@@ -296,20 +296,14 @@
   {
     "name": "24 Horas",
     "type": "Informativos",
-    "url": "https://jmp2.uk/stvp-ESBC4100004J1",
+    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260224T030740SQUARE.png"
   },
   {
     "name": "CNN en Español",
     "type": "Informativos",
-    "url": "https://jmp2.uk/stvp-ES34000039I",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png"
-  },
-  {
-    "name": "EuroNews",
-    "type": "Informativos",
-    "url": "https://jmp2.uk/stvp-ES260000968",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250415T021754SQUARE.png"
+    "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_cuadrado.jpg"
   },
   {
     "name": "Actualidad 360",
@@ -392,7 +386,7 @@
   {
     "name": "Teledeporte",
     "type": "Deportivos",
-    "url": "https://jmp2.uk/stvp-ESBC410000577",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260224T030743SQUARE.png"
   },
   {
@@ -512,7 +506,7 @@
   {
     "name": "Clan",
     "type": "Infantiles",
-    "url": "https://jmp2.uk/stvp-ESBC4100003WE",
+    "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260224T030737SQUARE.png"
   },
   {
@@ -994,12 +988,6 @@
     "type": "Musicales",
     "url": "https://jmp2.uk/stvp-ES1000001EF",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260421T125611SQUARE.png"
-  },
-  {
-    "name": "Sol Música",
-    "type": "Musicales",
-    "url": "https://jmp2.uk/stvp-ESBD2300004Y7",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png"
   },
   {
     "name": "Stingray Naturescape",
