@@ -504,6 +504,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_horizontal.jpg"
   },
   {
+    "name": "Infantil (Canal Extremadura)",
+    "type": "Infantiles",
+    "url": "https://cdn-canalextremadura.watchity.net/fast2/master.m3u8",
+    "img": "https://d32w934t8lugw.cloudfront.net/images_slider/25bca00fe02744c49c0304a7af5fff3c.jpg"
+  },
+  {
     "name": "Clan",
     "type": "Infantiles",
     "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",

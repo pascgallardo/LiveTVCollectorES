@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28 15:49:39",
+  "date": "2026-04-28 23:19:51",
   "channels": {
     "Generalistas": [
       {
@@ -601,6 +601,13 @@
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025"
+      },
+      {
+        "name": "Infantil (Canal Extremadura)",
+        "logo": "https://d32w934t8lugw.cloudfront.net/images_slider/25bca00fe02744c49c0304a7af5fff3c.jpg",
+        "group": "Infantiles",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://cdn-canalextremadura.watchity.net/fast2/master.m3u8"
       },
       {
         "name": "Clan",

@@ -1118,6 +1118,11 @@ URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGE
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_horizontal.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Infantil (Canal Extremadura)
+URL: https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
+Logo: https://d32w934t8lugw.cloudfront.net/images_slider/25bca00fe02744c49c0304a7af5fff3c.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Clan
 URL: https://ztnr.rtve.es/ztnr/5466990.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260224T030737SQUARE.png
