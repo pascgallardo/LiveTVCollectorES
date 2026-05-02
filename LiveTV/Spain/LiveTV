@@ -302,7 +302,7 @@
   {
     "name": "NEW KFOOD",
     "type": "Cocina",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-ca943dce&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-b26b2c02&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_cuadrado.jpg"
   },
   {
@@ -406,12 +406,6 @@
     "type": "Documentales",
     "url": "https://jmp2.uk/stvp-ES4400002LI",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260421T125619SQUARE.png"
-  },
-  {
-    "name": "Naturaleza",
-    "type": "Documentales",
-    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992502&ads.xumo_streamId=99992502&ads.channelId=99992502&ads.ad_tag_id=134054&ads.csid=lgchannels_es_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_es&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7f26f4ea-f964-4d23-a365-dbbd55108e26.jpeg"
   },
   {
     "name": "NatureTime",
@@ -2752,12 +2746,6 @@
     "type": "Shows",
     "url": "https://jmp2.uk/stvp-ESBD1300003VN",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png"
-  },
-  {
-    "name": "Todo Comedia",
-    "type": "Shows",
-    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993069&ads.xumo_streamId=99993069&ads.channelId=99993069&ads.ad_tag_id=140650&ads.csid=lgchannels_es_todocomedia_ssai&ads.channelName=todocomedia_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
-    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/90b320ab-42d4-4a7a-9f7b-643d6c028014.jpeg"
   },
   {
     "name": "Todo Drama",
