@@ -1341,8 +1341,6 @@ https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Auto",30A We Love Cars (720p)
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JLSHiTp.png" group-title="Auto",Cars.TV
-https://dvrfl04.tulix.tv/teleup-carstv/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKDccCL.png" group-title="Auto",Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="Auto",Pluto TV Cars

@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-01 22:22:22",
+  "date": "2026-05-02 07:43:29",
   "channels": {
     "Religious": [
       {
@@ -4728,13 +4728,6 @@
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
-      },
-      {
-        "name": "Cars.TV",
-        "logo": "https://i.imgur.com/JLSHiTp.png",
-        "group": "Auto",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dvrfl04.tulix.tv/teleup-carstv/mpegts"
       },
       {
         "name": "Motor Trend",

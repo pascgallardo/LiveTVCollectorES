@@ -4026,12 +4026,6 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU"
   },
   {
-    "name": "Cars.TV",
-    "type": "Auto",
-    "url": "https://dvrfl04.tulix.tv/teleup-carstv/mpegts",
-    "img": "https://i.imgur.com/JLSHiTp.png"
-  },
-  {
     "name": "Motor Trend",
     "type": "Auto",
     "url": "http://104.255.88.155/motortrend/index.m3u8",

@@ -462,11 +462,6 @@ URL: https://30a-tv.com/feeds/vidaa/cars.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Cars.TV
-URL: https://dvrfl04.tulix.tv/teleup-carstv/mpegts
-Logo: https://i.imgur.com/JLSHiTp.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Motor Trend
 URL: http://104.255.88.155/motortrend/index.m3u8
 Logo: https://i.imgur.com/hKDccCL.png
