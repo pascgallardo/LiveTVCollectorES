@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-01 22:14:07",
+  "date": "2026-05-02 07:17:44",
   "channels": {
     "General": [
       {
@@ -57,6 +57,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+      },
+      {
+        "name": "Canal 5 (1080p)",
+        "logo": "https://i.imgur.com/uZdVSoW.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://185.56.109.253/Canal5/playlist.m3u8"
       },
       {
         "name": "Canal 5 TV Cozumel (1080p)",
