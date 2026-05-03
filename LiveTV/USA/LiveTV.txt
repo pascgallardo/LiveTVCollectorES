@@ -5312,6 +5312,11 @@ URL: https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 Logo: https://i.imgur.com/zgiuNNj.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Wu Tang Collection (720p)
+URL: https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+Logo: https://i.imgur.com/sz55sBl.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Movie Hub
 URL: https://jmp2.uk/stvp-USBA3000041ZP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260421T133527SQUARE.png
@@ -8235,14 +8240,19 @@ URL: https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 Logo: https://i.imgur.com/ESV6qgH.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Fox Deportes (1280p)
+URL: https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Fox Sports 1 (1280p)
+URL: https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+Logo: https://i.imgur.com/O9BapV9.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Fox Sports 2 (720p) [Not 24/7]
 URL: https://tvpass.org/live/FoxSports2/hd
 Logo: https://i.imgur.com/LHtxKI8.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Fox Sports en Espanol (720p)
-URL: https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FTF Sports (720p)
@@ -11126,11 +11136,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Rev and Roll (720p)
 URL: https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Revolt (1080p)
-URL: https://aegis-cloudfront-1.tubi.video/77b454c9-7bf0-404d-9d26-77cc9d4936ea/playlist.m3u8
-Logo: https://i.imgur.com/eaYnGpH.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: RFD-TV

@@ -1014,6 +1014,12 @@
     "img": "https://i.imgur.com/zgiuNNj.png"
   },
   {
+    "name": "Wu Tang Collection (720p)",
+    "type": "Movies",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
+    "img": "https://i.imgur.com/sz55sBl.png"
+  },
+  {
     "name": "Movie Hub",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
@@ -1338,16 +1344,22 @@
     "img": "https://i.imgur.com/ESV6qgH.png"
   },
   {
+    "name": "Fox Deportes (1280p)",
+    "type": "Sports",
+    "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png"
+  },
+  {
+    "name": "Fox Sports 1 (1280p)",
+    "type": "Sports",
+    "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
+    "img": "https://i.imgur.com/O9BapV9.png"
+  },
+  {
     "name": "Fox Sports 2 (720p) [Not 24/7]",
     "type": "Sports",
     "url": "https://tvpass.org/live/FoxSports2/hd",
     "img": "https://i.imgur.com/LHtxKI8.png"
-  },
-  {
-    "name": "Fox Sports en Espanol (720p)",
-    "type": "Sports",
-    "url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png"
   },
   {
     "name": "FTF Sports (720p)",
@@ -6196,12 +6208,6 @@
     "type": "Undefined",
     "url": "https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Revolt (1080p)",
-    "type": "Undefined",
-    "url": "https://aegis-cloudfront-1.tubi.video/77b454c9-7bf0-404d-9d26-77cc9d4936ea/playlist.m3u8",
-    "img": "https://i.imgur.com/eaYnGpH.png"
   },
   {
     "name": "RFD-TV",

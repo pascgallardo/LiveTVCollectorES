@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-02 22:10:40",
+  "date": "2026-05-03 07:59:54",
   "channels": {
     "Religious": [
       {
@@ -1192,6 +1192,13 @@
         "url": "https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8"
       },
       {
+        "name": "Wu Tang Collection (720p)",
+        "logo": "https://i.imgur.com/sz55sBl.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745"
+      },
+      {
         "name": "Movie Hub",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260421T133527SQUARE.png",
         "group": "Movies",
@@ -1576,18 +1583,25 @@
         "url": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8"
       },
       {
+        "name": "Fox Deportes (1280p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+      },
+      {
+        "name": "Fox Sports 1 (1280p)",
+        "logo": "https://i.imgur.com/O9BapV9.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+      },
+      {
         "name": "Fox Sports 2 (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/LHtxKI8.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/FoxSports2/hd"
-      },
-      {
-        "name": "Fox Sports en Espanol (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
       },
       {
         "name": "FTF Sports (720p)",
@@ -7272,13 +7286,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8"
-      },
-      {
-        "name": "Revolt (1080p)",
-        "logo": "https://i.imgur.com/eaYnGpH.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/77b454c9-7bf0-404d-9d26-77cc9d4936ea/playlist.m3u8"
       },
       {
         "name": "RFD-TV",
