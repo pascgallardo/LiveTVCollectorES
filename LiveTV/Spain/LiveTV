@@ -12,10 +12,88 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg"
   },
   {
+    "name": "Antena 3",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/antena3",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg"
+  },
+  {
+    "name": "Cuatro",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/cuatro",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg"
+  },
+  {
+    "name": "Telecinco",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/telecinco",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg"
+  },
+  {
+    "name": "La Sexta",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/lasexta",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg"
+  },
+  {
     "name": "Canal Sur Andalucía",
     "type": "Generalistas",
     "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg"
+  },
+  {
+    "name": "Neox",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/neox",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg"
+  },
+  {
+    "name": "Nova",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/nova",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg"
+  },
+  {
+    "name": "Atreseries",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/atreseries",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg"
+  },
+  {
+    "name": "Mega",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/mega",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg"
+  },
+  {
+    "name": "Divinity",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/divinity",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg"
+  },
+  {
+    "name": "Factoría de Ficción",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/fdf",
+    "img": "https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200"
+  },
+  {
+    "name": "Energy",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/energy",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg"
+  },
+  {
+    "name": "Be MAD",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/bemad",
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg"
+  },
+  {
+    "name": "Boing",
+    "type": "Generalistas",
+    "url": "https://live.sakutv.workers.dev/hls/boing",
+    "img": "https://des98fz5jsos4.cloudfront.net/boing/dynamic/page_data/00000000/9/e6c41f46-5a7f-4da3-8d39-807d614b249d_1733316532.png"
   },
   {
     "name": "TRECE",
@@ -202,6 +280,42 @@
     "type": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg"
+  },
+  {
+    "name": "Multicine",
+    "type": "Eventuales",
+    "url": "https://live.sakutv.workers.dev/hls/multicine",
+    "img": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png"
+  },
+  {
+    "name": "Comedia",
+    "type": "Eventuales",
+    "url": "https://live.sakutv.workers.dev/hls/comedia",
+    "img": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png"
+  },
+  {
+    "name": "Clásicos",
+    "type": "Eventuales",
+    "url": "https://live.sakutv.workers.dev/hls/clasicos",
+    "img": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png"
+  },
+  {
+    "name": "Aquí no hay quien viva",
+    "type": "Eventuales",
+    "url": "https://live.sakutv.workers.dev/hls/aqui-no-hay-quien-viva",
+    "img": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png"
+  },
+  {
+    "name": "Canal Kidz",
+    "type": "Eventuales",
+    "url": "https://live.sakutv.workers.dev/hls/kidz",
+    "img": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png"
+  },
+  {
+    "name": "Canal Flooxer",
+    "type": "Eventuales",
+    "url": "https://live.sakutv.workers.dev/hls/flooxer",
+    "img": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png"
   },
   {
     "name": "Fireplace Vibes",

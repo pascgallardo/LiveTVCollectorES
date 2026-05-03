@@ -3,8 +3,34 @@
 https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
 https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg" group-title="Generalistas",Antena 3
+https://live.sakutv.workers.dev/hls/antena3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg" group-title="Generalistas",Cuatro
+https://live.sakutv.workers.dev/hls/cuatro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg" group-title="Generalistas",Telecinco
+https://live.sakutv.workers.dev/hls/telecinco
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg" group-title="Generalistas",La Sexta
+https://live.sakutv.workers.dev/hls/lasexta
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg" group-title="Generalistas",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg" group-title="Generalistas",Neox
+https://live.sakutv.workers.dev/hls/neox
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg" group-title="Generalistas",Nova
+https://live.sakutv.workers.dev/hls/nova
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg" group-title="Generalistas",Atreseries
+https://live.sakutv.workers.dev/hls/atreseries
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg" group-title="Generalistas",Mega
+https://live.sakutv.workers.dev/hls/mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg" group-title="Generalistas",Divinity
+https://live.sakutv.workers.dev/hls/divinity
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas",Factoría de Ficción
+https://live.sakutv.workers.dev/hls/fdf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg" group-title="Generalistas",Energy
+https://live.sakutv.workers.dev/hls/energy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg" group-title="Generalistas",Be MAD
+https://live.sakutv.workers.dev/hls/bemad
+#EXTINF:-1 tvg-logo="https://des98fz5jsos4.cloudfront.net/boing/dynamic/page_data/00000000/9/e6c41f46-5a7f-4da3-8d39-807d614b249d_1733316532.png" group-title="Generalistas",Boing
+https://live.sakutv.workers.dev/hls/boing
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg" group-title="Generalistas",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_cuadrado.jpg" group-title="Generalistas",RNE para todos
@@ -67,6 +93,18 @@ https://ztnr.rtve.es/ztnr/16464377.m3u8
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg" group-title="Eventuales",Conciertos Radio 3 (RTVE)
 https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" group-title="Eventuales",Multicine
+https://live.sakutv.workers.dev/hls/multicine
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" group-title="Eventuales",Comedia
+https://live.sakutv.workers.dev/hls/comedia
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png" group-title="Eventuales",Clásicos
+https://live.sakutv.workers.dev/hls/clasicos
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png" group-title="Eventuales",Aquí no hay quien viva
+https://live.sakutv.workers.dev/hls/aqui-no-hay-quien-viva
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" group-title="Eventuales",Canal Kidz
+https://live.sakutv.workers.dev/hls/kidz
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png" group-title="Eventuales",Canal Flooxer
+https://live.sakutv.workers.dev/hls/flooxer
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png" group-title="Eventuales",Fireplace Vibes
 https://jmp2.uk/stvp-ES2200001SF
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h

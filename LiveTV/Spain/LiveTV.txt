@@ -472,6 +472,36 @@ URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Multicine
+URL: https://live.sakutv.workers.dev/hls/multicine
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Comedia
+URL: https://live.sakutv.workers.dev/hls/comedia
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Clásicos
+URL: https://live.sakutv.workers.dev/hls/clasicos
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Aquí no hay quien viva
+URL: https://live.sakutv.workers.dev/hls/aqui-no-hay-quien-viva
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Canal Kidz
+URL: https://live.sakutv.workers.dev/hls/kidz
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Canal Flooxer
+URL: https://live.sakutv.workers.dev/hls/flooxer
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Fireplace Vibes
 URL: https://jmp2.uk/stvp-ES2200001SF
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png
@@ -951,9 +981,74 @@ URL: https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Antena 3
+URL: https://live.sakutv.workers.dev/hls/antena3
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Cuatro
+URL: https://live.sakutv.workers.dev/hls/cuatro
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Telecinco
+URL: https://live.sakutv.workers.dev/hls/telecinco
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: La Sexta
+URL: https://live.sakutv.workers.dev/hls/lasexta
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Canal Sur Andalucía
 URL: https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Neox
+URL: https://live.sakutv.workers.dev/hls/neox
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Nova
+URL: https://live.sakutv.workers.dev/hls/nova
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Atreseries
+URL: https://live.sakutv.workers.dev/hls/atreseries
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Mega
+URL: https://live.sakutv.workers.dev/hls/mega
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Divinity
+URL: https://live.sakutv.workers.dev/hls/divinity
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Factoría de Ficción
+URL: https://live.sakutv.workers.dev/hls/fdf
+Logo: https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Energy
+URL: https://live.sakutv.workers.dev/hls/energy
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Be MAD
+URL: https://live.sakutv.workers.dev/hls/bemad
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Boing
+URL: https://live.sakutv.workers.dev/hls/boing
+Logo: https://des98fz5jsos4.cloudfront.net/boing/dynamic/page_data/00000000/9/e6c41f46-5a7f-4da3-8d39-807d614b249d_1733316532.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: TRECE
