@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-04 15:47:51",
+  "date": "2026-05-04 23:14:15",
   "channels": {
     "Generalistas": [
       {
@@ -582,13 +582,6 @@
         "url": "https://jmp2.uk/stvp-ES2800002MM"
       },
       {
-        "name": "Inglés Total",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/inglestotal_cuadrado.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
-      },
-      {
         "name": "BBC Earth",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png",
         "group": "Documentales",
@@ -601,6 +594,13 @@
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ESBC3500002PW"
+      },
+      {
+        "name": "Inglés Total",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/inglestotal_cuadrado.jpg",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]"
       },
       {
         "name": "Mi Casa",
@@ -659,6 +659,13 @@
         "url": "https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
+        "name": "LOL España",
+        "logo": "https://image.xumo.com/v1/channels/channel/99993069/600x200.png?type=white_cropped",
+        "group": "Documentales",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993069&ads.xumo_streamId=99993069&ads.channelId=99993069&ads.ad_tag_id=140650&ads.csid=lgchannels_es_todocomedia_ssai&ads.channelName=todocomedia_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
+      },
+      {
         "name": "Pluto TV Invasión Alien",
         "logo": "https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png",
         "group": "Documentales",
@@ -706,13 +713,6 @@
         "group": "Documentales",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=f7a56ca8-4722-11f1-898a-70a8a5aa75d9&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=f7a56ca8-4722-11f1-898a-70a8a5aa75d9&deviceLat=40.4400&deviceLon=-3.7100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=ES&serverSideAds=false&sessionID=f7b24ff4-4722-11f1-b381-42aa0d6246dc&sid=f7b24ff4-4722-11f1-b381-42aa0d6246dc&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmN2IyNGZmNC00NzIyLTExZjEtYjM4MS00MmFhMGQ2MjQ2ZGMiLCJjbGllbnRJUCI6Ijg4LjI2LjI0MS4yNDgiLCJjaXR5IjoiTWFkcmlkIiwicG9zdGFsQ29kZSI6IjI4MDAzIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6NDAuNDM5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOi0zLjcxMDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMS4wIiwiY2xpZW50SUQiOiJmN2E1NmNhOC00NzIyLTExZjEtODk4YS03MGE4YTVhYTc1ZDkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZjdhNTZjYTgtNDcyMi0xMWYxLTg5OGEtNzBhOGE1YWE3NWQ5IiwiZndWY0lEMkNvcHBhIjoiZjdhNTZjYTgtNDcyMi0xMWYxLTg5OGEtNzBhOGE1YWE3NWQ5IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJmN2E1NmNhOC00NzIyLTExZjEtODk4YS03MGE4YTVhYTc1ZDkiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDEzLDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIwLDEwMDIxLDEwMDA5LDEwMDIzIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3ODM1MDkzNTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WmpkaE5UWmpZVGd0TkRjeU1pMHhNV1l4TFRnNU9HRXROekJoT0dFMVlXRTNOV1E1IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzkyMTQ5MywiaWF0IjoxNzc3ODM1MDkzLCJqdGkiOiI3YzgwMTYyMy02YTU1LTRlOTctYjVlYS0yYWQ2NjNkODk0MjgifQ.tEEv4s_hIEprCPAKaediStp2rQwN1cN9ylTdyDX53ZU&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
-      },
-      {
-        "name": "Space Live",
-        "logo": "https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/69b3db5d61e8e298254c7108/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=f7a56ca8-4722-11f1-898a-70a8a5aa75d9&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=f7a56ca8-4722-11f1-898a-70a8a5aa75d9&deviceLat=40.4400&deviceLon=-3.7100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=ES&serverSideAds=false&sessionID=f7b24ff4-4722-11f1-b381-42aa0d6246dc&sid=f7b24ff4-4722-11f1-b381-42aa0d6246dc&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmN2IyNGZmNC00NzIyLTExZjEtYjM4MS00MmFhMGQ2MjQ2ZGMiLCJjbGllbnRJUCI6Ijg4LjI2LjI0MS4yNDgiLCJjaXR5IjoiTWFkcmlkIiwicG9zdGFsQ29kZSI6IjI4MDAzIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6NDAuNDM5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOi0zLjcxMDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMS4wIiwiY2xpZW50SUQiOiJmN2E1NmNhOC00NzIyLTExZjEtODk4YS03MGE4YTVhYTc1ZDkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZjdhNTZjYTgtNDcyMi0xMWYxLTg5OGEtNzBhOGE1YWE3NWQ5IiwiZndWY0lEMkNvcHBhIjoiZjdhNTZjYTgtNDcyMi0xMWYxLTg5OGEtNzBhOGE1YWE3NWQ5IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJmN2E1NmNhOC00NzIyLTExZjEtODk4YS03MGE4YTVhYTc1ZDkiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDEzLDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIwLDEwMDIxLDEwMDA5LDEwMDIzIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3ODM1MDkzNTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WmpkaE5UWmpZVGd0TkRjeU1pMHhNV1l4TFRnNU9HRXROekJoT0dFMVlXRTNOV1E1IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzkyMTQ5MywiaWF0IjoxNzc3ODM1MDkzLCJqdGkiOiI3YzgwMTYyMy02YTU1LTRlOTctYjVlYS0yYWQ2NjNkODk0MjgifQ.tEEv4s_hIEprCPAKaediStp2rQwN1cN9ylTdyDX53ZU&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
       },
       {
         "name": "1+1 Travel",
@@ -1058,6 +1058,20 @@
         "group": "Infantiles",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES340000152"
+      },
+      {
+        "name": "Robocar POLI",
+        "logo": "http://accio.its-newid.net/channel/newid_260/lg_channels/img/channel_logo/default/channel_logo.png",
+        "group": "Infantiles",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=robocarpoli&channel_id=newid_260&mpf=9b610e2e-39af1962-4e6d3d8a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=72ebce45-a3d44d6d-0dfd91ac-d4a4d7c1&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
+      },
+      {
+        "name": "TAYO+",
+        "logo": "http://accio.its-newid.net/channel/newid_251/lg_channels/img/channel_logo/default/channel_logo.png",
+        "group": "Infantiles",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=tayo%2B&channel_id=newid_251&mpf=c74b6d7b-39af1962-aab8d432&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=4b807018-efd96888-b187ba80-98a9f224&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
       },
       {
         "name": "Pluto TV Anime",
