@@ -1020,6 +1020,12 @@
     "img": "https://i.imgur.com/sz55sBl.png"
   },
   {
+    "name": "Movie Hub Romance",
+    "type": "Movies",
+    "url": "https://jmp2.uk/stvp-USBD3500033U0",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260505T062524SQUARE.png"
+  },
+  {
     "name": "Movie Hub",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
@@ -1042,12 +1048,6 @@
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-US38000108V",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US38000108V_20260421T133631SQUARE.png"
-  },
-  {
-    "name": "Movie Hub Romance",
-    "type": "Movies",
-    "url": "https://jmp2.uk/stvp-USBD3500033U0",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260505T062524SQUARE.png"
   },
   {
     "name": "Hallmark Movies & More",
@@ -3126,16 +3126,16 @@
     "img": "https://i.imgur.com/rXORbti.png"
   },
   {
-    "name": "Letterman TV",
-    "type": "Comedy",
-    "url": "https://jmp2.uk/stvp-US4000004N1",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000004N1_20260505T062520SQUARE.png"
-  },
-  {
     "name": "Animation+",
     "type": "Comedy",
     "url": "https://jmp2.uk/stvp-US400002PS",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png"
+  },
+  {
+    "name": "Letterman TV",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/stvp-US4000004N1",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000004N1_20260505T062520SQUARE.png"
   },
   {
     "name": "Conan O'Brien TV",
@@ -5556,6 +5556,12 @@
     "img": "https://i.imgur.com/50JzsmH.png"
   },
   {
+    "name": "PhillyCAM (720p)",
+    "type": "General",
+    "url": "https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "img": "https://i.imgur.com/ENOr31n.png"
+  },
+  {
     "name": "Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)",
     "type": "General",
     "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8",
@@ -7278,6 +7284,12 @@
     "img": "https://i.imgur.com/CM91sME.png"
   },
   {
+    "name": "PHLgovTV (720p)",
+    "type": "Legislative",
+    "url": "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "img": "https://i.imgur.com/BmNc3hu.png"
+  },
+  {
     "name": "PHXTV",
     "type": "Legislative",
     "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8",
@@ -7722,6 +7734,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900012T8_20260421T142220SQUARE.png"
   },
   {
+    "name": "Transformers",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-US29000168D",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20260505T062527SQUARE.png"
+  },
+  {
     "name": "Hot Wheels Action",
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-US2900013AY",
@@ -7762,12 +7780,6 @@
     "type": "Kids",
     "url": "https://jmp2.uk/stvp-USBD3300016AK",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20260414T005607SQUARE.png"
-  },
-  {
-    "name": "Transformers",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-US29000168D",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20260505T062527SQUARE.png"
   },
   {
     "name": "Rainbow Ruby",
@@ -9168,6 +9180,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900008GK_20260428T032017SQUARE.png"
   },
   {
+    "name": "BET x Tyler Perry Drama",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-US2500008CV",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260505T062503SQUARE.png"
+  },
+  {
     "name": "Samsung Television Network",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US300068X7",
@@ -9256,12 +9274,6 @@
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-USBD2500012DH",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20250513T012658SQUARE.png"
-  },
-  {
-    "name": "BET x Tyler Perry Drama",
-    "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-US2500008CV",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260505T062503SQUARE.png"
   },
   {
     "name": "BET Pluto TV",
@@ -9996,12 +10008,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400016CL_20250526T230404SQUARE.png"
   },
   {
-    "name": "Drool",
-    "type": "Home & Food",
-    "url": "https://jmp2.uk/stvp-US2100011LG",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100011LG_20260505T062541SQUARE.png"
-  },
-  {
     "name": "Hungry",
     "type": "Home & Food",
     "url": "https://jmp2.uk/stvp-USAJ2200009C2",
@@ -10386,12 +10392,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20260325T191716SQUARE.png"
   },
   {
-    "name": "Discovery Turbo TV",
-    "type": "Motor Sports",
-    "url": "https://jmp2.uk/stvp-USBC3600005U9",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20260505T062506SQUARE.png"
-  },
-  {
     "name": "NASCAR Channel",
     "type": "Motor Sports",
     "url": "https://jmp2.uk/stvp-US700021SM",
@@ -10414,6 +10414,12 @@
     "type": "Motor Sports",
     "url": "https://jmp2.uk/stvp-USBB5200027Z5",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20260117T020411SQUARE.png"
+  },
+  {
+    "name": "Discovery Turbo TV",
+    "type": "Motor Sports",
+    "url": "https://jmp2.uk/stvp-USBC3600005U9",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20260505T062506SQUARE.png"
   },
   {
     "name": "RACER Select",
@@ -10458,10 +10464,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20260421T142850SQUARE.png"
   },
   {
-    "name": "American Pickers by History",
+    "name": "Wicked Tuna",
     "type": "Reality Competition",
-    "url": "https://jmp2.uk/stvp-USBD3500041ZF",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20260505T062500SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US4100034UO",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260505T062531SQUARE.png"
   },
   {
     "name": "Hell's Kitchen",
@@ -10524,6 +10530,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500006VF_20251219T231953SQUARE.png"
   },
   {
+    "name": "American Pickers by History",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-USBD3500041ZF",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20260505T062500SQUARE.png"
+  },
+  {
     "name": "Forged In Fire",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBD2700014QW",
@@ -10570,12 +10582,6 @@
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USAK3508706A",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20260117T020334SQUARE.png"
-  },
-  {
-    "name": "Wicked Tuna",
-    "type": "Reality Competition",
-    "url": "https://jmp2.uk/stvp-US4100034UO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260505T062531SQUARE.png"
   },
   {
     "name": "Pluto TV Pixel World",
@@ -10998,6 +11004,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US240000434_20250812T003525SQUARE.png"
   },
   {
+    "name": "History & Science\" , History 365",
+    "type": "Nature, History & Science",
+    "url": "https://jmp2.uk/stvp-USBD35000428O",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260505T062510SQUARE.png"
+  },
+  {
     "name": "History & Science\" , Samsung Wild Life",
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-USBA3000043LH",
@@ -11116,12 +11128,6 @@
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-US900001CX",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20260421T141810SQUARE.png"
-  },
-  {
-    "name": "History & Science\" , History 365",
-    "type": "Nature, History & Science",
-    "url": "https://jmp2.uk/stvp-USBD35000428O",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260505T062510SQUARE.png"
   },
   {
     "name": "History & Science\" , Modern Marvels Presented by History",
@@ -11350,6 +11356,12 @@
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-US4000064JE",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000064JE_20260421T141724SQUARE.png"
+  },
+  {
+    "name": "La Fea Mas Bella",
+    "type": "Latino",
+    "url": "https://jmp2.uk/stvp-US40000683A",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US40000683A_20260505T062516SQUARE.png"
   },
   {
     "name": "Rebelde",
