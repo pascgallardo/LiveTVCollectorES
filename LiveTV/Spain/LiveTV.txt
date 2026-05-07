@@ -1,7 +1,7 @@
 Group: Andalucía
 Name: Canal Málaga
 URL: https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagatv_cuadrado.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101TV Málaga
@@ -32,11 +32,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Parlamento de Andalucía
 URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: 101TV Granada Cofrade
-URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeGranada.smil/playlist.m3u8
-Logo: https://graph.facebook.com/101tvgranada/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -917,7 +912,7 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Antena 3
-URL: https://atres-live.atresmedia.com/9d6d8a597b4c09742cf0f453058f3ccdf2f5734c_ES_1778088175_1778116915/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end
+URL: https://live.sakutv.workers.dev/hls/antena3
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -968,7 +963,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Factoría de Ficción
 URL: https://live.sakutv.workers.dev/hls/fdf
-Logo: https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200
+Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Energy

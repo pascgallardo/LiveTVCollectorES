@@ -14,7 +14,7 @@
   {
     "name": "Antena 3",
     "type": "Generalistas",
-    "url": "https://atres-live.atresmedia.com/9d6d8a597b4c09742cf0f453058f3ccdf2f5734c_ES_1778088175_1778116915/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end",
+    "url": "https://live.sakutv.workers.dev/hls/antena3",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg"
   },
   {
@@ -75,7 +75,7 @@
     "name": "Factoría de Ficción",
     "type": "Generalistas",
     "url": "https://live.sakutv.workers.dev/hls/fdf",
-    "img": "https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200"
+    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg"
   },
   {
     "name": "Energy",
@@ -129,7 +129,7 @@
     "name": "Canal Málaga",
     "type": "Andalucía",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagatv_cuadrado.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_cuadrado.jpg"
   },
   {
     "name": "101TV Málaga",
@@ -166,12 +166,6 @@
     "type": "Andalucía",
     "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg"
-  },
-  {
-    "name": "101TV Granada Cofrade",
-    "type": "Andalucía",
-    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeGranada.smil/playlist.m3u8",
-    "img": "https://graph.facebook.com/101tvgranada/picture?width=200&height=200"
   },
   {
     "name": "Canal Parlamento",

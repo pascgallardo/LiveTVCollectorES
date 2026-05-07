@@ -4,7 +4,7 @@ https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
 https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg" group-title="Generalistas",Antena 3
-https://atres-live.atresmedia.com/9d6d8a597b4c09742cf0f453058f3ccdf2f5734c_ES_1778088175_1778116915/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end
+https://live.sakutv.workers.dev/hls/antena3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg" group-title="Generalistas",Cuatro
 https://live.sakutv.workers.dev/hls/cuatro
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg" group-title="Generalistas",Telecinco
@@ -23,7 +23,7 @@ https://live.sakutv.workers.dev/hls/atreseries
 https://live.sakutv.workers.dev/hls/mega
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg" group-title="Generalistas",Divinity
 https://live.sakutv.workers.dev/hls/divinity
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas",Factoría de Ficción
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg" group-title="Generalistas",Factoría de Ficción
 https://live.sakutv.workers.dev/hls/fdf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg" group-title="Generalistas",Energy
 https://live.sakutv.workers.dev/hls/energy
@@ -41,7 +41,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 http://187.190.55.136:5501/udp/225.1.1.101:5101
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/a3cine_amarillo_cuadrado.jpg" group-title="Generalistas",Atrescine
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagatv_cuadrado.jpg" group-title="Andalucía",Canal Málaga
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_cuadrado.jpg" group-title="Andalucía",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tv_cuadrado.jpg" group-title="Andalucía",101TV Málaga
 https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8?DVR#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end
@@ -55,8 +55,6 @@ https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 https://especial7tv.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg" group-title="Andalucía",Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvgranada/picture?width=200&height=200" group-title="Andalucía",101TV Granada Cofrade
-https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeGranada.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalparlamento_cuadrado.jpg" group-title="Eventuales",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/congresodelosdiputados_cuadrado.jpg" group-title="Eventuales",Congreso de los Diputados

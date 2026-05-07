@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-07 15:58:06",
+  "date": "2026-05-07 23:21:05",
   "channels": {
     "Generalistas": [
       {
@@ -21,7 +21,7 @@
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/9d6d8a597b4c09742cf0f453058f3ccdf2f5734c_ES_1778088175_1778116915/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end"
+        "url": "https://live.sakutv.workers.dev/hls/antena3"
       },
       {
         "name": "Cuatro",
@@ -88,7 +88,7 @@
       },
       {
         "name": "Factoría de Ficción",
-        "logo": "https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200",
+        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://live.sakutv.workers.dev/hls/fdf"
@@ -153,7 +153,7 @@
     "Andalucía": [
       {
         "name": "Canal Málaga",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagatv_cuadrado.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_cuadrado.jpg",
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
@@ -199,13 +199,6 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8"
-      },
-      {
-        "name": "101TV Granada Cofrade",
-        "logo": "https://graph.facebook.com/101tvgranada/picture?width=200&height=200",
-        "group": "Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeGranada.smil/playlist.m3u8"
       }
     ],
     "Eventuales": [
