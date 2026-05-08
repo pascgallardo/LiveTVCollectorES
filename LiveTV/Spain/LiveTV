@@ -714,16 +714,16 @@
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/boing_cuadrado.jpg"
   },
   {
-    "name": "EnerGeek TV",
-    "type": "Infantiles",
-    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_cuadrado.jpg"
-  },
-  {
     "name": "Infantil (Canal Extremadura)",
     "type": "Infantiles",
     "url": "https://cdn-canalextremadura.watchity.net/fast2/master.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/extremaduraplayinfantil_cuadrado.jpg"
+  },
+  {
+    "name": "EnerGeek TV",
+    "type": "Infantiles",
+    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_cuadrado.jpg"
   },
   {
     "name": "Anime Vision",
