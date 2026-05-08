@@ -511,7 +511,7 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66fd3e25216b
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg" group-title="Radio_Populares",Radio 5 RNE
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_cuadrado.jpg" group-title="Radio_Populares",Canal Sur Radio
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_logo.png" group-title="Radio_Populares",Canal Sur Radio
 https://rtva-live-radio.flumotion.com/rtva/csr.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/ser_cuadrado.jpg" group-title="Radio_Populares",Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
@@ -535,7 +535,7 @@ https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 https://cadena100-cope.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="Radio_Musicales",Cadena Dial
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_cuadrado.jpg" group-title="Radio_Musicales",Canal Fiesta Radio
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_logo.png" group-title="Radio_Musicales",Canal Fiesta Radio
 https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" group-title="Radio_Musicales",Europa FM
 https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
@@ -631,13 +631,13 @@ https://s2.we4stream.com/listen/loca_hard_techno/live
 https://s2.we4stream.com/listen/loca_industrial/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales",Loca FM Drum&Bass
 https://s2.we4stream.com/listen/loca_drum__bass/live
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_cuadrado.jpg" group-title="Radio_Andalucía",Canal Sur Radio Málaga
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png" group-title="Radio_Andalucía",Canal Sur Radio Málaga
 https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_cuadrado.jpg" group-title="Radio_Andalucía",Canal Sur Radio Musica
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png" group-title="Radio_Andalucía",Canal Sur Radio Musica
 https://rtva-live-radio.flumotion.com/rtva/csm.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_cuadrado.jpg" group-title="Radio_Andalucía",Flamenco Radio
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_logo.png" group-title="Radio_Andalucía",Flamenco Radio
 https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_cuadrado.jpg" group-title="Radio_Andalucía",Radio Andalucía Información
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_logo.png" group-title="Radio_Andalucía",Radio Andalucía Información
 https://rtva-live-radio.flumotion.com/rtva/rai.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_cuadrado.jpg" group-title="Radio_Andalucía",Radio Andalucía Información Málaga
 https://rtva-live-radio.flumotion.com/rtva/raimal.mp3

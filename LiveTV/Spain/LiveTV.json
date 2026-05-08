@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-08 14:57:26",
+  "date": "2026-05-08 22:53:46",
   "channels": {
     "Generalistas": [
       {
@@ -1816,7 +1816,7 @@
       },
       {
         "name": "Canal Sur Radio",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_cuadrado.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_logo.png",
         "group": "Radio_Populares",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3"
@@ -1904,7 +1904,7 @@
       },
       {
         "name": "Canal Fiesta Radio",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_cuadrado.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_logo.png",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3"
@@ -2242,28 +2242,28 @@
     "Radio_Andalucía": [
       {
         "name": "Canal Sur Radio Málaga",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_cuadrado.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3"
       },
       {
         "name": "Canal Sur Radio Musica",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_cuadrado.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/csm.mp3"
       },
       {
         "name": "Flamenco Radio",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_cuadrado.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_logo.png",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3"
       },
       {
         "name": "Radio Andalucía Información",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_cuadrado.jpg",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_logo.png",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/rai.mp3"

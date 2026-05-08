@@ -1718,22 +1718,22 @@ Source: https://m3u.work/hJiHE3ad.m3u
 Group: Radio_Andalucía
 Name: Canal Sur Radio Málaga
 URL: https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_cuadrado.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Canal Sur Radio Musica
 URL: https://rtva-live-radio.flumotion.com/rtva/csm.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_cuadrado.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Flamenco Radio
 URL: https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_cuadrado.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio Andalucía Información
 URL: https://rtva-live-radio.flumotion.com/rtva/rai.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_cuadrado.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio Andalucía Información Málaga
@@ -2024,7 +2024,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Canal Fiesta Radio
 URL: https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_cuadrado.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Europa FM
@@ -2276,7 +2276,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Canal Sur Radio
 URL: https://rtva-live-radio.flumotion.com/rtva/csr.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_cuadrado.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cadena SER

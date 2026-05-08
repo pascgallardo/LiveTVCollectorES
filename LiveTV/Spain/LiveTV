@@ -1539,7 +1539,7 @@
     "name": "Canal Sur Radio",
     "type": "Radio_Populares",
     "url": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_cuadrado.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_logo.png"
   },
   {
     "name": "Cadena SER",
@@ -1611,7 +1611,7 @@
     "name": "Canal Fiesta Radio",
     "type": "Radio_Musicales",
     "url": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_cuadrado.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_logo.png"
   },
   {
     "name": "Europa FM",
@@ -1899,25 +1899,25 @@
     "name": "Canal Sur Radio Málaga",
     "type": "Radio_Andalucía",
     "url": "https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_cuadrado.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png"
   },
   {
     "name": "Canal Sur Radio Musica",
     "type": "Radio_Andalucía",
     "url": "https://rtva-live-radio.flumotion.com/rtva/csm.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_cuadrado.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png"
   },
   {
     "name": "Flamenco Radio",
     "type": "Radio_Andalucía",
     "url": "https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_cuadrado.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_logo.png"
   },
   {
     "name": "Radio Andalucía Información",
     "type": "Radio_Andalucía",
     "url": "https://rtva-live-radio.flumotion.com/rtva/rai.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_cuadrado.jpg"
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_logo.png"
   },
   {
     "name": "Radio Andalucía Información Málaga",
