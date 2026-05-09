@@ -804,6 +804,12 @@
     "img": "https://i.imgur.com/HV5tgcM.png"
   },
   {
+    "name": "El Chavo TV (720p)",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "img": "https://gia.tv/streams/pptv/211465.png"
+  },
+  {
     "name": "Estrella Games (1080p)",
     "type": "Entertainment;Family",
     "url": "https://estrella-games-oando.amagi.tv/playlist.m3u8",
