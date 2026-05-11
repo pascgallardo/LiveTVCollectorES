@@ -5,8 +5,13 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101TV Málaga
-URL: https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8?DVR#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end
+URL: https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tv_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: 101tv Malaga
+URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+Logo: https://i.imgur.com/GzI3RC4.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101TV Málaga Cofrade
@@ -29,46 +34,14 @@ URL: https://especial7tv.gestec-video.com/hls/regional.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/7tv_andalucia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: TVCentro Andalucía
+URL: https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tvcentroandalucia_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Parlamento de Andalucía
 URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
-Group: Animation
-Name: Clan TVE (1080p) [Geo-blocked]
-URL: https://ztnr.rtve.es/ztnr/5466990.m3u8
-Logo: https://i.ibb.co/vv3FC2Nv/clan.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Anime Vision (1080p)
-URL: https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-Logo: https://i.imgur.com/pUpKznl.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Anime Vision Classics (1080p)
-URL: https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-Logo: https://i.imgur.com/mTaiEE1.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Anime Zone TV (480p)
-URL: http://animezonetv.net/hls/stream.m3u8
-Logo: https://i.imgur.com/AHaXlCh.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: One Piece
-URL: https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-Logo: https://i.imgur.com/XsvbAWR.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Disney Junior (576p)
-URL: https://bbb.exoadash.com/TVD1561/index.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Mr. Bean Anime Spain (1080p)
-URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -120,9 +93,24 @@ Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
 
 Group: Deportivos
-Name: Teledeporte
+Name: Teledeporte HD
 URL: https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Teledeporte
+URL: https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+Logo: https://i.ibb.co/0jxLdjnY/TDP.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: LaLiga Hypermotion
+URL: http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: LaLiga TV
+URL: http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -130,6 +118,36 @@ Group: Documentales
 Name: Andalucía Turismo
 URL: https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciaturismo2_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Historia
+URL: https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Love The Planet
+URL: https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetheplanet_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: NatureTime
+URL: https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+Logo: https://i.imgur.com/72JmyjM.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: WaterBear (1080p)
+URL: https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+Logo: https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Crimen & Historia
+URL: https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+Logo: https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: El Mueble
+URL: https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_redondo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Historia y Vida
@@ -368,33 +386,6 @@ Logo: https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_lo
 Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
 
-Group: Documentary
-Name: Historia (1080p)
-URL: https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-Logo: https://i.imgur.com/VUy8xIG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Crimen & Historia (720p)
-URL: https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-Logo: https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Love The Planet ES (1080p) [Geo-blocked]
-URL: https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/RBcD49X.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: El Mueble (720p)
-URL: https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-Logo: https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: NatureTime (1080p)
-URL: https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-Logo: https://i.imgur.com/72JmyjM.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
 Group: Eventuales
 Name: Canal Parlamento
 URL: https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
@@ -429,6 +420,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Radio 3
 URL: https://ztnr.rtve.es/ztnr/6982918.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Radio 3 (720p)
+URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio 5
@@ -478,6 +474,56 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
 Group: Films
+Name: Atrescine (1080p)
+URL: http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Rakuten TV Top Movies Spain (1080p)
+URL: https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+Logo: https://i.imgur.com/Meew6eX.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Rakuten TV Action Movies Spain (1080p)
+URL: https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+Logo: https://i.imgur.com/Meew6eX.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Rakuten TV Comedy Movies Spain (1080p)
+URL: https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+Logo: https://i.imgur.com/Meew6eX.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Rakuten TV Drama Movies Spain (1080p)
+URL: https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+Logo: https://i.imgur.com/Meew6eX.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Rakuten TV Family Movies Spain (1080p)
+URL: https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+Logo: https://i.imgur.com/Meew6eX.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Pluto TV Horror
+URL: https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+Logo: https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: MyTime movie network Spain (1080p)
+URL: https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+Logo: https://i.imgur.com/pw4NZK1.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Zylo Cine Friki (1080p)
+URL: https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+Logo: https://i.imgur.com/b3Ospym.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Zylo Cine Western (1080p)
+URL: https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+Logo: https://i.imgur.com/2UROzSc.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: LG 1: Film
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1film_cuadrado.jpg
@@ -889,92 +935,25 @@ Logo: https://provider-static.plex.tv/epg/cms/production/a0a3a170-5591-4904-8191
 Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
 
-Group: General
-Name: La 1 (720p)
-URL: https://ztnr.rtve.es/ztnr/1688877.m3u8
-Logo: https://i.ibb.co/MxJNPHsn/La-1.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: La 2 (1080p)
-URL: https://ztnr.rtve.es/ztnr/1688885.m3u8
-Logo: https://i.ibb.co/rfsr9PSh/La-2.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Canal Sur Andalucía 2 (720p)
-URL: https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Canal 24 Horas (720p)
-URL: https://ztnr.rtve.es/ztnr/1694255.m3u8
-Logo: https://i.ibb.co/21sXZ3GT/24h.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TVE Internacional Europe (576p) [Geo-blocked]
-URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
-Logo: https://i.ibb.co/RpKLCMvp/tve.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TVE Internacional Europe HD (1080p) [Geo-blocked]
-URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
-Logo: https://i.ibb.co/RpKLCMvp/tve.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: 101tv Malaga
-URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-Logo: https://i.imgur.com/GzI3RC4.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Antena 3 Internacional (1080p)
-URL: http://187.190.55.136:5501/udp/225.1.1.101:5101
-Logo: https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TVCentro Andalucía (720p) [Not 24/7]
-URL: https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
-Logo: https://i.imgur.com/xQAzYOD.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 3 (720p)
-URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Teledeporte (720p) [Geo-blocked]
-URL: https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-Logo: https://i.ibb.co/0jxLdjnY/TDP.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: LaLiga Hypermotion (1080p)
-URL: http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: LaLiga TV
-URL: http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
-Logo: https://i.imgur.com/ilay5Jr.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TVE Star (576p)
-URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
-Logo: https://i.ibb.co/j98NY8Mr/starcolor.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TVE Star HD (1080p)
-URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-Logo: https://i.ibb.co/j98NY8Mr/starcolor.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
 Group: Generalistas
-Name: La 1
+Name: La 1 HD
 URL: https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: La 2
+Name: La 1
+URL: https://ztnr.rtve.es/ztnr/1688877.m3u8
+Logo: https://i.ibb.co/MxJNPHsn/La-1.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: La 2 HD
 URL: https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: La 2
+URL: https://ztnr.rtve.es/ztnr/1688885.m3u8
+Logo: https://i.ibb.co/rfsr9PSh/La-2.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Antena 3
@@ -1037,7 +1016,7 @@ URL: https://live.sakutv.workers.dev/hls/energy
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Be MAD
+Name: Be Mad
 URL: https://live.sakutv.workers.dev/hls/bemad
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
@@ -1054,9 +1033,14 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
 Group: Infantiles
-Name: Clan
+Name: Clan HD
 URL: https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Clan
+URL: https://ztnr.rtve.es/ztnr/5466990.m3u8
+Logo: https://i.ibb.co/vv3FC2Nv/clan.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Boing
@@ -1072,6 +1056,31 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: EnerGeek TV
 URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Anime Vision
+URL: https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevision_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Anime Vision Classics
+URL: https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevisionclassics_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Anime Zone TV
+URL: http://animezonetv.net/hls/stream.m3u8
+Logo: https://i.imgur.com/AHaXlCh.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: One Piece
+URL: https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/onepiece_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Mr Bean Animated
+URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Beyblade
@@ -1281,9 +1290,14 @@ Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
 
 Group: Informativos
-Name: 24h
+Name: 24h HD
 URL: https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: 24 Horas
+URL: https://ztnr.rtve.es/ztnr/1694255.m3u8
+Logo: https://i.ibb.co/21sXZ3GT/24h.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Canal Sur Más Noticias
@@ -1291,9 +1305,19 @@ URL: https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurnoticias_blanco_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Euronews
+Name: EuroNews
 URL: https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/euronews_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Actualidad 360
+URL: https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveactualidad360_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: France 24 Español
+URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1303,93 +1327,34 @@ URL: https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: TVE Internacional Europe HD (1080p) [Geo-blocked]
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+Logo: https://i.ibb.co/RpKLCMvp/tve.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: TVE Internacional Europe (576p) [Geo-blocked]
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+Logo: https://i.ibb.co/RpKLCMvp/tve.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Star TVE Europa
 URL: https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-
-Group: Legislative
-Name: Congreso de los Diputados 1 (360p) [Not 24/7]
-URL: https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
-Logo: https://i.imgur.com/3Qxpe72.png
+Name: TVE Star HD (1080p)
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+Logo: https://i.ibb.co/j98NY8Mr/starcolor.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Congreso de los Diputados 2 (360p) [Not 24/7]
-URL: https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
-Logo: https://i.imgur.com/ffN2LE3.png
+Name: TVE Star (576p)
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+Logo: https://i.ibb.co/j98NY8Mr/starcolor.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Congreso de los Diputados 3 (360p) [Not 24/7]
-URL: https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
-Logo: https://i.imgur.com/2LAzcH8.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Congreso de los Diputados 4 (360p) [Not 24/7]
-URL: https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
-Logo: https://i.imgur.com/2LAzcH8.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Parlamento de Andalucía (576p) [Not 24/7]
-URL: http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-Logo: https://i.imgur.com/J6h5IQS.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
-Group: Movies
-Name: Atrescine (1080p)
-URL: http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cine comedia
-URL: https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-Logo: https://i.imgur.com/1H1MHb2.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MyTime movie network Spain (1080p)
-URL: https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/pw4NZK1.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Horror
-URL: https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
-Logo: https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Rakuten TV Action Movies Spain (1080p)
-URL: https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-Logo: https://i.imgur.com/Meew6eX.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Rakuten TV Comedy Movies Spain (1080p)
-URL: https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-Logo: https://i.imgur.com/Meew6eX.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Rakuten TV Drama Movies Spain (1080p)
-URL: https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-Logo: https://i.imgur.com/Meew6eX.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Rakuten TV Top Movies Spain (1080p)
-URL: https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-Logo: https://i.imgur.com/Meew6eX.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Rakuten TV Family Movies Spain (1080p)
-URL: https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-Logo: https://i.imgur.com/Meew6eX.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Zylo Cine Friki (1080p)
-URL: https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-Logo: https://i.imgur.com/b3Ospym.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Zylo Cine Western (1080p)
-URL: https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-Logo: https://i.imgur.com/2UROzSc.png
+Name: Antena 3 Internacional (1080p)
+URL: http://187.190.55.136:5501/udp/225.1.1.101:5101
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1738,18 +1703,6 @@ Name: ZenLIFE by Stingray
 URL: https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66fd3e25216b603e031725fe/?X-Plex-Token=EyCsusX5RTmyhfAe_vwf
 Logo: https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png
 Source: https://m3u.work/hJiHE3ad.m3u
---------------------------------------------------
-
-Group: News
-Name: Actualidad 360 (1080p) [Geo-blocked]
-URL: https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
-Logo: https://i.imgur.com/3YeTu0n.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: France 24 Español (1080p)
-URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png
-Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
 Group: Radio_Andalucía
@@ -2207,14 +2160,12 @@ Logo: https://graph.facebook.com/ondacero/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
-Group: Series
+Group: Shows
 Name: BBC Drama (1080p)
 URL: https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/HctHhLL.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-
-Group: Shows
 Name: LG 1
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1_cuadrado.jpg
