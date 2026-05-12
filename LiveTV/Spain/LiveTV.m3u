@@ -1,48 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg" group-title="Generalistas",La 1 HD
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg" group-title="Generalistas",La 1
 https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Generalistas",La 1
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_logo.png" group-title="Generalistas",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2 HD
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
 https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Generalistas",La 2
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_logo.png" group-title="Generalistas",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg" group-title="Generalistas",Antena 3
-https://live.sakutv.workers.dev/hls/antena3
+http://45.95.78.232:8001/udp/239.106.83.1:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg" group-title="Generalistas",Cuatro
-https://live.sakutv.workers.dev/hls/cuatro
+http://45.95.78.232:8001/udp/239.106.83.2:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg" group-title="Generalistas",Telecinco
-https://live.sakutv.workers.dev/hls/telecinco
+http://45.95.78.232:8001/udp/239.106.83.3:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg" group-title="Generalistas",La Sexta
-https://live.sakutv.workers.dev/hls/lasexta
+http://45.95.78.232:8001/udp/239.106.83.4:5000
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsur1_verde_cuadrado.jpg" group-title="Generalistas",Canal Sur
+http://45.95.78.232:8001/udp/239.106.90.2:5000
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg" group-title="Generalistas",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg" group-title="Generalistas",Neox
-https://live.sakutv.workers.dev/hls/neox
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg" group-title="Generalistas",Nova
-https://live.sakutv.workers.dev/hls/nova
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg" group-title="Generalistas",Atreseries
-https://live.sakutv.workers.dev/hls/atreseries
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg" group-title="Generalistas",Mega
-https://live.sakutv.workers.dev/hls/mega
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg" group-title="Generalistas",Divinity
-https://live.sakutv.workers.dev/hls/divinity
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg" group-title="Generalistas",Factoría de Ficción
-https://live.sakutv.workers.dev/hls/fdf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg" group-title="Generalistas",Energy
-https://live.sakutv.workers.dev/hls/energy
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg" group-title="Generalistas",Be Mad
-https://live.sakutv.workers.dev/hls/bemad
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg" group-title="Generalistas",TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg" group-title="Generalistas",Neox (1080p)
+http://45.95.78.232:8001/udp/239.106.83.8:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Generalistas",Nova (1080p)
+http://45.95.78.232:8001/udp/239.106.83.6:5000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="Generalistas",A3Series (1080p)
+http://45.95.78.232:8001/udp/239.106.85.4:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Generalistas",Mega (1080p)
+http://45.95.78.232:8001/udp/239.106.84.5:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Generalistas",Divinity (1080p)
+http://45.95.78.232:8001/udp/239.106.83.5:5000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="Generalistas",FDF (1080p)
+http://45.95.78.232:8001/udp/239.106.83.7:5000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png" group-title="Generalistas",Energy (1080p)
+http://45.95.78.232:8001/udp/239.106.84.4:5000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/960px-BeMad_2022_Logo.svg.png" group-title="Generalistas",Be Mad (1080p)
+http://45.95.78.232:8001/udp/239.106.85.1:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9y8VcBr.png" group-title="Generalistas",Squirrel (1080p)
+http://45.95.78.232:8001/udp/239.106.84.2:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDv4ubA.png" group-title="Generalistas",Squirrel Dos (1080p)
+http://45.95.78.232:8001/udp/239.106.84.3:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Generalistas",Bom Cine (1080p)
+http://92.176.119.180:2095/play/a17f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="Generalistas",Veo7 (1080p)
+http://45.95.78.232:8001/udp/239.106.91.3:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpaeqyN.png" group-title="Generalistas",TEN (1080p)
+http://45.95.78.232:8001/udp/239.106.85.2:5000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Generalistas",Trece (1080p)
+http://45.95.78.232:8001/udp/239.106.84.7:5000
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_cuadrado.jpg" group-title="Generalistas",RNE para todos
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_cuadrado.jpg" group-title="Andalucía",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tv_cuadrado.jpg" group-title="Andalucía",101TV Málaga
 https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Andalucía",101tv Malaga
-https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tvcofrade_cuadrado.jpg" group-title="Andalucía",101TV Málaga Cofrade
 https://liveingesta318.cdnmedia.tv/101televisionlive/smil:cofradeott1.smil/playlist.m3u8#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/ptvmalaga_cuadrado.jpg" group-title="Andalucía",PTV Málaga
@@ -75,21 +85,29 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 https://ztnr.rtve.es/ztnr/6982917.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_cuadrado.jpg" group-title="Eventuales",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg" group-title="Eventuales",Somos Cine (RTVE)
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg" group-title="Eventuales",Somos Cine
 https://ztnr.rtve.es/ztnr/6909845.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg" group-title="Eventuales",Cocina (RTVE)
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg" group-title="Eventuales",Cocina
 https://ztnr.rtve.es/ztnr/16656232.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayenplay_cuadrado.jpg" group-title="Eventuales",En Play (RTVE)
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayenplay_cuadrado.jpg" group-title="Eventuales",En Play
 https://ztnr.rtve.es/ztnr/6712399.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayalcieloconella_cuadrado.jpg" group-title="Eventuales",Al cielo con ella (RTVE)
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayalcieloconella_cuadrado.jpg" group-title="Eventuales",Al cielo con ella
 https://ztnr.rtve.es/ztnr/16862827.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayrevuelta_cuadrado.jpg" group-title="Eventuales",La Revuelta (RTVE)
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayrevuelta_cuadrado.jpg" group-title="Eventuales",La Revuelta
 https://ztnr.rtve.es/ztnr/16464388.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysaberyganar_cuadrado.jpg" group-title="Eventuales",Saber y ganar
+https://ztnr.rtve.es/ztnr/6922467.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycuentame_cuadrado.jpg" group-title="Eventuales",Cuéntame
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaypromesa_cuadrado.jpg" group-title="Eventuales",La Promesa
+https://ztnr.rtve.es/ztnr/2472039.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg" group-title="Eventuales",Conciertos Radio 3 (RTVE)
 https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" group-title="Eventuales",Canal Kidz
+https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png" group-title="Eventuales",Fireplace Vibes
 https://jmp2.uk/stvp-ES2200001SF
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h HD
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
 https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Informativos",24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -101,7 +119,7 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Informativos",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg" group-title="Deportivos",Teledeporte HD
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg" group-title="Deportivos",Teledeporte
 https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_cuadrado.jpg" group-title="Deportivos",LaLiga Hypermotion
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
@@ -135,7 +153,7 @@ https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Documentales",WaterBear (1080p)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="Documentales",Crimen & Historia
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_redondo.png" group-title="Documentales",Crimen & Historia
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_redondo.png" group-title="Documentales",El Mueble
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
@@ -233,7 +251,7 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e1624d91d
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75/?X-Plex-Token=ryvwxX1YYhNynWZ8nh5d
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Documentales",WildEarth
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60d4edddb2fdec002c141135/?X-Plex-Token=ryvwxX1YYhNynWZ8nh5d
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrado.jpg" group-title="Infantiles",Clan HD
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrado.jpg" group-title="Infantiles",Clan
 https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/boing_cuadrado.jpg" group-title="Infantiles",Boing
 https://live.sakutv.workers.dev/hls/boing
@@ -639,16 +657,8 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68645c1f1a2f
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29/?X-Plex-Token=ryvwxX1YYhNynWZ8nh5d
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg" group-title="Int. Europa",TVE Int. Europa
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Int. Europa",TVE Internacional Europe HD (1080p) [Geo-blocked]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Int. Europa",TVE Internacional Europe (576p) [Geo-blocked]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg" group-title="Int. Europa",Star TVE Europa
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Int. Europa",TVE Star HD (1080p)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Int. Europa",TVE Star (576p)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="Int. Europa",Antena 3 Internacional (1080p)
 http://187.190.55.136:5501/udp/225.1.1.101:5101
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/solmusica_rosa_cuadrado.jpg" group-title="Musicales",Sol Música España
@@ -967,9 +977,5 @@ https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3
 https://stream.emisorasmusicales.net/listen/sol-latino/sol-latino.mp3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg" group-title="Radio_C. Valenciana",Spektra FM
 https://stm2.emiteonline.com:9008/spektrafm#.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9y8VcBr.png" group-title="Movies;Series",Squirrel (1080p)
-http://45.95.78.232:8001/udp/239.106.84.2:5000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="Movies;Series",Veo7 (1080p)
-http://45.95.78.232:8001/udp/239.106.91.3:5000
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png" group-title="Nuevo en Pluto TV",Alaska y Mario
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/69c51060ed1b1f1acb5092dc/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=1619660c-4d73-11f1-898a-6045bd2f7c49&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=1619660c-4d73-11f1-898a-6045bd2f7c49&deviceLat=40.4400&deviceLon=-3.7100&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=ES&serverSideAds=false&sessionID=1623382d-4d73-11f1-a0e0-667a027caea1&sid=1623382d-4d73-11f1-a0e0-667a027caea1&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImExZmQxODcwLThmZjQtNDE4NC1hZmU1LTExMzAzMjBhYWU0OCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxNjIzMzgyZC00ZDczLTExZjEtYTBlMC02NjdhMDI3Y2FlYTEiLCJjbGllbnRJUCI6Ijg4LjI2LjI0MS4yNDgiLCJjaXR5IjoiTWFkcmlkIiwicG9zdGFsQ29kZSI6IjI4MDAzIiwiY291bnRyeSI6IkVTIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJFUyIsImRldmljZUxhdCI6NDAuNDM5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOi0zLjcxMDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMS4wIiwiY2xpZW50SUQiOiIxNjE5NjYwYy00ZDczLTExZjEtODk4YS02MDQ1YmQyZjdjNDkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMTYxOTY2MGMtNGQ3My0xMWYxLTg5OGEtNjA0NWJkMmY3YzQ5IiwiZndWY0lEMkNvcHBhIjoiMTYxOTY2MGMtNGQ3My0xMWYxLTg5OGEtNjA0NWJkMmY3YzQ5IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIxNjE5NjYwYy00ZDczLTExZjEtODk4YS02MDQ1YmQyZjdjNDkiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE1LDEwMDAwLDEwMDE0LDEwMDIwLDEwMDIxLDEwMDIzLDEwMDA5LDEwMDEzLDEwMDE2In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc4NTI5MjExMzE4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6TVRZeE9UWTJNR010TkdRM015MHhNV1l4TFRnNU9HRXROakEwTldKa01tWTNZelE1IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3ODYxNTYxMSwiaWF0IjoxNzc4NTI5MjExLCJqdGkiOiJiMTIxNTNjYi04OWZiLTQxYTItOTU4My0zMTczM2FiZmNiNmUifQ.r_zu3pCbxrxEd1mQz2Sbkhw0iF8bVbTyegN6whDiM7w&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true

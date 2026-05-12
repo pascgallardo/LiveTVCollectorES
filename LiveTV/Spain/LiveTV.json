@@ -1,9 +1,9 @@
 {
-  "date": "2026-05-12 16:06:09",
+  "date": "2026-05-12 23:32:51",
   "channels": {
     "Generalistas": [
       {
-        "name": "La 1 HD",
+        "name": "La 1",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -11,13 +11,13 @@
       },
       {
         "name": "La 1",
-        "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_logo.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
       },
       {
-        "name": "La 2 HD",
+        "name": "La 2",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -25,7 +25,7 @@
       },
       {
         "name": "La 2",
-        "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_logo.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
@@ -35,28 +35,35 @@
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/antena3"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.1:5000"
       },
       {
         "name": "Cuatro",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/cuatro"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.2:5000"
       },
       {
         "name": "Telecinco",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/telecinco"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.3:5000"
       },
       {
         "name": "La Sexta",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/lasexta"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.4:5000"
+      },
+      {
+        "name": "Canal Sur",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsur1_verde_cuadrado.jpg",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://45.95.78.232:8001/udp/239.106.90.2:5000"
       },
       {
         "name": "Canal Sur Andalucía",
@@ -66,67 +73,102 @@
         "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
       },
       {
-        "name": "Neox",
+        "name": "Neox (1080p)",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/neox"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.8:5000"
       },
       {
-        "name": "Nova",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg",
+        "name": "Nova (1080p)",
+        "logo": "https://i.imgur.com/Vx1F4o5.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/nova"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.6:5000"
       },
       {
-        "name": "Atreseries",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg",
+        "name": "A3Series (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/atreseries"
+        "url": "http://45.95.78.232:8001/udp/239.106.85.4:5000"
       },
       {
-        "name": "Mega",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg",
+        "name": "Mega (1080p)",
+        "logo": "https://i.imgur.com/Udrt2eK.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/mega"
+        "url": "http://45.95.78.232:8001/udp/239.106.84.5:5000"
       },
       {
-        "name": "Divinity",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg",
+        "name": "Divinity (1080p)",
+        "logo": "https://i.imgur.com/o7fvEr6.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/divinity"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.5:5000"
       },
       {
-        "name": "Factoría de Ficción",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg",
+        "name": "FDF (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/fdf"
+        "url": "http://45.95.78.232:8001/udp/239.106.83.7:5000"
       },
       {
-        "name": "Energy",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg",
+        "name": "Energy (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/energy"
+        "url": "http://45.95.78.232:8001/udp/239.106.84.4:5000"
       },
       {
-        "name": "Be Mad",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg",
+        "name": "Be Mad (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/960px-BeMad_2022_Logo.svg.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/bemad"
+        "url": "http://45.95.78.232:8001/udp/239.106.85.1:5000"
       },
       {
-        "name": "TRECE",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg",
+        "name": "Squirrel (1080p)",
+        "logo": "https://i.imgur.com/9y8VcBr.png",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8"
+        "url": "http://45.95.78.232:8001/udp/239.106.84.2:5000"
+      },
+      {
+        "name": "Squirrel Dos (1080p)",
+        "logo": "https://i.imgur.com/BDv4ubA.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://45.95.78.232:8001/udp/239.106.84.3:5000"
+      },
+      {
+        "name": "Bom Cine (1080p)",
+        "logo": "https://i.imgur.com/65OX8Gj.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://92.176.119.180:2095/play/a17f"
+      },
+      {
+        "name": "Veo7 (1080p)",
+        "logo": "https://i.imgur.com/kklTIMm.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://45.95.78.232:8001/udp/239.106.91.3:5000"
+      },
+      {
+        "name": "TEN (1080p)",
+        "logo": "https://i.imgur.com/ZpaeqyN.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://45.95.78.232:8001/udp/239.106.85.2:5000"
+      },
+      {
+        "name": "Trece (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://45.95.78.232:8001/udp/239.106.84.7:5000"
       },
       {
         "name": "RNE para todos",
@@ -150,13 +192,6 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8"
-      },
-      {
-        "name": "101tv Malaga",
-        "logo": "https://i.imgur.com/GzI3RC4.png",
-        "group": "Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
       },
       {
         "name": "101TV Málaga Cofrade",
@@ -273,39 +308,60 @@
         "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
       },
       {
-        "name": "Somos Cine (RTVE)",
+        "name": "Somos Cine",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/6909845.m3u8"
       },
       {
-        "name": "Cocina (RTVE)",
+        "name": "Cocina",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/16656232.m3u8"
       },
       {
-        "name": "En Play (RTVE)",
+        "name": "En Play",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayenplay_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/6712399.m3u8"
       },
       {
-        "name": "Al cielo con ella (RTVE)",
+        "name": "Al cielo con ella",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayalcieloconella_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/16862827.m3u8"
       },
       {
-        "name": "La Revuelta (RTVE)",
+        "name": "La Revuelta",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayrevuelta_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/16464388.m3u8"
+      },
+      {
+        "name": "Saber y ganar",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysaberyganar_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/6922467.m3u8"
+      },
+      {
+        "name": "Cuéntame",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycuentame_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/6909843.m3u8"
+      },
+      {
+        "name": "La Promesa",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaypromesa_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/2472039.m3u8"
       },
       {
         "name": "Conciertos Radio 3 (RTVE)",
@@ -313,6 +369,13 @@
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8"
+      },
+      {
+        "name": "Canal Kidz",
+        "logo": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8"
       },
       {
         "name": "Fireplace Vibes",
@@ -324,7 +387,7 @@
     ],
     "Informativos": [
       {
-        "name": "24h HD",
+        "name": "24h",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg",
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -368,7 +431,7 @@
     ],
     "Deportivos": [
       {
-        "name": "Teledeporte HD",
+        "name": "Teledeporte",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg",
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -492,7 +555,7 @@
       },
       {
         "name": "Crimen & Historia",
-        "logo": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_redondo.png",
         "group": "Documentales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8"
@@ -836,7 +899,7 @@
     ],
     "Infantiles": [
       {
-        "name": "Clan HD",
+        "name": "Clan",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrado.jpg",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -2263,39 +2326,11 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8"
       },
       {
-        "name": "TVE Internacional Europe HD (1080p) [Geo-blocked]",
-        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-        "group": "Int. Europa",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8"
-      },
-      {
-        "name": "TVE Internacional Europe (576p) [Geo-blocked]",
-        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-        "group": "Int. Europa",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8"
-      },
-      {
         "name": "Star TVE Europa",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg",
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8"
-      },
-      {
-        "name": "TVE Star HD (1080p)",
-        "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
-        "group": "Int. Europa",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
-      },
-      {
-        "name": "TVE Star (576p)",
-        "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
-        "group": "Int. Europa",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8"
       },
       {
         "name": "Antena 3 Internacional (1080p)",
@@ -3421,22 +3456,6 @@
         "group": "Radio_C. Valenciana",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stm2.emiteonline.com:9008/spektrafm#.mp3"
-      }
-    ],
-    "Movies;Series": [
-      {
-        "name": "Squirrel (1080p)",
-        "logo": "https://i.imgur.com/9y8VcBr.png",
-        "group": "Movies;Series",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://45.95.78.232:8001/udp/239.106.84.2:5000"
-      },
-      {
-        "name": "Veo7 (1080p)",
-        "logo": "https://i.imgur.com/kklTIMm.png",
-        "group": "Movies;Series",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://45.95.78.232:8001/udp/239.106.91.3:5000"
       }
     ],
     "Nuevo en Pluto TV": [
