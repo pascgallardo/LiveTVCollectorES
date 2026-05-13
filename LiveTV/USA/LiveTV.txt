@@ -1,12 +1,12 @@
 Group: Action & Drama
 Name: BET x Tyler Perry Drama
 URL: https://jmp2.uk/stvp-US2500008CV
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260505T062503SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260512T070303SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Samsung Television Network
 URL: https://jmp2.uk/stvp-US300068X7
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260421T133759SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260512T070312SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: ALL ACTION
@@ -1094,7 +1094,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Crime
 Name: Crime Zone
 URL: https://jmp2.uk/stvp-USBB36000040M
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260505T062425SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260512T070239SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: ION Mystery
@@ -4207,12 +4207,12 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Pequenos Gigantes
 URL: https://jmp2.uk/stvp-USBD2700003F3
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20260421T142217SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20260512T070324SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Aquí y Ahora
 URL: https://jmp2.uk/stvp-USBD1700015J1
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20260421T142114SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20260512T070321SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: N+ Univision 24/7
@@ -5314,12 +5314,12 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Movie Hub Romance
 URL: https://jmp2.uk/stvp-USBD3500033U0
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260505T062524SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260512T070310SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Movie Hub
 URL: https://jmp2.uk/stvp-USBA3000041ZP
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260421T133527SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260512T070246SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Movie Hub West
@@ -5680,12 +5680,12 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: XITE 80s Flashback
 URL: https://jmp2.uk/stvp-USBB320000647
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: XITE 90s Throwback
 URL: https://jmp2.uk/stvp-USBB3200007AK
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: XITE Spring Vibes
@@ -5934,7 +5934,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Nature, History & Science
 Name: History & Science" , History 365
 URL: https://jmp2.uk/stvp-USBD35000428O
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260505T062510SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260512T070306SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: History & Science" , Samsung Wild Life
@@ -6049,7 +6049,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: History & Science" , Military Heroes
 URL: https://jmp2.uk/stvp-USBC39000204J
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20250805T005826SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260512T070308SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: History & Science" , TED
@@ -6751,7 +6751,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Group: Reality Competition
 Name: Wicked Tuna
 URL: https://jmp2.uk/stvp-US4100034UO
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260505T062531SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260512T070318SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Hell's Kitchen
@@ -6796,7 +6796,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: The Amazing Race
 URL: https://jmp2.uk/stvp-US390001557
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260421T142318SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260512T070315SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: America's Got Talent
@@ -6873,7 +6873,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Challenge Accepted
 URL: https://jmp2.uk/stvp-US2100006EH
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260324T032342SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260512T070320SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Little Women: LA
@@ -8594,7 +8594,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: UEFA Champions League
 URL: https://jmp2.uk/stvp-US1000012ML
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260421T142335SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260512T070316SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: beIN SPORTS XTRA

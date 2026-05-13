@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-12 23:25:37",
+  "date": "2026-05-13 08:11:17",
   "channels": {
     "Religious": [
       {
@@ -1200,14 +1200,14 @@
       },
       {
         "name": "Movie Hub Romance",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260505T062524SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260512T070310SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD3500033U0"
       },
       {
         "name": "Movie Hub",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260421T133527SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260512T070246SQUARE.png",
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBA3000041ZP"
@@ -3169,14 +3169,14 @@
       },
       {
         "name": "XITE 80s Flashback",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png",
         "group": "Music",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBB320000647"
       },
       {
         "name": "XITE 90s Throwback",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png",
         "group": "Music",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBB3200007AK"
@@ -10840,14 +10840,14 @@
     "Action & Drama": [
       {
         "name": "BET x Tyler Perry Drama",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260505T062503SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260512T070303SQUARE.png",
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2500008CV"
       },
       {
         "name": "Samsung Television Network",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260421T133759SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260512T070312SQUARE.png",
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US300068X7"
@@ -11136,7 +11136,7 @@
     "Crime": [
       {
         "name": "Crime Zone",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260505T062425SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260512T070239SQUARE.png",
         "group": "Crime",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBB36000040M"
@@ -11390,7 +11390,7 @@
       },
       {
         "name": "Challenge Accepted",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260324T032342SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260512T070320SQUARE.png",
         "group": "Reality TV",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2100006EH"
@@ -12073,7 +12073,7 @@
       },
       {
         "name": "UEFA Champions League",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260421T142335SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260512T070316SQUARE.png",
         "group": "Sports & Outdoors",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US1000012ML"
@@ -12350,7 +12350,7 @@
     "Reality Competition": [
       {
         "name": "Wicked Tuna",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260505T062531SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260512T070318SQUARE.png",
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US4100034UO"
@@ -12413,7 +12413,7 @@
       },
       {
         "name": "The Amazing Race",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260421T142318SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260512T070315SQUARE.png",
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US390001557"
@@ -12990,7 +12990,7 @@
     "Nature, History & Science": [
       {
         "name": "History & Science\" , History 365",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260505T062510SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260512T070306SQUARE.png",
         "group": "Nature, History & Science",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD35000428O"
@@ -13151,7 +13151,7 @@
       },
       {
         "name": "History & Science\" , Military Heroes",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20250805T005826SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260512T070308SQUARE.png",
         "group": "Nature, History & Science",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBC39000204J"
@@ -13447,14 +13447,14 @@
       },
       {
         "name": "Pequenos Gigantes",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20260421T142217SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20260512T070324SQUARE.png",
         "group": "Latino",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD2700003F3"
       },
       {
         "name": "Aquí y Ahora",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20260421T142114SQUARE.png",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20260512T070321SQUARE.png",
         "group": "Latino",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD1700015J1"
