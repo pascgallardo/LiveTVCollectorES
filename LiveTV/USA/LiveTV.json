@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-13 23:28:04",
+  "date": "2026-05-14 08:11:58",
   "channels": {
     "Religious": [
       {
@@ -1199,13 +1199,6 @@
         "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745"
       },
       {
-        "name": "Movie Hub Romance",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260512T070310SQUARE.png",
-        "group": "Movies",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBD3500033U0"
-      },
-      {
         "name": "Movie Hub",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260512T070246SQUARE.png",
         "group": "Movies",
@@ -1232,6 +1225,13 @@
         "group": "Movies",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US38000108V"
+      },
+      {
+        "name": "Movie Hub Romance",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260512T070310SQUARE.png",
+        "group": "Movies",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBD3500033U0"
       },
       {
         "name": "Hallmark Movies & More",
@@ -4045,6 +4045,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8"
+      },
+      {
+        "name": "DIJIT (720p)",
+        "logo": "https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://haus.webchnl.com/memfs/c66b8546-3981-4bcd-ba1c-ab19c86c77b1.m3u8"
       },
       {
         "name": "Dr Phil's MeritTV (1080p)",
@@ -8775,11 +8782,11 @@
         "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8"
       },
       {
-        "name": "Disney XD East (720p) [Not 24/7]",
+        "name": "Disney XD (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tvpass.org/live/DisneyXDEast/hd"
+        "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
       },
       {
         "name": "Forever Kids",
@@ -10625,6 +10632,27 @@
         "url": "https://jmp2.uk/stvp-USBD3000073N"
       },
       {
+        "name": "WSOC Charlotte",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBC1000017D8"
+      },
+      {
+        "name": "WBTV News",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US700004OA"
+      },
+      {
+        "name": "WCNC",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png",
+        "group": "News & Opinion",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US1400004HN"
+      },
+      {
         "name": "FOX Weather",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
         "group": "News & Opinion",
@@ -10639,11 +10667,11 @@
         "url": "https://jmp2.uk/stvp-US50000551O"
       },
       {
-        "name": "WeatherNation",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png",
+        "name": "WN Charlotte",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png",
         "group": "News & Opinion",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC1500009LD"
+        "url": "https://jmp2.uk/stvp-USBC3200001S5"
       },
       {
         "name": "BBC News",
@@ -10839,13 +10867,6 @@
     ],
     "Action & Drama": [
       {
-        "name": "BET x Tyler Perry Drama",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260512T070303SQUARE.png",
-        "group": "Action & Drama",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US2500008CV"
-      },
-      {
         "name": "Samsung Television Network",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260512T070312SQUARE.png",
         "group": "Action & Drama",
@@ -10949,6 +10970,13 @@
         "group": "Action & Drama",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD2500012DH"
+      },
+      {
+        "name": "BET x Tyler Perry Drama",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260512T070303SQUARE.png",
+        "group": "Action & Drama",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US2500008CV"
       },
       {
         "name": "BET Pluto TV",
@@ -11368,6 +11396,13 @@
     ],
     "Reality TV": [
       {
+        "name": "Challenge Accepted",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260512T070320SQUARE.png",
+        "group": "Reality TV",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US2100006EH"
+      },
+      {
         "name": "All-Out Reality",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20260505T062537SQUARE.png",
         "group": "Reality TV",
@@ -11387,13 +11422,6 @@
         "group": "Reality TV",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US2900010UT"
-      },
-      {
-        "name": "Challenge Accepted",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260512T070320SQUARE.png",
-        "group": "Reality TV",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US2100006EH"
       },
       {
         "name": "Little Women: LA",
@@ -11883,6 +11911,13 @@
     ],
     "Sports & Outdoors": [
       {
+        "name": "UEFA Champions League",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260512T070316SQUARE.png",
+        "group": "Sports & Outdoors",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US1000012ML"
+      },
+      {
         "name": "NFL Channel",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20260421T143233SQUARE.png",
         "group": "Sports & Outdoors",
@@ -12070,13 +12105,6 @@
         "group": "Sports & Outdoors",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD12000255B"
-      },
-      {
-        "name": "UEFA Champions League",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260512T070316SQUARE.png",
-        "group": "Sports & Outdoors",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US1000012ML"
       },
       {
         "name": "beIN SPORTS XTRA",
@@ -12349,11 +12377,11 @@
     ],
     "Reality Competition": [
       {
-        "name": "Wicked Tuna",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260512T070318SQUARE.png",
+        "name": "The Amazing Race",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260512T070315SQUARE.png",
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US4100034UO"
+        "url": "https://jmp2.uk/stvp-US390001557"
       },
       {
         "name": "Hell's Kitchen",
@@ -12410,13 +12438,6 @@
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-US3900014MX"
-      },
-      {
-        "name": "The Amazing Race",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260512T070315SQUARE.png",
-        "group": "Reality Competition",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US390001557"
       },
       {
         "name": "America's Got Talent",
@@ -12487,6 +12508,13 @@
         "group": "Reality Competition",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USAK3508706A"
+      },
+      {
+        "name": "Wicked Tuna",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260512T070318SQUARE.png",
+        "group": "Reality Competition",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-US4100034UO"
       },
       {
         "name": "Pluto TV Pixel World",
@@ -12989,11 +13017,11 @@
     ],
     "Nature, History & Science": [
       {
-        "name": "History & Science\" , History 365",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260512T070306SQUARE.png",
+        "name": "History & Science\" , Military Heroes",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260512T070308SQUARE.png",
         "group": "Nature, History & Science",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBD35000428O"
+        "url": "https://jmp2.uk/stvp-USBC39000204J"
       },
       {
         "name": "History & Science\" , Samsung Wild Life",
@@ -13136,6 +13164,13 @@
         "url": "https://jmp2.uk/stvp-US900001CX"
       },
       {
+        "name": "History & Science\" , History 365",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20260512T070306SQUARE.png",
+        "group": "Nature, History & Science",
+        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
+        "url": "https://jmp2.uk/stvp-USBD35000428O"
+      },
+      {
         "name": "History & Science\" , Modern Marvels Presented by History",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200025DO_20250805T005829SQUARE.png",
         "group": "Nature, History & Science",
@@ -13148,13 +13183,6 @@
         "group": "Nature, History & Science",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD1200009JI"
-      },
-      {
-        "name": "History & Science\" , Military Heroes",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260512T070308SQUARE.png",
-        "group": "Nature, History & Science",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC39000204J"
       },
       {
         "name": "History & Science\" , TED",
@@ -13444,20 +13472,6 @@
         "group": "Latino",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
         "url": "https://jmp2.uk/stvp-USBD2700004ME"
-      },
-      {
-        "name": "Pequenos Gigantes",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20260512T070324SQUARE.png",
-        "group": "Latino",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBD2700003F3"
-      },
-      {
-        "name": "Aquí y Ahora",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20260512T070321SQUARE.png",
-        "group": "Latino",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBD1700015J1"
       },
       {
         "name": "N+ Univision 24/7",
