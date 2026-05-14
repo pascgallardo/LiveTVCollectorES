@@ -5,12 +5,12 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101TV Málaga
-URL: https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
+URL: https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8?DVR
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tv_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101TV Málaga Cofrade
-URL: https://liveingesta318.cdnmedia.tv/101televisionlive/smil:cofradeott1.smil/playlist.m3u8#Intent;action=android.intent.action.VIEW;scheme=https;category=android.intent.category.DEFAULT;type=video/*;end
+URL: https://liveingesta318.cdnmedia.tv/101televisionlive/smil:cofradeott1.smil/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tvcofrade_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -27,11 +27,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: 7TV Andalucía
 URL: https://especial7tv.gestec-video.com/hls/regional.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/7tv_andalucia_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TVCentro Andalucía
-URL: https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tvcentroandalucia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Parlamento de Andalucía
@@ -414,7 +409,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio 5
 URL: https://ztnr.rtve.es/ztnr/6982917.m3u8
-Logo: https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Univers TV
@@ -462,7 +457,7 @@ URL: https://ztnr.rtve.es/ztnr/2472039.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaypromesa_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Conciertos Radio 3 (RTVE)
+Name: Conciertos Radio 3
 URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
@@ -509,12 +504,7 @@ URL: https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.co
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Pluto TV Horror
-URL: https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/plutotvhorror_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MyTime Movie Network (Rakuten TV)
+Name: MyTime Movi Network (Rakuten TV)
 URL: https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
 Source: https://m3u.work/OI0Q3l.m3u
@@ -527,6 +517,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Cine Western
 URL: https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Pluto TV Horror
+URL: https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/plutotvhorror_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: LG 1: Film
@@ -962,28 +957,23 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Antena 3
-URL: http://45.95.78.232:8001/udp/239.106.83.1:5000
+URL: https://atres-live.atresmedia.com/1f29445b78dd7ce04bdd56eea1e09acce1415179_ES_1778600960_1778629700/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cuatro
-URL: http://45.95.78.232:8001/udp/239.106.83.2:5000
+URL: https://live.sakutv.workers.dev/hls/cuatro
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Telecinco
-URL: http://45.95.78.232:8001/udp/239.106.83.3:5000
+URL: https://live.sakutv.workers.dev/hls/telecinco
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: La Sexta
-URL: http://45.95.78.232:8001/udp/239.106.83.4:5000
+URL: https://live.sakutv.workers.dev/hls/lasexta
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Canal Sur
-URL: http://45.95.78.232:8001/udp/239.106.90.2:5000
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsur1_verde_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Canal Sur Andalucía
@@ -992,53 +982,43 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsuranda
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Neox
-URL: http://45.95.78.232:8001/udp/239.106.83.8:5000
+URL: https://live.sakutv.workers.dev/hls/neox
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Nova
-URL: http://45.95.78.232:8001/udp/239.106.83.6:5000
+URL: https://live.sakutv.workers.dev/hls/nova
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Atreseries
-URL: http://45.95.78.232:8001/udp/239.106.85.4:5000
+URL: https://live.sakutv.workers.dev/hls/atreseries
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Mega
-URL: http://45.95.78.232:8001/udp/239.106.84.5:5000
+URL: https://live.sakutv.workers.dev/hls/mega
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Divinity
-URL: http://45.95.78.232:8001/udp/239.106.83.5:5000
+URL: https://live.sakutv.workers.dev/hls/divinity
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Factoría de Ficción
-URL: http://45.95.78.232:8001/udp/239.106.83.7:5000
+URL: https://live.sakutv.workers.dev/hls/fdf
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Energy
-URL: http://45.95.78.232:8001/udp/239.106.84.4:5000
+URL: https://live.sakutv.workers.dev/hls/energy
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Be Mad
-URL: http://45.95.78.232:8001/udp/239.106.85.1:5000
+URL: https://live.sakutv.workers.dev/hls/bemad
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Squirrel (1080p)
-URL: http://45.95.78.232:8001/udp/239.106.84.2:5000
-Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Squirrel 2
-URL: http://45.95.78.232:8001/udp/239.106.84.3:5000
-Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel2_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: BOM Cine
@@ -1046,25 +1026,20 @@ URL: http://92.176.119.180:2095/play/a17f
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bomcine_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Veo7
-URL: http://45.95.78.232:8001/udp/239.106.91.3:5000
-Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/veo7_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Ten
-URL: http://45.95.78.232:8001/udp/239.106.85.2:5000
-Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/ten_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: TRECE
-URL: http://45.95.78.232:8001/udp/239.106.84.7:5000
-Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/trece_cuadrado.jpg
+URL: https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: RNE para todos
 URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Antena 3 Internacional
+URL: http://187.190.55.136:5501/udp/225.1.1.101:5101
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg
+Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
 Group: Infantiles
@@ -1360,11 +1335,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Star TVE Europa
 URL: https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Antena 3 Internacional
-URL: http://187.190.55.136:5501/udp/225.1.1.101:5101
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
