@@ -444,7 +444,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Automovilismo: Formula E
 URL: https://rtvelivestream.rtve.es/rtvesec/oca/irtve18_main.m3u8
-Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveformulae_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Canal Kidz

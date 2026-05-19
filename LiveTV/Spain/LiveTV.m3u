@@ -101,7 +101,7 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg" group-title="Eventuales",Conciertos Radio 3
 https://ztnr.rtve.es/ztnr/6924117.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Automovilismo: Formula E
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveformulae_cuadrado.jpg" group-title="Eventuales",Automovilismo: Formula E
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve18_main.m3u8
 #EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" group-title="Eventuales",Canal Kidz
 https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8

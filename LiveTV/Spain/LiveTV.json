@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-19 16:54:12",
+  "date": "2026-05-19 23:38:44",
   "channels": {
     "Generalistas": [
       {
@@ -365,7 +365,7 @@
       },
       {
         "name": "Automovilismo: Formula E",
-        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveformulae_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/rtvesec/oca/irtve18_main.m3u8"
