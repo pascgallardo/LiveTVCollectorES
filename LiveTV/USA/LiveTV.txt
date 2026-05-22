@@ -1717,11 +1717,6 @@ URL: https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 Logo: https://i.imgur.com/ehMz9T5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: WLVT-DT1
-URL: https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
-Logo: https://i.imgur.com/3FPFBjU.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: World Channel (1080p)
 URL: https://world.lls.pbs.org/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg
@@ -1861,11 +1856,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Crime + Investigation (720p) [Not 24/7]
 URL: https://tvpass.org/live/CrimePlusInvestigation/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Decades
-URL: https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/960px-Decades_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Dr Phil's MeritTV (1080p)
@@ -6379,11 +6369,6 @@ URL: https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: WAGA-DT1
-URL: https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
-Logo: https://i.imgur.com/DcZoeGw.jpg
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: WGAL-DT3 (1080p) [Geo-blocked]
 URL: https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
 Logo: https://i.imgur.com/KQSKIdZ.jpeg
@@ -6402,11 +6387,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: WSOC Now (1080p) [Geo-blocked]
 URL: https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 Logo: https://i.imgur.com/tUb1mdc.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: WTMO-CD1
-URL: https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Zoom TV Kurdish (720p)
@@ -11288,11 +11268,6 @@ URL: https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist
 Logo: https://i.imgur.com/XGQfBbW.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: WHSG-DT4
-URL: https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/960px-Enlace_Televisi%C3%B3n_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Window TV (720p)
 URL: https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 Logo: https://whiplash.cc/assets/img/channels/windowtv.png
@@ -11336,21 +11311,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: WJXT News4JAX (Jacksonville FL) (720p)
 URL: https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 Logo: https://i.imgur.com/mrWo0P1.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: WKCF-DT2
-URL: https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: WKMG-DT1
-URL: https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: WKOH-DT4
-URL: https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WLNG Radio (410p) [Not 24/7]
@@ -11491,11 +11451,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: WTXF-DT1 (1080p)
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 Logo: https://i.imgur.com/fRjmk5r.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: WUPA-DT1
-URL: https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WVIT-DT1 (1080p)
