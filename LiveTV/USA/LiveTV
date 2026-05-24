@@ -3056,7 +3056,7 @@
   {
     "name": "Just for Laughs Gags (1080p)",
     "type": "Comedy",
-    "url": "https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
     "img": "https://i.imgur.com/HjVEVMJ.png"
   },
   {
@@ -7238,7 +7238,7 @@
   {
     "name": "Brat TV (1080p)",
     "type": "Kids",
-    "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
     "img": "https://i.imgur.com/Kkcp9Bk.png"
   },
   {
@@ -8058,16 +8058,10 @@
     "img": "https://i.imgur.com/PF71rdZ.png"
   },
   {
-    "name": "ATXN2 (1080p)",
-    "type": "General;Legislative",
-    "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8",
-    "img": "https://i.imgur.com/tSMtDlz.png"
-  },
-  {
-    "name": "ATXN3 (1080p)",
-    "type": "Culture;General",
-    "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8",
-    "img": "https://i.imgur.com/tSMtDlz.png"
+    "name": "Atlas (480p)",
+    "type": "Documentary",
+    "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "img": "https://whiplash.cc/assets/img/channels/atlas.png"
   },
   {
     "name": "Autentic History (1080p)",
@@ -8254,6 +8248,18 @@
     "type": "Documentary",
     "url": "https://d3ify425qsio2d.cloudfront.net/playlist.m3u8",
     "img": "https://i.imgur.com/naYszow.jpg"
+  },
+  {
+    "name": "ATXN2 (1080p)",
+    "type": "General;Legislative",
+    "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8",
+    "img": "https://i.imgur.com/tSMtDlz.png"
+  },
+  {
+    "name": "ATXN3 (1080p)",
+    "type": "Culture;General",
+    "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8",
+    "img": "https://i.imgur.com/tSMtDlz.png"
   },
   {
     "name": "Ayeneh TV",

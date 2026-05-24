@@ -766,7 +766,7 @@ Logo: https://i.imgur.com/e5W91v2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Just for Laughs Gags (1080p)
-URL: https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+URL: https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 Logo: https://i.imgur.com/HjVEVMJ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -1391,6 +1391,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Documentary
+Name: Atlas (480p)
+URL: https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+Logo: https://whiplash.cc/assets/img/channels/atlas.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Autentic History (1080p)
 URL: https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 Logo: https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png
@@ -3515,7 +3520,7 @@ Logo: https://i.imgur.com/vKUD64a.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Brat TV (1080p)
-URL: https://brat-samsung-us.amagi.tv/playlist.m3u8
+URL: https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
 Logo: https://i.imgur.com/Kkcp9Bk.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
