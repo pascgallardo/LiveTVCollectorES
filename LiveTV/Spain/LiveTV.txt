@@ -517,9 +517,14 @@ URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Canal Kidz
-URL: https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
-Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png
+Name: Multicine
+URL: https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: El club de la comedia
+URL: https://fast-channels.atresmedia.com/936fb413bdfd786de7d6064387f2e9fb3319740d/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio 3
@@ -1156,6 +1161,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Boing
 URL: https://live.sakutv.workers.dev/hls/boing
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/boing_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Canal Kidz
+URL: https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+Logo: https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Infantil (Canal Extremadura)
