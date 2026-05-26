@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-26 09:28:17",
+  "date": "2026-05-27 00:00:13",
   "channels": {
     "Generalistas": [
       {
@@ -372,7 +372,7 @@
       },
       {
         "name": "El club de la comedia",
-        "logo": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://fast-channels.atresmedia.com/936fb413bdfd786de7d6064387f2e9fb3319740d/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8"
