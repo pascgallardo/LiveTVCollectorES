@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25 23:08:56",
+  "date": "2026-05-26 08:13:39",
   "channels": {
     "Religious": [
       {
@@ -6166,6 +6166,13 @@
         "url": "https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8"
       },
       {
+        "name": "Monroe Community Media Public Access Channel",
+        "logo": "https://i.imgur.com/gS4x0uX.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8"
+      },
+      {
         "name": "MRVTV Channel 44 (720p)",
         "logo": "https://i.imgur.com/QZcENP2.png",
         "group": "General",
@@ -6859,13 +6866,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8"
-      },
-      {
-        "name": "KSCN-DT1",
-        "logo": "https://i.imgur.com/HFmkjiR.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream-losangeles.scientology.org/master.m3u8"
       },
       {
         "name": "Lakewood Channel 8 (Lakewood CO) (720p)",
@@ -9140,7 +9140,7 @@
         "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8"
       },
       {
-        "name": "ANIME x HIDIVE (720p)",
+        "name": "ANIME x HIDIVE (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/v0BlxCa.png",
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -9329,6 +9329,13 @@
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+      },
+      {
+        "name": "Monroe Community Media Education Channel",
+        "logo": "https://i.imgur.com/gS4x0uX.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8"
       },
       {
         "name": "Nashua ETV Channel 22 Nashua NH (720p)",

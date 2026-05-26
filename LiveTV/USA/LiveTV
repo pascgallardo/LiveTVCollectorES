@@ -5250,6 +5250,12 @@
     "img": "https://i.imgur.com/VXbHin6.png"
   },
   {
+    "name": "Monroe Community Media Public Access Channel",
+    "type": "General",
+    "url": "https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8",
+    "img": "https://i.imgur.com/gS4x0uX.png"
+  },
+  {
     "name": "MRVTV Channel 44 (720p)",
     "type": "General",
     "url": "https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
@@ -5842,12 +5848,6 @@
     "type": "Undefined",
     "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8",
     "img": "https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png"
-  },
-  {
-    "name": "KSCN-DT1",
-    "type": "Undefined",
-    "url": "https://stream-losangeles.scientology.org/master.m3u8",
-    "img": "https://i.imgur.com/HFmkjiR.png"
   },
   {
     "name": "Lakewood Channel 8 (Lakewood CO) (720p)",
@@ -7782,7 +7782,7 @@
     "img": "https://i.imgur.com/OIFK6JB.png"
   },
   {
-    "name": "ANIME x HIDIVE (720p)",
+    "name": "ANIME x HIDIVE (720p) [Geo-blocked]",
     "type": "Animation",
     "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "img": "https://i.imgur.com/v0BlxCa.png"
@@ -7942,6 +7942,12 @@
     "type": "Education",
     "url": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8",
     "img": "https://i.imgur.com/qo5sk1g.png"
+  },
+  {
+    "name": "Monroe Community Media Education Channel",
+    "type": "Education",
+    "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8",
+    "img": "https://i.imgur.com/gS4x0uX.png"
   },
   {
     "name": "Nashua ETV Channel 22 Nashua NH (720p)",
