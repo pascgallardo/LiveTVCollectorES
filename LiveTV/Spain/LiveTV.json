@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-30 22:42:59",
+  "date": "2026-05-31 09:44:27",
   "channels": {
     "Generalistas": [
       {
@@ -371,18 +371,39 @@
         "url": "https://ztnr.rtve.es/ztnr/16541484.m3u8"
       },
       {
+        "name": "Multicine atresplayer",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8"
+      },
+      {
+        "name": "Comedia atresplayer",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/comedia_atresplayer_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://fast-channels.atresmedia.com/7d8006a3881bb6d36d7fcec8f8997820d4332b86/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8"
+      },
+      {
+        "name": "Clásicos atresplayer",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clasicos_atresplayer_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://fast-channels.atresmedia.com/21f0dba17c97cfb5a8919605307699120177f453/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8"
+      },
+      {
+        "name": "Aquí no hay quién viva",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://fast-channels.atresmedia.com/d7bd0adb7616750c83bdf3ad204ce9869f8a81d1/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8"
+      },
+      {
         "name": "El club de la comedia",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg",
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://fast-channels.atresmedia.com/936fb413bdfd786de7d6064387f2e9fb3319740d/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8"
-      },
-      {
-        "name": "Multicine",
-        "logo": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png",
-        "group": "Eventuales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8"
       },
       {
         "name": "Radio 3",
@@ -3149,13 +3170,6 @@
         "group": "Radio_Internacional",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8"
-      },
-      {
-        "name": "Exitosa Radio Perú",
-        "logo": "https://pbs.twimg.com/profile_images/1951269649280040961/RrU47Hlk_200x200.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
       }
     ],
     "Radio_Musicales": [

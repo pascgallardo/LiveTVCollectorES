@@ -312,16 +312,34 @@
     "img": "https://graph.facebook.com/rtveplay/picture?width=200&height=200"
   },
   {
+    "name": "Multicine atresplayer",
+    "type": "Eventuales",
+    "url": "https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg"
+  },
+  {
+    "name": "Comedia atresplayer",
+    "type": "Eventuales",
+    "url": "https://fast-channels.atresmedia.com/7d8006a3881bb6d36d7fcec8f8997820d4332b86/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/comedia_atresplayer_cuadrado.jpg"
+  },
+  {
+    "name": "Clásicos atresplayer",
+    "type": "Eventuales",
+    "url": "https://fast-channels.atresmedia.com/21f0dba17c97cfb5a8919605307699120177f453/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clasicos_atresplayer_cuadrado.jpg"
+  },
+  {
+    "name": "Aquí no hay quién viva",
+    "type": "Eventuales",
+    "url": "https://fast-channels.atresmedia.com/d7bd0adb7616750c83bdf3ad204ce9869f8a81d1/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg"
+  },
+  {
     "name": "El club de la comedia",
     "type": "Eventuales",
     "url": "https://fast-channels.atresmedia.com/936fb413bdfd786de7d6064387f2e9fb3319740d/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg"
-  },
-  {
-    "name": "Multicine",
-    "type": "Eventuales",
-    "url": "https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8",
-    "img": "https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png"
   },
   {
     "name": "Radio 3",
@@ -2674,12 +2692,6 @@
     "type": "Radio_Internacional",
     "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioexteriorrne_cuadrado.jpg"
-  },
-  {
-    "name": "Exitosa Radio Perú",
-    "type": "Radio_Internacional",
-    "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
-    "img": "https://pbs.twimg.com/profile_images/1951269649280040961/RrU47Hlk_200x200.jpg"
   },
   {
     "name": "LOS40",
