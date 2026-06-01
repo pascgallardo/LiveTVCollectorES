@@ -336,6 +336,18 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg"
   },
   {
+    "name": "El Hormiguero",
+    "type": "Eventuales",
+    "url": "https://fast-channels.atresmedia.com/f903abd690456cff8bef97a426a363260c867fb3/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elhormiguero_cuadrado.jpg"
+  },
+  {
+    "name": "Atresplayer",
+    "type": "Eventuales",
+    "url": "https://atres-live.atresmedia.com/849ac480aacf8381273399e6be7d74c50fd116c8_ES_1780328457_1780357197/h264/live/eventos04/master.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/atresplayer_cuadrado.jpg"
+  },
+  {
     "name": "Radio 3",
     "type": "Eventuales",
     "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",

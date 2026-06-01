@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01 19:11:18",
+  "date": "2026-06-02 01:49:40",
   "channels": {
     "Generalistas": [
       {
@@ -397,6 +397,20 @@
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://fast-channels.atresmedia.com/936fb413bdfd786de7d6064387f2e9fb3319740d/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8"
+      },
+      {
+        "name": "El Hormiguero",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elhormiguero_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://fast-channels.atresmedia.com/f903abd690456cff8bef97a426a363260c867fb3/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8"
+      },
+      {
+        "name": "Atresplayer",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/atresplayer_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://atres-live.atresmedia.com/849ac480aacf8381273399e6be7d74c50fd116c8_ES_1780328457_1780357197/h264/live/eventos04/master.m3u8"
       },
       {
         "name": "Radio 3",

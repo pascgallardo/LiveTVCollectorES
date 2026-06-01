@@ -562,6 +562,16 @@ URL: https://fast-channels.atresmedia.com/936fb413bdfd786de7d6064387f2e9fb331974
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: El Hormiguero
+URL: https://fast-channels.atresmedia.com/f903abd690456cff8bef97a426a363260c867fb3/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elhormiguero_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Atresplayer
+URL: https://atres-live.atresmedia.com/849ac480aacf8381273399e6be7d74c50fd116c8_ES_1780328457_1780357197/h264/live/eventos04/master.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/atresplayer_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Radio 3
 URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg
