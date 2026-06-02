@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-02 17:30:28",
+  "date": "2026-06-03 01:07:50",
   "channels": {
     "Religious": [
       {
@@ -12480,11 +12480,11 @@
     ],
     "Uncategorized": [
       {
-        "name": "100 LG Channels Action Showcase",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Action_Showcase/LG_Channels_Action_Showcase_Logo_White_400x200.png",
+        "name": "100 WORLD PUP",
+        "logo": "https://d190bhqtoid3b.cloudfront.net/Images/S3/World_Pup_Logo_Revised.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://amg00497-amg00497c30-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c30-amgplt0023/playlist.m3u8?ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.ua=[UA]&ads.devicemodel=[DEVICE_MODEL]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.lat=[LMT]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicemake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]"
+        "url": "https://amg01515-amg01515c88-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01515-amg01515c88-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME"
       },
       {
         "name": "101 NCAA Championships: Powered by LG",
@@ -12494,11 +12494,11 @@
         "url": "https://wurllg.global.transmit.live/hls/689628fc4be878ea7aa6ec3e/v1/lg_ncaachannel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=989&wurl_name=NCAAChannel&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "102 Universal Movies",
-        "logo": "https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped",
+        "name": "102 FIFA+",
+        "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1854-LG-Logo-PNG-100x100_v4.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051&ads.asnw=169843&ads.afid=158702674&ads.sfid=16520667&ads.csid=lgchannels_us_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99993051&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
+        "url": "https://wurlfifa.global.transmit.live/hls/68962aee6d5f7138484ade6a/v1/sysdata_s_p_a_fifa_7/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1854&wurl_name=FIFAPlusEnglish&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "103 All Chewed Up",
@@ -12508,46 +12508,46 @@
         "url": "https://amg00497-amg00497c33-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00497-amg00497c33-amgplt0023/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.lat=[LMT]&ads.viewsize=[VIEWSIZE]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.devicetype=[DEVICE_TYPE]&ads.givn=[NONCE]&ads.targetad=[TARGETAD_ALLOWED]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.devicemake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.ifatype=[IFA_TYPE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&coppa=0"
       },
       {
-        "name": "104 NYPD Blue",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png",
+        "name": "104 The Good Doctor",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/thegooddoc/GOOD_DOCTOR_THE_TitleTreatment400x200.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://amg00497-amg00497c34-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00497-amg00497c34-amgplt0023/playlist.m3u8?ads.givn=[NONCE]&ads.viewsize=[VIEWSIZE]&ads.country=[COUNTRY]&ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.targetad=[TARGETAD_ALLOWED]&ads.appname=[APP_NAME]&ads.donotsell=[DNS]&ads.fck=[FCK]&coppa=0"
+        "url": "https://amg00497-amg00497c37-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00497-amg00497c37-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME"
       },
       {
-        "name": "105 Stories by AMC",
-        "logo": "http://img.platform.wurl.dev/channel/474/lg/356989/LG-Logo-PNG-100x100_v1.png",
+        "name": "105 Chip & Jo: Feels Like Home",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/ChipJoFeelsLikeHome/LG_Logo_400x200_ChipJoFeelsLikeHome_Wht.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://wurlrainbowmedia.global.transmit.live/hls/697d23c286bd10f25052dc06/playlist.m3u8?wurl_channel=474&wurl_name=StoriesByAMC&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+        "url": "https://amg00136-wbd-amg00136c82-lg-us-9771.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-chipandjofeelslikehome-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
-        "name": "106 Storage Wars by A&E",
-        "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1967-LG-Logo-PNG-100x100_v6.png",
+        "name": "106 Modern Marvels",
+        "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1040-LG-Logo-PNG-100x100_v4.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_networks_storagewarsbyae_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1967&wurl_name=StorageWars&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+        "url": "https://aenetworks.global.transmit.live/hls/68b77b1a8da3641997c664ec/v1/aenetworks_modernmarvels_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1040&wurl_name=ModernMarvels&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "107 Forensic Files",
-        "logo": "https://image.xumo.com/v1/channels/channel/99992255/600x200.png?type=white_cropped",
+        "name": "107 Buzzr",
+        "logo": "https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992255&ads.xumo_streamId=99992255&ads.channelId=99992255&ads.ad_tag_id=10504&ads.csid=lgchannels_us_forensicfiles_ssai&ads.channelName=forensicfiles_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
       },
       {
-        "name": "108 Historian",
-        "logo": "https://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png",
+        "name": "108 BritBox Mysteries",
+        "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/bbcbritboxmysteries400x200.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://3a542e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSGlzdG9yaWFuX0hMUw/playlist.m3u8"
+        "url": "https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
       },
       {
-        "name": "109 LOL! Network",
-        "logo": "https://d1v0zs4geog4co.cloudfront.net/400x200LGWhite_LG.png",
+        "name": "109 Waypoint TV",
+        "logo": "https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://amg00375-fusemedia-amg00375c14-lg-us-9819.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-lolnetwork10min-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://waypointtv-lg-us.amagi.tv/hls/amagi_hls_data_waypointt-waypointtv-lg-us/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]"
       },
       {
         "name": "110 Matthew Berry’s Fantasy Life",
@@ -12564,11 +12564,11 @@
         "url": "https://wurllg.global.transmit.live/hls/68dd53c86c8601319550732f/playlist.m3u8?wurl_channel=1369&wurl_name=MajordomoMedia&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "112 NHL",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NHL/NHL_Logo_400x200.png",
+        "name": "112 Stingray Soccer Anthems",
+        "logo": "https://epg.sam.stingray.com/IMAGE/347ADS/lg-direct/Channel_Logo_400x200.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
+        "url": "https://lotus.stingray.com/ads/ose-347ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.ifa=[IFA]&ads.lmt=[LMT]&ads.dns=[DNS]&ads.nonce=[NONCE]"
       },
       {
         "name": "120 ABC News Live",
@@ -12646,6 +12646,13 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://amg01220-amg01220c1-lg-us-8248.playouts.now.amagi.tv/playlist/amg01220-theyoungturksfast-tyt-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+      },
+      {
+        "name": "134 Real America's Voice",
+        "logo": "http://img.platform.wurl.dev/channel/419/lg/4dfe21/LG-Logo-PNG-100x100_v1.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://wurlperformanceonemedia.global.transmit.live/hls/69d93e1344d5f8fbce12e874/v1/p1media_americasvoice_1/lg_us/latest/main/hls/AVWurlTRCABR.m3u8?wurl_channel=419&wurl_name=AmericasVoice&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "136 Scripps News",
@@ -12774,6 +12781,13 @@
         "url": "https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8"
       },
       {
+        "name": "167 TODAY All Day",
+        "logo": "https://image.xumo.com/v1/channels/channel/99992303/600x200.png?type=white_cropped",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99992303/hls/master.m3u8?ads.xumo_channelId=99992303&ads.asnw=169843&ads.afid=137705821&ads.sfid=16772608&ads.csid=lgchannels_us_nbctoday_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.channelId=99992303&ads._fw_ifa_type=[IFA_TYPE]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
+      },
+      {
         "name": "201 ION",
         "logo": "http://img.platform.wurl.dev/channel/1116/lg/c1228b/LG-Logo-PNG-100x100_v1.png",
         "group": "Uncategorized",
@@ -12786,6 +12800,13 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993063/hls/master.m3u8?ads.xumo_channelId=99993063&ads.channelId=99993063&ads.afid=444754633&ads.sfid=23912191&ads.csid=lgchannels_us_nbculaworder_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=4303&ads.xumo_contentName=NBCULawOrder&ads.xumo_providerId=4303&ads.xumo_providerName=NBCULawOrder&ads.asnw=169843&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]"
+      },
+      {
+        "name": "203 NYPD Blue",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://amg00497-amg00497c34-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00497-amg00497c34-amgplt0023/playlist.m3u8?ads.givn=[NONCE]&ads.viewsize=[VIEWSIZE]&ads.country=[COUNTRY]&ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.targetad=[TARGETAD_ALLOWED]&ads.appname=[APP_NAME]&ads.donotsell=[DNS]&ads.fck=[FCK]&coppa=0"
       },
       {
         "name": "204 CSI: NY",
@@ -12814,6 +12835,13 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+      },
+      {
+        "name": "210 Universal Movies",
+        "logo": "https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051&ads.asnw=169843&ads.afid=158702674&ads.sfid=16520667&ads.csid=lgchannels_us_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99993051&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
         "name": "211 FilmRise Free Movies",
@@ -12956,8 +12984,8 @@
         "url": "https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=999&wurl_name=HolidayMovieFavoritesbyLifetime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "238 Lifetime Movies Love & Drama",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/LifetimeLoveDrama/LMLD_Channel_Logo_white_400x200.png",
+        "name": "238 Lifetime Movies: Black Stories",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/LifetimeLoveDrama/LMLDBlackStories_LG-Logo-PNG-100x100.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://amg00276-aenetwork-amg00276c28-lg-us-7272.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
@@ -13145,6 +13173,13 @@
         "url": "https://amg00353-amg00353c68-lg-us-9888.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-heartlandclassic-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
+        "name": "274 Stories by AMC",
+        "logo": "http://img.platform.wurl.dev/channel/474/lg/356989/LG-Logo-PNG-100x100_v1.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://wurlrainbowmedia.global.transmit.live/hls/697d23c286bd10f25052dc06/playlist.m3u8?wurl_channel=474&wurl_name=StoriesByAMC&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+      },
+      {
         "name": "275 The Walking Dead Universe",
         "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/565-LG-Logo-PNG-100x100_v2.png",
         "group": "Uncategorized",
@@ -13243,6 +13278,13 @@
         "url": "https://amg00353-amg00353c48-lg-us-8649.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-lovethyneighbor-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.dmake=[DEVICE_MAKE]&ads.givn=[NONCE]"
       },
       {
+        "name": "290 LOL! Network",
+        "logo": "https://d1v0zs4geog4co.cloudfront.net/400x200LGWhite_LG.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://amg00375-fusemedia-amg00375c14-lg-us-9819.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-lolnetwork10min-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+      },
+      {
         "name": "291 Bounce XL",
         "logo": "http://img.platform.wurl.dev/channel/938/lg/cbdf14/LG-Logo-PNG-100x100_v1.png",
         "group": "Uncategorized",
@@ -13292,13 +13334,6 @@
         "url": "https://amg00136-wbd-amg00136c16-lg-us-1936.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvhowto-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
       },
       {
-        "name": "300 Modern Marvels",
-        "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1040-LG-Logo-PNG-100x100_v4.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://aenetworks.global.transmit.live/hls/68b77b1a8da3641997c664ec/v1/aenetworks_modernmarvels_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1040&wurl_name=ModernMarvels&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
-      },
-      {
         "name": "301 Modern Innovations",
         "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ModernInnovation/Modern_Innovation_by_H_logo_400x200.png",
         "group": "Uncategorized",
@@ -13332,6 +13367,13 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
+      },
+      {
+        "name": "306 Historian",
+        "logo": "https://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://3a542e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSGlzdG9yaWFuX0hMUw/playlist.m3u8"
       },
       {
         "name": "307 Declassified",
@@ -13390,13 +13432,6 @@
         "url": "https://linear-1209.frequency.stream/dist/lg-us/1209/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
       },
       {
-        "name": "315 Waypoint TV",
-        "logo": "https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://waypointtv-lg-us.amagi.tv/hls/amagi_hls_data_waypointt-waypointtv-lg-us/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]"
-      },
-      {
         "name": "316 BOOT",
         "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/oneworld/channels/boot400x200.png",
         "group": "Uncategorized",
@@ -13416,6 +13451,13 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://aenetworks.global.transmit.live/hls/68b7739a2bcf083f5d65622d/v1/aenetworks_dealzone_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1099&wurl_name=DealZone&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+      },
+      {
+        "name": "320 Storage Wars by A&E",
+        "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1967-LG-Logo-PNG-100x100_v6.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_networks_storagewarsbyae_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1967&wurl_name=StorageWars&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "321 Discovery Turbo TV",
@@ -13541,14 +13583,14 @@
         "logo": "http://accio.its-newid.net/channel/newid_096/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=loveafterdivorce&channel_id=newid_096&mpf=f61e63ba-39af1962-0b7ab241&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb47c4b8-b7224648-a6442d3b-c052dce4&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=loveafterdivorce&channel_id=newid_096&mpf=f61e63ba-39af1962-01c99c03&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb47c4b8-b7224648-a6442d3b-c052dce4&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
       },
       {
         "name": "342 I am SOLO",
         "logo": "http://accio.its-newid.net/channel/newid_103/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=iamsolo&channel_id=newid_103&mpf=5674464b-39af1962-1f8338ee&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=78e43a91-acb11f93-0b0c9d30-dbc1853f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=iamsolo&channel_id=newid_103&mpf=5674464b-39af1962-e48fa2b4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=78e43a91-acb11f93-0b0c9d30-dbc1853f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
       },
       {
         "name": "343 Love & Hip Hop",
@@ -13656,13 +13698,6 @@
         "url": "https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8"
       },
       {
-        "name": "359 Buzzr",
-        "logo": "https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
-      },
-      {
         "name": "360 The Price Is Right",
         "logo": "https://d176ihgbrcz7jq.cloudfront.net/TPIR_Barker_Logo_WHT_800x200.png",
         "group": "Uncategorized",
@@ -13710,13 +13745,6 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
-      },
-      {
-        "name": "368 BritBox Mysteries",
-        "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/bbcbritboxmysteries400x200.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
       },
       {
         "name": "370 ION Mystery",
@@ -13787,6 +13815,13 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://linear-1070.frequency.stream/dist/lg-us/1070/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
+      },
+      {
+        "name": "381 Forensic Files",
+        "logo": "https://image.xumo.com/v1/channels/channel/99992255/600x200.png?type=white_cropped",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992255&ads.xumo_streamId=99992255&ads.channelId=99992255&ads.ad_tag_id=10504&ads.csid=lgchannels_us_forensicfiles_ssai&ads.channelName=forensicfiles_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
         "name": "382 Unsolved Mysteries",
@@ -14111,6 +14146,13 @@
         "url": "https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]"
       },
       {
+        "name": "438 NHL",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NHL/NHL_Logo_400x200.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
+      },
+      {
         "name": "439 World Poker Tour",
         "logo": "http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png",
         "group": "Uncategorized",
@@ -14119,17 +14161,10 @@
       },
       {
         "name": "440 Billiard TV",
-        "logo": "http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png",
+        "logo": "http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8?wurl_channel=1288&wurl_name=BilliardTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
-      },
-      {
-        "name": "441 FIFA+",
-        "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1854-LG-Logo-PNG-100x100_v4.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://wurlfifa.global.transmit.live/hls/68962aee6d5f7138484ade6a/v1/sysdata_s_p_a_fifa_7/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1854&wurl_name=FIFAPlusEnglish&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
         "name": "442 PGA TOUR",
@@ -14300,6 +14335,13 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
+        "name": "472 WatchAEW",
+        "logo": "https://preview-amagicloud-aew-automation-aew.cloudport.amagi.tv/Images/S3/WATCH-AEW-400x200.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://amg16221-amg16221c1-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg16221-amg16221c1-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME"
+      },
+      {
         "name": "473 Swerve Combat",
         "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/swerve/channels/swerve-white-400x200.png",
         "group": "Uncategorized",
@@ -14328,8 +14370,8 @@
         "url": "https://amg12058-c15studio-amg12058c13-lg-us-9277.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-motogptvcc-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
       },
       {
-        "name": "479 MavTV Select",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png",
+        "name": "479 RACER Select",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Racerselecttv_US/RACER_Select_logo_400x200.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://amg00378-mavtv-amg00378c4-lg-us-1984.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]"
@@ -14622,13 +14664,6 @@
         "url": "https://wurljansonmedia.global.transmit.live/hls/67dd78702f042c9565eb1cfe/v1/food/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=140&wurl_name=Hungry&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
       },
       {
-        "name": "560 Chip & Jo: Feels Like Home",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/ChipJoFeelsLikeHome/LG_Logo_400x200_ChipJoFeelsLikeHome_Wht.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://amg00136-wbd-amg00136c82-lg-us-9771.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-chipandjofeelslikehome-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
-      },
-      {
         "name": "561 Property Brothers Channel",
         "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineflix/channels/684-property-brothers.png",
         "group": "Uncategorized",
@@ -14860,11 +14895,11 @@
         "url": "https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]"
       },
       {
-        "name": "615 Barney and Friends",
-        "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1843-LG-Logo-PNG-100x100_v1.png",
+        "name": "615 Barney And Friends",
+        "logo": "https://image.xumo.com/v1/channels/channel/99993100/600x200.png?type=white_cropped",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://wurlcineverse.global.transmit.live/hls/6994bd325e71be55359f74cc/v1/cinedigm_entertainment_corp_barneyandfriends_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1843&wurl_name=BarneyandFriends&coppa=1&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+        "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993100&ads.xumo_streamId=99993100&ads.channelId=99993100&ads.csid=lgchannels_us_wildbrainbarneyandfriends_ssai&ads.channelName=barneyandfriends_us&ads.xumo_contentName=WildBrain&ads.xumo_contentId=1854&ads.xumo_providerName=WildBrain&ads.xumo_providerId=1854&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
         "name": "627 Garfield and Friends",
@@ -14921,13 +14956,6 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://wildearth-lg-us.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lg-us/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
-      },
-      {
-        "name": "752 Love Pets",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/Images/LovePets_LG_ChannelAssetLogo_400x200.png",
-        "group": "Uncategorized",
-        "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://amg01515-amg01515c44-lg-us-10976.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovepetsamericasengcc-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
       },
       {
         "name": "753 Love Nature",
@@ -15130,7 +15158,7 @@
         "logo": "https://image.xumo.com/v1/channels/channel/99993041/600x200.png?type=white_cropped",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993041/hls/master.m3u8?ads.xumo_channelId=99993041&ads.asnw=169843&ads.afid=367536734&ads.sfid=17470300&ads.csid=lgchannels_us_telemundoscripted_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2562&ads.xumo_contentName=TelemundoScripted&ads.xumo_providerId=2562&ads.xumo_providerName=TelemundoScripted&ads.channelId=99993041&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993041/hls/master.m3u8?ads.xumo_channelId=99993041&ads.asnw=169843&ads.afid=367536734&ads.sfid=17470300&ads.csid=lgchannels_us_telemundoscripted_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2562&ads.xumo_contentName=TelemundoScripted&ads.xumo_providerId=2562&ads.xumo_providerName=TelemundoScripted&ads.channelId=99993041&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
         "name": "824 EstrellaTV",
@@ -15172,7 +15200,7 @@
         "logo": "https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvsureno_400x200_lg.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16589&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16589&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1"
       },
       {
         "name": "830 Cine Retro",
@@ -15193,7 +15221,7 @@
         "logo": "https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvclasico_400x200_lg_0.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16588&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16588&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1"
       },
       {
         "name": "833 Stingray Today's Latin Pop",
@@ -15284,7 +15312,7 @@
         "logo": "http://accio.its-newid.net/channel/newid_001/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_001&mpf=b9b84d50-39af1962-46ec72d7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5555ff2b-8870b9b2-25c0f07d-ff00231e&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_001&mpf=b9b84d50-39af1962-03343455&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5555ff2b-8870b9b2-25c0f07d-ff00231e&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
       },
       {
         "name": "857 NEW KFOOD",
@@ -15330,7 +15358,7 @@
       },
       {
         "name": "900 Stingray Greatest Hits",
-        "logo": "https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/155ADS/lg-direct/Channel_Logo_272x200.png",
+        "logo": "https://epg.sam.stingray.com/IMAGE/155ADS/lg-direct/Channel_Logo_272x200.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://lotus.stingray.com/ads/ose-155ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.ifa=[IFA]&ads.lmt=[LMT]&ads.dns=[DNS]&ads.nonce=[NONCE]"
@@ -15502,6 +15530,13 @@
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
         "url": "https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c10-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.deviceid=[DEVICE_ID]&ads.donotsell=[DNS]&ads.gdprconsent=[GDPR_CONSENT]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.ua=[UA]"
+      },
+      {
+        "name": "997 LG Channels Action Showcase",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Action_Showcase/LG_Channels_Action_Showcase_Logo_White_400x200.png",
+        "group": "Uncategorized",
+        "source": "https://www.apsattv.com/uslg.m3u",
+        "url": "https://amg00497-amg00497c30-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c30-amgplt0023/playlist.m3u8?ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.ua=[UA]&ads.devicemodel=[DEVICE_MODEL]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.lat=[LMT]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicemake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]"
       },
       {
         "name": "998 LG Channels Showcase",
