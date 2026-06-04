@@ -867,7 +867,7 @@
     "name": "Movie Hub",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260512T070246SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260528T041314SQUARE.png"
   },
   {
     "name": "Movie Hub West",
@@ -906,10 +906,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20260420T153045SQUARE.png"
   },
   {
-    "name": "Lifetime Movies Love & Drama",
+    "name": "Lifetime Movies: Black Stories",
     "type": "Movies",
     "url": "https://jmp2.uk/stvp-US1600002OK",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260310T031227SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260528T043308SQUARE.png"
   },
   {
     "name": "MovieSphere",
@@ -1092,9 +1092,9 @@
     "img": "https://i.imgur.com/lBIq2ZD.png"
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Sports\",beIN SPORTS Xtra (1080p)",
+    "name": "beIN SPORTS XTRA (1080p)",
     "type": "Sports",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO",
+    "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
     "img": "https://i.ibb.co/HT49GPmB/XTRA-2.png"
   },
   {
@@ -2577,7 +2577,7 @@
     "name": "SMTOWN",
     "type": "Music",
     "url": "https://jmp2.uk/stvp-US10000135V",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260505T062453SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260528T041433SQUARE.png"
   },
   {
     "name": "K-POP by CJ ENM",
@@ -5616,7 +5616,13 @@
     "img": "https://i.imgur.com/a0BRhvr.png"
   },
   {
-    "name": "TVE Internacional America (1080p) [Geo-blocked]",
+    "name": "TVE Internacional America (576p) [Geo-blocked]",
+    "type": "Undefined",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
+    "img": "https://i.ibb.co/RpKLCMvp/tve.png"
+  },
+  {
+    "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
     "type": "Undefined",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
     "img": "https://i.ibb.co/RpKLCMvp/tve.png"
@@ -8226,10 +8232,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900008GK_20260428T032017SQUARE.png"
   },
   {
+    "name": "Dhar Mann TV",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-US2100005WS",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100005WS_20260602T091453SQUARE.png"
+  },
+  {
     "name": "Samsung Television Network",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US300068X7",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260512T070312SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260602T091517SQUARE.png"
   },
   {
     "name": "ALL ACTION",
@@ -8340,6 +8352,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US180001143_20260421T133917SQUARE.png"
   },
   {
+    "name": "HerSphere by Lionsgate",
+    "type": "Action & Drama",
+    "url": "https://jmp2.uk/stvp-US3000006DF",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000006DF_20260528T042006SQUARE.png"
+  },
+  {
     "name": "Nashville",
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US19000072T",
@@ -8362,12 +8380,6 @@
     "type": "Action & Drama",
     "url": "https://jmp2.uk/stvp-US4100029G5",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100029G5_20260421T133634SQUARE.png"
-  },
-  {
-    "name": "Dhar Mann TV",
-    "type": "Action & Drama",
-    "url": "https://jmp2.uk/stvp-US2100005WS",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100005WS_20260217T231323SQUARE.png"
   },
   {
     "name": "Wildfire",
@@ -8598,6 +8610,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US160000159_20250805T005823SQUARE.png"
   },
   {
+    "name": "A&E Live PD: Greatest Shifts",
+    "type": "Crime",
+    "url": "https://jmp2.uk/stvp-US900059YT",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900059YT_20260528T041942SQUARE.png"
+  },
+  {
     "name": "American Crimes",
     "type": "Crime",
     "url": "https://jmp2.uk/stvp-USBD42000250Q",
@@ -8676,12 +8694,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20260421T133822SQUARE.png"
   },
   {
-    "name": "Challenge Accepted",
-    "type": "Reality TV",
-    "url": "https://jmp2.uk/stvp-US2100006EH",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260512T070320SQUARE.png"
-  },
-  {
     "name": "All-Out Reality",
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-USBB4400016F9",
@@ -8698,6 +8710,12 @@
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-US2900010UT",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900010UT_20260421T133757SQUARE.png"
+  },
+  {
+    "name": "Challenge Accepted",
+    "type": "Reality TV",
+    "url": "https://jmp2.uk/stvp-US2100006EH",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260528T041503SQUARE.png"
   },
   {
     "name": "Little Women: LA",
@@ -8847,7 +8865,7 @@
     "name": "Mountain Men",
     "type": "Reality TV",
     "url": "https://jmp2.uk/stvp-USBD17000051M",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20251110T235109SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20260602T091505SQUARE.png"
   },
   {
     "name": "Life Below Zero",
@@ -9114,10 +9132,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260428T032005SQUARE.png"
   },
   {
-    "name": "UEFA Champions League",
+    "name": "Scripps Sports Network",
     "type": "Sports & Outdoors",
-    "url": "https://jmp2.uk/stvp-US1000012ML",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260512T070316SQUARE.png"
+    "url": "https://jmp2.uk/stvp-US400221W2",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400221W2_20260602T091523SQUARE.png"
   },
   {
     "name": "NFL Channel",
@@ -9171,7 +9189,7 @@
     "name": "CBS Sports Golazo Network",
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US100000704",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260421T142122SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260602T091447SQUARE.png"
   },
   {
     "name": "FOX Sports",
@@ -9202,12 +9220,6 @@
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-US3200012O8",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20260421T143258SQUARE.png"
-  },
-  {
-    "name": "Scripps Sports Network",
-    "type": "Sports & Outdoors",
-    "url": "https://jmp2.uk/stvp-US400221W2",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400221W2_20260428T032014SQUARE.png"
   },
   {
     "name": "Overtime",
@@ -9280,6 +9292,12 @@
     "type": "Sports & Outdoors",
     "url": "https://jmp2.uk/stvp-USBD12000255B",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20260421T143129SQUARE.png"
+  },
+  {
+    "name": "UEFA Champions League",
+    "type": "Sports & Outdoors",
+    "url": "https://jmp2.uk/stvp-US1000012ML",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260528T041831SQUARE.png"
   },
   {
     "name": "beIN SPORTS XTRA",
@@ -9444,6 +9462,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700021SM_20250505T232701SQUARE.png"
   },
   {
+    "name": "MotoAmerica TV",
+    "type": "Motor Sports",
+    "url": "https://jmp2.uk/stvp-US1000014I6",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000014I6_20260528T041556SQUARE.png"
+  },
+  {
     "name": "Formula 1 Channel",
     "type": "Motor Sports",
     "url": "https://jmp2.uk/stvp-US600011Q2",
@@ -9510,22 +9534,16 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20260421T142850SQUARE.png"
   },
   {
-    "name": "The Amazing Race",
+    "name": "Storage Wars: LA",
     "type": "Reality Competition",
-    "url": "https://jmp2.uk/stvp-US390001557",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260512T070315SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBD1700006T2",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20260602T091529SQUARE.png"
   },
   {
     "name": "Hell's Kitchen",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-USBB2900002Z7",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20260421T142921SQUARE.png"
-  },
-  {
-    "name": "Storage Wars: LA",
-    "type": "Reality Competition",
-    "url": "https://jmp2.uk/stvp-USBD1700006T2",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20260224T212728SQUARE.png"
   },
   {
     "name": "Pawn Stars",
@@ -9561,7 +9579,13 @@
     "name": "Survivor",
     "type": "Reality Competition",
     "url": "https://jmp2.uk/stvp-US3900014MX",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900014MX_20260421T142256SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900014MX_20260602T091535SQUARE.png"
+  },
+  {
+    "name": "The Amazing Race",
+    "type": "Reality Competition",
+    "url": "https://jmp2.uk/stvp-US390001557",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260528T041751SQUARE.png"
   },
   {
     "name": "America's Got Talent",
@@ -9636,6 +9660,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20260421T142946SQUARE.png"
   },
   {
+    "name": "BUZZR",
+    "type": "Game Shows",
+    "url": "https://jmp2.uk/stvp-USBD700021WG",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20260602T091441SQUARE.png"
+  },
+  {
     "name": "Let's Make A Deal Classic",
     "type": "Game Shows",
     "url": "https://jmp2.uk/stvp-US7000229B",
@@ -9646,12 +9676,6 @@
     "type": "Game Shows",
     "url": "https://jmp2.uk/stvp-US5000052H1",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260421T143111SQUARE.png"
-  },
-  {
-    "name": "BUZZR",
-    "type": "Game Shows",
-    "url": "https://jmp2.uk/stvp-USBD700021WG",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20241105T024154SQUARE.png"
   },
   {
     "name": "Game Show Central",
@@ -10017,7 +10041,7 @@
     "name": "Naruto",
     "type": "Anime & Gaming",
     "url": "https://jmp2.uk/stvp-US2000014IC",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000014IC_20250707T234422SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000014IC_20260602T091512SQUARE.png"
   },
   {
     "name": "Sailor Moon",
@@ -10050,16 +10074,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US240000434_20250812T003525SQUARE.png"
   },
   {
-    "name": "History & Science\" , Military Heroes",
-    "type": "Nature, History & Science",
-    "url": "https://jmp2.uk/stvp-USBC39000204J",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260512T070308SQUARE.png"
-  },
-  {
     "name": "History & Science\" , Samsung Wild Life",
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-USBA3000043LH",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250826T234450SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20260602T091417SQUARE.png"
   },
   {
     "name": "History & Science\" , Brave Wilderness",
@@ -10194,6 +10212,12 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200009JI_20250401T004831SQUARE.png"
   },
   {
+    "name": "History & Science\" , Military Heroes",
+    "type": "Nature, History & Science",
+    "url": "https://jmp2.uk/stvp-USBC39000204J",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260528T041536SQUARE.png"
+  },
+  {
     "name": "History & Science\" , TED",
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-USBC2100013WI",
@@ -10221,7 +10245,7 @@
     "name": "History & Science\" , Mark Rober TV",
     "type": "Nature, History & Science",
     "url": "https://jmp2.uk/stvp-US2000010PO",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260421T141939SQUARE.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000010PO_20260602T091459SQUARE.png"
   },
   {
     "name": "AMC en Español",
@@ -10396,6 +10420,12 @@
     "type": "Latino",
     "url": "https://jmp2.uk/stvp-USBC2100010OS",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20260421T142346SQUARE.png"
+  },
+  {
+    "name": "Una Familia de Diez",
+    "type": "Latino",
+    "url": "https://jmp2.uk/stvp-US4000069ML",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000069ML_20260528T041904SQUARE.png"
   },
   {
     "name": "40 y 20",
