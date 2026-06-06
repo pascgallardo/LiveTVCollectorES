@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-06 09:23:17",
+  "date": "2026-06-06 15:38:46",
   "channels": {
     "Generalistas": [
       {
@@ -3507,20 +3507,6 @@
         "group": "Música & ambiente",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES32000027M"
-      },
-      {
-        "name": "NEW KPOP",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png",
-        "group": "Música & ambiente",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ES1700005ME"
-      },
-      {
-        "name": "K-POP by CJ ENM",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png",
-        "group": "Música & ambiente",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ES3900001QG"
       },
       {
         "name": "SMTOWN",

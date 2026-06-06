@@ -1921,16 +1921,6 @@ URL: https://jmp2.uk/stvp-ES32000027M
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250729T045050SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: NEW KPOP
-URL: https://jmp2.uk/stvp-ES1700005ME
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: K-POP by CJ ENM
-URL: https://jmp2.uk/stvp-ES3900001QG
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: SMTOWN
 URL: https://jmp2.uk/stvp-ES1000001EF
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260528T055643SQUARE.png
