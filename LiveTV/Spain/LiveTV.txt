@@ -1984,6 +1984,13 @@ Logo: https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_174
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
+Group: Public
+Name: ETB1 On (1080p)
+URL: https://cdn1.etbon.eus/etb1on/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+
 Group: Radio_Andalucía
 Name: Canal Sur Radio Málaga
 URL: https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3

@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-05 23:28:51",
+  "date": "2026-06-06 09:23:17",
   "channels": {
     "Generalistas": [
       {
@@ -3426,6 +3426,15 @@
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1"
+      }
+    ],
+    "Public": [
+      {
+        "name": "ETB1 On (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg",
+        "group": "Public",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://cdn1.etbon.eus/etb1on/index.m3u8"
       }
     ],
     "Música & ambiente": [

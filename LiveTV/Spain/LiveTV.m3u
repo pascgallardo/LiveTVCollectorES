@@ -969,6 +969,8 @@ https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
 http://185.23.192.118:8014/;stream.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200" group-title="Radio_Andalucía",Spectrum FM
 https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg" group-title="Public",ETB1 On (1080p)
+https://cdn1.etbon.eus/etb1on/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" group-title="Música & ambiente",Vevo Latino
 https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png" group-title="Música & ambiente",Vevo Retro
