@@ -1860,6 +1860,12 @@
     "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/cb5aaf2e-da5e-42a3-9fbe-d38f5881cae5-width400-height200.png"
   },
   {
+    "name": "308 The Blacklist",
+    "type": "Shows",
+    "url": "https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8",
+    "img": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Blacklist_ChannelLogo_Horizontal.png"
+  },
+  {
     "name": "Comedia Made in Spain",
     "type": "Shows",
     "url": "https://jmp2.uk/stvp-ESAJ3800005C5",
@@ -2118,6 +2124,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg"
   },
   {
+    "name": "Antena 3 Internacional",
+    "type": "Int. Europa",
+    "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg"
+  },
+  {
     "name": "TVE Internacional Europa",
     "type": "Int. Europa",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
@@ -2248,6 +2260,42 @@
     "type": "Musicales",
     "url": "https://amg01076-amg01076c19-lg-es-10331.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]",
     "img": "https://d3bd0tgyk368z1.cloudfront.net/lightning/thats90s00s/Thats%2090s00s%20white%20logo%20transpararent%20bg%20400x200.png"
+  },
+  {
+    "name": "971 that's 70s",
+    "type": "Musicales",
+    "url": "https://amg01076-lightning-amg01076c1-lg-es-3972.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]",
+    "img": "https://d3bd0tgyk368z1.cloudfront.net/lightning/thats70s/Thats%2070s%20white%20logo%20transpararent%20bg%20400x400.png"
+  },
+  {
+    "name": "972 that's 80s",
+    "type": "Musicales",
+    "url": "https://amg01076-lightning-amg01076c2-lg-es-4082.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
+    "img": "https://d3bd0tgyk368z1.cloudfront.net/lightning/thats80s/Thats%2080s%20white%20logo%20transpararent%20bg%20400x200.png"
+  },
+  {
+    "name": "973 Qwest TV",
+    "type": "Musicales",
+    "url": "https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]",
+    "img": "https://d13rrbz4t88obi.cloudfront.net/qjazz/NewQwestTV_200x200.png"
+  },
+  {
+    "name": "974 TRACE BRAZUCA",
+    "type": "Musicales",
+    "url": "https://trace-brazuca-lg-es.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-es/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]",
+    "img": "https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Brazuca/LG_Ch_Logo_505x200.png"
+  },
+  {
+    "name": "975 TRACE URBAN",
+    "type": "Musicales",
+    "url": "https://trace-urban-lg-es.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-urban-lg-es/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]",
+    "img": "https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Urban/LG_Ch_Logo_510x200.png"
+  },
+  {
+    "name": "976 TRACE LATINA",
+    "type": "Musicales",
+    "url": "https://trace-latina-lg-es.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-latina-lg-es/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]",
+    "img": "https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Latina/LG_LOGO_TRACELATINA.png"
   },
   {
     "name": "MTV Originals",
@@ -2908,12 +2956,6 @@
     "type": "Radio_Andalucía",
     "url": "https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1",
     "img": "https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200"
-  },
-  {
-    "name": "ETB1 On (1080p)",
-    "type": "Public",
-    "url": "https://cdn1.etbon.eus/etb1on/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg"
   },
   {
     "name": "Vevo Latino",
