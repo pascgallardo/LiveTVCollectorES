@@ -553,7 +553,7 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayqui
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: El club de la comedia
-URL: https://fast-channels.atresmedia.com/936fb413bdfd786de7d6064387f2e9fb3319740d/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
+URL: https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
