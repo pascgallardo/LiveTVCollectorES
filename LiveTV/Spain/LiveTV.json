@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08 18:06:52",
+  "date": "2026-06-08 23:57:42",
   "channels": {
     "Generalistas": [
       {
@@ -932,34 +932,6 @@
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=5431301c-7a3d-467a-b6c7-aeb19662cdf9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_channel_id=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049"
       },
       {
-        "name": "Stingray Naturescape",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg",
-        "group": "Documentales",
-        "source": "https://m3u.work/ICEQGPH.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayNaturescape&ads.content_livestream=0&ads.csid=zeus_eu_stingrayambiance_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1288&ads.rakuten_streaming_id=e78e8aeb-5141-4eba-ae9a-e950b99245c4&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883056&ads.xumo_channel_id=88883056&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=188&ads.xumo_providerName=stingray-naturescape-eng-rakutentv&ads.xumo_streamId=88883056"
-      },
-      {
-        "name": "Todo Crimen",
-        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg",
-        "group": "Documentales",
-        "source": "https://m3u.work/ICEQGPH.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=2b01806e-21db-4111-b5f3-98d1ab2e946d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_channel_id=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=todo-crimen-spa-rakutentv&ads.xumo_streamId=88883018"
-      },
-      {
-        "name": "Travelxp",
-        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg",
-        "group": "Documentales",
-        "source": "https://m3u.work/ICEQGPH.m3u",
-        "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=hobbies%2Coutdoors&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.63&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=5756&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=974b205d-1e8e-4048-b52c-d1a4b7ac34ec&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1613"
-      },
-      {
-        "name": "Weather Spy",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg",
-        "group": "Documentales",
-        "source": "https://m3u.work/ICEQGPH.m3u",
-        "url": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=documentary&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.63&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=5155&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=eb1fe05e-b515-473b-aba7-3a455d8a6f0c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1143"
-      },
-      {
         "name": "Cirque du Soleil",
         "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
         "group": "Documentales",
@@ -1380,6 +1352,13 @@
         "group": "Infantiles",
         "source": "https://m3u.work/ICEQGPH.m3u",
         "url": "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8?ads_amagi_channel_id=1007&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.63&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=6780&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=1fa7af71-5884-4ab0-9529-e140ce594c19&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor"
+      },
+      {
+        "name": "Pingu",
+        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2f3db495-660f-48f8-805c-2bd5f35ee8c4.jpeg",
+        "group": "Infantiles",
+        "source": "https://m3u.work/ICEQGPH.m3u",
+        "url": "https://pingu-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7627/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.105.93&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_id=7629&ads.rtv_channel_name=pingu-rakuten-tv_es&ads.rtv_content_id=7629&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271859&ads.streaming_id=6f4e57b3-7ce5-458a-9cb1-d54c798f0f0d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=7629&publishing_platform_id=5&tenant_identifier=rtv"
       },
       {
         "name": "Masha and the Bear",
@@ -2380,18 +2359,18 @@
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=drama%2Cromance%2Csoap-opera&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_merli_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6828&ads.rakuten_streaming_id=d8ec3453-cec6-4e12-a10c-31c57d4dc1b8&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883119&ads.xumo_channel_id=88883119&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=todo-drama-spa-rakutentv&ads.xumo_streamId=88883119"
       },
       {
+        "name": "Alerta Cobra - Brigada especial de carreteras",
+        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/88e3e3ac-d820-4fc4-a62a-44896724aac4.jpeg",
+        "group": "Shows",
+        "source": "https://m3u.work/ICEQGPH.m3u",
+        "url": "https://alarm-for-cobra-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7230/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.63&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=7230&ads.rtv_channel_name=alarm-for-cobra-rakuten-tv_es&ads.rtv_content_id=7230&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=a303c4c8-1936-49c8-9958-5e8c7ad41156&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=7230&publishing_platform_id=5&tenant_identifier=rtv"
+      },
+      {
         "name": "Rookie Blue",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4fd593d9-67b8-46a6-ad8a-b89a33bc4572.jpeg",
         "group": "Shows",
         "source": "https://m3u.work/ICEQGPH.m3u",
         "url": "https://amg00353-amg00353c62-rakuten-es-8876.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookiebluespanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=1047&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=crime&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.63&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=7055&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=13199704-44f0-4aac-a62a-934c46c1e893&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor"
-      },
-      {
-        "name": "Los asesinatos de Midsomer",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/358e266b-c9b4-4c44-b9d3-ea4f92c878f1.jpeg",
-        "group": "Shows",
-        "source": "https://m3u.work/ICEQGPH.m3u",
-        "url": "https://fda256cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX01NU3BhaW5fSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=drama%2Cmystery%2Centertainment&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.63&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_content_id=7736&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=04d62d08-e716-43c3-899e-a0cf98eb4517&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=2204"
       },
       {
         "name": "Runtime",
@@ -3568,22 +3547,6 @@
         "group": "Música & ambiente",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES1800008X7"
-      }
-    ],
-    "Pluto TV con Orgullo": [
-      {
-        "name": "MTV Pride",
-        "logo": "https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1780300237530.png",
-        "group": "Pluto TV con Orgullo",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8"
-      },
-      {
-        "name": "Pluto TV Orgullo",
-        "logo": "https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_1748269327014.png",
-        "group": "Pluto TV con Orgullo",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8"
       }
     ]
   }
