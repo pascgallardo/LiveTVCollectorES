@@ -72,7 +72,7 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_red
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 822 NEW KFOOD
-URL: https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-eb9cc13f&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+URL: https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-342612dd&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -257,7 +257,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: El Mueble
 URL: https://jmp2.uk/stvp-ES4300006I4
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260528T055746SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260609T042943SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Mayday: Catástrofe Aérea
@@ -267,7 +267,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: BBC Earth
 URL: https://jmp2.uk/stvp-ES3200001F1
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260528T055714SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260609T042937SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Ideas en 5 Minutos
@@ -462,11 +462,6 @@ URL: https://ztnr.rtve.es/ztnr/6982917.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Univers TV
-URL: https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Somos Cine
 URL: https://ztnr.rtve.es/ztnr/6909845.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg
@@ -512,39 +507,9 @@ URL: https://ztnr.rtve.es/ztnr/16541484.m3u8
 Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Multicine atresplayer
-URL: https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Comedia atresplayer
-URL: https://fast-channels.atresmedia.com/7d8006a3881bb6d36d7fcec8f8997820d4332b86/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/comedia_atresplayer_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Clásicos atresplayer
-URL: https://fast-channels.atresmedia.com/21f0dba17c97cfb5a8919605307699120177f453/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clasicos_atresplayer_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Aquí no hay quién viva
-URL: https://fast-channels.atresmedia.com/d7bd0adb7616750c83bdf3ad204ce9869f8a81d1/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: El club de la comedia
 URL: https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: El Hormiguero
-URL: https://fast-channels.atresmedia.com/f903abd690456cff8bef97a426a363260c867fb3/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elhormiguero_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Atresplayer
-URL: https://atres-live.atresmedia.com/849ac480aacf8381273399e6be7d74c50fd116c8_ES_1780328457_1780357197/h264/live/eventos04/master.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/atresplayer_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio 3
@@ -554,7 +519,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Fireplace Vibes
 URL: https://jmp2.uk/stvp-ES2200001SF
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 

@@ -77,8 +77,6 @@ https://ztnr.rtve.es/ztnr/6982891.m3u8
 https://ztnr.rtve.es/ztnr/6982918.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg" group-title="Eventuales",Radio 5
 https://ztnr.rtve.es/ztnr/6982917.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_cuadrado.jpg" group-title="Eventuales",Univers TV
-https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg" group-title="Eventuales",Somos Cine
 https://ztnr.rtve.es/ztnr/6909845.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg" group-title="Eventuales",Cocina
@@ -97,23 +95,11 @@ https://ztnr.rtve.es/ztnr/2472039.m3u8
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Feria del libro
 https://ztnr.rtve.es/ztnr/16541484.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg" group-title="Eventuales",Multicine atresplayer
-https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/comedia_atresplayer_cuadrado.jpg" group-title="Eventuales",Comedia atresplayer
-https://fast-channels.atresmedia.com/7d8006a3881bb6d36d7fcec8f8997820d4332b86/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clasicos_atresplayer_cuadrado.jpg" group-title="Eventuales",Clásicos atresplayer
-https://fast-channels.atresmedia.com/21f0dba17c97cfb5a8919605307699120177f453/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg" group-title="Eventuales",Aquí no hay quién viva
-https://fast-channels.atresmedia.com/d7bd0adb7616750c83bdf3ad204ce9869f8a81d1/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg" group-title="Eventuales",El club de la comedia
 https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elhormiguero_cuadrado.jpg" group-title="Eventuales",El Hormiguero
-https://fast-channels.atresmedia.com/f903abd690456cff8bef97a426a363260c867fb3/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/atresplayer_cuadrado.jpg" group-title="Eventuales",Atresplayer
-https://atres-live.atresmedia.com/849ac480aacf8381273399e6be7d74c50fd116c8_ES_1780328457_1780357197/h264/live/eventos04/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg" group-title="Eventuales",Radio 3
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png" group-title="Eventuales",Fireplace Vibes
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png" group-title="Eventuales",Fireplace Vibes
 https://jmp2.uk/stvp-ES2200001SF
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
 https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
@@ -146,7 +132,7 @@ https://742a5e35.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZX
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovewine_redondo.png" group-title="Cocina",Love Wine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_cuadrado.jpg" group-title="Cocina",822 NEW KFOOD
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-eb9cc13f&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-342612dd&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Cocina",Pluto TV Cocina
 https://jmp2.uk/stvp-ESAJ3800007PC
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Cocina",Pluto TV Cocina
@@ -209,11 +195,11 @@ https://jmp2.uk/stvp-ES33000025N
 https://jmp2.uk/stvp-ESBC4700002TD
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png" group-title="Documentales",Viajes & Sabores
 https://jmp2.uk/stvp-ES300033TI
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260528T055746SQUARE.png" group-title="Documentales",El Mueble
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260609T042943SQUARE.png" group-title="Documentales",El Mueble
 https://jmp2.uk/stvp-ES4300006I4
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="Documentales",Mayday: Catástrofe Aérea
 https://jmp2.uk/stvp-ES2800002MM
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260528T055714SQUARE.png" group-title="Documentales",BBC Earth
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260609T042937SQUARE.png" group-title="Documentales",BBC Earth
 https://jmp2.uk/stvp-ES3200001F1
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="Documentales",Ideas en 5 Minutos
 https://jmp2.uk/stvp-ESBC3500002PW

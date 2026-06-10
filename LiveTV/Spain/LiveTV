@@ -234,12 +234,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg"
   },
   {
-    "name": "Univers TV",
-    "type": "Eventuales",
-    "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/universtv_cuadrado.jpg"
-  },
-  {
     "name": "Somos Cine",
     "type": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/6909845.m3u8",
@@ -294,46 +288,10 @@
     "img": "https://graph.facebook.com/rtveplay/picture?width=200&height=200"
   },
   {
-    "name": "Multicine atresplayer",
-    "type": "Eventuales",
-    "url": "https://fast-channels.atresmedia.com/1a8e20cd9eeb44ed6ea9c34973dff46fa32b618d/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg"
-  },
-  {
-    "name": "Comedia atresplayer",
-    "type": "Eventuales",
-    "url": "https://fast-channels.atresmedia.com/7d8006a3881bb6d36d7fcec8f8997820d4332b86/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/comedia_atresplayer_cuadrado.jpg"
-  },
-  {
-    "name": "Clásicos atresplayer",
-    "type": "Eventuales",
-    "url": "https://fast-channels.atresmedia.com/21f0dba17c97cfb5a8919605307699120177f453/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clasicos_atresplayer_cuadrado.jpg"
-  },
-  {
-    "name": "Aquí no hay quién viva",
-    "type": "Eventuales",
-    "url": "https://fast-channels.atresmedia.com/d7bd0adb7616750c83bdf3ad204ce9869f8a81d1/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg"
-  },
-  {
     "name": "El club de la comedia",
     "type": "Eventuales",
     "url": "https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg"
-  },
-  {
-    "name": "El Hormiguero",
-    "type": "Eventuales",
-    "url": "https://fast-channels.atresmedia.com/f903abd690456cff8bef97a426a363260c867fb3/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elhormiguero_cuadrado.jpg"
-  },
-  {
-    "name": "Atresplayer",
-    "type": "Eventuales",
-    "url": "https://atres-live.atresmedia.com/849ac480aacf8381273399e6be7d74c50fd116c8_ES_1780328457_1780357197/h264/live/eventos04/master.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/atresplayer_cuadrado.jpg"
   },
   {
     "name": "Radio 3",
@@ -345,7 +303,7 @@
     "name": "Fireplace Vibes",
     "type": "Eventuales",
     "url": "https://jmp2.uk/stvp-ES2200001SF",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png"
   },
   {
     "name": "24h",
@@ -440,7 +398,7 @@
   {
     "name": "822 NEW KFOOD",
     "type": "Cocina",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-eb9cc13f&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002&mpf=20b11cea-39af1962-342612dd&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c61e426-a2cc093a-94e6fa1a-d5bc9396&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/newkfood_cuadrado.jpg"
   },
   {
@@ -633,7 +591,7 @@
     "name": "El Mueble",
     "type": "Documentales",
     "url": "https://jmp2.uk/stvp-ES4300006I4",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260528T055746SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260609T042943SQUARE.png"
   },
   {
     "name": "Mayday: Catástrofe Aérea",
@@ -645,7 +603,7 @@
     "name": "BBC Earth",
     "type": "Documentales",
     "url": "https://jmp2.uk/stvp-ES3200001F1",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260528T055714SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260609T042937SQUARE.png"
   },
   {
     "name": "Ideas en 5 Minutos",
