@@ -294,12 +294,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg"
   },
   {
-    "name": "Fireplace Vibes",
-    "type": "Eventuales",
-    "url": "https://jmp2.uk/stvp-ES2200001SF",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png"
-  },
-  {
     "name": "24h",
     "type": "Informativos",
     "url": "https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8",
@@ -400,12 +394,6 @@
     "type": "Cocina",
     "url": "https://jmp2.uk/stvp-ESAJ3800007PC",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png"
-  },
-  {
-    "name": "Pluto TV Cocina",
-    "type": "Cocina",
-    "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8",
-    "img": "https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png"
   },
   {
     "name": "Ciudadanos por el mundo",
@@ -622,12 +610,6 @@
     "type": "Documentales",
     "url": "https://jmp2.uk/stvp-ES1600003FF",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20260421T125606SQUARE.png"
-  },
-  {
-    "name": "Space Live",
-    "type": "Documentales",
-    "url": "https://jmp2.uk/stvp-ES7000088K",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/spacelive_cuadrado.jpg"
   },
   {
     "name": "WaterBear",
@@ -1902,22 +1884,10 @@
     "img": "https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png"
   },
   {
-    "name": "Pluto TV Comedia made in Spain",
-    "type": "Shows",
-    "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8",
-    "img": "https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png"
-  },
-  {
     "name": "Comedia a lo bestia de Pluto TV",
     "type": "Shows",
     "url": "https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8",
     "img": "https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png"
-  },
-  {
-    "name": "Vaya semanita",
-    "type": "Shows",
-    "url": "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8",
-    "img": "https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png"
   },
   {
     "name": "BBC Series",
@@ -2026,12 +1996,6 @@
     "type": "Int. Europa",
     "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg"
-  },
-  {
-    "name": "TVE Internacional Europa",
-    "type": "Int. Europa",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg"
   },
   {
     "name": "Star TVE",
@@ -2856,6 +2820,42 @@
     "img": "https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200"
   },
   {
+    "name": "Pluto TV Cocina",
+    "type": "Cooking",
+    "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8",
+    "img": "https://i.imgur.com/LRtfQla.png"
+  },
+  {
+    "name": "Pluto TV Comedia made in Spain",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8",
+    "img": "https://i.imgur.com/8ddFdSQ.png"
+  },
+  {
+    "name": "Pluto TV Comedy Movies",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8",
+    "img": "https://i.imgur.com/BpsDY37.png"
+  },
+  {
+    "name": "Pluto TV Séries Comédia",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8",
+    "img": "https://i.imgur.com/INcTSkj.png"
+  },
+  {
+    "name": "Vaya semanita",
+    "type": "Comedy",
+    "url": "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8",
+    "img": "https://i.imgur.com/0bCLNUG.png"
+  },
+  {
+    "name": "Pluto TV Motor",
+    "type": "Auto",
+    "url": "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8",
+    "img": "https://i.imgur.com/LSrfnpB.png"
+  },
+  {
     "name": "Vevo Latino",
     "type": "Música & ambiente",
     "url": "https://jmp2.uk/stvp-ESBC2100002LV",
@@ -2962,5 +2962,23 @@
     "type": "Música & ambiente",
     "url": "https://jmp2.uk/stvp-ES1800008X7",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800008X7_20260528T055815SQUARE.png"
+  },
+  {
+    "name": "Metal.Rocks",
+    "type": "Música & ambiente",
+    "url": "https://jmp2.uk/stvp-ES4400004OX",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400004OX_20260609T043006SQUARE.png"
+  },
+  {
+    "name": "Space Live",
+    "type": "Música & ambiente",
+    "url": "https://jmp2.uk/stvp-ES7000088K",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260609T043032SQUARE.png"
+  },
+  {
+    "name": "Fireplace Vibes",
+    "type": "Música & ambiente",
+    "url": "https://jmp2.uk/stvp-ES2200001SF",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png"
   }
 ]

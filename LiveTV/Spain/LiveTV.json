@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-11 00:02:53",
+  "date": "2026-06-11 09:50:21",
   "channels": {
     "Generalistas": [
       {
@@ -348,13 +348,6 @@
         "group": "Eventuales",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8"
-      },
-      {
-        "name": "Fireplace Vibes",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png",
-        "group": "Eventuales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ES2200001SF"
       }
     ],
     "Informativos": [
@@ -480,13 +473,6 @@
         "group": "Cocina",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ESAJ3800007PC"
-      },
-      {
-        "name": "Pluto TV Cocina",
-        "logo": "https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png",
-        "group": "Cocina",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8"
       },
       {
         "name": "Ciudadanos por el mundo",
@@ -741,13 +727,6 @@
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES1600003FF"
-      },
-      {
-        "name": "Space Live",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/spacelive_cuadrado.jpg",
-        "group": "Documentales",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ES7000088K"
       },
       {
         "name": "WaterBear",
@@ -2240,25 +2219,11 @@
         "url": "https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8"
       },
       {
-        "name": "Pluto TV Comedia made in Spain",
-        "logo": "https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8"
-      },
-      {
         "name": "Comedia a lo bestia de Pluto TV",
         "logo": "https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png",
         "group": "Shows",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8"
-      },
-      {
-        "name": "Vaya semanita",
-        "logo": "https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8"
       },
       {
         "name": "BBC Series",
@@ -2387,13 +2352,6 @@
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "http://177.10.184.193:8000/play/a06a/index.m3u8"
-      },
-      {
-        "name": "TVE Internacional Europa",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg",
-        "group": "Int. Europa",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8"
       },
       {
         "name": "Star TVE",
@@ -3365,6 +3323,54 @@
         "url": "https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1"
       }
     ],
+    "Cooking": [
+      {
+        "name": "Pluto TV Cocina",
+        "logo": "https://i.imgur.com/LRtfQla.png",
+        "group": "Cooking",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "Pluto TV Comedia made in Spain",
+        "logo": "https://i.imgur.com/8ddFdSQ.png",
+        "group": "Comedy",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8"
+      },
+      {
+        "name": "Pluto TV Comedy Movies",
+        "logo": "https://i.imgur.com/BpsDY37.png",
+        "group": "Comedy",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8"
+      },
+      {
+        "name": "Pluto TV Séries Comédia",
+        "logo": "https://i.imgur.com/INcTSkj.png",
+        "group": "Comedy",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8"
+      },
+      {
+        "name": "Vaya semanita",
+        "logo": "https://i.imgur.com/0bCLNUG.png",
+        "group": "Comedy",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8"
+      }
+    ],
+    "Auto": [
+      {
+        "name": "Pluto TV Motor",
+        "logo": "https://i.imgur.com/LSrfnpB.png",
+        "group": "Auto",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8"
+      }
+    ],
     "Música & ambiente": [
       {
         "name": "Vevo Latino",
@@ -3491,6 +3497,27 @@
         "group": "Música & ambiente",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES1800008X7"
+      },
+      {
+        "name": "Metal.Rocks",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400004OX_20260609T043006SQUARE.png",
+        "group": "Música & ambiente",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/stvp-ES4400004OX"
+      },
+      {
+        "name": "Space Live",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260609T043032SQUARE.png",
+        "group": "Música & ambiente",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/stvp-ES7000088K"
+      },
+      {
+        "name": "Fireplace Vibes",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png",
+        "group": "Música & ambiente",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/stvp-ES2200001SF"
       }
     ]
   }
