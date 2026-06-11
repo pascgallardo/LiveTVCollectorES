@@ -1,9 +1,4 @@
 Group: Action & Drama
-Name: Dhar Mann TV
-URL: https://jmp2.uk/stvp-US2100005WS
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100005WS_20260609T035141SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Samsung Television Network
 URL: https://jmp2.uk/stvp-US300068X7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260602T091517SQUARE.png
@@ -49,11 +44,6 @@ URL: https://jmp2.uk/stvp-US3700005GP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700005GP_20260421T133626SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
-Name: Acorn TV Mysteries
-URL: https://jmp2.uk/stvp-US35000201T
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US35000201T_20260609T035122SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Law & Order
 URL: https://jmp2.uk/stvp-US3000015O4
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000015O4_20260421T133924SQUARE.png
@@ -94,6 +84,11 @@ URL: https://jmp2.uk/stvp-USBC1000004G8
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000004G8_20250415T010001SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
+Name: 50 Cent Action
+URL: https://jmp2.uk/stvp-US150000550
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US150000550_20260609T035107SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: Las Vegas
 URL: https://jmp2.uk/stvp-US180001143
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US180001143_20260421T133917SQUARE.png
@@ -122,6 +117,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Felicity
 URL: https://jmp2.uk/stvp-US4100029G5
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100029G5_20260421T133634SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Dhar Mann TV
+URL: https://jmp2.uk/stvp-US2100005WS
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100005WS_20260609T035141SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Wildfire
@@ -191,7 +191,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: MHz Mysteries
 URL: https://jmp2.uk/stvp-USAJ22000130U
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20260609T034956SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20260609T214511SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Dove Channel
@@ -236,7 +236,7 @@ URL: https://jmp2.uk/stvp-US14000030Y
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000030Y_20260421T143149SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
-Name: Spring Vibes
+Name: Summer Vibes
 URL: https://jmp2.uk/stvp-US1400010S0
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20260609T035038SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
@@ -308,6 +308,11 @@ URL: https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 Logo: https://i.imgur.com/px0CSti.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Crunchyroll (720p)
+URL: https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+Logo: https://i.imgur.com/2FlIQUO.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: FilmRise Anime (720p)
 URL: https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 Logo: https://i.imgur.com/3wqeGXM.png
@@ -318,9 +323,29 @@ URL: https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/M8X3Kvc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Naruto
+URL: https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+Logo: https://i.imgur.com/hG8F0RY.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: One Piece
+URL: https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
+Logo: https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Placid (1080p) [Not 24/7]
 URL: https://toy.vcdn.fyi/placid/index.m3u8
 Logo: https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Anime
+URL: https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+Logo: https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Anime Movies
+URL: https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+Logo: https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Toonami Aftermath East (480p)
@@ -352,6 +377,11 @@ Group: Animation;Kids
 Name: Mr. Bean Animated (1080p)
 URL: https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pokémon
+URL: https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
+Logo: https://i.imgur.com/GEbRABE.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
@@ -435,11 +465,21 @@ URL: https://jmp2.uk/stvp-US240000434
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US240000434_20250812T003525SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
+Name: Pluto TV Pixel World
+URL: https://jmp2.uk/stvp-USAJ3504531A
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20260609T035058SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 
 Group: Auto
 Name: 30A We Love Cars (720p)
 URL: https://30a-tv.com/feeds/vidaa/cars.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Cars
+URL: https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+Logo: https://i.imgur.com/Tm3VFmq.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: PowerNation (1080p)
@@ -527,9 +567,19 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Classic
+Name: Beverly Hillbillies
+URL: https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+Logo: https://i.imgur.com/OV9hT93.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Cinevault Westerns (720p)
 URL: https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
 Logo: https://i.imgur.com/K1W137J.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Classic TV Drama
+URL: https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+Logo: https://i.imgur.com/XHQxv0x.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FilmRise Classic TV (720p)
@@ -537,9 +587,24 @@ URL: https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://i.imgur.com/8j2npVc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV Classic TV Families
+URL: https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
+Logo: https://i.imgur.com/llAZ49f.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Series Retro
+URL: https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+Logo: https://i.imgur.com/UpgGZJ1.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Samuel Goldwyn Classics (1080p)
 URL: https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/XC30JAF.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Andy Griffith Show
+URL: https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+Logo: https://i.imgur.com/1QpMJJT.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: The Archive (1080p)
@@ -550,6 +615,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: The Carol Burnett Show (1080p)
 URL: https://carolburnett-vizio.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/1a03FlX.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Love Boat
+URL: https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8
+Logo: https://i.imgur.com/7ad6NQ8.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TVS Cipher Network (360p)
@@ -617,6 +687,11 @@ URL: https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/
 Logo: https://i.imgur.com/vaSXaFp.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Western TV
+URL: https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
+Logo: https://i.imgur.com/nNy9oTx.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 
 Group: Classic;Kids
 Name: PBS Retro (1080p) [Geo-blocked]
@@ -634,6 +709,13 @@ Group: Classic;Movies
 Name: Artflix Movie Classics (720p)
 URL: https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/5pOZQB4.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
+Group: Classic;Series
+Name: The Twilight Zone
+URL: https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+Logo: https://i.imgur.com/FiIRQAR.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
@@ -658,9 +740,29 @@ URL: https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 Logo: https://i.imgur.com/V5h4R83.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Classic TV Comedy
+URL: https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+Logo: https://i.imgur.com/wg5I5Fb.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Comedy Central (1080p)
 URL: http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Comedy Central Animation
+URL: https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+Logo: https://i.imgur.com/uENch0P.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Comedy Central en español
+URL: https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+Logo: https://i.imgur.com/6xTD3G8.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Comedy Central Pluto TV
+URL: https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+Logo: https://i.imgur.com/9y6TtjF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Comedy Dynamics (1080p)
@@ -678,6 +780,11 @@ URL: https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/VIpQJxL.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Funny AF
+URL: https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
+Logo: https://i.imgur.com/UCwjdtQ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Comedy",Humor Mill (1080p)
 URL: https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
 Logo: https://i.imgur.com/e5W91v2.png
@@ -688,9 +795,19 @@ URL: https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1
 Logo: https://i.imgur.com/HjVEVMJ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Kenan y Kel
+URL: https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+Logo: https://i.imgur.com/9PAY5Xz.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: LOL Network (1080p)
 URL: https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8
 Logo: https://i.imgur.com/Tiy3Ur2.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: More TV Sitcoms
+URL: https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+Logo: https://i.imgur.com/4mbhOEo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Mystery Science Theater 3000 (1080p)
@@ -703,6 +820,21 @@ URL: https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 Logo: https://i.imgur.com/nydZWwg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV British Comedy
+URL: https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
+Logo: https://i.imgur.com/LlwoR74.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Comedia made in Spain
+URL: https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+Logo: https://i.imgur.com/8ddFdSQ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Comedy
+URL: https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+Logo: https://i.imgur.com/MTVrbd5.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: RiffTrax (720p)
 URL: https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
 Logo: https://i.imgur.com/hM4yKMn.png
@@ -711,6 +843,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: SNL Vault (1080p)
 URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 Logo: https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: TV Land Sitcoms
+URL: https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+Logo: https://i.imgur.com/phHHs7l.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TVS Comedy Network (720p)
@@ -885,7 +1022,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: RiffTrax
 URL: https://jmp2.uk/stvp-USAJ3504706A
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20260609T035015SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20260609T214530SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 
@@ -1001,6 +1138,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Midsomer Murders
 URL: https://jmp2.uk/stvp-USBC24000134A
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20241014T232251SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Acorn TV Mysteries
+URL: https://jmp2.uk/stvp-US35000201T
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US35000201T_20260609T035122SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Crime 24/7
@@ -1140,7 +1282,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Law & Crime
 URL: https://jmp2.uk/stvp-USAK3508710A
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20260609T035025SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20260609T214540SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Court TV
@@ -1332,6 +1474,11 @@ URL: https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.
 Logo: https://i.imgur.com/gJ9eMaG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Dallas Cowboys Cheerleaders
+URL: https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
+Logo: https://i.imgur.com/73HlRCg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: DangerTV (720p)
 URL: https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 Logo: https://i.imgur.com/4aTk45R.png
@@ -1352,9 +1499,19 @@ URL: https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
 Logo: https://i.imgur.com/2248nxX.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Forensic Files
+URL: https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+Logo: https://i.imgur.com/V5vvuLK.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: History Hit (1080p)
 URL: https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/ulHoqlP.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Ink Master
+URL: https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
+Logo: https://i.imgur.com/DiBojYh.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: INWILD (1080p)
@@ -1392,9 +1549,29 @@ URL: https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/
 Logo: https://i.imgur.com/gEraSp5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV History
+URL: https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+Logo: https://i.imgur.com/XkQD5kM.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Paranormal
+URL: https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+Logo: https://i.imgur.com/ApN6nfw.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: REELZ Famous & Infamous (1080p)
 URL: https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Spike Pluto TV
+URL: https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+Logo: https://i.imgur.com/woY8Ecb.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Teen Mom
+URL: https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
+Logo: https://i.imgur.com/8o3ClCV.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Terra Mater WILD English (1080p)
@@ -1637,6 +1814,11 @@ URL: https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.
 Logo: https://i.imgur.com/ambc9le.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV Kids (720p)
+URL: https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 
 Group: Entertainment
 Name: 30A Sidewalks (720p)
@@ -1677,6 +1859,21 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: BBC America
 URL: https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 Logo: https://i.imgur.com/pTiiPz0.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Best of Dr. Phil
+URL: https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+Logo: https://i.imgur.com/Jj0wTFQ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Best of The Drew Barrymore Show
+URL: https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
+Logo: https://i.imgur.com/5kdG4Dm.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: BET Pluto TV
+URL: https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+Logo: https://i.imgur.com/Kq9WKZg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Bounce XL (1080p)
@@ -1750,7 +1947,7 @@ Logo: https://i.imgur.com/KbmXdjm.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Game Show Central (720p)
-URL: https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
+URL: https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 Logo: https://i.imgur.com/Uuc5h1s.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -1772,6 +1969,16 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Guinness World Records (480i)
 URL: https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Heartland
+URL: https://jmp2.uk/plu-680f375e6798ccd1185b58f9.m3u8
+Logo: https://i.imgur.com/djCq2Z5.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Heartland
+URL: https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
+Logo: https://i.imgur.com/djCq2Z5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hi-YAH! (1080p)
@@ -1839,6 +2046,11 @@ URL: https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/pl
 Logo: https://i.imgur.com/fJxySUg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Logo Pluto TV
+URL: https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
+Logo: https://i.imgur.com/GtNgJ28.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Lone Star (1080p)
 URL: https://lonestar-rakuten.amagi.tv/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png
@@ -1847,6 +2059,21 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Midnight Pulp (1080p)
 URL: https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 Logo: https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: More TV Drama
+URL: https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
+Logo: https://i.imgur.com/Tw3rTxP.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: MTV en español
+URL: https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+Logo: https://i.imgur.com/vQWWfyW.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: MTV Pluto TV
+URL: https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
+Logo: https://i.imgur.com/WsQRCmZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
@@ -1877,6 +2104,16 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: People Are Awesome (720p)
 URL: https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/MsIx7Ax.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Game Shows
+URL: https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
+Logo: https://i.imgur.com/JXZEg2e.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Reality
+URL: https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+Logo: https://i.imgur.com/OvN7FCv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Popstar! TV (1080p)
@@ -1937,6 +2174,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: The Graham Norton Show (1080p)
 URL: https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Price is Right (720p)
+URL: https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/5/57/ThePriceisRight20072022.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: The Price Is Right: The Barker Era (1080p) [Geo-blocked]
@@ -2073,9 +2315,9 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Game Shows
-Name: BUZZR
-URL: https://jmp2.uk/stvp-USBD700021WG
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20260609T035129SQUARE.png
+Name: Scrambled Up
+URL: https://jmp2.uk/stvp-US1400019FA
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400019FA_20260609T035210SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Let's Make A Deal Classic
@@ -2086,6 +2328,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Price is Right
 URL: https://jmp2.uk/stvp-US5000052H1
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260421T143111SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: BUZZR
+URL: https://jmp2.uk/stvp-USBD700021WG
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20260609T035129SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Game Show Central
@@ -3295,6 +3542,11 @@ URL: https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/SbBKr8L.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Babyfirst
+URL: https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+Logo: https://i.imgur.com/WxLHBwu.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: BBC Kids (720p)
 URL: https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/vKUD64a.png
@@ -3320,6 +3572,16 @@ URL: http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Dora TV
+URL: https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
+Logo: https://i.imgur.com/zJuSbmU.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Garfield and Friends
+URL: https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+Logo: https://i.imgur.com/evzfe9C.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: HappyKids (1080p)
 URL: https://dil9xdvretp0f.cloudfront.net/index.m3u8
 Logo: https://i.imgur.com/cPrUCFw.png
@@ -3340,9 +3602,24 @@ URL: https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/mhAAIa2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: LEGO Kids TV
+URL: https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+Logo: https://i.imgur.com/tMfEsVr.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Little Stars Universe
+URL: https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
+Logo: https://i.imgur.com/RasrA0s.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: MBC 3 USA (1080p) [Geo-blocked]
 URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 Logo: https://i.imgur.com/PVt8OPN.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Nick Jr. Pluto TV (720p)
+URL: https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+Logo: https://i.imgur.com/8DAe8wr.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Nickelodeon (1080p)
@@ -3350,9 +3627,34 @@ URL: http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Logo: https://i.imgur.com/E84jnP8.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Nickelodeon en español
+URL: https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+Logo: https://i.imgur.com/G1J4IsT.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Nickelodeon Pluto TV (720p)
+URL: https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+Logo: https://i.imgur.com/N7rQyzN.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Ninja Kidz (720p)
 URL: https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/7EngqUi.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Forever Kids
+URL: https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
+Logo: https://i.imgur.com/deeQqYZ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Retro Toons
+URL: https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+Logo: https://i.imgur.com/YUQL0ki.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Teen (720p)
+URL: https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+Logo: https://i.imgur.com/lNJ5p5e.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: pocket.watch Game On (1080p)
@@ -3393,6 +3695,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: ToonGoggles (720p)
 URL: https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/JMnxswq.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Totally Turtles (720p)
+URL: https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
+Logo: https://i.imgur.com/1gIpagY.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TVS Hi Tops (720p)
@@ -3607,6 +3914,11 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 
 Group: Kids;Movies
+Name: Kids Movie Club
+URL: https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+Logo: https://i.imgur.com/avFk0Tt.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: KidsFlix (1080p) [Not 24/7]
 URL: https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 Logo: https://i.imgur.com/4Pn0ADQ.png
@@ -4397,14 +4709,14 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Lifestyle & Pop Culture
-Name: The Ringer from Spotify
-URL: https://jmp2.uk/stvp-US1900021H0
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260421T141936SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Biography: The Icons
 URL: https://jmp2.uk/stvp-US26000201N
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20260609T035135SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: The Ringer from Spotify
+URL: https://jmp2.uk/stvp-US1900021H0
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260421T141936SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: WWE Superstar Central
@@ -4434,7 +4746,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Cheddar News
 URL: https://jmp2.uk/stvp-USAJ3504714A
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20260609T035022SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20260610T182304SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: USA Today
@@ -4444,7 +4756,7 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 --------------------------------------------------
 Name: Nosey
 URL: https://jmp2.uk/stvp-USAJ34000022E
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20260609T035008SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20260609T214522SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Divorce Court
@@ -4500,11 +4812,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Revry
 URL: https://jmp2.uk/stvp-USBA3800003VP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800003VP_20250603T010704SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: OUTflix Movies
-URL: https://jmp2.uk/stvp-US8000024G
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260609T035159SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: BuzzFeed Celeb
@@ -4618,14 +4925,54 @@ URL: https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 Logo: https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: 70s Cinema
+URL: https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+Logo: https://i.imgur.com/mgXeEE4.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: 80s Rewind
+URL: https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+Logo: https://i.imgur.com/nkEeYfI.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: 90s Throwback
+URL: https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+Logo: https://i.imgur.com/KoGko6M.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Adrenalina Pura TV (720p)
+URL: https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+Logo: https://i.imgur.com/Pvid2iH.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: American Horrors (480p)
 URL: http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 Logo: https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: BET Cinema
+URL: https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+Logo: https://i.imgur.com/FKBp987.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Charge! (1080p)
 URL: https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 Logo: https://i.imgur.com/1rxmu2u.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Cine adrenalina
+URL: https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+Logo: https://i.imgur.com/njCKaMv.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Cine Amor
+URL: https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+Logo: https://i.imgur.com/eAS86qH.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Cine Premiere
+URL: https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+Logo: https://i.imgur.com/PdhWTO6.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Cine Romantico (720p)
@@ -4638,6 +4985,11 @@ URL: https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 Logo: https://i.imgur.com/bZWoDTg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Cine terror
+URL: https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+Logo: https://i.imgur.com/I5XxyLI.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Cinevault 80s (720p)
 URL: https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 Logo: https://i.imgur.com/xaCyyDd.png
@@ -4648,9 +5000,19 @@ URL: https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 Logo: https://i.imgur.com/FJoPnTb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Classic Movies Channel
+URL: https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
+Logo: https://i.imgur.com/pQJxov2.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: EBS Cinema (720p)
 URL: https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 Logo: https://i.imgur.com/fewPTFE.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Estrellas de Acción
+URL: https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+Logo: https://i.imgur.com/GVOYX4L.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FilmRise Westerns (720p)
@@ -4658,9 +5020,19 @@ URL: https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 Logo: https://i.imgur.com/8j2npVc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Flicks of Fury
+URL: https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+Logo: https://i.imgur.com/rtL5L81.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Forensic Files (720p) [Geo-blocked]
 URL: https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
 Logo: https://i.imgur.com/8j2npVc.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Girlfriends
+URL: https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
+Logo: https://i.imgur.com/hCcdrOv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Gravitas Movies (1080p)
@@ -4708,9 +5080,119 @@ URL: https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=ne
 Logo: https://i.imgur.com/wCgirjc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Paramount Movie Channel
+URL: https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+Logo: https://i.imgur.com/sj5h9bl.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Paramount+ Picks
+URL: https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+Logo: https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Action
+URL: https://jmp2.uk/plu-65004605110545000842035d.m3u8
+Logo: https://i.imgur.com/tDapGal.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Acción
+URL: https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+Logo: https://i.imgur.com/PXhCzXn.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Clásico
+URL: https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+Logo: https://i.imgur.com/hCA5BRr.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Drama
+URL: https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+Logo: https://i.imgur.com/AQBtheU.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Estelar
+URL: https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+Logo: https://i.imgur.com/v3BO4nW.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Suspenso
+URL: https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+Logo: https://i.imgur.com/GnUmEZn.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Crime Drama
+URL: https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
+Logo: https://i.imgur.com/9j1njE3.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Crime Movies
+URL: https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+Logo: https://i.imgur.com/SJcqknt.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Cult Films
+URL: https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+Logo: https://i.imgur.com/xoaIAus.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Drama
+URL: https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
+Logo: https://i.imgur.com/PvhbHTZ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Horror
+URL: https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+Logo: https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Reaction
+URL: https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+Logo: https://i.imgur.com/H9k3OXN.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Romance
+URL: https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+Logo: https://i.imgur.com/GJBxfyf.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Sci-fi
+URL: https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+Logo: https://i.imgur.com/vSzd5m7.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Spotlight
+URL: https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
+Logo: https://i.imgur.com/UmuJkVB.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Staff Picks
+URL: https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
+Logo: https://i.imgur.com/JzwO8IO.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Terror
+URL: https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
+Logo: https://i.imgur.com/eWtoHDM.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Thrillers
+URL: https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+Logo: https://i.imgur.com/ULKvDN7.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Westerns
+URL: https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
+Logo: https://i.imgur.com/biepi4A.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Revry Her (720p)
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=j5eHovd50EC
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Runtime (720p)
+URL: https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+Logo: https://i.imgur.com/2USCMvP.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Runtime Espanol (720p)
@@ -4726,6 +5208,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: The Film Detective (720p)
 URL: https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/yfOwmsP.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: TV Land Drama
+URL: https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
+Logo: https://i.imgur.com/y1rXIAS.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TVS Drive In Movie (360p)
@@ -4758,6 +5245,11 @@ URL: https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xum
 Logo: https://i.imgur.com/sz55sBl.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Movie Hub Action
+URL: https://jmp2.uk/stvp-USBD3500032H0
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260609T035153SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: Movie Hub
 URL: https://jmp2.uk/stvp-USBA3000041ZP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260528T041314SQUARE.png
@@ -4766,11 +5258,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: Movie Hub West
 URL: https://jmp2.uk/stvp-USBD3500036HP
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20260421T134120SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: Movie Hub Action
-URL: https://jmp2.uk/stvp-USBD3500032H0
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260609T035153SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Movie Hub Action West
@@ -4853,9 +5340,14 @@ URL: https://jmp2.uk/stvp-US200001137
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US200001137_20250813T151515SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
+Name: OUTflix Movies
+URL: https://jmp2.uk/stvp-US8000024G
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260609T035159SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: Maverick Black Cinema
 URL: https://jmp2.uk/stvp-USAJ3000007MT
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20260609T035002SQUARE.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20260609T214517SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 
@@ -4867,6 +5359,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Movies;Series
+Name: 50 Cent Action (720p)
+URL: https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+Logo: https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Ebony TV by Lionsgate (1080p)
 URL: https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 Logo: https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png
@@ -4894,9 +5391,24 @@ URL: https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 Logo: https://i.imgur.com/86VXni8.jpeg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Classica (720p)
+URL: https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+Logo: https://i.imgur.com/bLjmQTU.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: CMC (California Music Channel) (1080p)
 URL: https://cmc-ono.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/L38mC6H.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: CMT Equal Play (720p)
+URL: https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+Logo: https://i.imgur.com/9ysjkkL.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Concert Channel (720p)
+URL: https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+Logo: https://i.imgur.com/u2irADf.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Dega TV (720p) [Not 24/7]
@@ -4947,6 +5459,16 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Metaleitor TV
 URL: https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 Logo: https://new.opencaster.com/uploads/logos/logo_14_1752798826.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: MTV Biggest Pop (1080p)
+URL: https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+Logo: https://i.imgur.com/AOaZmlS.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: MTV Spankin’ New (1080p)
+URL: https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+Logo: https://i.imgur.com/thbvJd1.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: NEW KPOP (1080p)
@@ -5044,6 +5566,11 @@ URL: https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretroroc
 Logo: https://i.imgur.com/H1Aap4E.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Vevo True School Hip-Hop
+URL: https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+Logo: https://i.imgur.com/owUXUih.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 URL: https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG
@@ -5084,6 +5611,11 @@ URL: https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://i.imgur.com/bwmIEgG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Yo! MTV (1080p)
+URL: https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+Logo: https://i.imgur.com/hzNXDdY.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: XITE Hits
 URL: https://jmp2.uk/stvp-USBD3300004RH
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png
@@ -5099,7 +5631,7 @@ URL: https://jmp2.uk/stvp-USBB3200007AK
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
-Name: XITE Spring Vibes
+Name: XITE Summer
 URL: https://jmp2.uk/stvp-USBD350003932
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260609T035034SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
@@ -5585,6 +6117,11 @@ URL: https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: America's Voice News (720p)
+URL: https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
+Logo: https://i.imgur.com/C4w0eYC.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: BEK TV News (720p)
 URL: https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 Logo: https://i.imgur.com/m80uxdz.png
@@ -5595,8 +6132,13 @@ URL: https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/oX5oR4d.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Blaze Live (720p)
+URL: https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
+Logo: https://i.imgur.com/GwxneSQ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: CBS News 24/7 (720p)
-URL: https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
+URL: https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5865,6 +6407,11 @@ URL: https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 Logo: https://i.imgur.com/8FZsNyK.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Scripps News
+URL: https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Scripps News (1080p)
 URL: https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 Logo: https://i.imgur.com/W0Jvi5o.png
@@ -6111,9 +6658,29 @@ URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa
 Logo: https://i.imgur.com/0UMmG41.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV Backcountry
+URL: https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
+Logo: https://i.imgur.com/KnlQzs7.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Fishing
+URL: https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+Logo: https://i.imgur.com/ZaHOk8j.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Naturaleza
+URL: https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+Logo: https://i.imgur.com/vUHAWAJ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Pursuit UP (1080p)
 URL: https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/5Vzwqts.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Spike Outdoors
+URL: https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
+Logo: https://i.imgur.com/cdCD2A2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Swamiji TV American (1080p) [Not 24/7]
@@ -6140,14 +6707,14 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Reality Competition
-Name: Storage Wars: LA
-URL: https://jmp2.uk/stvp-USBD1700006T2
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20260609T035222SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 Name: Hell's Kitchen
 URL: https://jmp2.uk/stvp-USBB2900002Z7
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20260421T142921SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: Storage Wars: LA
+URL: https://jmp2.uk/stvp-USBD1700006T2
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20260609T035222SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Pawn Stars
@@ -6240,13 +6807,18 @@ URL: https://jmp2.uk/stvp-US4100034UO
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260512T070318SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
-Name: Pluto TV Pixel World
-URL: https://jmp2.uk/stvp-USAJ3504531A
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20260609T035058SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
 
 Group: Reality TV
+Name: The Hills/Laguna Beach
+URL: https://jmp2.uk/stvp-US3900011JQ
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900011JQ_20260609T035228SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
+Name: A&E Alaska State Troopers
+URL: https://jmp2.uk/stvp-US1900023QQ
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900023QQ_20260609T035117SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: All-Out Reality
 URL: https://jmp2.uk/stvp-USBB4400016F9
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20260505T062537SQUARE.png
@@ -6300,11 +6872,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: MTV Pluto TV
 URL: https://jmp2.uk/stvp-USBA3000093U
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20260421T133520SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: The Hills/Laguna Beach
-URL: https://jmp2.uk/stvp-US3900011JQ
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900011JQ_20260609T035228SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: Jersey Shore
@@ -7064,14 +7631,41 @@ Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 
+Group: Science
+Name: Pluto TV Science
+URL: https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+Logo: https://i.imgur.com/uhunRoU.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Space
+URL: https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+Logo: https://i.imgur.com/hQwS3ui.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Smithsonian Channel Pluto TV
+URL: https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+Logo: https://i.imgur.com/Kt5j8Vr.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
 Group: Series
 Name: 48 Hours (1080p)
 URL: https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 Logo: https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: All Reality We TV (720p) [Geo-blocked]
-URL: https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+Name: 90210
+URL: https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+Logo: https://i.imgur.com/xqo5PxO.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Acapulco Shore Pluto TV
+URL: https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+Logo: https://i.imgur.com/D2jgGOi.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: All Reality WE tv (720p)
+URL: https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 Logo: https://i.imgur.com/HZTz5HJ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -7105,6 +7699,16 @@ URL: https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/WfKlGbX.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Auction Hunters
+URL: https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+Logo: https://i.imgur.com/4SPOVN7.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Bar Rescue
+URL: https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
+Logo: https://i.imgur.com/WFgWGPb.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Baywatch (1080p)
 URL: https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/c2esKHg.png
@@ -7113,6 +7717,16 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: BBC Doctor Who Classic (1080p)
 URL: https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/JIqJQQM.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Black Ink Crew
+URL: https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
+Logo: https://i.imgur.com/QnuIVB6.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Blue Bloods
+URL: https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
+Logo: https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Celebrity Name Game (1080p) [Geo-blocked]
@@ -7128,6 +7742,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Cops (720p)
 URL: https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/J3XO6V2.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: CSI
+URL: https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
+Logo: https://i.imgur.com/xLLNEfA.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Dark Matter TV (720p)
@@ -7150,6 +7769,11 @@ URL: https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3
 Logo: https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Dog el cazarrecompensas
+URL: https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
+Logo: https://i.imgur.com/h3kSZLc.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Dog the Bounty Hunter (1080p)
 URL: https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
 Logo: https://i.imgur.com/lMICupK.png
@@ -7160,9 +7784,34 @@ URL: https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/play
 Logo: https://i.imgur.com/h0bc3Fa.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Family Ties
+URL: https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
+Logo: https://i.imgur.com/WJEkKCb.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Farscape
+URL: https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
+Logo: https://i.imgur.com/2WH4lSc.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Fear Factor (1080p)
 URL: https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/CIYnLWz.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Frasier
+URL: https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
+Logo: https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Gunsmoke
+URL: https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8
+Logo: https://i.imgur.com/OxUS1Hq.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Happy Days
+URL: https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
+Logo: https://i.imgur.com/LPjoORg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Haunt TV (1080p)
@@ -7175,14 +7824,44 @@ URL: https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 Logo: https://i.imgur.com/IdGNIoB.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: iCarly
+URL: https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+Logo: https://i.imgur.com/R6jWcqz.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Impossible Quiz Show (1080p)
 URL: https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/9EWffqx.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Instant Saga
+URL: https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+Logo: https://i.imgur.com/PMpwaQN.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Iron Chef
+URL: https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
+Logo: https://i.imgur.com/rk7fMNe.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Jersey Shore
+URL: https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
+Logo: https://i.imgur.com/SssCaj1.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Judge Nosey (1080p)
 URL: https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 Logo: https://i.imgur.com/S4r98AB.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Love & Hip Hop
+URL: https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
+Logo: https://i.imgur.com/rhGyebf.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Matlock
+URL: https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
+Logo: https://i.imgur.com/BGFUQsu.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MBC Drama USA (1080p)
@@ -7195,9 +7874,34 @@ URL: https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/VFqfyfY.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Minuto Para Ganar
+URL: https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+Logo: https://i.imgur.com/go5o1gB.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Mission Impossible
+URL: https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
+Logo: https://i.imgur.com/QS5lg0t.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Misterios Medicos
+URL: https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+Logo: https://i.imgur.com/1WDFKF0.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Misterios sin Resolver
+URL: https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+Logo: https://i.imgur.com/8mnvubb.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: MST3K (1080p)
 URL: https://mst3k-roku.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/2LSdcga.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: MTV Dating (720p)
+URL: https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
+Logo: https://i.imgur.com/dD7WbQC.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Nash Bridges Channel (1080p) [Geo-blocked]
@@ -7220,9 +7924,94 @@ URL: https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 Logo: https://i.imgur.com/Brry7cZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Perry Mason
+URL: https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
+Logo: https://i.imgur.com/rHUUAwW.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Aventura
+URL: https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+Logo: https://i.imgur.com/ae5cMo9.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Fantastic
+URL: https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+Logo: https://i.imgur.com/MCu7YTA.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Investiga
+URL: https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+Logo: https://i.imgur.com/Sb5adD7.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Lives
+URL: https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
+Logo: https://i.imgur.com/laupYwG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Mi Obsesión Favorita
+URL: https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+Logo: https://i.imgur.com/zimPTe5.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Military
+URL: https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
+Logo: https://i.imgur.com/O8VXZB4.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Novelas
+URL: https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+Logo: https://i.imgur.com/R44LypS.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Real Life
+URL: https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+Logo: https://i.imgur.com/uvk27Fe.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Series Latinas
+URL: https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+Logo: https://i.imgur.com/hxl6Ctq.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Star Trek
+URL: https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+Logo: https://i.imgur.com/8cvXYiT.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV True Crime
+URL: https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+Logo: https://i.imgur.com/lNfaxiv.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Sanctuary
+URL: https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
+Logo: https://i.imgur.com/Fu2jn2t.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Storage Wars by A&E (720p)
+URL: https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
+Logo: https://i.imgur.com/mnHRLlg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Survivor (1080p)
 URL: https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 Logo: https://i.imgur.com/Zz9SgY8.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Telemundo telenovelas clásicas
+URL: https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+Logo: https://i.imgur.com/9bPcYIN.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Addams Family
+URL: https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+Logo: https://i.imgur.com/Bl8X7EW.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Amazing Race
+URL: https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+Logo: https://i.imgur.com/5yzPhRo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: The Asylum (1080p)
@@ -7235,13 +8024,38 @@ URL: https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobros
 Logo: https://i.imgur.com/gFHKCbZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: The Challenge
+URL: https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
+Logo: https://i.imgur.com/MIXPSvC.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Good Wife
+URL: https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
+Logo: https://images.pluto.tv/channels/66df70cd61dbf00008fa26ff/colorLogoSVG.svg
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: The Johnny Carson Show (720p)
 URL: https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 Logo: https://i.imgur.com/KBTqpJ7.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: The Walking Dead Universe (720p) [Geo-blocked]
-URL: https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+Name: The Judge Judy Channel (720p)
+URL: https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
+Logo: https://i.imgur.com/RhD7gIW.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The New Detectives
+URL: https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
+Logo: https://i.imgur.com/GLXg9ge.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Rifleman
+URL: https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+Logo: https://i.imgur.com/60YejJs.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Walking Dead Universe (720p)
+URL: https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 Logo: https://i.imgur.com/IwJ5Pnc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -7250,9 +8064,19 @@ URL: https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/nrVLyE6.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Three's Company (720p)
+URL: https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
+Logo: https://i.imgur.com/5bTwwpD.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Tiny House Nation (1080p)
 URL: https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
 Logo: https://i.imgur.com/ai1P06C.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Tosh.0
+URL: https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
+Logo: https://i.imgur.com/sXkluxg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: True Crime Network+ (1080p) [Geo-blocked]
@@ -7268,6 +8092,21 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Unsolved Mysteries (720p)
 URL: https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 Logo: https://i.imgur.com/De3khrX.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Weeds / Nurse Jackie (720p)
+URL: https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
+Logo: https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Wild 'N Out
+URL: https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
+Logo: https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Wipeout
+URL: https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+Logo: https://i.imgur.com/KVTNBFr.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
@@ -7369,6 +8208,11 @@ URL: https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/p
 Logo: https://i.imgur.com/1l3t5jd.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Bellator MMA
+URL: https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+Logo: https://i.imgur.com/VBKoLHk.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Billiard TV (1080p)
 URL: https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 Logo: https://i.imgur.com/BZijfKh.png
@@ -7429,6 +8273,11 @@ URL: https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlis
 Logo: https://i.imgur.com/O9BapV9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Fox Sports 2 (480p)
+URL: https://tvsen7.aynaott.com/foxsports2/index.m3u8
+Logo: https://i.imgur.com/LHtxKI8.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: FTF Sports (720p)
 URL: https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 Logo: https://i.imgur.com/yvUjOI3.png
@@ -7452,6 +8301,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Lacrosse TV (720p)
 URL: https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 Logo: https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Lucha Libre AAA
+URL: https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+Logo: https://i.imgur.com/Nc7K060.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MLB Channel (1080p) [Geo-blocked]
@@ -7494,9 +8348,19 @@ URL: https://pac12-firetv.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/736QREy.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: PBR RidePass (720p)
+URL: https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
+Logo: https://i.imgur.com/gUxH97E.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: PGA Tour (1080p)
 URL: https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/J0TY9dG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Deportes
+URL: https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+Logo: https://i.imgur.com/0pDy6f4.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Poker Go (1080p)
@@ -7531,6 +8395,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Tennis Channel (1080p)
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+Logo: https://i.imgur.com/tsljAnY.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: TennisChannel 2 (720p)
+URL: https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 Logo: https://i.imgur.com/tsljAnY.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -7584,6 +8453,11 @@ URL: https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 Logo: https://i.imgur.com/D4mZ8ll.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Willow (720p)
+URL: https://tvsen5.aynaott.com/willowhd/index.m3u8
+Logo: https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Willow Sports (1080p)
 URL: https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 Logo: https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png
@@ -7596,9 +8470,9 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Sports & Outdoors
-Name: Scripps Sports Network
-URL: https://jmp2.uk/stvp-US400221W2
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400221W2_20260609T035216SQUARE.png
+Name: FIFA+
+URL: https://jmp2.uk/stvp-USBD12000255B
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20260609T035147SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: NFL Channel
@@ -7671,6 +8545,11 @@ URL: https://jmp2.uk/stvp-US3200012O8
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20260421T143258SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
+Name: Scripps Sports Network
+URL: https://jmp2.uk/stvp-US400221W2
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400221W2_20260609T035216SQUARE.png
+Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
+--------------------------------------------------
 Name: Overtime
 URL: https://jmp2.uk/stvp-US33000154M
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US33000154M_20260421T143300SQUARE.png
@@ -7724,11 +8603,6 @@ Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US
 Name: SportsGrid
 URL: https://jmp2.uk/stvp-USBA300031OT
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png
-Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
---------------------------------------------------
-Name: FIFA+
-URL: https://jmp2.uk/stvp-USBD12000255B
-Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20260609T035147SQUARE.png
 Source: https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u
 --------------------------------------------------
 Name: UEFA Champions League
@@ -8210,39 +9084,14 @@ URL: https://wurlgameshownetwork.global.transmit.live/hls/68d16f229e868efab9c34b
 Logo: http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 216 80s Rewind
-URL: https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
-Logo: https://images.pluto.tv/channels/5ca525b650be2571e3943c63/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 217 90s Throwback
-URL: https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-Logo: https://images.pluto.tv/channels/5f4d86f519358a00072b978e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 218 CINEVAULT: Classics
 URL: https://wurlgameshownetwork.global.transmit.live/hls/68d16fc891b992ec0d46bfe0/v1/gsn_cinevault_classics_2/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1043&wurl_name=CinevaultClassics&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 Logo: http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1043-LG-Logo-PNG-100x100_v3.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 219 Classic Movies Channel
-URL: https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
-Logo: https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/logo_1758306320167.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 220 Paramount Movie Channel
-URL: https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
-Logo: https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 221 Shout! Movies
 URL: https://amg00163-amg00163c15-lg-us-7501.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 Logo: https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Shout_Movies/LG_SM_Logo_400x200.png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 222 Pluto TV Spotlight
-URL: https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
-Logo: https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 223 Miramax Movies
@@ -8278,11 +9127,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 232 National Lampoon
 URL: https://linear-758.frequency.stream/dist/lg-us/758/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
 Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mcs/channels/758-400x200.png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 233 Pluto TV Comedy
-URL: https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
-Logo: https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 236 Hallmark Movies And More
@@ -8353,11 +9197,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 253 Pluto TV Horror
 URL: https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 Logo: https://images.pluto.tv/channels/569546031a619b8f07ce6e25/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 254 Pluto TV Terror
-URL: https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
-Logo: https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 255 Universal Monsters
@@ -8458,11 +9297,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 279 Dove Channel
 URL: https://linear-896.frequency.stream/dist/lg-us/896/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
 Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 280 TV Land Drama
-URL: https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
-Logo: https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 281 Nikita
@@ -8578,11 +9412,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 307 Declassified
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 Logo: https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/Declassified_800x200_Logo.png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 308 Pluto TV Military
-URL: https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
-Logo: https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 309 Life Below Zero
@@ -8735,11 +9564,6 @@ URL: https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=iam
 Logo: http://accio.its-newid.net/channel/newid_103/lg_channels/img/channel_logo/default/channel_logo.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 343 Love & Hip Hop
-URL: https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
-Logo: https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 344 Bar Rescue
 URL: https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 Logo: https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/logo_1780596469445.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
@@ -8770,11 +9594,6 @@ URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99
 Logo: https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 350 The Amazing Race
-URL: https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
-Logo: https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 351 Survivor
 URL: https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 Logo: https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
@@ -8793,11 +9612,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 354 American Ninja Warrior
 URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 Logo: https://image.xumo.com/v1/channels/channel/99993042/600x200.png?type=white_cropped
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 355 Spike Outdoors
-URL: https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
-Logo: https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 356 Pluto TV Reality
@@ -9010,11 +9824,6 @@ URL: https://linear-1102.frequency.stream/dist/lg-us/1102/hls/master/playlist.m3
 Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mgm/channels/LG_PaternityCourt_ChannelLogo.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 404 The Judge Judy Channel
-URL: https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
-Logo: https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 405 TMZ
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 Logo: https://d2mxb63djushzm.cloudfront.net/images/tmz/the-tmz-channel-logo-800x200.png
@@ -9118,11 +9927,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 431 Anime 24/7
 URL: https://amg01923-odk-amg01923c20-lg-us-6821.playouts.now.amagi.tv/playlist/amg01923-odkmedia-euchannels2-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.appcategory=[APP_CATEGORY]&ads.appdomain=[APP_DOMAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 Logo: https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Anime_24X7/anime_400X200.png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 432 Pluto TV Anime
-URL: https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
-Logo: https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/logo_1748797351624.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 435 NFL Channel
@@ -9590,16 +10394,6 @@ URL: https://linear-1101.frequency.stream/dist/lg-us/1101/hls/master/playlist.m3
 Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mcs/channels/1101-400x200.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 600 Nickelodeon Pluto TV
-URL: https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-Logo: https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 601 Nick Jr. Pluto TV
-URL: https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-Logo: https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 602 TOTALLY TURTLES
 URL: https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 Logo: https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
@@ -9930,11 +10724,6 @@ URL: https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/
 Logo: http://img.platform.wurl.dev/channel/1228/lg/4d8396/LG-Logo-PNG-100x100_v1.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 840 Comedy Central en español
-URL: https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-Logo: https://images.pluto.tv/channels/5cf96dad1652631e36d43320/logo_1731835817522.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 848 YTN News
 URL: https://amg01614-amg01614c1-amgplt0023.playout.now3.amagi.tv/playlist/amg01614-amg01614c1-amgplt0023/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 Logo: https://d3s2p39m306u7r.cloudfront.net/YTN/Logo-400x200.png
@@ -10247,6 +11036,16 @@ URL: https://live.field59.com/wrde/wrde1/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Crímenes imperfectos
+URL: https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
+Logo: https://i.imgur.com/kzUrWR5.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: CSI en Español
+URL: https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+Logo: https://i.imgur.com/ifarQil.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Del Mar TV (720p)
 URL: https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
 Logo: https://i.imgur.com/M1eQ1eZ.png
@@ -10255,6 +11054,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Dungeon TV (480i)
 URL: https://stream-us-east-1.getpublica.com/cl/260429d7p1k35skjef7n2hpgog/1280x720_2750882_1_f.m3u8?i=513_2251
 Logo: https://i.imgur.com/cwazXHb.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: El Reino Infantil
+URL: https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
+Logo: https://i.imgur.com/u7DOoBK.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Extrema TV (720p)
@@ -10282,6 +11086,11 @@ URL: https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 Logo: https://i.imgur.com/wlYUEYc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Historias de Ultratumba
+URL: https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+Logo: https://i.imgur.com/JDF6Qp5.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Homeful (1080p)
 URL: https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
 Logo: https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png
@@ -10300,6 +11109,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Lompoc TAP TV Channel 23 (720p)
 URL: https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Logo: https://i.imgur.com/5mhYHtD.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Los nuevos detectives
+URL: https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
+Logo: https://i.imgur.com/Iru8tqj.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Love Nature en Espanol (1080p) [Geo-blocked]
@@ -10405,6 +11219,31 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: PixL TV
 URL: https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Logo: https://i.imgur.com/ysRh3Nl.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Competencias
+URL: https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+Logo: https://i.imgur.com/VNa7HX6.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV História
+URL: https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+Logo: https://i.imgur.com/sgAfqzK.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Humor
+URL: https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+Logo: https://i.imgur.com/F7CWMB0.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Peleas
+URL: https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
+Logo: https://i.imgur.com/PWoudOz.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Velocidad
+URL: https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+Logo: https://i.imgur.com/4HNGHEf.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pomona Internet Streaming Channel (Pomona CA) (720p)
@@ -10560,6 +11399,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: The Walk TV (720p)
 URL: https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1
 Logo: https://i.imgur.com/p3RAxjp.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: The Walking Dead en español (720p)
+URL: https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
+Logo: https://i.imgur.com/h17lAxc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Tribeca Channel (1080p) [Geo-blocked]
