@@ -854,7 +854,7 @@
   {
     "name": "NEW KMOVIES (1080p)",
     "type": "Movies",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus",
     "img": "https://i.imgur.com/wCgirjc.png"
   },
   {
@@ -1299,7 +1299,7 @@
     "name": "30A Golf Kingdom (720p)",
     "type": "Sports",
     "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
-    "img": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg"
+    "img": "https://i.imgur.com/Lv53nh4.png"
   },
   {
     "name": "ACCDN (1080p)",
@@ -1364,7 +1364,7 @@
   {
     "name": "ESPN Deportes (360p)",
     "type": "Sports",
-    "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
+    "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png"
   },
   {
@@ -2166,12 +2166,6 @@
     "img": "https://i.imgur.com/8FZsNyK.png"
   },
   {
-    "name": "Scripps News",
-    "type": "News",
-    "url": "https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png"
-  },
-  {
     "name": "Scripps News (1080p)",
     "type": "News",
     "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
@@ -2498,7 +2492,7 @@
   {
     "name": "MTV Biggest Pop (1080p)",
     "type": "Music",
-    "url": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8",
+    "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8",
     "img": "https://i.imgur.com/AOaZmlS.png"
   },
   {
@@ -2510,8 +2504,14 @@
   {
     "name": "NEW KPOP (1080p)",
     "type": "Music",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V",
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus",
     "img": "https://i.imgur.com/B7ILXMc.png"
+  },
+  {
+    "name": "Pluto TV MTV Classic (720p)",
+    "type": "Music",
+    "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8",
+    "img": "https://i.imgur.com/NPavpts.png"
   },
   {
     "name": "Radio Télé Kajou (480p) [Not 24/7]",
@@ -3702,7 +3702,7 @@
     "img": "https://i.imgur.com/d4xEiXX.png"
   },
   {
-    "name": "Revry LatinX",
+    "name": "Revry LatinX (720p)",
     "type": "Entertainment",
     "url": "https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8",
     "img": "https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1676133370_91639_20154.png"
@@ -6108,9 +6108,9 @@
     "img": "https://i.imgur.com/VNa7HX6.png"
   },
   {
-    "name": "Pluto TV História",
+    "name": "Pluto TV Historia (720p)",
     "type": "Undefined",
-    "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8",
+    "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8",
     "img": "https://i.imgur.com/sgAfqzK.png"
   },
   {
@@ -8376,7 +8376,7 @@
     "img": "https://i.imgur.com/woY8Ecb.png"
   },
   {
-    "name": "Teen Mom",
+    "name": "Teen Mom (720p)",
     "type": "Documentary",
     "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
     "img": "https://i.imgur.com/8o3ClCV.png"
@@ -8826,12 +8826,6 @@
     "img": "https://i.imgur.com/ambc9le.png"
   },
   {
-    "name": "Pluto TV Kids (720p)",
-    "type": "Education;Kids",
-    "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg"
-  },
-  {
     "name": "PBS Retro (1080p) [Geo-blocked]",
     "type": "Classic;Kids",
     "url": "https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8",
@@ -8886,7 +8880,7 @@
     "img": "https://i.imgur.com/OxbIla4.png"
   },
   {
-    "name": "The Nest",
+    "name": "The Nest (1080p)",
     "type": "Documentary;Entertainment",
     "url": "https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8",
     "img": "https://iili.io/JGqD21e.png"
@@ -8934,24 +8928,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20260421T133724SQUARE.png"
   },
   {
-    "name": "WSOC Charlotte",
-    "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-USBC1000017D8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png"
-  },
-  {
-    "name": "WBTV News",
-    "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-US700004OA",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png"
-  },
-  {
-    "name": "WCNC",
-    "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-US1400004HN",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png"
-  },
-  {
     "name": "FOX Weather",
     "type": "News & Opinion",
     "url": "https://jmp2.uk/stvp-USBD700003L7",
@@ -8964,10 +8940,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260421T133704SQUARE.png"
   },
   {
-    "name": "WN Charlotte",
+    "name": "WeatherNation",
     "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-USBC3200001S5",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBC1500009LD",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png"
   },
   {
     "name": "BBC News",

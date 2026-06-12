@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-12 00:13:48",
+  "date": "2026-06-12 08:57:37",
   "channels": {
     "Religious": [
       {
@@ -1007,7 +1007,7 @@
         "logo": "https://i.imgur.com/wCgirjc.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus"
       },
       {
         "name": "Paramount Movie Channel",
@@ -1528,7 +1528,7 @@
     "Sports": [
       {
         "name": "30A Golf Kingdom (720p)",
-        "logo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+        "logo": "https://i.imgur.com/Lv53nh4.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8"
@@ -1608,7 +1608,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+        "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
         "name": "F1 Channel (1080p) [Geo-blocked]",
@@ -2546,13 +2546,6 @@
         "url": "https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8"
       },
       {
-        "name": "Scripps News",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8"
-      },
-      {
         "name": "Scripps News (1080p)",
         "logo": "https://i.imgur.com/W0Jvi5o.png",
         "group": "News",
@@ -2941,7 +2934,7 @@
         "logo": "https://i.imgur.com/AOaZmlS.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8"
+        "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
       },
       {
         "name": "MTV Spankin’ New (1080p)",
@@ -2955,7 +2948,14 @@
         "logo": "https://i.imgur.com/B7ILXMc.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus"
+      },
+      {
+        "name": "Pluto TV MTV Classic (720p)",
+        "logo": "https://i.imgur.com/NPavpts.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
       },
       {
         "name": "Radio Télé Kajou (480p) [Not 24/7]",
@@ -4348,7 +4348,7 @@
         "url": "https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8"
       },
       {
-        "name": "Revry LatinX",
+        "name": "Revry LatinX (720p)",
         "logo": "https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1676133370_91639_20154.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -7169,11 +7169,11 @@
         "url": "https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8"
       },
       {
-        "name": "Pluto TV História",
+        "name": "Pluto TV Historia (720p)",
         "logo": "https://i.imgur.com/sgAfqzK.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
+        "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
       },
       {
         "name": "Pluto TV Humor",
@@ -9841,7 +9841,7 @@
         "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8"
       },
       {
-        "name": "Teen Mom",
+        "name": "Teen Mom (720p)",
         "logo": "https://i.imgur.com/8o3ClCV.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -10412,13 +10412,6 @@
         "group": "Education;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8"
-      },
-      {
-        "name": "Pluto TV Kids (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
-        "group": "Education;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
       }
     ],
     "Classic;Kids": [
@@ -10498,7 +10491,7 @@
     ],
     "Documentary;Entertainment": [
       {
-        "name": "The Nest",
+        "name": "The Nest (1080p)",
         "logo": "https://iili.io/JGqD21e.png",
         "group": "Documentary;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -10560,27 +10553,6 @@
         "url": "https://jmp2.uk/stvp-USBD3000073N"
       },
       {
-        "name": "WSOC Charlotte",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png",
-        "group": "News & Opinion",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC1000017D8"
-      },
-      {
-        "name": "WBTV News",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png",
-        "group": "News & Opinion",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US700004OA"
-      },
-      {
-        "name": "WCNC",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png",
-        "group": "News & Opinion",
-        "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-US1400004HN"
-      },
-      {
         "name": "FOX Weather",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
         "group": "News & Opinion",
@@ -10595,11 +10567,11 @@
         "url": "https://jmp2.uk/stvp-US50000551O"
       },
       {
-        "name": "WN Charlotte",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png",
+        "name": "WeatherNation",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png",
         "group": "News & Opinion",
         "source": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_US.m3u",
-        "url": "https://jmp2.uk/stvp-USBC3200001S5"
+        "url": "https://jmp2.uk/stvp-USBC1500009LD"
       },
       {
         "name": "BBC News",
