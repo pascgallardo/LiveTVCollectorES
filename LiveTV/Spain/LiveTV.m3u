@@ -6,43 +6,43 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
 https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_logo.png" group-title="Generalistas",La 2
-http://92.176.119.180:2095/play/a16y
+http://92.176.119.180:2095/play/a1fb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg" group-title="Generalistas",Antena 3
-http://92.176.119.180:2095/play/a16j
+http://92.176.119.180:2095/play/a1ee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg" group-title="Generalistas",Cuatro
 http://92.176.119.180:2095/play/a1g2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg" group-title="Generalistas",Telecinco
-http://92.176.119.180:2095/play/a15y
+http://92.176.119.180:2095/play/a1fq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg" group-title="Generalistas",La Sexta
-http://92.176.119.180:2095/play/a16l
+http://92.176.119.180:2095/play/a1ef
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg" group-title="Generalistas",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg" group-title="Generalistas",Neox
-http://92.176.119.180:2095/play/a16n
+http://92.176.119.180:2095/play/a1eg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg" group-title="Generalistas",Nova
-http://92.176.119.180:2095/play/a16o
+http://92.176.119.180:2095/play/a1eh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg" group-title="Generalistas",Atreseries
 https://live.sakutv.workers.dev/hls/atreseries
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg" group-title="Generalistas",Mega
-http://92.176.119.180:2095/play/a178
+http://92.176.119.180:2095/play/a1ei
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg" group-title="Generalistas",Divinity
 http://92.176.119.180:2095/play/a1g1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg" group-title="Generalistas",Factoría de Ficción
-http://92.176.119.180:2095/play/a15w
+http://92.176.119.180:2095/play/a1fo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg" group-title="Generalistas",Energy
-http://92.176.119.180:2095/play/a17a
+http://92.176.119.180:2095/play/a1ep
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg" group-title="Generalistas",Be Mad
 https://live.sakutv.workers.dev/hls/bemad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel_cuadrado.jpg" group-title="Generalistas",Squirrel
 http://92.176.119.180:2095/play/a1ey
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel2_cuadrado.jpg" group-title="Generalistas",Squirrel 2
-http://92.176.119.180:2095/play/a16q
+http://92.176.119.180:2095/play/a1ez
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bomcine_cuadrado2.jpg" group-title="Generalistas",BOM Cine
-http://92.176.119.180:2095/play/a17f
+http://92.176.119.180:2095/play/a1fu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/veo7_cuadrado.jpg" group-title="Generalistas",Veo7
 http://92.176.119.180:2095/play/a1f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/trece_cuadrado.jpg" group-title="Generalistas",TRECE
-http://92.176.119.180:2095/play/a179
+http://92.176.119.180:2095/play/a1em
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_cuadrado.jpg" group-title="Generalistas",RNE para todos
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_cuadrado.jpg" group-title="Andalucía",Canal Málaga
@@ -114,7 +114,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg" group-title="Deportivos",Teledeporte
 https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="Deportivos",Teledeporte (1080p)
-http://92.176.119.180:2095/play/a16t
+http://92.176.119.180:2095/play/a1f6
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_cuadrado.jpg" group-title="Deportivos",LaLiga Hypermotion
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_cuadrado.jpg" group-title="Deportivos",LaLiga TV
@@ -920,7 +920,7 @@ https://malagafm.streaming-pro.com:8131/malagafmmobile
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101fmradio_cuadrado.jpg" group-title="Radio_Andalucía",101 FM Radio
 https://liveingesta318.cdnmedia.tv/101weblive/101FM/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagaradio_cuadrado.jpg" group-title="Radio_Andalucía",Canal Málaga RTV
-https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3
+https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg" group-title="Radio_Andalucía",esRadio Málaga
 https://azura.abcorp.es/listen/esradio_malaga/radio.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tocatafmradio_cuadrado.jpg" group-title="Radio_Andalucía",Tocata FM Radio

@@ -20,13 +20,13 @@
   {
     "name": "La 2",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a16y",
+    "url": "http://92.176.119.180:2095/play/a1fb",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_logo.png"
   },
   {
     "name": "Antena 3",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a16j",
+    "url": "http://92.176.119.180:2095/play/a1ee",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg"
   },
   {
@@ -38,13 +38,13 @@
   {
     "name": "Telecinco",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a15y",
+    "url": "http://92.176.119.180:2095/play/a1fq",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg"
   },
   {
     "name": "La Sexta",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a16l",
+    "url": "http://92.176.119.180:2095/play/a1ef",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg"
   },
   {
@@ -56,13 +56,13 @@
   {
     "name": "Neox",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a16n",
+    "url": "http://92.176.119.180:2095/play/a1eg",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg"
   },
   {
     "name": "Nova",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a16o",
+    "url": "http://92.176.119.180:2095/play/a1eh",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg"
   },
   {
@@ -74,7 +74,7 @@
   {
     "name": "Mega",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a178",
+    "url": "http://92.176.119.180:2095/play/a1ei",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg"
   },
   {
@@ -86,13 +86,13 @@
   {
     "name": "Factoría de Ficción",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a15w",
+    "url": "http://92.176.119.180:2095/play/a1fo",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg"
   },
   {
     "name": "Energy",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a17a",
+    "url": "http://92.176.119.180:2095/play/a1ep",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg"
   },
   {
@@ -110,13 +110,13 @@
   {
     "name": "Squirrel 2",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a16q",
+    "url": "http://92.176.119.180:2095/play/a1ez",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel2_cuadrado.jpg"
   },
   {
     "name": "BOM Cine",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a17f",
+    "url": "http://92.176.119.180:2095/play/a1fu",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bomcine_cuadrado2.jpg"
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "TRECE",
     "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a179",
+    "url": "http://92.176.119.180:2095/play/a1em",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/trece_cuadrado.jpg"
   },
   {
@@ -344,7 +344,7 @@
   {
     "name": "Teledeporte (1080p)",
     "type": "Deportivos",
-    "url": "http://92.176.119.180:2095/play/a16t",
+    "url": "http://92.176.119.180:2095/play/a1f6",
     "img": "https://i.ibb.co/0jxLdjnY/TDP.png"
   },
   {
@@ -2762,7 +2762,7 @@
   {
     "name": "Canal Málaga RTV",
     "type": "Radio_Andalucía",
-    "url": "https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3",
+    "url": "https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagaradio_cuadrado.jpg"
   },
   {
