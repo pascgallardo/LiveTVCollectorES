@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-12 23:28:30",
+  "date": "2026-06-13 07:43:20",
   "channels": {
     "General": [
       {
@@ -22,20 +22,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8"
-      },
-      {
-        "name": "Azteca 7 (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/UtFXjIn.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
-      },
-      {
-        "name": "Azteca Uno (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/rRxgBtI.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"
       },
       {
         "name": "B15 Fresnillo (1080p)",
