@@ -1982,13 +1982,13 @@
   {
     "name": "TVE Int. Europa",
     "type": "Int. Europa",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg"
   },
   {
     "name": "Star TVE Europa",
     "type": "Int. Europa",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg"
   },
   {

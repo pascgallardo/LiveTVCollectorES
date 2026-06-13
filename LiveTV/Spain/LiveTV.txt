@@ -1449,12 +1449,12 @@ Source: https://m3u.work/OI0Q3l.m3u
 
 Group: Int. Europa
 Name: TVE Int. Europa
-URL: https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Star TVE Europa
-URL: https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------

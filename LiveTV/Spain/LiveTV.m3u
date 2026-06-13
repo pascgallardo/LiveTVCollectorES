@@ -660,9 +660,9 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68645c1f1a2f
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png" group-title="Shows",Z Nation
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29/?X-Plex-Token=7aZgGzXZMpKKPpn7yaYv
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg" group-title="Int. Europa",TVE Int. Europa
-https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg" group-title="Int. Europa",Star TVE Europa
-https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg" group-title="Int. Europa",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg" group-title="Int. Europa",Star TVE

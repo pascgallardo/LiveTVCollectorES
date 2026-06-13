@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-12 23:39:59",
+  "date": "2026-06-13 09:40:58",
   "channels": {
     "Generalistas": [
       {
@@ -2337,14 +2337,14 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg",
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8"
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8"
       },
       {
         "name": "Star TVE Europa",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg",
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8"
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8"
       },
       {
         "name": "Antena 3 Internacional",
