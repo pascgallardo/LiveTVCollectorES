@@ -3378,12 +3378,6 @@
     "img": "https://i.imgur.com/hW6z1RG.png"
   },
   {
-    "name": "BBC America",
-    "type": "Entertainment",
-    "url": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
-    "img": "https://i.imgur.com/pTiiPz0.png"
-  },
-  {
     "name": "Best of Dr. Phil",
     "type": "Entertainment",
     "url": "https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8",
@@ -8922,24 +8916,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20260421T133724SQUARE.png"
   },
   {
-    "name": "WSOC Charlotte",
-    "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-USBC1000017D8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png"
-  },
-  {
-    "name": "WBTV News",
-    "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-US700004OA",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png"
-  },
-  {
-    "name": "WCNC",
-    "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-US1400004HN",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png"
-  },
-  {
     "name": "FOX Weather",
     "type": "News & Opinion",
     "url": "https://jmp2.uk/stvp-USBD700003L7",
@@ -8952,10 +8928,10 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260421T133704SQUARE.png"
   },
   {
-    "name": "WN Charlotte",
+    "name": "WeatherNation",
     "type": "News & Opinion",
-    "url": "https://jmp2.uk/stvp-USBC3200001S5",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png"
+    "url": "https://jmp2.uk/stvp-USBC1500009LD",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png"
   },
   {
     "name": "BBC News",
