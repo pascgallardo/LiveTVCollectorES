@@ -180,6 +180,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg"
   },
   {
+    "name": "Almería TV",
+    "type": "Andalucía",
+    "url": "https://broadcast1.radioponiente.org/live/smil:atv.smil/playlist.m3u8",
+    "img": "https://graph.facebook.com/AlmerTV/picture?width=200&height=200"
+  },
+  {
     "name": "101tv Malaga",
     "type": "Andalucía",
     "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8",
