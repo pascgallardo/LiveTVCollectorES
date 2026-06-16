@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-16 18:18:26",
+  "date": "2026-06-17 01:00:30",
   "channels": {
     "Religious": [
       {
@@ -877,13 +877,6 @@
         "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
       },
       {
-        "name": "Cine terror",
-        "logo": "https://i.imgur.com/I5XxyLI.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8"
-      },
-      {
         "name": "Cinevault 80s (720p)",
         "logo": "https://i.imgur.com/xaCyyDd.png",
         "group": "Movies",
@@ -1031,43 +1024,8 @@
         "url": "https://jmp2.uk/plu-65004605110545000842035d.m3u8"
       },
       {
-        "name": "Pluto TV Cine Acción",
-        "logo": "https://i.imgur.com/PXhCzXn.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Clásico",
-        "logo": "https://i.imgur.com/hCA5BRr.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Drama",
-        "logo": "https://i.imgur.com/AQBtheU.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Estelar",
-        "logo": "https://i.imgur.com/v3BO4nW.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Suspenso",
-        "logo": "https://i.imgur.com/GnUmEZn.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8"
-      },
-      {
         "name": "Pluto TV Crime Drama",
-        "logo": "https://i.imgur.com/9j1njE3.png",
+        "logo": "https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8"
@@ -1094,32 +1052,11 @@
         "url": "https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8"
       },
       {
-        "name": "Pluto TV Horror",
-        "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8"
-      },
-      {
         "name": "Pluto TV Reaction",
         "logo": "https://i.imgur.com/H9k3OXN.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8"
-      },
-      {
-        "name": "Pluto TV Romance",
-        "logo": "https://i.imgur.com/GJBxfyf.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8"
-      },
-      {
-        "name": "Pluto TV Sci-fi",
-        "logo": "https://i.imgur.com/vSzd5m7.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8"
       },
       {
         "name": "Pluto TV Spotlight",
@@ -1151,7 +1088,7 @@
       },
       {
         "name": "Pluto TV Westerns",
-        "logo": "https://i.imgur.com/biepi4A.png",
+        "logo": "https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8"
@@ -1304,20 +1241,6 @@
         "group": "Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8"
-      },
-      {
-        "name": "Pluto TV Fishing",
-        "logo": "https://i.imgur.com/ZaHOk8j.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8"
-      },
-      {
-        "name": "Pluto TV Naturaleza",
-        "logo": "https://i.imgur.com/vUHAWAJ.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8"
       },
       {
         "name": "Pursuit UP (1080p)",
@@ -1630,13 +1553,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8"
-      },
-      {
-        "name": "Pluto TV Deportes",
-        "logo": "https://i.imgur.com/0pDy6f4.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
       },
       {
         "name": "Poker Go (1080p)",
@@ -3052,7 +2968,7 @@
       },
       {
         "name": "Comedy Central Pluto TV",
-        "logo": "https://i.imgur.com/9y6TtjF.png",
+        "logo": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8"
@@ -3135,13 +3051,6 @@
         "url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8"
       },
       {
-        "name": "Pluto TV British Comedy",
-        "logo": "https://i.imgur.com/LlwoR74.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8"
-      },
-      {
         "name": "Pluto TV Comedia made in Spain",
         "logo": "https://i.imgur.com/8ddFdSQ.png",
         "group": "Comedy",
@@ -3150,7 +3059,7 @@
       },
       {
         "name": "Pluto TV Comedy",
-        "logo": "https://i.imgur.com/MTVrbd5.png",
+        "logo": "https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8"
@@ -3250,7 +3159,7 @@
       },
       {
         "name": "BET Pluto TV",
-        "logo": "https://i.imgur.com/Kq9WKZg.png",
+        "logo": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8"
@@ -3530,7 +3439,7 @@
       },
       {
         "name": "MTV Pluto TV",
-        "logo": "https://i.imgur.com/WsQRCmZ.png",
+        "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8"
@@ -3586,7 +3495,7 @@
       },
       {
         "name": "Pluto TV Reality",
-        "logo": "https://i.imgur.com/OvN7FCv.png",
+        "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-67922858b83355184c699699.m3u8"
@@ -3870,7 +3779,7 @@
       },
       {
         "name": "Pluto TV Cars",
-        "logo": "https://i.imgur.com/Tm3VFmq.png",
+        "logo": "https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png",
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
@@ -3897,13 +3806,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8"
-      },
-      {
-        "name": "Acapulco Shore Pluto TV",
-        "logo": "https://i.imgur.com/D2jgGOi.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8"
       },
       {
         "name": "All Reality WE tv (720p)",
@@ -4277,25 +4179,11 @@
         "url": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8"
       },
       {
-        "name": "Pluto TV Aventura",
-        "logo": "https://i.imgur.com/ae5cMo9.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8"
-      },
-      {
         "name": "Pluto TV Fantastic",
         "logo": "https://i.imgur.com/MCu7YTA.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8"
-      },
-      {
-        "name": "Pluto TV Investiga",
-        "logo": "https://i.imgur.com/Sb5adD7.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8"
       },
       {
         "name": "Pluto TV Lives",
@@ -4317,41 +4205,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8"
-      },
-      {
-        "name": "Pluto TV Novelas",
-        "logo": "https://i.imgur.com/R44LypS.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
-      },
-      {
-        "name": "Pluto TV Real Life",
-        "logo": "https://i.imgur.com/uvk27Fe.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8"
-      },
-      {
-        "name": "Pluto TV Series Latinas",
-        "logo": "https://i.imgur.com/hxl6Ctq.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8"
-      },
-      {
-        "name": "Pluto TV Star Trek",
-        "logo": "https://i.imgur.com/8cvXYiT.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
-      },
-      {
-        "name": "Pluto TV True Crime",
-        "logo": "https://i.imgur.com/lNfaxiv.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
       },
       {
         "name": "Sanctuary",
@@ -4550,6 +4403,27 @@
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8"
+      },
+      {
+        "name": "Pluto TV Horror",
+        "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8"
+      },
+      {
+        "name": "Pluto TV Romance",
+        "logo": "https://i.imgur.com/GJBxfyf.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8"
+      },
+      {
+        "name": "Pluto TV Sci-fi",
+        "logo": "https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8"
       }
     ],
     "Culture": [
@@ -6413,41 +6287,6 @@
         "url": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07"
       },
       {
-        "name": "Pluto TV Competencias",
-        "logo": "https://i.imgur.com/VNa7HX6.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8"
-      },
-      {
-        "name": "Pluto TV Historia (720p)",
-        "logo": "https://i.imgur.com/sgAfqzK.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
-      },
-      {
-        "name": "Pluto TV Humor",
-        "logo": "https://i.imgur.com/F7CWMB0.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8"
-      },
-      {
-        "name": "Pluto TV Peleas",
-        "logo": "https://i.imgur.com/PWoudOz.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8"
-      },
-      {
-        "name": "Pluto TV Velocidad",
-        "logo": "https://i.imgur.com/4HNGHEf.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8"
-      },
-      {
         "name": "Pomona Internet Streaming Channel (Pomona CA) (720p)",
         "logo": "https://i.imgur.com/80gaUbq.png",
         "group": "Undefined",
@@ -7992,7 +7831,7 @@
       },
       {
         "name": "Nick Jr. Pluto TV (720p)",
-        "logo": "https://i.imgur.com/8DAe8wr.png",
+        "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8"
@@ -8031,20 +7870,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8"
-      },
-      {
-        "name": "Pluto TV Retro Toons",
-        "logo": "https://i.imgur.com/YUQL0ki.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8"
-      },
-      {
-        "name": "Pluto TV Teen (720p)",
-        "logo": "https://i.imgur.com/lNJ5p5e.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8"
       },
       {
         "name": "pocket.watch Game On (1080p)",
@@ -8799,7 +8624,7 @@
       },
       {
         "name": "Pluto TV Paranormal",
-        "logo": "https://i.imgur.com/ApN6nfw.png",
+        "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8"
@@ -8997,20 +8822,6 @@
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8"
-      },
-      {
-        "name": "Pluto TV Classic TV Families",
-        "logo": "https://i.imgur.com/llAZ49f.png",
-        "group": "Classic",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8"
-      },
-      {
-        "name": "Pluto TV Series Retro",
-        "logo": "https://i.imgur.com/UpgGZJ1.png",
-        "group": "Classic",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8"
       },
       {
         "name": "Samuel Goldwyn Classics (1080p)",
@@ -9408,14 +9219,16 @@
         "url": "https://e3.thetvapp.to/hls/metv-toons/index.m3u8"
       }
     ],
-    "Science": [
+    "Documentary;Science": [
       {
         "name": "Pluto TV Science",
         "logo": "https://i.imgur.com/uhunRoU.png",
-        "group": "Science",
+        "group": "Documentary;Science",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8"
-      },
+      }
+    ],
+    "Science": [
       {
         "name": "Pluto TV Space",
         "logo": "https://i.imgur.com/hQwS3ui.png",
@@ -9429,6 +9242,15 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
+      }
+    ],
+    "Documentary;Series": [
+      {
+        "name": "Pluto TV True Crime",
+        "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+        "group": "Documentary;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
       }
     ],
     "Entertainment;Series": [
@@ -10550,14 +10372,14 @@
         "logo": "http://accio.its-newid.net/channel/newid_096/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=loveafterdivorce&channel_id=newid_096&mpf=f61e63ba-39af1962-20a7dfc6&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb47c4b8-b7224648-a6442d3b-c052dce4&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=loveafterdivorce&channel_id=newid_096&mpf=f61e63ba-39af1962-a37e5655&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb47c4b8-b7224648-a6442d3b-c052dce4&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
       },
       {
         "name": "342 I am SOLO",
         "logo": "http://accio.its-newid.net/channel/newid_103/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=iamsolo&channel_id=newid_103&mpf=5674464b-39af1962-d1e0a104&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=78e43a91-acb11f93-0b0c9d30-dbc1853f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=iamsolo&channel_id=newid_103&mpf=5674464b-39af1962-ca7731b5&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=78e43a91-acb11f93-0b0c9d30-dbc1853f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
       },
       {
         "name": "344 Bar Rescue",
@@ -10900,7 +10722,7 @@
         "logo": "https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://nosey-intl-1-lg-us.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-us/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]"
+        "url": "https://nosey-intl-1-lg-us.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-us/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
         "name": "401 Confess by Nosey",
@@ -12195,7 +12017,7 @@
         "logo": "https://d3bd0tgyk368z1.cloudfront.net/Arirang-images/Arirang_logo_400x200_wh.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://amg02040-lguplus-amg02040c12-lg-us-8901.playouts.now.amagi.tv/playlist/amg02040-lguplus-arirang-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"
+        "url": "https://amg02040-lguplus-amg02040c12-lg-us-8901.playouts.now.amagi.tv/playlist/amg02040-lguplus-arirang-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]"
       },
       {
         "name": "850 NEW KMOVIES",
@@ -12223,7 +12045,7 @@
         "logo": "http://accio.its-newid.net/channel/newid_001/lg_channels/img/channel_logo/default/channel_logo.png",
         "group": "Uncategorized",
         "source": "https://www.apsattv.com/uslg.m3u",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_001&mpf=b9b84d50-39af1962-0c9b0ac6&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5555ff2b-8870b9b2-25c0f07d-ff00231e&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
+        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_001&mpf=b9b84d50-39af1962-9704a250&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5555ff2b-8870b9b2-25c0f07d-ff00231e&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]"
       },
       {
         "name": "857 NEW KFOOD",
