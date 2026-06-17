@@ -46,7 +46,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Anime
 URL: https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
-Logo: https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png
+Logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Anime Movies
@@ -85,6 +85,11 @@ URL: https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist
 Logo: https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Nickelodeon Pluto TV (720p)
+URL: https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+Logo: https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Pokémon
 URL: https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
 Logo: https://i.imgur.com/GEbRABE.png
@@ -112,7 +117,7 @@ Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03s
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Cars
-URL: https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+URL: https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
 Logo: https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -343,6 +348,13 @@ Logo: https://i.imgur.com/FiIRQAR.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
+Group: Classic;Shop
+Name: Timeless TV
+URL: https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+Logo: https://i.imgur.com/bjcpeVH.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
 Group: Comedy
 Name: 30A Ridiculous TV (720p)
 URL: https://30a-tv.com/feeds/720p/63.m3u8
@@ -385,7 +397,7 @@ Logo: https://i.imgur.com/6xTD3G8.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Comedy Central Pluto TV
-URL: https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+URL: https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 Logo: https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -442,11 +454,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: NBC Comedy Vault (1080p)
 URL: https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 Logo: https://i.imgur.com/nydZWwg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Pluto TV Comedia made in Spain
-URL: https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-Logo: https://i.imgur.com/8ddFdSQ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Comedy
@@ -827,7 +834,7 @@ Logo: https://i.imgur.com/XkQD5kM.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Paranormal
-URL: https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+URL: https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 Logo: https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -873,14 +880,14 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 
 Group: Documentary;Science
 Name: Pluto TV Science
-URL: https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+URL: https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 Logo: https://i.imgur.com/uhunRoU.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Documentary;Series
 Name: Pluto TV True Crime
-URL: https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+URL: https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 Logo: https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -1433,7 +1440,7 @@ Logo: https://i.imgur.com/JXZEg2e.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Reality
-URL: https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+URL: https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
 Logo: https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -1591,6 +1598,13 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: HollyWire (720p)
 URL: https://bozztv.com/hwotta/playlist/playlist.m3u8
 Logo: https://i.imgur.com/oVNjFoj.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
+Group: Entertainment;Outdoor;Series
+Name: Pluto TV Adventure
+URL: https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+Logo: https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
@@ -2654,6 +2668,11 @@ URL: https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 Logo: https://i.imgur.com/zJuSbmU.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Forever Kids
+URL: https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+Logo: https://i.imgur.com/deeQqYZ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Garfield and Friends
 URL: https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 Logo: https://i.imgur.com/evzfe9C.png
@@ -2709,19 +2728,9 @@ URL: https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 Logo: https://i.imgur.com/G1J4IsT.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Nickelodeon Pluto TV (720p)
-URL: https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-Logo: https://i.imgur.com/N7rQyzN.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Ninja Kidz (720p)
 URL: https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/7EngqUi.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Pluto TV Forever Kids
-URL: https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
-Logo: https://i.imgur.com/deeQqYZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: pocket.watch Game On (1080p)
@@ -3557,12 +3566,12 @@ Logo: https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jp
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Action
-URL: https://jmp2.uk/plu-65004605110545000842035d.m3u8
+URL: https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 Logo: https://i.imgur.com/tDapGal.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Crime Drama
-URL: https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
+URL: https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
 Logo: https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -3579,6 +3588,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Pluto TV Drama
 URL: https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 Logo: https://i.imgur.com/PvhbHTZ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Icons
+URL: https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
+Logo: https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Reaction
@@ -3602,12 +3616,17 @@ Logo: https://i.imgur.com/eWtoHDM.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Thrillers
-URL: https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+URL: https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 Logo: https://i.imgur.com/ULKvDN7.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV Trending Now
+URL: https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+Logo: https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Pluto TV Westerns
-URL: https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
+URL: https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 Logo: https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -3701,7 +3720,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Networ
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Horror
-URL: https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+URL: https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 Logo: https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -3710,9 +3729,16 @@ URL: https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 Logo: https://i.imgur.com/GJBxfyf.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Pluto TV Sci-fi
-URL: https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+Name: Pluto TV Sci-Fi
+URL: https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 Logo: https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
+Group: Movies;Shop
+Name: Magnificent Movies Network
+URL: https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+Logo: https://i.imgur.com/CXjo8kn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
@@ -5088,13 +5114,8 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Science
-Name: Pluto TV Space
-URL: https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
-Logo: https://i.imgur.com/hQwS3ui.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Smithsonian Channel Pluto TV
-URL: https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+Name: Smithsonian Channel Selects
+URL: https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 Logo: https://i.imgur.com/Kt5j8Vr.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5380,19 +5401,24 @@ URL: https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
 Logo: https://i.imgur.com/MCu7YTA.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Pluto TV Hometown Drama
+URL: https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
+Logo: https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Pluto TV Lives
 URL: https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 Logo: https://i.imgur.com/laupYwG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Pluto TV Mi Obsesión Favorita
-URL: https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
-Logo: https://i.imgur.com/zimPTe5.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Pluto TV Military
 URL: https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 Logo: https://i.imgur.com/O8VXZB4.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Novelas
+URL: https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+Logo: https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Sanctuary
@@ -5772,6 +5798,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: PGA Tour (1080p)
 URL: https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 Logo: https://i.imgur.com/J0TY9dG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Competition
+URL: https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
+Logo: https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Poker Go (1080p)
@@ -6193,11 +6224,6 @@ URL: https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/
 Logo: http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 207 Pluto TV Crime Drama
-URL: https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
-Logo: https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 209 MovieSphere
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 Logo: https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png
@@ -6253,11 +6279,6 @@ URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xum
 Logo: https://image.xumo.com/v1/channels/channel/99993045/600x200.png?type=white_cropped
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 228 Pluto TV Action
-URL: https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
-Logo: https://images.pluto.tv/channels/561d7d484dc7c8770484914a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 229 Hi-Yah!
 URL: https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=99992284a&ads.xumo_streamId=99992284&ads.channelId=99992284&ads.csid=lgchannels_us_hiyah_ssai&ads.caid=HiYah&ads.channelName=hiyah_us&ads._fw_coppa=0&ads.xumo_contentName=HiYah&ads.xumo_contentId=236&ads._fw_content_rating=TV-14&ads.xumo_providerName=HiYah&ads.xumo_providerId=236&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movie,Movies,Action,FF,Drama,GD&ads._fw_content_language=en&ads.xumo_imdb_genre=Action&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
 Logo: https://image.xumo.com/v1/channels/channel/99992284/600x200.png?type=white_cropped
@@ -6308,11 +6329,6 @@ URL: https://amg01923-odk-amg01923c19-lg-us-6047.playouts.now.amagi.tv/playlist/
 Logo: https://d3bd0tgyk368z1.cloudfront.net/feeds/images/EU%20Channel%201/amasiantv_movies_and_more_logo_lg_channels.png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
-Name: 246 Pluto TV Thrillers
-URL: https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
-Logo: https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
 Name: 247 Tribeca
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 Logo: https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png
@@ -6331,11 +6347,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 252 Screambox TV
 URL: https://wurlcineverse.global.transmit.live/hls/6788648b58870f59fceabf97/v1/cinedigm_entertainment_corp_screamboxtv_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1845&wurl_name=ScreamboxTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 Logo: http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-Logo-PNG-100x100_v2.png
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 253 Pluto TV Horror
-URL: https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
-Logo: https://images.pluto.tv/channels/569546031a619b8f07ce6e25/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 255 Universal Monsters
@@ -6386,11 +6397,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 266 Xumo Free Westerns
 URL: https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992285&ads.xumo_streamId=99992285&ads.channelId=99992285&ads.csid=lgchannels_us_xumofreewesterns_ssai&ads.caid=XumoFreeWesterns&ads.channelName=xumofreewesterns_us&ads._fw_coppa=0&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads._fw_content_rating=tv-pg&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Western,EW,Country,GV,Drama,GD&ads._fw_content_language=en&ads.xumo_imdb_genre=Western&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
 Logo: https://image.xumo.com/v1/channels/channel/99992285/600x200.png?type=white_cropped
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 267 Pluto TV Westerns
-URL: https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
-Logo: https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 268 Western Bound Wrangled by INSP
@@ -6751,11 +6757,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 354 American Ninja Warrior
 URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 Logo: https://image.xumo.com/v1/channels/channel/99993042/600x200.png?type=white_cropped
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 356 Pluto TV Reality
-URL: https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
-Logo: https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 357 DCC: Making the Team
@@ -7316,11 +7317,6 @@ Source: https://www.apsattv.com/uslg.m3u
 Name: 511 Saved by the Bell
 URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99993019/hls/master.m3u8?ads.xumo_channelId=99993019&ads.asnw=169843&ads.afid=380750681&ads.sfid=17556737&ads.csid=lgchannels_us_nbcusavedbythebell_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Comedy,Entertainment,GV&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3942&ads.xumo_contentName=NBCUSavedBytheBell&ads.xumo_providerId=3942&ads.xumo_providerName=NBCUSavedBytheBell&ads.channelId=99993019&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 Logo: https://image.xumo.com/v1/channels/channel/99993019/600x200.png?type=white_cropped
-Source: https://www.apsattv.com/uslg.m3u
---------------------------------------------------
-Name: 512 Comedy Central Pluto TV
-URL: https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
-Logo: https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png
 Source: https://www.apsattv.com/uslg.m3u
 --------------------------------------------------
 Name: 513 Animation+
@@ -8235,11 +8231,6 @@ URL: https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi
 Logo: https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: KSCN-DT1
-URL: https://stream-losangeles.scientology.org/master.m3u8
-Logo: https://i.imgur.com/HFmkjiR.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Lakewood Channel 8 (Lakewood CO) (720p)
 URL: https://live8fd.lakewood.org/live-2/live/live.m3u8
 Logo: https://i.imgur.com/5ibsRhM.png
@@ -8423,6 +8414,16 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Scientology Network (1080p)
 URL: https://stream6.scientology.org/master.m3u8
 Logo: https://i.imgur.com/HOYF8NA.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Scientology Network KSCN-DT1
+URL: https://stream-losangeles.scientology.org/master.m3u8
+Logo: https://i.imgur.com/HFmkjiR.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Scientology Network WFTT-DT1
+URL: https://stream-tampa.scientology.org/master.m3u8
+Logo: https://i.imgur.com/HFmkjiR.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Shemaroo Bollywood (1080p)
@@ -8633,11 +8634,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: WFLD-DT1 (1080p)
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: WFTT-DT1
-URL: https://stream-tampa.scientology.org/master.m3u8
-Logo: https://i.imgur.com/HFmkjiR.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WFTX News Fort Myers FL (720p)
