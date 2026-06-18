@@ -52,8 +52,8 @@ Source: https://m3u.work/qKChzP8.m3u
 
 Group: Auto
 Name: Pluto TV Motor
-URL: https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
-Logo: https://i.imgur.com/LSrfnpB.png
+URL: https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+Logo: https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -87,11 +87,6 @@ Name: Pluto TV Cocina
 URL: https://jmp2.uk/stvp-ESAJ3800007PC
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Pluto TV Cocina
-URL: https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
-Logo: https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: Ciudadanos por el mundo
 URL: https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
@@ -137,17 +132,31 @@ Source: https://m3u.work/hJiHE3ad.m3u
 Group: Comedy
 Name: Pluto TV Comedia made in Spain
 URL: https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-Logo: https://i.imgur.com/8ddFdSQ.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Comedy Movies
-URL: https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
-Logo: https://i.imgur.com/BpsDY37.png
+Logo: https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Vaya semanita
 URL: https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
 Logo: https://i.imgur.com/0bCLNUG.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Comedia a lo bestia de Pluto TV
+URL: https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+Logo: https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+
+Group: Comedy;Movies
+Name: Pluto TV Comedias Románticas
+URL: https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+Logo: https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+
+Group: Cooking;Lifestyle
+Name: Pluto TV Cocina
+URL: https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+Logo: https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -450,6 +459,13 @@ Logo: https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_lo
 Source: https://m3u.work/hJiHE3ad.m3u
 --------------------------------------------------
 
+Group: Documentary;Series
+Name: Pluto TV True Crime
+URL: https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
+Logo: https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+
 Group: Eventuales
 Name: Canal Parlamento
 URL: https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
@@ -524,11 +540,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Conciertos Radio 3
 URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Feria del libro
-URL: https://ztnr.rtve.es/ztnr/16541484.m3u8
-Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio 3
@@ -833,11 +844,6 @@ URL: https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
 Logo: https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
-Name: Pluto TV Comedias Románticas
-URL: https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
-Logo: https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
 Name: Pluto TV Psycho
 URL: https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 Logo: https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png
@@ -1033,11 +1039,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Antena 3
 URL: http://92.176.119.180:2095/play/a1ee
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cuatro
-URL: http://92.176.119.180:2095/play/a1g2
-Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Telecinco
@@ -1373,7 +1374,7 @@ Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwor
 Source: https://m3u.work/ICEQGPH.m3u
 --------------------------------------------------
 Name: Pingu
-URL: https://pingu-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7627/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.105.93&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_id=7629&ads.rtv_channel_name=pingu-rakuten-tv_es&ads.rtv_content_id=7629&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271859&ads.streaming_id=6f4e57b3-7ce5-458a-9cb1-d54c798f0f0d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=7629&publishing_platform_id=5&tenant_identifier=rtv
+URL: https://pingu-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7627/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.105.93&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_id=7629&ads.rtv_channel_name=pingu-rakuten-tv_es&ads.rtv_content_id=7629&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271859&ads.streaming_id=a57569b4-767c-46cb-bcd0-6ba208225755&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=7629&publishing_platform_id=5&tenant_identifier=rtv
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2f3db495-660f-48f8-805c-2bd5f35ee8c4.jpeg
 Source: https://m3u.work/ICEQGPH.m3u
 --------------------------------------------------
@@ -1931,6 +1932,28 @@ Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
+Group: Pluto TV Fútbol
+Name: FIFA+
+URL: https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
+Logo: https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Fútbol
+URL: https://jmp2.uk/plu-69f0bb1a00ad62de02a6b716.m3u8
+Logo: https://images.pluto.tv/channels/69f0bb1a00ad62de02a6b716/colorLogoPNG_1777475097079.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Realmadrid TV
+URL: https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
+Logo: https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: TOP BARÇA
+URL: https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8
+Logo: https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+
 Group: Radio_Andalucía
 Name: Canal Sur Radio Málaga
 URL: https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3
@@ -2428,11 +2451,6 @@ Source: https://m3u.work/YawDD3.m3u
 Name: The Good Wife
 URL: https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
 Logo: https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Comedia a lo bestia de Pluto TV
-URL: https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-Logo: https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: BBC Series
