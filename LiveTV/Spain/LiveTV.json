@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18 23:58:00",
+  "date": "2026-06-19 10:19:47",
   "channels": {
     "Generalistas": [
       {
@@ -24,53 +24,11 @@
         "url": "https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8"
       },
       {
-        "name": "La 2",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_logo.png",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1fb"
-      },
-      {
-        "name": "Antena 3",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1ee"
-      },
-      {
-        "name": "Telecinco",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1fq"
-      },
-      {
-        "name": "La Sexta",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1ef"
-      },
-      {
         "name": "Canal Sur Andalucía",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
-      },
-      {
-        "name": "Neox",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1eg"
-      },
-      {
-        "name": "Nova",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1eh"
       },
       {
         "name": "Atreseries",
@@ -80,74 +38,11 @@
         "url": "https://live.sakutv.workers.dev/hls/atreseries"
       },
       {
-        "name": "Mega",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1ei"
-      },
-      {
-        "name": "Divinity",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1g1"
-      },
-      {
-        "name": "Factoría de Ficción",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1fo"
-      },
-      {
-        "name": "Energy",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1ep"
-      },
-      {
         "name": "Be Mad",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://live.sakutv.workers.dev/hls/bemad"
-      },
-      {
-        "name": "Squirrel",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1ey"
-      },
-      {
-        "name": "Squirrel 2",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel2_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1ez"
-      },
-      {
-        "name": "BOM Cine",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bomcine_cuadrado2.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1fu"
-      },
-      {
-        "name": "Veo7",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/veo7_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1f1"
-      },
-      {
-        "name": "TRECE",
-        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/trece_cuadrado.jpg",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://92.176.119.180:2095/play/a1em"
       },
       {
         "name": "RNE para todos",
@@ -401,13 +296,6 @@
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8"
-      },
-      {
-        "name": "Teledeporte (1080p)",
-        "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
-        "group": "Deportivos",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "http://92.176.119.180:2095/play/a1f6"
       },
       {
         "name": "LaLiga Hypermotion",

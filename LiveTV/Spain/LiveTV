@@ -18,46 +18,10 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg"
   },
   {
-    "name": "La 2",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1fb",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_logo.png"
-  },
-  {
-    "name": "Antena 3",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1ee",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg"
-  },
-  {
-    "name": "Telecinco",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1fq",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg"
-  },
-  {
-    "name": "La Sexta",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1ef",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg"
-  },
-  {
     "name": "Canal Sur Andalucía",
     "type": "Generalistas",
     "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg"
-  },
-  {
-    "name": "Neox",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1eg",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg"
-  },
-  {
-    "name": "Nova",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1eh",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg"
   },
   {
     "name": "Atreseries",
@@ -66,64 +30,10 @@
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg"
   },
   {
-    "name": "Mega",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1ei",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg"
-  },
-  {
-    "name": "Divinity",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1g1",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg"
-  },
-  {
-    "name": "Factoría de Ficción",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1fo",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg"
-  },
-  {
-    "name": "Energy",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1ep",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg"
-  },
-  {
     "name": "Be Mad",
     "type": "Generalistas",
     "url": "https://live.sakutv.workers.dev/hls/bemad",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg"
-  },
-  {
-    "name": "Squirrel",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1ey",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel_cuadrado.jpg"
-  },
-  {
-    "name": "Squirrel 2",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1ez",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/squirrel2_cuadrado.jpg"
-  },
-  {
-    "name": "BOM Cine",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1fu",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bomcine_cuadrado2.jpg"
-  },
-  {
-    "name": "Veo7",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1f1",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/veo7_cuadrado.jpg"
-  },
-  {
-    "name": "TRECE",
-    "type": "Generalistas",
-    "url": "http://92.176.119.180:2095/play/a1em",
-    "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/trece_cuadrado.jpg"
   },
   {
     "name": "RNE para todos",
@@ -334,12 +244,6 @@
     "type": "Deportivos",
     "url": "https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg"
-  },
-  {
-    "name": "Teledeporte (1080p)",
-    "type": "Deportivos",
-    "url": "http://92.176.119.180:2095/play/a1f6",
-    "img": "https://i.ibb.co/0jxLdjnY/TDP.png"
   },
   {
     "name": "LaLiga Hypermotion",
