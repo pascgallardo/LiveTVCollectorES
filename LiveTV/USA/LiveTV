@@ -738,6 +738,12 @@
     "img": "https://i.imgur.com/eAS86qH.png"
   },
   {
+    "name": "Cine Nostalgia (720p)",
+    "type": "Movies",
+    "url": "https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8",
+    "img": "https://i.imgur.com/LLwppwB.png"
+  },
+  {
     "name": "Cine Premiere",
     "type": "Movies",
     "url": "https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8",
@@ -826,6 +832,18 @@
     "type": "Movies",
     "url": "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8",
     "img": "https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png"
+  },
+  {
+    "name": "IFC (1080p)",
+    "type": "Movies",
+    "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
+    "img": "https://i.imgur.com/bQdkyF9.png"
+  },
+  {
+    "name": "Lifetime Movies (1080p)",
+    "type": "Movies",
+    "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
+    "img": "https://i.imgur.com/BWmqYTO.png"
   },
   {
     "name": "Made in Hollywood",
@@ -1218,6 +1236,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png"
   },
   {
+    "name": "ESPNU (720p)",
+    "type": "Sports",
+    "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+    "img": "https://i.imgur.com/HiBrysh.png"
+  },
+  {
     "name": "F1 Channel (1080p) [Geo-blocked]",
     "type": "Sports",
     "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
@@ -1312,6 +1336,12 @@
     "type": "Sports",
     "url": "http://31.148.48.15/M1_Global/index.m3u8",
     "img": "https://i.imgur.com/Qxco1eW.png"
+  },
+  {
+    "name": "MSG (720p)",
+    "type": "Sports",
+    "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+    "img": "https://i.imgur.com/SEQFh0P.png"
   },
   {
     "name": "NBA TV (1080p) [Geo-blocked]",
@@ -2154,6 +2184,12 @@
     "img": "https://i.imgur.com/RIUNuMQ.png"
   },
   {
+    "name": "FYI (720p)",
+    "type": "Lifestyle",
+    "url": "http://185.246.209.113/FYIHD/index.m3u8",
+    "img": "https://i.imgur.com/PggQk7F.png"
+  },
+  {
     "name": "Global Fashion Channel (1080p)",
     "type": "Lifestyle",
     "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
@@ -2784,6 +2820,12 @@
     "img": "https://i.imgur.com/5kdG4Dm.png"
   },
   {
+    "name": "BET Her (720p)",
+    "type": "Entertainment",
+    "url": "http://41.205.93.154/BETHER/index.m3u8",
+    "img": "https://i.imgur.com/oafsrlo.png"
+  },
+  {
     "name": "BET Pluto TV",
     "type": "Entertainment",
     "url": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8",
@@ -2908,6 +2950,12 @@
     "type": "Entertainment",
     "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
     "img": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"
+  },
+  {
+    "name": "GetTV (720p)",
+    "type": "Entertainment",
+    "url": "https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8",
+    "img": "https://i.imgur.com/evOWORd.png"
   },
   {
     "name": "GlobalWorldTV (720p)",
@@ -3364,6 +3412,12 @@
     "type": "Auto",
     "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU"
+  },
+  {
+    "name": "Motor Trend (720p)",
+    "type": "Auto",
+    "url": "http://185.246.209.113/MotorTrendHD/index.m3u8",
+    "img": "https://i.imgur.com/hKDccCL.png"
   },
   {
     "name": "Pluto TV Cars",
@@ -5238,6 +5292,12 @@
     "img": "https://i.imgur.com/RAfuLul.png"
   },
   {
+    "name": "BET (720p)",
+    "type": "Undefined",
+    "url": "http://41.205.93.154/BET-EN/index.m3u8",
+    "img": "https://i.imgur.com/copIbc9.png"
+  },
+  {
     "name": "Beverly Hills Television 10 (720p)",
     "type": "Undefined",
     "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8",
@@ -5248,6 +5308,18 @@
     "type": "Undefined",
     "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8",
     "img": "https://i.imgur.com/3Gqc5f2.png"
+  },
+  {
+    "name": "Big Ten Network (720p)",
+    "type": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png"
+  },
+  {
+    "name": "Bounce (720p)",
+    "type": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png"
   },
   {
     "name": "Bravo (720p)",
@@ -5802,9 +5874,9 @@
     "img": "https://i.imgur.com/QWPJQnr.png"
   },
   {
-    "name": "Vice TV (1080p)",
+    "name": "VICE TV (1080p)",
     "type": "Undefined",
-    "url": "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8",
+    "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png"
   },
   {
@@ -6045,6 +6117,12 @@
     "name": "WPIX-DT1",
     "type": "Undefined",
     "url": "https://e1.thetvapp.to/hls/WPIX/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png"
+  },
+  {
+    "name": "WPIX-HD (576p)",
+    "type": "Undefined",
+    "url": "http://84.17.50.102/cw/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png"
   },
   {
@@ -6852,6 +6930,12 @@
     "img": "https://i.imgur.com/mhAAIa2.png"
   },
   {
+    "name": "Kids Street (1080p)",
+    "type": "Kids",
+    "url": "http://181.78.121.15:8000/play/a00a/index.m3u8",
+    "img": "https://i.imgur.com/gUwRl6Q.png"
+  },
+  {
     "name": "LEGO Kids TV",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8",
@@ -6870,6 +6954,12 @@
     "img": "https://i.imgur.com/PVt8OPN.png"
   },
   {
+    "name": "Nick Jr. (576p)",
+    "type": "Kids",
+    "url": "http://84.17.50.102/nickjr/index.m3u8",
+    "img": "https://i.imgur.com/KT4tdQs.png"
+  },
+  {
     "name": "Nick Jr. Pluto TV (720p)",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
@@ -6886,6 +6976,12 @@
     "type": "Kids",
     "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
     "img": "https://i.imgur.com/G1J4IsT.png"
+  },
+  {
+    "name": "Nicktoons (720p)",
+    "type": "Kids",
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png"
   },
   {
     "name": "Ninja Kidz (720p)",
@@ -7048,6 +7144,12 @@
     "type": "Family",
     "url": "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Freeform (720p)",
+    "type": "Family",
+    "url": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8",
+    "img": "https://i.imgur.com/BGAGeIf.png"
   },
   {
     "name": "Hallmark Channel (1080p)",
@@ -7482,6 +7584,12 @@
     "img": "https://i.imgur.com/V5vvuLK.png"
   },
   {
+    "name": "History (576p)",
+    "type": "Documentary",
+    "url": "http://84.17.50.102/history/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
     "name": "History Hit (1080p)",
     "type": "Documentary",
     "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
@@ -7744,6 +7852,12 @@
     "type": "Classic",
     "url": "https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8",
     "img": "https://i.imgur.com/7ad6NQ8.png"
+  },
+  {
+    "name": "TV Land (720p)",
+    "type": "Classic",
+    "url": "http://185.246.209.113/TVLandHD/index.m3u8",
+    "img": "https://i.imgur.com/VNNS4mF.png"
   },
   {
     "name": "TVS Cipher Network (360p)",
@@ -8076,6 +8190,12 @@
     "img": "https://i.imgur.com/OxbIla4.png"
   },
   {
+    "name": "Smithsonian Channel (720p)",
+    "type": "Science",
+    "url": "http://185.246.209.113/SmithsonianHD/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png"
+  },
+  {
     "name": "Smithsonian Channel Selects",
     "type": "Science",
     "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
@@ -8104,6 +8224,12 @@
     "type": "Comedy;Movies;Series",
     "url": "http://190.2.212.209:8050/play/a0q4",
     "img": "https://i.imgur.com/avBL8pQ.png"
+  },
+  {
+    "name": "USA Network (720p)",
+    "type": "Comedy;Movies;Series;Sports",
+    "url": "http://185.246.209.113/DISCOVERYHD/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
   },
   {
     "name": "100 WORLD PUP",
