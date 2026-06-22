@@ -213,8 +213,8 @@ URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 Logo: https://i.imgur.com/IDvpRNI.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Canal 5 (720p) [Geo-blocked]
-URL: http://45.5.119.43:4000/play/a05o/index.m3u8
+Name: Canal 5 (1080p)
+URL: http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 Logo: https://i.imgur.com/uZdVSoW.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
@@ -471,6 +471,11 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: TV Mar Puerto Vallarta (1080p)
 URL: https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 Logo: https://i.imgur.com/z9iVlMn.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+Name: TV Migrante (720p)
+URL: https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+Logo: https://i.imgur.com/tVgkiJF.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: TVP Culiacán (720p) [Not 24/7]
