@@ -2202,9 +2202,9 @@
     "img": "https://i.imgur.com/VwAMqA7.png"
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Lifestyle\",Kaloopy (720p)",
+    "name": "Kaloopy TV (1080p)",
     "type": "Lifestyle",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0",
+    "url": "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8",
     "img": "https://i.imgur.com/XPyOTZF.jpeg"
   },
   {
@@ -2955,7 +2955,7 @@
     "name": "Game Show Network East (720p) [Not 24/7]",
     "type": "Entertainment",
     "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
-    "img": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png"
   },
   {
     "name": "GetTV (720p)",
@@ -3022,6 +3022,12 @@
     "type": "Entertainment",
     "url": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8",
     "img": "https://i.imgur.com/lRy231d.png"
+  },
+  {
+    "name": "KCKS-LD 25.3 (720p)",
+    "type": "Entertainment",
+    "url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8",
+    "img": "https://i.imgur.com/KtXQeeZ.png"
   },
   {
     "name": "KFTR-DT1 [Geo-blocked]",
@@ -5026,6 +5032,12 @@
     "type": "General",
     "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8",
     "img": "https://i.imgur.com/4z0FiEA.png"
+  },
+  {
+    "name": "RTR-Planeta US (720p)",
+    "type": "General",
+    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_usa/playlist_4.m3u8",
+    "img": "https://i.imgur.com/0YEahxs.png"
   },
   {
     "name": "RTVi US",
