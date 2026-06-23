@@ -468,6 +468,30 @@
     "img": "https://i.imgur.com/EW2z5Ko.jpg"
   },
   {
+    "name": "AXN Latin America Mexico",
+    "type": "Movies",
+    "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
+    "type": "Movies",
+    "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/Hiz2OyC.png"
+  },
+  {
+    "name": "Filmex Clásico (1080p) [Geo-blocked]",
+    "type": "Movies",
+    "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/D3dj4mv.png"
+  },
+  {
+    "name": "MyTime Movie Network Mexico (720p)",
+    "type": "Movies",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/pw4NZK1.png"
+  },
+  {
     "name": "Azteca Internacional (1080p)",
     "type": "Entertainment",
     "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
@@ -484,6 +508,12 @@
     "type": "Entertainment",
     "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
     "img": "https://i.imgur.com/R3icGuG.png"
+  },
+  {
+    "name": "MTV Latin America (1080p)",
+    "type": "Entertainment",
+    "url": "http://179.60.51.134:8888/MTV/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
     "name": "Teleplay Sureste (720p)",
@@ -538,6 +568,12 @@
     "type": "Undefined",
     "url": "https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8",
     "img": "https://i.imgur.com/pAppH1M.png"
+  },
+  {
+    "name": "Panico (576p)",
+    "type": "Undefined",
+    "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8",
+    "img": "https://i.imgur.com/XOJzlfS.png"
   },
   {
     "name": "RCG TV (1080p)",
@@ -810,28 +846,16 @@
     "img": "https://gia.tv/streams/pptv/211465.png"
   },
   {
+    "name": "Nick Jr. Latin America (1080p)",
+    "type": "Kids",
+    "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8",
+    "img": "https://i.imgur.com/KT4tdQs.png"
+  },
+  {
     "name": "Estrella Games (1080p)",
     "type": "Entertainment;Family",
     "url": "https://estrella-games-oando.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/Z52nEnH.png"
-  },
-  {
-    "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
-    "type": "Movies",
-    "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/Hiz2OyC.png"
-  },
-  {
-    "name": "Filmex Clásico (1080p) [Geo-blocked]",
-    "type": "Movies",
-    "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/D3dj4mv.png"
-  },
-  {
-    "name": "MyTime Movie Network Mexico (720p)",
-    "type": "Movies",
-    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/pw4NZK1.png"
   },
   {
     "name": "GikTVMX (720p)",
