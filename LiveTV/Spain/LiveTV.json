@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-24 23:28:50",
+  "date": "2026-06-25 09:28:08",
   "channels": {
     "Generalistas": [
       {
@@ -1946,13 +1946,6 @@
         "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8"
       },
       {
-        "name": "Star Trek: The Next Generation",
-        "logo": "https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1752727094278.png",
-        "group": "Shows",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8"
-      },
-      {
         "name": "Star Trek: Voyager",
         "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
         "group": "Shows",
@@ -3382,6 +3375,15 @@
         "group": "Música & ambiente",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES2200001SF"
+      }
+    ],
+    "Nuevo en Pluto TV": [
+      {
+        "name": "Jackass",
+        "logo": "https://images.pluto.tv/channels/69e9dd293323dd0f1231418d/colorLogoPNG_1780494583570.png",
+        "group": "Nuevo en Pluto TV",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-69e9dd293323dd0f1231418d.m3u8"
       }
     ],
     "Pluto TV Fútbol": [

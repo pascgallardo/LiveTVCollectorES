@@ -1852,6 +1852,13 @@ Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
+Group: Nuevo en Pluto TV
+Name: Jackass
+URL: https://jmp2.uk/plu-69e9dd293323dd0f1231418d.m3u8
+Logo: https://images.pluto.tv/channels/69e9dd293323dd0f1231418d/colorLogoPNG_1780494583570.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+
 Group: Pluto TV Fútbol
 Name: FIFA+
 URL: https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
@@ -2276,11 +2283,6 @@ Source: https://m3u.work/qKChzP8.m3u
 Name: Pluto TV Series
 URL: https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 Logo: https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Star Trek: The Next Generation
-URL: https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
-Logo: https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1752727094278.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: Star Trek: Voyager
