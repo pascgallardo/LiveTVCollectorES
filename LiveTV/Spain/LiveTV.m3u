@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg" group-title="Generalistas",La 1
-https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_logo.png" group-title="Generalistas",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
@@ -28,7 +28,9 @@ https://especial7tv.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg" group-title="Andalucía",Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AlmerTV/picture?width=200&height=200" group-title="Andalucía",Almería TV
-https://broadcast1.radioponiente.org/live/smil:atv.smil/playlist.m3u8
+https://broadcast1.radioponiente.org/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/101Almeria/picture?width=200&height=200" group-title="Andalucía",101TV Almería
+https://liveingesta318.cdnmedia.tv/101weblive/smil:ALMERIA.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101tv_cuadrado.jpg" group-title="Andalucía",101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg" group-title="Andalucía",Parlamento de Andalucía
@@ -63,6 +65,8 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg" group-title="Eventuales",Conciertos Radio 3
 https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Orgullo (RTVE)
+https://ztnr.rtve.es/ztnr/16620298.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg" group-title="Eventuales",Radio 3
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
@@ -80,7 +84,7 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/france24esp_cuadrado.jpg" group-title="Informativos",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg" group-title="Deportivos",Teledeporte
-https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laligahypermotion_cuadrado.jpg" group-title="Deportivos",LaLiga Hypermotion
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/laliga_cuadrado.jpg" group-title="Deportivos",LaLiga TV
@@ -621,6 +625,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg" group-title="Int. Europa",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200" group-title="Int. Europa",TV Canaria Net
+https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg" group-title="Int. Europa",Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/solmusica_rosa_cuadrado.jpg" group-title="Musicales",Sol Música España
@@ -895,12 +901,16 @@ https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
 http://185.23.192.118:8014/;stream.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200" group-title="Radio_Andalucía",Spectrum FM
 https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200" group-title="Radio_Andalucía",Like Music Almería
+https://broadcast.radioponiente.org:8066/;.mp3
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Comedy",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bCLNUG.png" group-title="Comedy",Vaya semanita
 https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="Comedy",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Auto",Pluto TV Motor
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Cooking;Lifestyle",Pluto TV Cocina

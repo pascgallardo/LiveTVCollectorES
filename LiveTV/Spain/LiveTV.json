@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-26 16:24:36",
+  "date": "2026-06-26 23:22:13",
   "channels": {
     "Generalistas": [
       {
@@ -7,7 +7,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619"
       },
       {
         "name": "La 1",
@@ -107,7 +107,14 @@
         "logo": "https://graph.facebook.com/AlmerTV/picture?width=200&height=200",
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://broadcast1.radioponiente.org/live/smil:atv.smil/playlist.m3u8"
+        "url": "https://broadcast1.radioponiente.org/atv/index.m3u8"
+      },
+      {
+        "name": "101TV Almería",
+        "logo": "https://graph.facebook.com/101Almeria/picture?width=200&height=200",
+        "group": "Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:ALMERIA.smil/playlist.m3u8"
       },
       {
         "name": "101tv Malaga",
@@ -231,6 +238,13 @@
         "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8"
       },
       {
+        "name": "Orgullo (RTVE)",
+        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/16620298.m3u8"
+      },
+      {
         "name": "Radio 3",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg",
         "group": "Eventuales",
@@ -295,7 +309,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg",
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601"
       },
       {
         "name": "LaLiga Hypermotion",
@@ -2200,6 +2214,13 @@
         "url": "http://177.10.184.193:8000/play/a06a/index.m3u8"
       },
       {
+        "name": "TV Canaria Net",
+        "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200",
+        "group": "Int. Europa",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8"
+      },
+      {
         "name": "Star TVE",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg",
         "group": "Int. Europa",
@@ -3167,6 +3188,13 @@
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1"
+      },
+      {
+        "name": "Like Music Almería",
+        "logo": "https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200",
+        "group": "Radio_Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://broadcast.radioponiente.org:8066/;.mp3"
       }
     ],
     "Comedy": [
@@ -3190,6 +3218,13 @@
         "group": "Comedy",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8"
+      },
+      {
+        "name": "Comedy Central (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+        "group": "Comedy",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8"
       }
     ],
     "Auto": [

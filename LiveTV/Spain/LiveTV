@@ -2,7 +2,7 @@
   {
     "name": "La 1",
     "type": "Generalistas",
-    "url": "https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg"
   },
   {
@@ -86,8 +86,14 @@
   {
     "name": "Almería TV",
     "type": "Andalucía",
-    "url": "https://broadcast1.radioponiente.org/live/smil:atv.smil/playlist.m3u8",
+    "url": "https://broadcast1.radioponiente.org/atv/index.m3u8",
     "img": "https://graph.facebook.com/AlmerTV/picture?width=200&height=200"
+  },
+  {
+    "name": "101TV Almería",
+    "type": "Andalucía",
+    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:ALMERIA.smil/playlist.m3u8",
+    "img": "https://graph.facebook.com/101Almeria/picture?width=200&height=200"
   },
   {
     "name": "101tv Malaga",
@@ -192,6 +198,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg"
   },
   {
+    "name": "Orgullo (RTVE)",
+    "type": "Eventuales",
+    "url": "https://ztnr.rtve.es/ztnr/16620298.m3u8",
+    "img": "https://graph.facebook.com/rtveplay/picture?width=200&height=200"
+  },
+  {
     "name": "Radio 3",
     "type": "Eventuales",
     "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
@@ -242,7 +254,7 @@
   {
     "name": "Teledeporte",
     "type": "Deportivos",
-    "url": "https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg"
   },
   {
@@ -1866,6 +1878,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg"
   },
   {
+    "name": "TV Canaria Net",
+    "type": "Int. Europa",
+    "url": "https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8",
+    "img": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200"
+  },
+  {
     "name": "Star TVE",
     "type": "Int. Europa",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
@@ -2688,6 +2706,12 @@
     "img": "https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200"
   },
   {
+    "name": "Like Music Almería",
+    "type": "Radio_Andalucía",
+    "url": "https://broadcast.radioponiente.org:8066/;.mp3",
+    "img": "https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200"
+  },
+  {
     "name": "Pluto TV Comedia made in Spain",
     "type": "Comedy",
     "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8",
@@ -2704,6 +2728,12 @@
     "type": "Comedy",
     "url": "https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8",
     "img": "https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png"
+  },
+  {
+    "name": "Comedy Central (1080p)",
+    "type": "Comedy",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
   },
   {
     "name": "Pluto TV Motor",

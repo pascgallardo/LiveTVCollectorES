@@ -35,8 +35,13 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoan
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Almería TV
-URL: https://broadcast1.radioponiente.org/live/smil:atv.smil/playlist.m3u8
+URL: https://broadcast1.radioponiente.org/atv/index.m3u8
 Logo: https://graph.facebook.com/AlmerTV/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: 101TV Almería
+URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:ALMERIA.smil/playlist.m3u8
+Logo: https://graph.facebook.com/101Almeria/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101tv Malaga
@@ -145,6 +150,11 @@ URL: https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 Logo: https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Comedy Central (1080p)
+URL: https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 
 Group: Comedy;Movies
 Name: Pluto TV Comedias Románticas
@@ -162,7 +172,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 
 Group: Deportivos
 Name: Teledeporte
-URL: https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -535,6 +545,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Conciertos Radio 3
 URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Orgullo (RTVE)
+URL: https://ztnr.rtve.es/ztnr/16620298.m3u8
+Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Radio 3
@@ -1012,7 +1027,7 @@ Source: https://m3u.work/hJiHE3ad.m3u
 
 Group: Generalistas
 Name: La 1
-URL: https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1370,6 +1385,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Antena 3 Internacional
 URL: http://177.10.184.193:8000/play/a06a/index.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: TV Canaria Net
+URL: https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
+Logo: https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Star TVE
@@ -1990,6 +2010,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Spectrum FM
 URL: https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
 Logo: https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Like Music Almería
+URL: https://broadcast.radioponiente.org:8066/;.mp3
+Logo: https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
