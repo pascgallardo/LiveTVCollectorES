@@ -1032,9 +1032,9 @@
     "img": "https://i.imgur.com/A4yWhQw.png"
   },
   {
-    "name": "Universal Cinema (480p)",
+    "name": "Universal Cinema (1080p)",
     "type": "Movies",
-    "url": "http://190.2.212.209:8050/play/a0q3",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8",
     "img": "https://i.imgur.com/XxfET68.png"
   },
   {
@@ -1506,9 +1506,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png"
   },
   {
-    "name": "Unbeaten Sports Channel (1080p)",
+    "name": "Unbeaten (1080p)",
     "type": "Sports",
-    "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+    "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8",
     "img": "https://i.imgur.com/LmkNt3v.png"
   },
   {
@@ -3960,9 +3960,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png"
   },
   {
-    "name": "Universal Crime (1080p)",
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Universal Crime (1080p)",
     "type": "Series",
-    "url": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8",
     "img": "https://i.imgur.com/OwSlGMu.png"
   },
   {
@@ -6366,6 +6366,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
   },
   {
+    "name": "Yes Network (720p)",
+    "type": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png"
+  },
+  {
     "name": "Yu-Gi-Oh! en espanol (1080p)",
     "type": "Undefined",
     "url": "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8",
@@ -8022,6 +8028,12 @@
     "img": "https://i.imgur.com/8j2npVc.png"
   },
   {
+    "name": "Retro TV (720p)",
+    "type": "Classic",
+    "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8",
+    "img": "https://i.imgur.com/iUTL0pm.png"
+  },
+  {
     "name": "Samuel Goldwyn Classics (1080p)",
     "type": "Classic",
     "url": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8",
@@ -8140,6 +8152,12 @@
     "type": "Classic",
     "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
     "img": "https://i.imgur.com/nNy9oTx.png"
+  },
+  {
+    "name": "Westerns 4U (1080p)",
+    "type": "Classic",
+    "url": "http://181.224.255.210:8001/play/a0rq/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Bloomberg Originals (1080p)",
@@ -8418,9 +8436,9 @@
     "img": "https://i.imgur.com/bjcpeVH.png"
   },
   {
-    "name": "Universal Comedy (480p)",
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
     "type": "Comedy;Movies;Series",
-    "url": "http://190.2.212.209:8050/play/a0q4",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
     "img": "https://i.imgur.com/avBL8pQ.png"
   },
   {
