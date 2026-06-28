@@ -1189,7 +1189,7 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/extremadurap
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: EnerGeek TV
-URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
