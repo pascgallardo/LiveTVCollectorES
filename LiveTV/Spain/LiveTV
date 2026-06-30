@@ -618,22 +618,16 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg"
   },
   {
-    "name": "Las Tortugas Ninja",
-    "type": "Infantiles",
-    "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
-    "img": "https://i.imgur.com/urJdNc9.png"
-  },
-  {
     "name": "Bob Esponja",
     "type": "Infantiles",
     "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8",
-    "img": "https://i.imgur.com/nmZ2nId.png"
+    "img": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png"
   },
   {
     "name": "Rugrats",
     "type": "Infantiles",
     "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
-    "img": "https://i.imgur.com/l5XmvM1.png"
+    "img": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png"
   },
   {
     "name": "Pluto TV Anime",
@@ -744,6 +738,12 @@
     "img": "https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png"
   },
   {
+    "name": "Las Tortugas Ninja",
+    "type": "Infantiles",
+    "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
+    "img": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png"
+  },
+  {
     "name": "iCarly",
     "type": "Infantiles",
     "url": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8",
@@ -796,12 +796,6 @@
     "type": "Infantiles",
     "url": "https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8",
     "img": "https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png"
-  },
-  {
-    "name": "South Park",
-    "type": "Infantiles",
-    "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
-    "img": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png"
   },
   {
     "name": "Pingu",
@@ -1918,6 +1912,18 @@
     "type": "Radio_Andalucía",
     "url": "https://broadcast.radioponiente.org:8066/;.mp3",
     "img": "https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200"
+  },
+  {
+    "name": "South Park",
+    "type": "Animation;Comedy",
+    "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
+    "img": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png"
+  },
+  {
+    "name": "South Park Versión Original",
+    "type": "Animation;Comedy",
+    "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8",
+    "img": "https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png"
   },
   {
     "name": "24H",

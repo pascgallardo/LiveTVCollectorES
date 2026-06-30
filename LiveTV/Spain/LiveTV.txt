@@ -30,6 +30,18 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoan
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
+Group: Animation;Comedy
+Name: South Park
+URL: https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+Logo: https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: South Park Versión Original
+URL: https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+Logo: https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+
 Group: Cine
 Name: Acción - Rakuten TV
 URL: https://jmp2.uk/stvp-ES2600004BD
@@ -1218,19 +1230,14 @@ URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Las Tortugas Ninja
-URL: https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
-Logo: https://i.imgur.com/urJdNc9.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Bob Esponja
 URL: https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-Logo: https://i.imgur.com/nmZ2nId.png
+Logo: https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Rugrats
 URL: https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-Logo: https://i.imgur.com/l5XmvM1.png
+Logo: https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Pluto TV Anime
@@ -1323,6 +1330,11 @@ URL: https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 Logo: https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
+Name: Las Tortugas Ninja
+URL: https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
+Logo: https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: iCarly
 URL: https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 Logo: https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png
@@ -1366,11 +1378,6 @@ Source: https://m3u.work/YawDD3.m3u
 Name: Mattel Junior
 URL: https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
 Logo: https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: South Park
-URL: https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-Logo: https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: Pingu

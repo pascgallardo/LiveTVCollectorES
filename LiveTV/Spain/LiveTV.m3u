@@ -205,11 +205,9 @@ https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg" group-title="Infantiles",Mr Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/urJdNc9.png" group-title="Infantiles",Las Tortugas Ninja
-https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="Infantiles",Bob Esponja
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Infantiles",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5XmvM1.png" group-title="Infantiles",Rugrats
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Infantiles",Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png" group-title="Infantiles",Pluto TV Anime
 https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
@@ -247,6 +245,8 @@ https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="Infantiles",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Infantiles",Las Tortugas Ninja
+https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="Infantiles",iCarly
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png" group-title="Infantiles",Winx Club
@@ -265,8 +265,6 @@ https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
 https://jmp2.uk/plu-68e8fe3bcba140ddfe903677.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png" group-title="Infantiles",Mattel Junior
 https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Infantiles",South Park
-https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2f3db495-660f-48f8-805c-2bd5f35ee8c4.jpeg" group-title="Infantiles",Pingu
 https://pingu-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7627/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=79.156.27.254&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_id=7629&ads.rtv_channel_name=pingu-rakuten-tv_es&ads.rtv_content_id=7629&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271859&ads.streaming_id=fbc2df4e-f74d-4040-ae81-15cbb5e0ee6b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=7629&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Films",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Films",AXN
@@ -639,6 +637,10 @@ http://185.23.192.118:8014/;stream.mp3
 https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200" group-title="Radio_Andalucía",Like Music Almería
 https://broadcast.radioponiente.org:8066/;.mp3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Animation;Comedy",South Park
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Animation;Comedy",South Park Versión Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260622T063654SQUARE.png" group-title="Noticias",24H
 https://jmp2.uk/stvp-ESBC4100004J1
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260324T034819SQUARE.png" group-title="Noticias",Actualidad 360

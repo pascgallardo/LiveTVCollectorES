@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29 23:40:36",
+  "date": "2026-06-30 09:30:13",
   "channels": {
     "Generalistas": [
       {
@@ -738,22 +738,15 @@
         "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
       },
       {
-        "name": "Las Tortugas Ninja",
-        "logo": "https://i.imgur.com/urJdNc9.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
-      },
-      {
         "name": "Bob Esponja",
-        "logo": "https://i.imgur.com/nmZ2nId.png",
+        "logo": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
       },
       {
         "name": "Rugrats",
-        "logo": "https://i.imgur.com/l5XmvM1.png",
+        "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
@@ -885,6 +878,13 @@
         "url": "https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8"
       },
       {
+        "name": "Las Tortugas Ninja",
+        "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
+        "group": "Infantiles",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
+      },
+      {
         "name": "iCarly",
         "logo": "https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png",
         "group": "Infantiles",
@@ -946,13 +946,6 @@
         "group": "Infantiles",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8"
-      },
-      {
-        "name": "South Park",
-        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"
       },
       {
         "name": "Pingu",
@@ -2271,6 +2264,22 @@
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://broadcast.radioponiente.org:8066/;.mp3"
+      }
+    ],
+    "Animation;Comedy": [
+      {
+        "name": "South Park",
+        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+        "group": "Animation;Comedy",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"
+      },
+      {
+        "name": "South Park Versión Original",
+        "logo": "https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png",
+        "group": "Animation;Comedy",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8"
       }
     ],
     "Noticias": [
