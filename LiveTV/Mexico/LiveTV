@@ -498,6 +498,12 @@
     "img": "https://i.imgur.com/pw4NZK1.png"
   },
   {
+    "name": "Popcorn Central (1080p)",
+    "type": "Movies",
+    "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+    "img": "https://i.imgur.com/ULGVjyC.png"
+  },
+  {
     "name": "Azteca Internacional (1080p)",
     "type": "Entertainment",
     "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
