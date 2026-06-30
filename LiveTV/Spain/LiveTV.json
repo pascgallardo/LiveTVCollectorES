@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-30 16:43:05",
+  "date": "2026-06-30 23:30:02",
   "channels": {
     "Generalistas": [
       {
@@ -10,11 +10,32 @@
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619"
       },
       {
+        "name": "La 1",
+        "logo": "https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1&preroll_duration=30&preroll=1"
+      },
+      {
         "name": "La 2",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8"
+      },
+      {
+        "name": "La 2",
+        "logo": "https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1&preroll_duration=30&preroll=1"
+      },
+      {
+        "name": "Antena 3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8"
       },
       {
         "name": "Cuatro",
@@ -36,6 +57,13 @@
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+      },
+      {
+        "name": "Neox",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8"
       },
       {
         "name": "Nova",
@@ -80,11 +108,25 @@
         "url": "https://live.sakutv.workers.dev/hls/bemad"
       },
       {
+        "name": "COSMO",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8"
+      },
+      {
         "name": "TRECE",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8"
+      },
+      {
+        "name": "Trece",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
       },
       {
         "name": "RNE para todos",
@@ -301,13 +343,6 @@
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
-      },
-      {
-        "name": "Distrito TV",
-        "logo": "https://graph.facebook.com/2004860103163343/picture?width=200&height=200",
-        "group": "Informativos",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
       }
     ],
     "Deportivos": [
@@ -317,6 +352,13 @@
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601"
+      },
+      {
+        "name": "Gol",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png",
+        "group": "Deportivos",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8"
       }
     ],
     "Cocina": [
@@ -400,6 +442,13 @@
         "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
       },
       {
+        "name": "Caza y Pesca",
+        "logo": "https://i.imgur.com/hXL0Fvj.png",
+        "group": "Documentales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8"
+      },
+      {
         "name": "Love The Planet",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetheplanet_cuadrado.jpg",
         "group": "Documentales",
@@ -414,7 +463,7 @@
         "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
       },
       {
-        "name": "617 Inglés Total",
+        "name": "Inglés Total",
         "logo": "https://media.tvup.cloud/canales/generic_cd_628ce71965774400228da9ae.jpg?t=1658242386?t=1683806449?t=1687212737?width=200&height=200",
         "group": "Documentales",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -461,13 +510,6 @@
         "group": "Documentales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=naturevision_es&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]"
-      },
-      {
-        "name": "wildearth",
-        "logo": "https://d2rx6itp6voihr.cloudfront.net/WE_LOGO_LIGHT_LGPlus_V2.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]"
       },
       {
         "name": "Viajes&Sabores",
@@ -696,6 +738,27 @@
         "url": "https://cdn-canalextremadura.watchity.net/fast2/master.m3u8"
       },
       {
+        "name": "Disney Channel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "group": "Infantiles",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8"
+      },
+      {
+        "name": "Disney Junior",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+        "group": "Infantiles",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://bbb.exoadash.com/TVD1561/index.mpd"
+      },
+      {
+        "name": "Nick Jr.",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+        "group": "Infantiles",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8"
+      },
+      {
         "name": "EnerGeek TV",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/energeek_cuadrado.jpg",
         "group": "Infantiles",
@@ -731,6 +794,20 @@
         "url": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8"
       },
       {
+        "name": "Las Tortugas Ninja (720p)",
+        "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
+        "group": "Infantiles",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
+      },
+      {
+        "name": "South Park",
+        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+        "group": "Infantiles",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"
+      },
+      {
         "name": "Mr Bean Animated",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg",
         "group": "Infantiles",
@@ -738,18 +815,18 @@
         "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
       },
       {
-        "name": "Bob Esponja",
-        "logo": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
-      },
-      {
         "name": "Rugrats",
         "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
+      },
+      {
+        "name": "Bob Esponja",
+        "logo": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",
+        "group": "Infantiles",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
       },
       {
         "name": "Pluto TV Anime",
@@ -878,13 +955,6 @@
         "url": "https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8"
       },
       {
-        "name": "Las Tortugas Ninja",
-        "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
-      },
-      {
         "name": "iCarly",
         "logo": "https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png",
         "group": "Infantiles",
@@ -969,6 +1039,13 @@
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "http://82.78.243.219:45739/play/a00n/index.m3u8"
+      },
+      {
+        "name": "Calle 13 Universal",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg",
+        "group": "Films",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8"
       },
       {
         "name": "Pelis Top (Rakuten TV)",
@@ -1328,6 +1405,13 @@
         "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
       },
       {
+        "name": "SensaCine TV x Pluto",
+        "logo": "https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png",
+        "group": "Films",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8"
+      },
+      {
         "name": "ARTFLIX - Películas Clásicas",
         "logo": "http://img.platform.wurl.dev/channel/1249/lg/dfa8d0/LG-Logo-PNG-100x100_v1.png",
         "group": "Films",
@@ -1340,13 +1424,6 @@
         "group": "Films",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8"
-      },
-      {
-        "name": "SensaCine TV x Pluto",
-        "logo": "https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png",
-        "group": "Films",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8"
       }
     ],
     "Shows": [
@@ -1449,6 +1526,13 @@
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993070&ads.xumo_streamId=99993070&ads.channelId=99993070&ads.ad_tag_id=154587&ads.csid=lgchannels_es_nbcu12monkeys_ssai&ads.channelName=12monkeys_es&ads.xumo_contentName=NBCUES&ads.xumo_contentId=4342&ads.xumo_providerName=NBCUES&ads.xumo_providerId=4342&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
+        "name": "Medium",
+        "logo": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
+        "group": "Shows",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8"
+      },
+      {
         "name": "Melrose Place",
         "logo": "https://i.imgur.com/hXDj0fV.png",
         "group": "Shows",
@@ -1470,6 +1554,20 @@
         "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8"
       },
       {
+        "name": "Star Trek: The Next Generation",
+        "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
+        "group": "Shows",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8"
+      },
+      {
+        "name": "Star Trek: Voyager",
+        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
+        "group": "Shows",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8"
+      },
+      {
         "name": "Pluto TV Series",
         "logo": "https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png",
         "group": "Shows",
@@ -1489,13 +1587,6 @@
         "group": "Shows",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8"
-      },
-      {
-        "name": "Star Trek: Voyager",
-        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8"
       },
       {
         "name": "BBC Series",
@@ -1552,13 +1643,6 @@
         "group": "Shows",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-65dded6966eec80008947157.m3u8"
-      },
-      {
-        "name": "Medium",
-        "logo": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/YawDD3.m3u",
-        "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8"
       },
       {
         "name": "Melrose Place",
@@ -2264,22 +2348,6 @@
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://broadcast.radioponiente.org:8066/;.mp3"
-      }
-    ],
-    "Animation;Comedy": [
-      {
-        "name": "South Park",
-        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-        "group": "Animation;Comedy",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"
-      },
-      {
-        "name": "South Park Versión Original",
-        "logo": "https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png",
-        "group": "Animation;Comedy",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8"
       }
     ],
     "Noticias": [
