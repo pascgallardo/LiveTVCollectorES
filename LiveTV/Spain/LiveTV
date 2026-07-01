@@ -24,12 +24,6 @@
     "img": "https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png"
   },
   {
-    "name": "Antena 3",
-    "type": "Generalistas",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png"
-  },
-  {
     "name": "Cuatro",
     "type": "Generalistas",
     "url": "https://live.sakutv.workers.dev/hls/cuatro",
@@ -46,12 +40,6 @@
     "type": "Generalistas",
     "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg"
-  },
-  {
-    "name": "Neox",
-    "type": "Generalistas",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png"
   },
   {
     "name": "Nova",
@@ -88,12 +76,6 @@
     "type": "Generalistas",
     "url": "https://live.sakutv.workers.dev/hls/bemad",
     "img": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg"
-  },
-  {
-    "name": "COSMO",
-    "type": "Generalistas",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png"
   },
   {
     "name": "TRECE",
@@ -288,16 +270,16 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/france24esp_cuadrado.jpg"
   },
   {
+    "name": "3CatInfo",
+    "type": "Informativos",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+    "img": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg"
+  },
+  {
     "name": "Teledeporte",
     "type": "Deportivos",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg"
-  },
-  {
-    "name": "Gol",
-    "type": "Deportivos",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png"
   },
   {
     "name": "Andalucía Cocina",
@@ -364,12 +346,6 @@
     "type": "Documentales",
     "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_cuadrado.jpg"
-  },
-  {
-    "name": "Caza y Pesca",
-    "type": "Documentales",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8",
-    "img": "https://i.imgur.com/hXL0Fvj.png"
   },
   {
     "name": "Love The Planet",
@@ -618,22 +594,10 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/extremaduraplayinfantil_cuadrado.jpg"
   },
   {
-    "name": "Disney Channel",
-    "type": "Infantiles",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
     "name": "Disney Junior",
     "type": "Infantiles",
     "url": "https://bbb.exoadash.com/TVD1561/index.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
-  },
-  {
-    "name": "Nick Jr.",
-    "type": "Infantiles",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
   },
   {
     "name": "EnerGeek TV",
@@ -874,12 +838,6 @@
     "type": "Films",
     "url": "http://82.78.243.219:45739/play/a00n/index.m3u8",
     "img": "https://i.imgur.com/47IKxmt.png"
-  },
-  {
-    "name": "Calle 13 Universal",
-    "type": "Films",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg"
   },
   {
     "name": "Pelis Top (Rakuten TV)",
@@ -1440,6 +1398,12 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg"
   },
   {
+    "name": "Aragón TV INT",
+    "type": "Int. Europa",
+    "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+    "img": "https://graph.facebook.com/AragonTV/picture?width=200&height=200"
+  },
+  {
     "name": "Sol Música España",
     "type": "Musicales",
     "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
@@ -1594,6 +1558,24 @@
     "type": "Musicales",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992082&ads.xumo_streamId=99992082&ads.channelId=99992082&ads.ad_tag_id=15717&ads.csid=lgchannels_es_stingraynaturescapeeu_ssai&ads.channelName=stingraynaturescape_it&ads.xumo_contentName=StingrayNaturescapeEU&ads.xumo_contentId=3200&ads.xumo_providerName=StingrayNaturescapeEU&ads.xumo_providerId=3200&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
     "img": "https://image.xumo.com/v1/channels/channel/99992082/600x200.png?type=white_cropped"
+  },
+  {
+    "name": "Ocko Chequia",
+    "type": "Musicales",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8",
+    "img": "https://graph.facebook.com/tvocko/picture?width=200&height=200"
+  },
+  {
+    "name": "Star Chequia",
+    "type": "Musicales",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8",
+    "img": "https://graph.facebook.com/ockostar/picture?width=200&height=200"
+  },
+  {
+    "name": "Expres Chequia",
+    "type": "Musicales",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8",
+    "img": "https://graph.facebook.com/OckoExpres/picture?width=200&height=200"
   },
   {
     "name": "MTV Originals",

@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-30 23:30:02",
+  "date": "2026-07-01 09:45:53",
   "channels": {
     "Generalistas": [
       {
@@ -31,13 +31,6 @@
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1&preroll_duration=30&preroll=1"
       },
       {
-        "name": "Antena 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8"
-      },
-      {
         "name": "Cuatro",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg",
         "group": "Generalistas",
@@ -57,13 +50,6 @@
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
-      },
-      {
-        "name": "Neox",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8"
       },
       {
         "name": "Nova",
@@ -106,13 +92,6 @@
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://live.sakutv.workers.dev/hls/bemad"
-      },
-      {
-        "name": "COSMO",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8"
       },
       {
         "name": "TRECE",
@@ -343,6 +322,13 @@
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
+      },
+      {
+        "name": "3CatInfo",
+        "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
+        "group": "Informativos",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8"
       }
     ],
     "Deportivos": [
@@ -352,13 +338,6 @@
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601"
-      },
-      {
-        "name": "Gol",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png",
-        "group": "Deportivos",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8"
       }
     ],
     "Cocina": [
@@ -440,13 +419,6 @@
         "group": "Documentales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
-      },
-      {
-        "name": "Caza y Pesca",
-        "logo": "https://i.imgur.com/hXL0Fvj.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8"
       },
       {
         "name": "Love The Planet",
@@ -738,25 +710,11 @@
         "url": "https://cdn-canalextremadura.watchity.net/fast2/master.m3u8"
       },
       {
-        "name": "Disney Channel",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8"
-      },
-      {
         "name": "Disney Junior",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://bbb.exoadash.com/TVD1561/index.mpd"
-      },
-      {
-        "name": "Nick Jr.",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8"
       },
       {
         "name": "EnerGeek TV",
@@ -1039,13 +997,6 @@
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "http://82.78.243.219:45739/play/a00n/index.m3u8"
-      },
-      {
-        "name": "Calle 13 Universal",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8"
       },
       {
         "name": "Pelis Top (Rakuten TV)",
@@ -1701,6 +1652,13 @@
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "http://177.10.184.193:8000/play/a06a/index.m3u8"
+      },
+      {
+        "name": "Aragón TV INT",
+        "logo": "https://graph.facebook.com/AragonTV/picture?width=200&height=200",
+        "group": "Int. Europa",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
       }
     ],
     "Musicales": [
@@ -1885,6 +1843,27 @@
         "group": "Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992082&ads.xumo_streamId=99992082&ads.channelId=99992082&ads.ad_tag_id=15717&ads.csid=lgchannels_es_stingraynaturescapeeu_ssai&ads.channelName=stingraynaturescape_it&ads.xumo_contentName=StingrayNaturescapeEU&ads.xumo_contentId=3200&ads.xumo_providerName=StingrayNaturescapeEU&ads.xumo_providerId=3200&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
+      },
+      {
+        "name": "Ocko Chequia",
+        "logo": "https://graph.facebook.com/tvocko/picture?width=200&height=200",
+        "group": "Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8"
+      },
+      {
+        "name": "Star Chequia",
+        "logo": "https://graph.facebook.com/ockostar/picture?width=200&height=200",
+        "group": "Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8"
+      },
+      {
+        "name": "Expres Chequia",
+        "logo": "https://graph.facebook.com/OckoExpres/picture?width=200&height=200",
+        "group": "Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8"
       },
       {
         "name": "MTV Originals",

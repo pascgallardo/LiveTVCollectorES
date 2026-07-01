@@ -396,11 +396,6 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Gol
-URL: https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 
 Group: Documentales
 Name: Andalucía Turismo
@@ -411,11 +406,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Historia
 URL: https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Caza y Pesca
-URL: https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8
-Logo: https://i.imgur.com/hXL0Fvj.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Love The Planet
@@ -834,11 +824,6 @@ URL: http://82.78.243.219:45739/play/a00n/index.m3u8
 Logo: https://i.imgur.com/47IKxmt.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Calle 13 Universal
-URL: https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Pelis Top (Rakuten TV)
 URL: https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png
@@ -1131,11 +1116,6 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618&avod=1&coppa=0&
 Logo: https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Antena 3
-URL: https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Cuatro
 URL: https://live.sakutv.workers.dev/hls/cuatro
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg
@@ -1149,11 +1129,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Canal Sur Andalucía
 URL: https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Neox
-URL: https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Nova
@@ -1184,11 +1159,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Be Mad
 URL: https://live.sakutv.workers.dev/hls/bemad
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: COSMO
-URL: https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: TRECE
@@ -1228,19 +1198,9 @@ URL: https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/extremaduraplayinfantil_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Disney Channel
-URL: https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Disney Junior
 URL: https://bbb.exoadash.com/TVD1561/index.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Nick Jr.
-URL: https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: EnerGeek TV
@@ -1470,6 +1430,11 @@ URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/france24esp_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: 3CatInfo
+URL: https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+Logo: https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 
 Group: Int. Europa
 Name: TVE Int. Europa
@@ -1485,6 +1450,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Antena 3 Internacional
 URL: http://177.10.184.193:8000/play/a06a/index.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Aragón TV INT
+URL: https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+Logo: https://graph.facebook.com/AragonTV/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1617,6 +1587,21 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Stingray Naturescape
 URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992082&ads.xumo_streamId=99992082&ads.channelId=99992082&ads.ad_tag_id=15717&ads.csid=lgchannels_es_stingraynaturescapeeu_ssai&ads.channelName=stingraynaturescape_it&ads.xumo_contentName=StingrayNaturescapeEU&ads.xumo_contentId=3200&ads.xumo_providerName=StingrayNaturescapeEU&ads.xumo_providerId=3200&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 Logo: https://image.xumo.com/v1/channels/channel/99992082/600x200.png?type=white_cropped
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Ocko Chequia
+URL: https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+Logo: https://graph.facebook.com/tvocko/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Star Chequia
+URL: https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+Logo: https://graph.facebook.com/ockostar/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Expres Chequia
+URL: https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+Logo: https://graph.facebook.com/OckoExpres/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: MTV Originals
