@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-01 23:30:44",
+  "date": "2026-07-02 09:26:10",
   "channels": {
     "Generalistas": [
       {
@@ -1659,6 +1659,13 @@
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
+      },
+      {
+        "name": "Islas Canarias TV",
+        "logo": "https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200",
+        "group": "Int. Europa",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1"
       }
     ],
     "Musicales": [
@@ -1864,6 +1871,20 @@
         "group": "Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8"
+      },
+      {
+        "name": "1Muz Bielorrusia HD",
+        "logo": "https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",
+        "group": "Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://hz1.teleport.cc/HLS/HD.m3u8"
+      },
+      {
+        "name": "1Muz Bielorrusia SD",
+        "logo": "https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",
+        "group": "Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://hz1.teleport.cc/HLS/SD.m3u8"
       },
       {
         "name": "MTV Originals",
@@ -3550,6 +3571,15 @@
         "group": "Pluto TV Fútbol",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8"
+      }
+    ],
+    "Verano de Terror": [
+      {
+        "name": "Pluto TV Series de Terror",
+        "logo": "https://images.pluto.tv/channels/68345650e8377f86acdeda83/colorLogoPNG_1751021711627.png",
+        "group": "Verano de Terror",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-68345650e8377f86acdeda83.m3u8"
       }
     ]
   }
