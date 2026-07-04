@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03 22:41:55",
+  "date": "2026-07-04 07:22:46",
   "channels": {
     "General": [
       {
@@ -29,6 +29,20 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8"
+      },
+      {
+        "name": "Azteca 7 (1080p)",
+        "logo": "https://i.imgur.com/UtFXjIn.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://45.189.62.33:8002/play/a0fm/index.m3u8"
+      },
+      {
+        "name": "Azteca Uno (1080p)",
+        "logo": "https://i.imgur.com/rRxgBtI.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://45.189.62.33:8002/play/a0cc/index.m3u8"
       },
       {
         "name": "B15 Fresnillo (1080p)",
@@ -206,11 +220,11 @@
         "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8"
       },
       {
-        "name": "Imagen TV+ (720p)",
+        "name": "Imagen TV (1080p)",
         "logo": "https://i.imgur.com/lKrRvtS.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8"
+        "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"
       },
       {
         "name": "IMRyT Morelos TV (720p)",
@@ -474,11 +488,11 @@
     ],
     "Culture": [
       {
-        "name": "A+ [Geo-blocked]",
+        "name": "A+ (1080p)",
         "logo": "https://i.imgur.com/TWk9gfd.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
+        "url": "http://45.189.62.33:8002/play/a0oc/index.m3u8"
       },
       {
         "name": "El Sonorense (1080p) [Not 24/7]",
@@ -504,11 +518,11 @@
     ],
     "News": [
       {
-        "name": "ADN 40 (720p)",
+        "name": "ADN 40 (1080p)",
         "logo": "https://i.imgur.com/Og17U9N.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+        "url": "http://45.189.62.33:8002/play/a0ob/index.m3u8"
       },
       {
         "name": "AMX Noticias (720p) [Not 24/7]",
@@ -1007,6 +1021,20 @@
         "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
       },
       {
+        "name": "Exa TV (576p)",
+        "logo": "https://i.imgur.com/JWOqr1a.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://45.189.62.33:8002/play/a0lr/index.m3u8"
+      },
+      {
+        "name": "La Mejor TV (576p)",
+        "logo": "https://i.imgur.com/dSSBAPL.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://45.189.62.33:8002/play/a0ls/index.m3u8"
+      },
+      {
         "name": "Lobo TV (720p)",
         "logo": "https://i.imgur.com/3fA50RJ.png",
         "group": "Music",
@@ -1035,6 +1063,13 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
+      },
+      {
+        "name": "Disney Jr. Latin America (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://45.189.62.33:8002/play/a0bz/index.m3u8"
       },
       {
         "name": "Disney Jr. Latin America North HD (1080p)",
@@ -1094,6 +1129,15 @@
         "group": "Culture;Education",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+      }
+    ],
+    "Education;Kids": [
+      {
+        "name": "Once Ninas y Ninos (576p)",
+        "logo": "https://i.imgur.com/3JC7fko.png",
+        "group": "Education;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://45.189.62.33:8002/play/a0p7/index.m3u8"
       }
     ],
     "Entertainment;News": [
