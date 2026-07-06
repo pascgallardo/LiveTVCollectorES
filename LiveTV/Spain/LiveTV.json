@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-05 22:46:09",
+  "date": "2026-07-06 09:27:19",
   "channels": {
     "Generalistas": [
       {
@@ -21,7 +21,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618"
       },
       {
         "name": "La 2",
@@ -279,7 +279,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg",
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621"
       },
       {
         "name": "24 Horas",
@@ -686,7 +686,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrado.jpg",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620"
       },
       {
         "name": "Boing",
@@ -1637,14 +1637,14 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg",
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8"
       },
       {
         "name": "Star TVE Europa",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg",
         "group": "Int. Europa",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8"
       },
       {
         "name": "Antena 3 Internacional",

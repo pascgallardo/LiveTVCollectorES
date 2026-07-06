@@ -14,7 +14,7 @@
   {
     "name": "La 2",
     "type": "Generalistas",
-    "url": "https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg"
   },
   {
@@ -230,7 +230,7 @@
   {
     "name": "24h",
     "type": "Informativos",
-    "url": "https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg"
   },
   {
@@ -572,7 +572,7 @@
   {
     "name": "Clan",
     "type": "Infantiles",
-    "url": "https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrado.jpg"
   },
   {
@@ -1382,13 +1382,13 @@
   {
     "name": "TVE Int. Europa",
     "type": "Int. Europa",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tve_internacional_cuadrado.jpg"
   },
   {
     "name": "Star TVE Europa",
     "type": "Int. Europa",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg"
   },
   {
