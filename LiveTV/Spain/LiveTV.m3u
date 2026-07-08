@@ -73,8 +73,8 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg" group-title="Eventuales",Conciertos Radio 3
 https://ztnr.rtve.es/ztnr/6924117.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Orgullo (RTVE)
-https://ztnr.rtve.es/ztnr/16620298.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",San Fermín (RTVE)
+https://ztnr.rtve.es/ztnr/16641913.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_logo.png" group-title="Informativos",24 Horas

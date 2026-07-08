@@ -807,8 +807,8 @@ URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Orgullo (RTVE)
-URL: https://ztnr.rtve.es/ztnr/16620298.m3u8
+Name: San Fermín (RTVE)
+URL: https://ztnr.rtve.es/ztnr/16641913.m3u8
 Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
