@@ -732,6 +732,12 @@
     "img": "https://i.imgur.com/q9p1Spj.png"
   },
   {
+    "name": "TV UNAM (720p)",
+    "type": "Undefined",
+    "url": "http://177.245.131.133:8080/UNAM/index.m3u8",
+    "img": "https://i.imgur.com/ayg5kRM.png"
+  },
+  {
     "name": "TVMÁS (XHGV-TDT) (360p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",

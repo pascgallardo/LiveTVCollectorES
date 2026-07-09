@@ -1869,6 +1869,11 @@ URL: https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.
 Logo: https://i.imgur.com/q9p1Spj.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
+Name: TV UNAM (720p)
+URL: http://177.245.131.133:8080/UNAM/index.m3u8
+Logo: https://i.imgur.com/ayg5kRM.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 Name: TVMÁS (XHGV-TDT) (360p) [Not 24/7]
 URL: https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 Logo: https://i.imgur.com/15kcNRb.png
