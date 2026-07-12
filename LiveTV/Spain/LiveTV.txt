@@ -269,13 +269,6 @@ Logo: https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
-Group: Classic;Comedy;Series
-Name: Aqui No Hay Quien Viva [_Geo-blocked_]
-URL: https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
-Logo: https://i.imgur.com/lfco9ht.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
 Group: Cocina
 Name: Andalucía Cocina
 URL: https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
@@ -1277,6 +1270,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: San Fermín (RTVE)
 URL: https://ztnr.rtve.es/ztnr/16641913.m3u8
 Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Aqui No Hay Quien Viva
+URL: https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 

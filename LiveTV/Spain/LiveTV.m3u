@@ -73,6 +73,8 @@ https://ztnr.rtve.es/ztnr/2472039.m3u8
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",San Fermín (RTVE)
 https://ztnr.rtve.es/ztnr/16641913.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg" group-title="Eventuales",Aqui No Hay Quien Viva
+https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_logo.png" group-title="Informativos",24 Horas
@@ -611,8 +613,6 @@ http://185.23.192.118:8014/;stream.mp3
 https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200" group-title="Radio_Andalucía",Like Music Almería
 https://broadcast.radioponiente.org:8066/;.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lfco9ht.png" group-title="Classic;Comedy;Series",Aqui No Hay Quien Viva [_Geo-blocked_]
-https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260707T050921SQUARE.png" group-title="Noticias",24H
 https://jmp2.uk/stvp-ESBC4100004J1
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260324T034819SQUARE.png" group-title="Noticias",Actualidad 360

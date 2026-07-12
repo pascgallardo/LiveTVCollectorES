@@ -222,6 +222,12 @@
     "img": "https://graph.facebook.com/rtveplay/picture?width=200&height=200"
   },
   {
+    "name": "Aqui No Hay Quien Viva",
+    "type": "Eventuales",
+    "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8",
+    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg"
+  },
+  {
     "name": "24h",
     "type": "Informativos",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621",
@@ -1834,12 +1840,6 @@
     "type": "Radio_Andalucía",
     "url": "https://broadcast.radioponiente.org:8066/;.mp3",
     "img": "https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200"
-  },
-  {
-    "name": "Aqui No Hay Quien Viva [_Geo-blocked_]",
-    "type": "Classic;Comedy;Series",
-    "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8",
-    "img": "https://i.imgur.com/lfco9ht.png"
   },
   {
     "name": "24H",
