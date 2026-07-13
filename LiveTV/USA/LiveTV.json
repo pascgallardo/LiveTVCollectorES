@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12 22:23:58",
+  "date": "2026-07-13 07:44:07",
   "channels": {
     "Movies": [
       {
@@ -2736,7 +2736,7 @@
       },
       {
         "name": "Salem News Channel (1080p)",
-        "logo": "https://salemnewschannel.com/img/logo3.svg",
+        "logo": "https://i.imgur.com/aDbc64y.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8"
@@ -6670,6 +6670,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8"
+      },
+      {
+        "name": "His Glory TV (1080p)",
+        "logo": "https://i.imgur.com/VTcdAJj.jpeg",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8"
       },
       {
         "name": "Huntington Beach TV Channel 3 (720p)",
@@ -10699,11 +10706,11 @@
     ],
     "Auto;Travel": [
       {
-        "name": "Fun Roads TV (720p)",
+        "name": "Fun Roads (720p)",
         "logo": "https://i.imgur.com/2Q6TENm.png",
         "group": "Auto;Travel",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978"
       }
     ],
     "Lifestyle;Movies": [
