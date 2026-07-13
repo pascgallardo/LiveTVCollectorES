@@ -2,7 +2,7 @@
   {
     "name": "La 1",
     "type": "Generalistas",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg"
   },
   {
@@ -124,6 +124,12 @@
     "type": "Andalucía",
     "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg"
+  },
+  {
+    "name": "Music TV Granada",
+    "type": "Andalucía",
+    "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10"
   },
   {
     "name": "Canal Parlamento",
@@ -1622,7 +1628,7 @@
   {
     "name": "La Urban Radio",
     "type": "Radio_Musicales",
-    "url": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3",
+    "url": "https://radio.urbanrevolution.es:8443/hispano",
     "img": "https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200"
   },
   {
@@ -1702,6 +1708,18 @@
     "type": "Radio_Musicales",
     "url": "https://s3.we4stream.com:2020/stream/locafm",
     "img": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200"
+  },
+  {
+    "name": "FLOW Radio",
+    "type": "Radio_Musicales",
+    "url": "http://flow.urbanrevolution.es:8445/flow",
+    "img": "https://graph.facebook.com/flowradio.es/picture?width=200&height=200"
+  },
+  {
+    "name": "House Radio",
+    "type": "Radio_Musicales",
+    "url": "https://house.urbanrevolution.es:8446/houseaac",
+    "img": "https://graph.facebook.com/houseradiofm/picture?width=200&height=200"
   },
   {
     "name": "Canal Sur Radio Málaga",

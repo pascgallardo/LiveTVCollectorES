@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg" group-title="Generalistas",La 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_logo.png" group-title="Generalistas",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
@@ -41,6 +41,8 @@ https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 https://especial7tv.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg" group-title="Andalucía",Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10" group-title="Andalucía",Music TV Granada
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalparlamento_cuadrado.jpg" group-title="Eventuales",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/congresodelosdiputados_cuadrado.jpg" group-title="Eventuales",Congreso de los Diputados
@@ -540,7 +542,7 @@ https://megastar-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Radio_Musicales",Melodía FM
 https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="Radio_Musicales",La Urban Radio
-https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+https://radio.urbanrevolution.es:8443/hispano
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariskalrock/picture?width=200&height=200" group-title="Radio_Musicales",MariskalRock Radio
 https://media.profesionalhosting.com:8047/stream
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="Radio_Musicales",Radiolé
@@ -567,6 +569,10 @@ https://streams1.mdtradio.com:8443/PopStarsFm
 https://streams1.mdtradio.com:8443/mdtweb
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales",Loca FM
 https://s3.we4stream.com:2020/stream/locafm
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/flowradio.es/picture?width=200&height=200" group-title="Radio_Musicales",FLOW Radio
+http://flow.urbanrevolution.es:8445/flow
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/houseradiofm/picture?width=200&height=200" group-title="Radio_Musicales",House Radio
+https://house.urbanrevolution.es:8446/houseaac
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png" group-title="Radio_Andalucía",Canal Sur Radio Málaga
 https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png" group-title="Radio_Andalucía",Canal Sur Radio Musica

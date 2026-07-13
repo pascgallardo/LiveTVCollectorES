@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12 22:32:21",
+  "date": "2026-07-13 08:54:20",
   "channels": {
     "Generalistas": [
       {
@@ -7,7 +7,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]"
       },
       {
         "name": "La 1",
@@ -150,6 +150,13 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8"
+      },
+      {
+        "name": "Music TV Granada",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10",
+        "group": "Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
       }
     ],
     "Eventuales": [
@@ -1925,7 +1932,7 @@
         "logo": "https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3"
+        "url": "https://radio.urbanrevolution.es:8443/hispano"
       },
       {
         "name": "MariskalRock Radio",
@@ -2017,6 +2024,20 @@
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://s3.we4stream.com:2020/stream/locafm"
+      },
+      {
+        "name": "FLOW Radio",
+        "logo": "https://graph.facebook.com/flowradio.es/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "http://flow.urbanrevolution.es:8445/flow"
+      },
+      {
+        "name": "House Radio",
+        "logo": "https://graph.facebook.com/houseradiofm/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://house.urbanrevolution.es:8446/houseaac"
       }
     ],
     "Radio_Andalucía": [
