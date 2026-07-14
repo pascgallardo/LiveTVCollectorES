@@ -1562,17 +1562,17 @@ Source: https://m3u.work/OI0Q3l.m3u
 
 Group: Generalistas
 Name: La 1
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
+URL: https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: La 1
-URL: https://ztnr.rtve.es/ztnr/1688877.m3u8
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=%5BLMT%5D&dnt=%5BDNS%5D&us_privacy=%5BUS_PRIVACY%5D&did=%5BDEVICE_ID%5D&ip=%5BIP%5D&ua=%5BUA%5D&ifa_type=%5BIFA_TYPE%5D&app_bundle=%5BAPP_BUNDLE%5D
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_logo.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: La 2
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+URL: https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1790,7 +1790,7 @@ URL: https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 Logo: https://i.imgur.com/XsvbAWR.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Las Tortugas Ninja (720p)
+Name: Las Tortugas Ninja
 URL: https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 Logo: https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
@@ -1803,6 +1803,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Mr Bean Animated
 URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: KinoKazka
+URL: http://176.122.125.10:8080/KinoKazka/index.m3u8
+Logo: https://i.imgur.com/y6SWpsX.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Rugrats
@@ -1932,16 +1937,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Antena 3 Internacional
 URL: http://177.10.184.193:8000/play/a06a/index.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Aragón TV INT
-URL: https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-Logo: https://graph.facebook.com/AragonTV/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Islas Canarias TV
-URL: https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1
-Logo: https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -2708,59 +2703,9 @@ Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
 Group: Radio_Andalucía
-Name: Canal Sur Radio Málaga
-URL: https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Canal Sur Radio Musica
-URL: https://rtva-live-radio.flumotion.com/rtva/csm.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Flamenco Radio
-URL: https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio Andalucía Información
-URL: https://rtva-live-radio.flumotion.com/rtva/rai.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Radio Andalucía Información Málaga
 URL: https://rtva-live-radio.flumotion.com/rtva/raimal.mp3
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio Nacional Andalucía
-URL: https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 5 Andalucía
-URL: https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: SER Málaga
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sermalaga_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: COPE Málaga
-URL: https://wecast-bl02.flumotion.com/copesedes/malaga.mp3
-Logo: https://graph.facebook.com/COPE/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Onda Cero Málaga
-URL: https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MALAGAAAC.m3u8
-Logo: https://graph.facebook.com/ondacero/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio Marca Málaga
-URL: https://malagafm.streaming-pro.com:8131/malagafmmobile
-Logo: https://graph.facebook.com/RadioMARCA/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 101 FM Radio
@@ -2768,280 +2713,9 @@ URL: https://liveingesta318.cdnmedia.tv/101weblive/101FM/chunklist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101fmradio_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Canal Málaga RTV
-URL: https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagaradio_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: esRadio Málaga
-URL: https://azura.abcorp.es/listen/esradio_malaga/radio.mp3
-Logo: https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Tocata FM Radio
 URL: https://radios.lamaster.es:8030/tocatafm
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tocatafmradio_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: 90 FM
-URL: http://185.23.192.118:8010/;stream.mp3
-Logo: https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Chocolate FM
-URL: https://streaming2.elitecomunicacion.es:8082/live.mp3
-Logo: https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Gozadera FM
-URL: https://azura.abcorp.es/radio/8030/live
-Logo: https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Nostalgia FM
-URL: https://azura.abcorp.es/radio/8040/live
-Logo: https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: La Mega Málaga
-URL: https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
-Logo: https://graph.facebook.com/lamegacostadelsol/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio Chanquete
-URL: http://185.23.192.118:8014/;stream.mp3
-Logo: https://graph.facebook.com/radiochanquete/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Spectrum FM
-URL: https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
-Logo: https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Like Music Almería
-URL: https://broadcast.radioponiente.org:8066/;.mp3
-Logo: https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
-Group: Radio_Internacional
-Name: Radio Exterior
-URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioexteriorrne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
-Group: Radio_Musicales
-Name: LOS40
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-Logo: https://graph.facebook.com/los40/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: LOS40 Classic
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-Logo: https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: LOS40 Dance
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
-Logo: https://graph.facebook.com/los40dance/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: LOS40 Urban
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
-Logo: https://graph.facebook.com/los40urban/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Kiss FM
-URL: https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-Logo: https://graph.facebook.com/kissfm.es/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cadena 100
-URL: https://cadena100-cope.flumotion.com/chunks.m3u8
-Logo: https://graph.facebook.com/CADENA100/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cadena Dial
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-Logo: https://graph.facebook.com/cadenadial/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Canal Fiesta Radio
-URL: https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Europa FM
-URL: https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
-Logo: https://graph.facebook.com/tueuropafm/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 3 RNE
-URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio Clásica RNE
-URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioclasicarne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Rock FM
-URL: https://rockfm-cope.flumotion.com/playlist.m3u8
-Logo: https://graph.facebook.com/RockFM/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Dial Latino
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
-Logo: https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Dial Baladas
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
-Logo: https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: digitalHits FM
-URL: https://dhits.frilab.com:8443/dhits
-Logo: https://graph.facebook.com/digitalhits/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Flaix FM
-URL: https://stream.flaixfm.cat/icecast
-Logo: https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Flaixbac
-URL: https://stream.flaixbac.cat/icecast
-Logo: https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Hit FM
-URL: https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-Logo: https://graph.facebook.com/hitfm.es/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MegaStar FM
-URL: https://megastar-cope.flumotion.com/playlist.m3u8
-Logo: https://graph.facebook.com/MegaStarFM/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Melodía FM
-URL: https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac
-Logo: https://graph.facebook.com/tumelodiafm/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: La Urban Radio
-URL: https://radio.urbanrevolution.es:8443/hispano
-Logo: https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MariskalRock Radio
-URL: https://media.profesionalhosting.com:8047/stream
-Logo: https://graph.facebook.com/mariskalrock/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radiolé
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
-Logo: https://graph.facebook.com/radiole/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: RAC 105
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
-Logo: https://graph.facebook.com/rac105/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Élite Love
-URL: https://streaming2.elitecomunicacion.es/proxy/elitelove/stream
-Logo: https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Élite Dance
-URL: https://streaming2.elitecomunicacion.es/proxy/elitedance/stream
-Logo: https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Élite Oldies
-URL: https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream
-Logo: https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Élite Urban
-URL: https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream
-Logo: https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MDT Radio 80s
-URL: https://streams1.mdtradio.com:8443/MDTradio80
-Logo: https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MDT Radio 90s
-URL: https://streams1.mdtradio.com:8443/MDTradio90
-Logo: https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MDT Radio 2000
-URL: https://streams1.mdtradio.com:8443/MDTradio2000
-Logo: https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MDT Radio Pop Stars
-URL: https://streams1.mdtradio.com:8443/PopStarsFm
-Logo: https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MDT Radio Remember
-URL: https://streams1.mdtradio.com:8443/mdtweb
-Logo: https://graph.facebook.com/mdtradio/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Loca FM
-URL: https://s3.we4stream.com:2020/stream/locafm
-Logo: https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: FLOW Radio
-URL: http://flow.urbanrevolution.es:8445/flow
-Logo: https://graph.facebook.com/flowradio.es/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: House Radio
-URL: https://house.urbanrevolution.es:8446/houseaac
-Logo: https://graph.facebook.com/houseradiofm/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-
-Group: Radio_Populares
-Name: Radio Nacional
-URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 5 RNE
-URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Canal Sur Radio
-URL: https://rtva-live-radio.flumotion.com/rtva/csr.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cadena SER
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/ser_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: COPE
-URL: https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
-Logo: https://graph.facebook.com/COPE/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Onda Cero
-URL: https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
-Logo: https://graph.facebook.com/ondacero/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 

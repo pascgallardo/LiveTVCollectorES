@@ -2,19 +2,19 @@
   {
     "name": "La 1",
     "type": "Generalistas",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg"
   },
   {
     "name": "La 1",
     "type": "Generalistas",
-    "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=%5BLMT%5D&dnt=%5BDNS%5D&us_privacy=%5BUS_PRIVACY%5D&did=%5BDEVICE_ID%5D&ip=%5BIP%5D&ua=%5BUA%5D&ifa_type=%5BIFA_TYPE%5D&app_bundle=%5BAPP_BUNDLE%5D",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_logo.png"
   },
   {
     "name": "La 2",
     "type": "Generalistas",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg"
   },
   {
@@ -678,7 +678,7 @@
     "img": "https://i.imgur.com/XsvbAWR.png"
   },
   {
-    "name": "Las Tortugas Ninja (720p)",
+    "name": "Las Tortugas Ninja",
     "type": "Infantiles",
     "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
     "img": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png"
@@ -694,6 +694,12 @@
     "type": "Infantiles",
     "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg"
+  },
+  {
+    "name": "KinoKazka",
+    "type": "Infantiles",
+    "url": "http://176.122.125.10:8080/KinoKazka/index.m3u8",
+    "img": "https://i.imgur.com/y6SWpsX.png"
   },
   {
     "name": "Rugrats",
@@ -1260,18 +1266,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg"
   },
   {
-    "name": "Aragón TV INT",
-    "type": "Int. Europa",
-    "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
-    "img": "https://graph.facebook.com/AragonTV/picture?width=200&height=200"
-  },
-  {
-    "name": "Islas Canarias TV",
-    "type": "Int. Europa",
-    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1",
-    "img": "https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200"
-  },
-  {
     "name": "Sol Música España",
     "type": "Musicales",
     "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
@@ -1464,328 +1458,10 @@
     "img": "https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png"
   },
   {
-    "name": "Radio Nacional",
-    "type": "Radio_Populares",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg"
-  },
-  {
-    "name": "Radio 5 RNE",
-    "type": "Radio_Populares",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg"
-  },
-  {
-    "name": "Canal Sur Radio",
-    "type": "Radio_Populares",
-    "url": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_logo.png"
-  },
-  {
-    "name": "Cadena SER",
-    "type": "Radio_Populares",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/ser_cuadrado.jpg"
-  },
-  {
-    "name": "COPE",
-    "type": "Radio_Populares",
-    "url": "https://flucast31-h-cloud.flumotion.com/cope/net2.mp3",
-    "img": "https://graph.facebook.com/COPE/picture?width=200&height=200"
-  },
-  {
-    "name": "Onda Cero",
-    "type": "Radio_Populares",
-    "url": "https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8",
-    "img": "https://graph.facebook.com/ondacero/picture?width=200&height=200"
-  },
-  {
-    "name": "Radio Exterior",
-    "type": "Radio_Internacional",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioexteriorrne_cuadrado.jpg"
-  },
-  {
-    "name": "LOS40",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-    "img": "https://graph.facebook.com/los40/picture?width=200&height=200"
-  },
-  {
-    "name": "LOS40 Classic",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
-    "img": "https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200"
-  },
-  {
-    "name": "LOS40 Dance",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3",
-    "img": "https://graph.facebook.com/los40dance/picture?width=200&height=200"
-  },
-  {
-    "name": "LOS40 Urban",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
-    "img": "https://graph.facebook.com/los40urban/picture?width=200&height=200"
-  },
-  {
-    "name": "Kiss FM",
-    "type": "Radio_Musicales",
-    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-    "img": "https://graph.facebook.com/kissfm.es/picture?width=200&height=200"
-  },
-  {
-    "name": "Cadena 100",
-    "type": "Radio_Musicales",
-    "url": "https://cadena100-cope.flumotion.com/chunks.m3u8",
-    "img": "https://graph.facebook.com/CADENA100/picture?width=200&height=200"
-  },
-  {
-    "name": "Cadena Dial",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
-    "img": "https://graph.facebook.com/cadenadial/picture?width=200&height=200"
-  },
-  {
-    "name": "Canal Fiesta Radio",
-    "type": "Radio_Musicales",
-    "url": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_logo.png"
-  },
-  {
-    "name": "Europa FM",
-    "type": "Radio_Musicales",
-    "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac",
-    "img": "https://graph.facebook.com/tueuropafm/picture?width=200&height=200"
-  },
-  {
-    "name": "Radio 3 RNE",
-    "type": "Radio_Musicales",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg"
-  },
-  {
-    "name": "Radio Clásica RNE",
-    "type": "Radio_Musicales",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioclasicarne_cuadrado.jpg"
-  },
-  {
-    "name": "Rock FM",
-    "type": "Radio_Musicales",
-    "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
-    "img": "https://graph.facebook.com/RockFM/picture?width=200&height=200"
-  },
-  {
-    "name": "Dial Latino",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3",
-    "img": "https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg"
-  },
-  {
-    "name": "Dial Baladas",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3",
-    "img": "https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg"
-  },
-  {
-    "name": "digitalHits FM",
-    "type": "Radio_Musicales",
-    "url": "https://dhits.frilab.com:8443/dhits",
-    "img": "https://graph.facebook.com/digitalhits/picture?width=200&height=200"
-  },
-  {
-    "name": "Flaix FM",
-    "type": "Radio_Musicales",
-    "url": "https://stream.flaixfm.cat/icecast",
-    "img": "https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg"
-  },
-  {
-    "name": "Flaixbac",
-    "type": "Radio_Musicales",
-    "url": "https://stream.flaixbac.cat/icecast",
-    "img": "https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg"
-  },
-  {
-    "name": "Hit FM",
-    "type": "Radio_Musicales",
-    "url": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3",
-    "img": "https://graph.facebook.com/hitfm.es/picture?width=200&height=200"
-  },
-  {
-    "name": "MegaStar FM",
-    "type": "Radio_Musicales",
-    "url": "https://megastar-cope.flumotion.com/playlist.m3u8",
-    "img": "https://graph.facebook.com/MegaStarFM/picture?width=200&height=200"
-  },
-  {
-    "name": "Melodía FM",
-    "type": "Radio_Musicales",
-    "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac",
-    "img": "https://graph.facebook.com/tumelodiafm/picture?width=200&height=200"
-  },
-  {
-    "name": "La Urban Radio",
-    "type": "Radio_Musicales",
-    "url": "https://radio.urbanrevolution.es:8443/hispano",
-    "img": "https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200"
-  },
-  {
-    "name": "MariskalRock Radio",
-    "type": "Radio_Musicales",
-    "url": "https://media.profesionalhosting.com:8047/stream",
-    "img": "https://graph.facebook.com/mariskalrock/picture?width=200&height=200"
-  },
-  {
-    "name": "Radiolé",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
-    "img": "https://graph.facebook.com/radiole/picture?width=200&height=200"
-  },
-  {
-    "name": "RAC 105",
-    "type": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3",
-    "img": "https://graph.facebook.com/rac105/picture?width=200&height=200"
-  },
-  {
-    "name": "Élite Love",
-    "type": "Radio_Musicales",
-    "url": "https://streaming2.elitecomunicacion.es/proxy/elitelove/stream",
-    "img": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200"
-  },
-  {
-    "name": "Élite Dance",
-    "type": "Radio_Musicales",
-    "url": "https://streaming2.elitecomunicacion.es/proxy/elitedance/stream",
-    "img": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200"
-  },
-  {
-    "name": "Élite Oldies",
-    "type": "Radio_Musicales",
-    "url": "https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream",
-    "img": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200"
-  },
-  {
-    "name": "Élite Urban",
-    "type": "Radio_Musicales",
-    "url": "https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream",
-    "img": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200"
-  },
-  {
-    "name": "MDT Radio 80s",
-    "type": "Radio_Musicales",
-    "url": "https://streams1.mdtradio.com:8443/MDTradio80",
-    "img": "https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg"
-  },
-  {
-    "name": "MDT Radio 90s",
-    "type": "Radio_Musicales",
-    "url": "https://streams1.mdtradio.com:8443/MDTradio90",
-    "img": "https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg"
-  },
-  {
-    "name": "MDT Radio 2000",
-    "type": "Radio_Musicales",
-    "url": "https://streams1.mdtradio.com:8443/MDTradio2000",
-    "img": "https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg"
-  },
-  {
-    "name": "MDT Radio Pop Stars",
-    "type": "Radio_Musicales",
-    "url": "https://streams1.mdtradio.com:8443/PopStarsFm",
-    "img": "https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg"
-  },
-  {
-    "name": "MDT Radio Remember",
-    "type": "Radio_Musicales",
-    "url": "https://streams1.mdtradio.com:8443/mdtweb",
-    "img": "https://graph.facebook.com/mdtradio/picture?width=200&height=200"
-  },
-  {
-    "name": "Loca FM",
-    "type": "Radio_Musicales",
-    "url": "https://s3.we4stream.com:2020/stream/locafm",
-    "img": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200"
-  },
-  {
-    "name": "FLOW Radio",
-    "type": "Radio_Musicales",
-    "url": "http://flow.urbanrevolution.es:8445/flow",
-    "img": "https://graph.facebook.com/flowradio.es/picture?width=200&height=200"
-  },
-  {
-    "name": "House Radio",
-    "type": "Radio_Musicales",
-    "url": "https://house.urbanrevolution.es:8446/houseaac",
-    "img": "https://graph.facebook.com/houseradiofm/picture?width=200&height=200"
-  },
-  {
-    "name": "Canal Sur Radio Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png"
-  },
-  {
-    "name": "Canal Sur Radio Musica",
-    "type": "Radio_Andalucía",
-    "url": "https://rtva-live-radio.flumotion.com/rtva/csm.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png"
-  },
-  {
-    "name": "Flamenco Radio",
-    "type": "Radio_Andalucía",
-    "url": "https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_logo.png"
-  },
-  {
-    "name": "Radio Andalucía Información",
-    "type": "Radio_Andalucía",
-    "url": "https://rtva-live-radio.flumotion.com/rtva/rai.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_logo.png"
-  },
-  {
     "name": "Radio Andalucía Información Málaga",
     "type": "Radio_Andalucía",
     "url": "https://rtva-live-radio.flumotion.com/rtva/raimal.mp3",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_cuadrado.jpg"
-  },
-  {
-    "name": "Radio Nacional Andalucía",
-    "type": "Radio_Andalucía",
-    "url": "https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg"
-  },
-  {
-    "name": "Radio 5 Andalucía",
-    "type": "Radio_Andalucía",
-    "url": "https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg"
-  },
-  {
-    "name": "SER Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sermalaga_cuadrado.jpg"
-  },
-  {
-    "name": "COPE Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://wecast-bl02.flumotion.com/copesedes/malaga.mp3",
-    "img": "https://graph.facebook.com/COPE/picture?width=200&height=200"
-  },
-  {
-    "name": "Onda Cero Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MALAGAAAC.m3u8",
-    "img": "https://graph.facebook.com/ondacero/picture?width=200&height=200"
-  },
-  {
-    "name": "Radio Marca Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://malagafm.streaming-pro.com:8131/malagafmmobile",
-    "img": "https://graph.facebook.com/RadioMARCA/picture?width=200&height=200"
   },
   {
     "name": "101 FM Radio",
@@ -1794,70 +1470,10 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101fmradio_cuadrado.jpg"
   },
   {
-    "name": "Canal Málaga RTV",
-    "type": "Radio_Andalucía",
-    "url": "https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagaradio_cuadrado.jpg"
-  },
-  {
-    "name": "esRadio Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://azura.abcorp.es/listen/esradio_malaga/radio.mp3",
-    "img": "https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg"
-  },
-  {
     "name": "Tocata FM Radio",
     "type": "Radio_Andalucía",
     "url": "https://radios.lamaster.es:8030/tocatafm",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tocatafmradio_cuadrado.jpg"
-  },
-  {
-    "name": "90 FM",
-    "type": "Radio_Andalucía",
-    "url": "http://185.23.192.118:8010/;stream.mp3",
-    "img": "https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg"
-  },
-  {
-    "name": "Chocolate FM",
-    "type": "Radio_Andalucía",
-    "url": "https://streaming2.elitecomunicacion.es:8082/live.mp3",
-    "img": "https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200"
-  },
-  {
-    "name": "Gozadera FM",
-    "type": "Radio_Andalucía",
-    "url": "https://azura.abcorp.es/radio/8030/live",
-    "img": "https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200"
-  },
-  {
-    "name": "Nostalgia FM",
-    "type": "Radio_Andalucía",
-    "url": "https://azura.abcorp.es/radio/8040/live",
-    "img": "https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200"
-  },
-  {
-    "name": "La Mega Málaga",
-    "type": "Radio_Andalucía",
-    "url": "https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3",
-    "img": "https://graph.facebook.com/lamegacostadelsol/picture?width=200&height=200"
-  },
-  {
-    "name": "Radio Chanquete",
-    "type": "Radio_Andalucía",
-    "url": "http://185.23.192.118:8014/;stream.mp3",
-    "img": "https://graph.facebook.com/radiochanquete/picture?width=200&height=200"
-  },
-  {
-    "name": "Spectrum FM",
-    "type": "Radio_Andalucía",
-    "url": "https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1",
-    "img": "https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200"
-  },
-  {
-    "name": "Like Music Almería",
-    "type": "Radio_Andalucía",
-    "url": "https://broadcast.radioponiente.org:8066/;.mp3",
-    "img": "https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200"
   },
   {
     "name": "24H",

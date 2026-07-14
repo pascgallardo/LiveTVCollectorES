@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_cuadrado.jpg" group-title="Generalistas",La 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la1_logo.png" group-title="Generalistas",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=%5BLMT%5D&dnt=%5BDNS%5D&us_privacy=%5BUS_PRIVACY%5D&did=%5BDEVICE_ID%5D&ip=%5BIP%5D&ua=%5BUA%5D&ifa_type=%5BIFA_TYPE%5D&app_bundle=%5BAPP_BUNDLE%5D
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg" group-title="Generalistas",Cuatro
 https://live.sakutv.workers.dev/hls/cuatro
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg" group-title="Generalistas",Telecinco
@@ -225,12 +225,14 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Infantiles",One Piece
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Infantiles",Las Tortugas Ninja (720p)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Infantiles",Las Tortugas Ninja
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Infantiles",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg" group-title="Infantiles",Mr Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6SWpsX.png" group-title="Infantiles",KinoKazka
+http://176.122.125.10:8080/KinoKazka/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Infantiles",Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Infantiles",Bob Esponja
@@ -419,10 +421,6 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg" group-title="Int. Europa",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="Int. Europa",Aragón TV INT
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200" group-title="Int. Europa",Islas Canarias TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/solmusica_rosa_cuadrado.jpg" group-title="Musicales",Sol Música España
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/activatv_cuadrado.jpg" group-title="Musicales",Activa TV España
@@ -487,138 +485,12 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Musicales",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg" group-title="Radio_Populares",Radio Nacional
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg" group-title="Radio_Populares",Radio 5 RNE
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradio_logo.png" group-title="Radio_Populares",Canal Sur Radio
-https://rtva-live-radio.flumotion.com/rtva/csr.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/ser_cuadrado.jpg" group-title="Radio_Populares",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares",COPE
-https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Populares",Onda Cero
-https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioexteriorrne_cuadrado.jpg" group-title="Radio_Internacional",Radio Exterior
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="Radio_Musicales",LOS40
-https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="Radio_Musicales",LOS40 Classic
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" group-title="Radio_Musicales",LOS40 Dance
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" group-title="Radio_Musicales",LOS40 Urban
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="Radio_Musicales",Kiss FM
-https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" group-title="Radio_Musicales",Cadena 100
-https://cadena100-cope.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="Radio_Musicales",Cadena Dial
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiofiesta_logo.png" group-title="Radio_Musicales",Canal Fiesta Radio
-https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" group-title="Radio_Musicales",Europa FM
-https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg" group-title="Radio_Musicales",Radio 3 RNE
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radioclasicarne_cuadrado.jpg" group-title="Radio_Musicales",Radio Clásica RNE
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" group-title="Radio_Musicales",Rock FM
-https://rockfm-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" group-title="Radio_Musicales",Dial Latino
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
-#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" group-title="Radio_Musicales",Dial Baladas
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" group-title="Radio_Musicales",digitalHits FM
-https://dhits.frilab.com:8443/dhits
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="Radio_Musicales",Flaix FM
-https://stream.flaixfm.cat/icecast
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="Radio_Musicales",Flaixbac
-https://stream.flaixbac.cat/icecast
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="Radio_Musicales",Hit FM
-https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="Radio_Musicales",MegaStar FM
-https://megastar-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Radio_Musicales",Melodía FM
-https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="Radio_Musicales",La Urban Radio
-https://radio.urbanrevolution.es:8443/hispano
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/mariskalrock/picture?width=200&height=200" group-title="Radio_Musicales",MariskalRock Radio
-https://media.profesionalhosting.com:8047/stream
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="Radio_Musicales",Radiolé
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" group-title="Radio_Musicales",RAC 105
-https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales",Élite Love
-https://streaming2.elitecomunicacion.es/proxy/elitelove/stream
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales",Élite Dance
-https://streaming2.elitecomunicacion.es/proxy/elitedance/stream
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales",Élite Oldies
-https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales",Élite Urban
-https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream
-#EXTINF:-1 tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg" group-title="Radio_Musicales",MDT Radio 80s
-https://streams1.mdtradio.com:8443/MDTradio80
-#EXTINF:-1 tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg" group-title="Radio_Musicales",MDT Radio 90s
-https://streams1.mdtradio.com:8443/MDTradio90
-#EXTINF:-1 tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg" group-title="Radio_Musicales",MDT Radio 2000
-https://streams1.mdtradio.com:8443/MDTradio2000
-#EXTINF:-1 tvg-logo="https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg" group-title="Radio_Musicales",MDT Radio Pop Stars
-https://streams1.mdtradio.com:8443/PopStarsFm
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/mdtradio/picture?width=200&height=200" group-title="Radio_Musicales",MDT Radio Remember
-https://streams1.mdtradio.com:8443/mdtweb
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales",Loca FM
-https://s3.we4stream.com:2020/stream/locafm
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/flowradio.es/picture?width=200&height=200" group-title="Radio_Musicales",FLOW Radio
-http://flow.urbanrevolution.es:8445/flow
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/houseradiofm/picture?width=200&height=200" group-title="Radio_Musicales",House Radio
-https://house.urbanrevolution.es:8446/houseaac
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomalaga_logo.png" group-title="Radio_Andalucía",Canal Sur Radio Málaga
-https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiomusica_logo.png" group-title="Radio_Andalucía",Canal Sur Radio Musica
-https://rtva-live-radio.flumotion.com/rtva/csm.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioflamenco_logo.png" group-title="Radio_Andalucía",Flamenco Radio
-https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradiorai_logo.png" group-title="Radio_Andalucía",Radio Andalucía Información
-https://rtva-live-radio.flumotion.com/rtva/rai.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_cuadrado.jpg" group-title="Radio_Andalucía",Radio Andalucía Información Málaga
 https://rtva-live-radio.flumotion.com/rtva/raimal.mp3
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg" group-title="Radio_Andalucía",Radio Nacional Andalucía
-https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg" group-title="Radio_Andalucía",Radio 5 Andalucía
-https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sermalaga_cuadrado.jpg" group-title="Radio_Andalucía",SER Málaga
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Andalucía",COPE Málaga
-https://wecast-bl02.flumotion.com/copesedes/malaga.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Andalucía",Onda Cero Málaga
-https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MALAGAAAC.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="Radio_Andalucía",Radio Marca Málaga
-https://malagafm.streaming-pro.com:8131/malagafmmobile
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/101fmradio_cuadrado.jpg" group-title="Radio_Andalucía",101 FM Radio
 https://liveingesta318.cdnmedia.tv/101weblive/101FM/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalagaradio_cuadrado.jpg" group-title="Radio_Andalucía",Canal Málaga RTV
-https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/642024744393539586/9gQectkl_200x200.jpg" group-title="Radio_Andalucía",esRadio Málaga
-https://azura.abcorp.es/listen/esradio_malaga/radio.mp3
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tocatafmradio_cuadrado.jpg" group-title="Radio_Andalucía",Tocata FM Radio
 https://radios.lamaster.es:8030/tocatafm
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg" group-title="Radio_Andalucía",90 FM
-http://185.23.192.118:8010/;stream.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200" group-title="Radio_Andalucía",Chocolate FM
-https://streaming2.elitecomunicacion.es:8082/live.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200" group-title="Radio_Andalucía",Gozadera FM
-https://azura.abcorp.es/radio/8030/live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200" group-title="Radio_Andalucía",Nostalgia FM
-https://azura.abcorp.es/radio/8040/live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegacostadelsol/picture?width=200&height=200" group-title="Radio_Andalucía",La Mega Málaga
-https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiochanquete/picture?width=200&height=200" group-title="Radio_Andalucía",Radio Chanquete
-http://185.23.192.118:8014/;stream.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200" group-title="Radio_Andalucía",Spectrum FM
-https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200" group-title="Radio_Andalucía",Like Music Almería
-https://broadcast.radioponiente.org:8066/;.mp3
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260707T050921SQUARE.png" group-title="Noticias",24H
 https://jmp2.uk/stvp-ESBC4100004J1
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260324T034819SQUARE.png" group-title="Noticias",Actualidad 360
