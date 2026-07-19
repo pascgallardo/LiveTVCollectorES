@@ -71,8 +71,6 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg" group-title="Eventuales",Conciertos Radio 3
 https://ztnr.rtve.es/ztnr/6924117.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",San Fermín (RTVE)
-https://ztnr.rtve.es/ztnr/16641913.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg" group-title="Eventuales",Aqui No Hay Quien Viva
 https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
@@ -90,7 +88,7 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/france24esp_cuadrado.jpg" group-title="Informativos",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg" group-title="Deportivos",Teledeporte
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciacocina_cuadrado.jpg" group-title="Cocina",Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tastemade_cuadrado.jpg" group-title="Cocina",Tastemade

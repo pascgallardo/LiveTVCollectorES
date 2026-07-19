@@ -216,12 +216,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg"
   },
   {
-    "name": "San Fermín (RTVE)",
-    "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16641913.m3u8",
-    "img": "https://graph.facebook.com/rtveplay/picture?width=200&height=200"
-  },
-  {
     "name": "Aqui No Hay Quien Viva",
     "type": "Eventuales",
     "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8",
@@ -272,7 +266,7 @@
   {
     "name": "Teledeporte",
     "type": "Deportivos",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg"
   },
   {

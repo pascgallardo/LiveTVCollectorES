@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-18 22:32:12",
+  "date": "2026-07-19 08:47:40",
   "channels": {
     "Generalistas": [
       {
@@ -259,13 +259,6 @@
         "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8"
       },
       {
-        "name": "San Fermín (RTVE)",
-        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-        "group": "Eventuales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/16641913.m3u8"
-      },
-      {
         "name": "Aqui No Hay Quien Viva",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg",
         "group": "Eventuales",
@@ -330,7 +323,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg",
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]"
       }
     ],
     "Cocina": [

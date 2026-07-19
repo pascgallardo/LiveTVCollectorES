@@ -640,7 +640,7 @@ Source: https://m3u.work/ICEQGPH.m3u
 
 Group: Deportivos
 Name: Teledeporte
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1277,11 +1277,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Conciertos Radio 3
 URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: San Fermín (RTVE)
-URL: https://ztnr.rtve.es/ztnr/16641913.m3u8
-Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Aqui No Hay Quien Viva
