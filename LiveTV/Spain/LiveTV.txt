@@ -1802,8 +1802,8 @@ URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: KinoKazka
-URL: http://176.122.125.10:8080/KinoKazka/index.m3u8
+Name: like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Infantiles",KinoKazka
+URL: http://stream.mcquack.net/167/index.m3u8
 Logo: https://i.imgur.com/y6SWpsX.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
