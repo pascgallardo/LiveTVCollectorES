@@ -72,12 +72,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg"
   },
   {
-    "name": "Trece",
-    "type": "Generalistas",
-    "url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png"
-  },
-  {
     "name": "RNE para todos",
     "type": "Generalistas",
     "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8",
@@ -118,18 +112,6 @@
     "type": "Andalucía",
     "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg"
-  },
-  {
-    "name": "Music TV Granada",
-    "type": "Andalucía",
-    "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10"
-  },
-  {
-    "name": "8TV La Janda",
-    "type": "Andalucía",
-    "url": "https://s.emisoras.tv:8081/lajanda/index.m3u8",
-    "img": "https://graph.facebook.com/8tvcadiz/picture?width=200&height=200"
   },
   {
     "name": "Canal Parlamento",
@@ -732,27 +714,15 @@
     "img": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png"
   },
   {
-    "name": "EnerGeek Retro HD",
+    "name": "EnerGeek Retro",
     "type": "Infantiles",
     "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES",
     "img": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png"
   },
   {
-    "name": "EnerGeek Retro SD",
-    "type": "Infantiles",
-    "url": "https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=TDTCh4nnelsES",
-    "img": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png"
-  },
-  {
-    "name": "EnerGeek Fan HD",
+    "name": "EnerGeek Fan",
     "type": "Infantiles",
     "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES",
-    "img": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png"
-  },
-  {
-    "name": "EnerGeek Fan SD",
-    "type": "Infantiles",
-    "url": "https://backend.energeek.cl/webtv/egfan/mobile/index.m3u8?token=TDTCh4nnelsES",
     "img": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png"
   },
   {

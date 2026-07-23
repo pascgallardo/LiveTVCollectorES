@@ -29,16 +29,6 @@ URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Music TV Granada
-URL: https://cloudvideo.servers10.com:8081/8032/index.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: 8TV La Janda
-URL: https://s.emisoras.tv:8081/lajanda/index.m3u8
-Logo: https://graph.facebook.com/8tvcadiz/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 
 Group: Anime
 Name: Avatar
@@ -1638,11 +1628,6 @@ URL: https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playli
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Trece
-URL: https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: RNE para todos
 URL: https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_cuadrado.jpg
@@ -1867,23 +1852,13 @@ URL: https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8
 Logo: https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: EnerGeek Retro HD
+Name: EnerGeek Retro
 URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES
 Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: EnerGeek Retro SD
-URL: https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=TDTCh4nnelsES
-Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: EnerGeek Fan HD
+Name: EnerGeek Fan
 URL: https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES
-Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: EnerGeek Fan SD
-URL: https://backend.energeek.cl/webtv/egfan/mobile/index.m3u8?token=TDTCh4nnelsES
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------

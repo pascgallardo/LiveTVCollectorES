@@ -23,8 +23,6 @@ https://live.sakutv.workers.dev/hls/energy
 https://live.sakutv.workers.dev/hls/bemad
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/trece_cuadrado.jpg" group-title="Generalistas",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Generalistas",Trece
-https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_cuadrado.jpg" group-title="Generalistas",RNE para todos
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalmalaga_cuadrado.jpg" group-title="Andalucía",Canal Málaga
@@ -39,10 +37,6 @@ https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 https://especial7tv.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg" group-title="Andalucía",Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10" group-title="Andalucía",Music TV Granada
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200" group-title="Andalucía",8TV La Janda
-https://s.emisoras.tv:8081/lajanda/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalparlamento_cuadrado.jpg" group-title="Eventuales",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/congresodelosdiputados_cuadrado.jpg" group-title="Eventuales",Congreso de los Diputados
@@ -243,14 +237,10 @@ https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" group-title="Infantiles",Pluto TV Toons
 https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Infantiles",EnerGeek Retro HD
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Infantiles",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Infantiles",EnerGeek Retro SD
-https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=TDTCh4nnelsES
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Infantiles",EnerGeek Fan HD
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Infantiles",EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Infantiles",EnerGeek Fan SD
-https://backend.energeek.cl/webtv/egfan/mobile/index.m3u8?token=TDTCh4nnelsES
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_action_cuadrado.jpg" group-title="Infantiles",Anime Onegai Action
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaiaction&channel_id=newid_202&mpf=2335c884-39af1962-d13ce60d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=003cb2ff-3bce06a7-ae78c1b5-4cbe9c0b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animeonegai_comedy_cuadrado.jpg" group-title="Infantiles",Anime Onegai Comedy

@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-23 15:56:12",
+  "date": "2026-07-23 22:56:14",
   "channels": {
     "Generalistas": [
       {
@@ -87,13 +87,6 @@
         "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8"
       },
       {
-        "name": "Trece",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
-        "group": "Generalistas",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
-      },
-      {
         "name": "RNE para todos",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rneparatodos_cuadrado.jpg",
         "group": "Generalistas",
@@ -143,20 +136,6 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8"
-      },
-      {
-        "name": "Music TV Granada",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10",
-        "group": "Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
-      },
-      {
-        "name": "8TV La Janda",
-        "logo": "https://graph.facebook.com/8tvcadiz/picture?width=200&height=200",
-        "group": "Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s.emisoras.tv:8081/lajanda/index.m3u8"
       }
     ],
     "Eventuales": [
@@ -871,32 +850,18 @@
         "url": "https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8"
       },
       {
-        "name": "EnerGeek Retro HD",
+        "name": "EnerGeek Retro",
         "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES"
       },
       {
-        "name": "EnerGeek Retro SD",
-        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=TDTCh4nnelsES"
-      },
-      {
-        "name": "EnerGeek Fan HD",
+        "name": "EnerGeek Fan",
         "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES"
-      },
-      {
-        "name": "EnerGeek Fan SD",
-        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://backend.energeek.cl/webtv/egfan/mobile/index.m3u8?token=TDTCh4nnelsES"
       },
       {
         "name": "Anime Onegai Action",
