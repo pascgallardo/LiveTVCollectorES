@@ -1919,11 +1919,6 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: 24 Horas
-URL: https://ztnr.rtve.es/ztnr/1694255.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_logo.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Canal Sur Más Noticias
 URL: https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurnoticias_blanco_cuadrado.jpg

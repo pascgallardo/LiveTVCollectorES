@@ -234,12 +234,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg"
   },
   {
-    "name": "24 Horas",
-    "type": "Informativos",
-    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_logo.png"
-  },
-  {
     "name": "Canal Sur Más Noticias",
     "type": "Informativos",
     "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",

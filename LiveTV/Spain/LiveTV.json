@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22 22:53:45",
+  "date": "2026-07-23 08:47:27",
   "channels": {
     "Generalistas": [
       {
@@ -280,13 +280,6 @@
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621"
-      },
-      {
-        "name": "24 Horas",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_logo.png",
-        "group": "Informativos",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
       },
       {
         "name": "Canal Sur Más Noticias",
