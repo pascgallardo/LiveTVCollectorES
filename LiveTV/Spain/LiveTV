@@ -132,24 +132,6 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/senado_nuevo_cuadrado.jpg"
   },
   {
-    "name": "Radio Nacional",
-    "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/6982891.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg"
-  },
-  {
-    "name": "Radio 3",
-    "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/6982918.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg"
-  },
-  {
-    "name": "Radio 5",
-    "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/6982917.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg"
-  },
-  {
     "name": "El club de la comedia",
     "type": "Eventuales",
     "url": "https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8",
@@ -158,13 +140,13 @@
   {
     "name": "Somos Cine",
     "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/6909845.m3u8",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg"
   },
   {
     "name": "Cocina",
     "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16656232.m3u8",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg"
   },
   {
@@ -176,31 +158,25 @@
   {
     "name": "Al cielo con ella",
     "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16862827.m3u8",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayalcieloconella_cuadrado.jpg"
   },
   {
     "name": "La Revuelta",
     "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16464388.m3u8",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm5_main.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayrevuelta_cuadrado.jpg"
   },
   {
     "name": "Cuéntame",
     "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/6909843.m3u8",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycuentame_cuadrado.jpg"
-  },
-  {
-    "name": "La Promesa",
-    "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/2472039.m3u8",
-    "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaypromesa_cuadrado.jpg"
   },
   {
     "name": "Conciertos Radio 3",
     "type": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg"
   },
   {
@@ -208,6 +184,12 @@
     "type": "Eventuales",
     "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg"
+  },
+  {
+    "name": "La Promesa (RTVE)",
+    "type": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8",
+    "img": "https://graph.facebook.com/rtveplay/picture?width=200&height=200"
   },
   {
     "name": "24h",
@@ -258,6 +240,24 @@
     "img": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg"
   },
   {
+    "name": "Radio Nacional",
+    "type": "Informativos",
+    "url": "https://ztnr.rtve.es/ztnr/6982891.m3u8",
+    "img": "https://graph.facebook.com/radionacionalrne/picture?width=200&height=200"
+  },
+  {
+    "name": "Radio 5",
+    "type": "Informativos",
+    "url": "https://ztnr.rtve.es/ztnr/6982917.m3u8",
+    "img": "https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg"
+  },
+  {
+    "name": "Onda Cero",
+    "type": "Informativos",
+    "url": "https://atres-live.ondacero.es/h264/live/obs/master.m3u8",
+    "img": "https://graph.facebook.com/ondacero/picture?width=200&height=200"
+  },
+  {
     "name": "Teledeporte",
     "type": "Deportivos",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]",
@@ -280,6 +280,12 @@
     "type": "Deportivos",
     "url": "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
     "img": "https://graph.facebook.com/Esport3/picture?width=200&height=200"
+  },
+  {
+    "name": "ETB Deportes (Kirolak 360)",
+    "type": "Deportivos",
+    "url": "https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8",
+    "img": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200"
   },
   {
     "name": "Andalucía Cocina",
@@ -1432,6 +1438,12 @@
     "type": "Musicales",
     "url": "https://backend.energeek.cl/webtv/egradio/mobile/index.m3u8?token=TDTCh4nnelsES",
     "img": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png"
+  },
+  {
+    "name": "Radio 3",
+    "type": "Musicales",
+    "url": "https://ztnr.rtve.es/ztnr/6982918.m3u8",
+    "img": "https://graph.facebook.com/radio3/picture?width=200&height=200"
   },
   {
     "name": "MTV Originals",

@@ -674,6 +674,11 @@ URL: https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u
 Logo: https://graph.facebook.com/Esport3/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: ETB Deportes (Kirolak 360)
+URL: https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+Logo: https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 
 Group: Documentales
 Name: Andalucía Turismo
@@ -1249,33 +1254,18 @@ URL: https://senadolive.akamaized.net/hls/live/2006590/punto8/master.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/senado_nuevo_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Radio Nacional
-URL: https://ztnr.rtve.es/ztnr/6982891.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 3
-URL: https://ztnr.rtve.es/ztnr/6982918.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 5
-URL: https://ztnr.rtve.es/ztnr/6982917.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: El club de la comedia
 URL: https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Somos Cine
-URL: https://ztnr.rtve.es/ztnr/6909845.m3u8
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cocina
-URL: https://ztnr.rtve.es/ztnr/16656232.m3u8
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1285,33 +1275,33 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayenpl
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Al cielo con ella
-URL: https://ztnr.rtve.es/ztnr/16862827.m3u8
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayalcieloconella_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: La Revuelta
-URL: https://ztnr.rtve.es/ztnr/16464388.m3u8
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm5_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayrevuelta_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cuéntame
-URL: https://ztnr.rtve.es/ztnr/6909843.m3u8
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycuentame_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: La Promesa
-URL: https://ztnr.rtve.es/ztnr/2472039.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaypromesa_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Conciertos Radio 3
-URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Aqui No Hay Quien Viva
 URL: https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: La Promesa (RTVE)
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8
+Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1944,6 +1934,21 @@ URL: https://directes-tv-es.3catdirectes.cat/live-origin/canal324-hls/master.m3u
 Logo: https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Radio Nacional
+URL: https://ztnr.rtve.es/ztnr/6982891.m3u8
+Logo: https://graph.facebook.com/radionacionalrne/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Radio 5
+URL: https://ztnr.rtve.es/ztnr/6982917.m3u8
+Logo: https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Onda Cero
+URL: https://atres-live.ondacero.es/h264/live/obs/master.m3u8
+Logo: https://graph.facebook.com/ondacero/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 
 Group: Int. Europa
 Name: TVE Int. Europa
@@ -2148,6 +2153,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: EnerGeek Radio Chile SD
 URL: https://backend.energeek.cl/webtv/egradio/mobile/index.m3u8?token=TDTCh4nnelsES
 Logo: https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Radio 3
+URL: https://ztnr.rtve.es/ztnr/6982918.m3u8
+Logo: https://graph.facebook.com/radio3/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: MTV Originals

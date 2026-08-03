@@ -43,32 +43,26 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/senado_nuevo_cuadrado.jpg" group-title="Eventuales",Senado
 https://senadolive.akamaized.net/hls/live/2006590/punto8/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radionacionalrne_cuadrado.jpg" group-title="Eventuales",Radio Nacional
-https://ztnr.rtve.es/ztnr/6982891.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio3rne_cuadrado.jpg" group-title="Eventuales",Radio 3
-https://ztnr.rtve.es/ztnr/6982918.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/radio5rne_cuadrado.jpg" group-title="Eventuales",Radio 5
-https://ztnr.rtve.es/ztnr/6982917.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg" group-title="Eventuales",El club de la comedia
 https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg" group-title="Eventuales",Somos Cine
-https://ztnr.rtve.es/ztnr/6909845.m3u8
+https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg" group-title="Eventuales",Cocina
-https://ztnr.rtve.es/ztnr/16656232.m3u8
+https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayenplay_cuadrado.jpg" group-title="Eventuales",En Play
 https://ztnr.rtve.es/ztnr/6712399.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayalcieloconella_cuadrado.jpg" group-title="Eventuales",Al cielo con ella
-https://ztnr.rtve.es/ztnr/16862827.m3u8
+https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayrevuelta_cuadrado.jpg" group-title="Eventuales",La Revuelta
-https://ztnr.rtve.es/ztnr/16464388.m3u8
+https://rtvelivestream.rtve.es/eventual/gofast/playm5_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycuentame_cuadrado.jpg" group-title="Eventuales",Cuéntame
-https://ztnr.rtve.es/ztnr/6909843.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaypromesa_cuadrado.jpg" group-title="Eventuales",La Promesa
-https://ztnr.rtve.es/ztnr/2472039.m3u8
+https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg" group-title="Eventuales",Conciertos Radio 3
-https://ztnr.rtve.es/ztnr/6924117.m3u8
+https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg" group-title="Eventuales",Aqui No Hay Quien Viva
 https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",La Promesa (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurnoticias_blanco_cuadrado.jpg" group-title="Informativos",Canal Sur Más Noticias
@@ -85,6 +79,12 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg" group-title="Informativos",3CatInfo GEO
 https://directes-tv-es.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Informativos",Radio Nacional
+https://ztnr.rtve.es/ztnr/6982891.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="Informativos",Radio 5
+https://ztnr.rtve.es/ztnr/6982917.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Informativos",Onda Cero
+https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg" group-title="Deportivos",Teledeporte
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos",Esport3 GEO CAT
@@ -93,6 +93,8 @@ https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos",Esport3
 https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Deportivos",ETB Deportes (Kirolak 360)
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciacocina_cuadrado.jpg" group-title="Cocina",Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tastemade_cuadrado.jpg" group-title="Cocina",Tastemade
@@ -477,6 +479,8 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999208
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=TDTCh4nnelsES
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="Musicales",EnerGeek Radio Chile SD
 https://backend.energeek.cl/webtv/egradio/mobile/index.m3u8?token=TDTCh4nnelsES
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Musicales",Radio 3
+https://ztnr.rtve.es/ztnr/6982918.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Musicales",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurradioraimalaga_cuadrado.jpg" group-title="Radio_Andalucía",Radio Andalucía Información Málaga
