@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-08 07:22:32",
+  "date": "2026-08-08 14:16:34",
   "channels": {
     "Generalistas": [
       {
@@ -548,7 +548,7 @@
       },
       {
         "name": "BBC Earth",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260721T035551SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png",
         "group": "Documentales",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES3200001F1"
@@ -1717,7 +1717,7 @@
       },
       {
         "name": "Actualidad 360",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260324T034819SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260804T051205SQUARE.png",
         "group": "Noticias",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES300034BT"
@@ -1963,13 +1963,6 @@
         "url": "https://jmp2.uk/stvp-ES4300001K6"
       },
       {
-        "name": "Coreano by CJ ENM",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png",
-        "group": "Entretenimiento",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ES1700003C6"
-      },
-      {
         "name": "Dhar Mann TV",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800002V5_20251111T011933SQUARE.png",
         "group": "Entretenimiento",
@@ -2076,7 +2069,7 @@
       },
       {
         "name": "Telemadrid",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260721T035634SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260804T051259SQUARE.png",
         "group": "Entretenimiento",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES300030ZT"
@@ -2108,6 +2101,13 @@
         "group": "Entretenimiento",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES120000498"
+      },
+      {
+        "name": "CJ ENM K-Novela en Español",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20260804T051153SQUARE.png",
+        "group": "Entretenimiento",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/stvp-ES1700003C6"
       },
       {
         "name": "Empeños a lo bestia",
@@ -2260,7 +2260,7 @@
       },
       {
         "name": "RTVE La Promesa",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260804T051221SQUARE.png",
         "group": "Serie",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES3300006QL"
@@ -2744,7 +2744,7 @@
       },
       {
         "name": "RTVE Somos Cine",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20260804T051232SQUARE.png",
         "group": "Cine",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES33000058B"
@@ -2786,7 +2786,7 @@
       },
       {
         "name": "Runtime Romance",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260721T035626SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260804T051244SQUARE.png",
         "group": "Cine",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ESBD800004KU"
@@ -3024,13 +3024,6 @@
         "url": "https://jmp2.uk/stvp-ES1800007GH"
       },
       {
-        "name": "K-POP by CJ ENM",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png",
-        "group": "Música & ambiente",
-        "source": "https://m3u.work/qKChzP8.m3u",
-        "url": "https://jmp2.uk/stvp-ES3900001QG"
-      },
-      {
         "name": "Metal.Rocks",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400004OX_20260609T043006SQUARE.png",
         "group": "Música & ambiente",
@@ -3134,6 +3127,13 @@
         "group": "Música & ambiente",
         "source": "https://m3u.work/qKChzP8.m3u",
         "url": "https://jmp2.uk/stvp-ES700006IP"
+      },
+      {
+        "name": "CJ ENM K-POP",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20260804T051159SQUARE.png",
+        "group": "Música & ambiente",
+        "source": "https://m3u.work/qKChzP8.m3u",
+        "url": "https://jmp2.uk/stvp-ES3900001QG"
       }
     ],
     "Deportes": [

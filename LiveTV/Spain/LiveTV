@@ -459,7 +459,7 @@
     "name": "BBC Earth",
     "type": "Documentales",
     "url": "https://jmp2.uk/stvp-ES3200001F1",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260721T035551SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png"
   },
   {
     "name": "CURIOSITY Now",
@@ -1449,7 +1449,7 @@
     "name": "Actualidad 360",
     "type": "Noticias",
     "url": "https://jmp2.uk/stvp-ES300034BT",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260324T034819SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260804T051205SQUARE.png"
   },
   {
     "name": "Al Jazeera",
@@ -1656,12 +1656,6 @@
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300001K6_20251125T101421SQUARE.png"
   },
   {
-    "name": "Coreano by CJ ENM",
-    "type": "Entretenimiento",
-    "url": "https://jmp2.uk/stvp-ES1700003C6",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png"
-  },
-  {
     "name": "Dhar Mann TV",
     "type": "Entretenimiento",
     "url": "https://jmp2.uk/stvp-ES3800002V5",
@@ -1755,7 +1749,7 @@
     "name": "Telemadrid",
     "type": "Entretenimiento",
     "url": "https://jmp2.uk/stvp-ES300030ZT",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260721T035634SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260804T051259SQUARE.png"
   },
   {
     "name": "Xataka",
@@ -1780,6 +1774,12 @@
     "type": "Entretenimiento",
     "url": "https://jmp2.uk/stvp-ES120000498",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES120000498_20260707T051019SQUARE.png"
+  },
+  {
+    "name": "CJ ENM K-Novela en Español",
+    "type": "Entretenimiento",
+    "url": "https://jmp2.uk/stvp-ES1700003C6",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20260804T051153SQUARE.png"
   },
   {
     "name": "Empeños a lo bestia",
@@ -1911,7 +1911,7 @@
     "name": "RTVE La Promesa",
     "type": "Serie",
     "url": "https://jmp2.uk/stvp-ES3300006QL",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260804T051221SQUARE.png"
   },
   {
     "name": "Series K COMEDIA ROMÁNTICA",
@@ -2319,7 +2319,7 @@
     "name": "RTVE Somos Cine",
     "type": "Cine",
     "url": "https://jmp2.uk/stvp-ES33000058B",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20260804T051232SQUARE.png"
   },
   {
     "name": "Runtime",
@@ -2355,7 +2355,7 @@
     "name": "Runtime Romance",
     "type": "Cine",
     "url": "https://jmp2.uk/stvp-ESBD800004KU",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260721T035626SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260804T051244SQUARE.png"
   },
   {
     "name": "Sci-Fi - Rakuten TV",
@@ -2550,12 +2550,6 @@
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png"
   },
   {
-    "name": "K-POP by CJ ENM",
-    "type": "Música & ambiente",
-    "url": "https://jmp2.uk/stvp-ES3900001QG",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png"
-  },
-  {
     "name": "Metal.Rocks",
     "type": "Música & ambiente",
     "url": "https://jmp2.uk/stvp-ES4400004OX",
@@ -2644,6 +2638,12 @@
     "type": "Música & ambiente",
     "url": "https://jmp2.uk/stvp-ES700006IP",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700006IP_20260707T052836SQUARE.png"
+  },
+  {
+    "name": "CJ ENM K-POP",
+    "type": "Música & ambiente",
+    "url": "https://jmp2.uk/stvp-ES3900001QG",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20260804T051159SQUARE.png"
   },
   {
     "name": "World Poker Tour",

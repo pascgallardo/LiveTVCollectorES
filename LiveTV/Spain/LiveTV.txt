@@ -177,7 +177,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: RTVE Somos Cine
 URL: https://jmp2.uk/stvp-ES33000058B
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20260804T051232SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Runtime
@@ -207,7 +207,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Runtime Romance
 URL: https://jmp2.uk/stvp-ESBD800004KU
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260721T035626SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260804T051244SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Sci-Fi - Rakuten TV
@@ -800,7 +800,7 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: BBC Earth
 URL: https://jmp2.uk/stvp-ES3200001F1
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260721T035551SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: CURIOSITY Now
@@ -945,11 +945,6 @@ URL: https://jmp2.uk/stvp-ES4300001K6
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300001K6_20251125T101421SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Coreano by CJ ENM
-URL: https://jmp2.uk/stvp-ES1700003C6
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: Dhar Mann TV
 URL: https://jmp2.uk/stvp-ES3800002V5
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800002V5_20251111T011933SQUARE.png
@@ -1027,7 +1022,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Telemadrid
 URL: https://jmp2.uk/stvp-ES300030ZT
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260721T035634SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260804T051259SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Xataka
@@ -1048,6 +1043,11 @@ Source: https://m3u.work/qKChzP8.m3u
 Name: Quantum Makers
 URL: https://jmp2.uk/stvp-ES120000498
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES120000498_20260707T051019SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: CJ ENM K-Novela en Español
+URL: https://jmp2.uk/stvp-ES1700003C6
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20260804T051153SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Empeños a lo bestia
@@ -2224,11 +2224,6 @@ URL: https://jmp2.uk/stvp-ES1800007GH
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: K-POP by CJ ENM
-URL: https://jmp2.uk/stvp-ES3900001QG
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png
-Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
 Name: Metal.Rocks
 URL: https://jmp2.uk/stvp-ES4400004OX
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400004OX_20260609T043006SQUARE.png
@@ -2302,6 +2297,11 @@ Source: https://m3u.work/qKChzP8.m3u
 Name: Rolling Stones Takeover
 URL: https://jmp2.uk/stvp-ES700006IP
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700006IP_20260707T052836SQUARE.png
+Source: https://m3u.work/qKChzP8.m3u
+--------------------------------------------------
+Name: CJ ENM K-POP
+URL: https://jmp2.uk/stvp-ES3900001QG
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20260804T051159SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
@@ -2405,7 +2405,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Actualidad 360
 URL: https://jmp2.uk/stvp-ES300034BT
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260324T034819SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260804T051205SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Al Jazeera
@@ -2747,7 +2747,7 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: RTVE La Promesa
 URL: https://jmp2.uk/stvp-ES3300006QL
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260804T051221SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 Name: Series K COMEDIA ROMÁNTICA
