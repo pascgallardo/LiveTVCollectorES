@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-11 22:29:49",
+  "date": "2026-08-12 07:42:19",
   "channels": {
     "Generalistas": [
       {
@@ -331,13 +331,6 @@
         "group": "Deportivos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      },
-      {
-        "name": "Esport3",
-        "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
-        "group": "Deportivos",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
       },
       {
         "name": "ETB Deportes (Kirolak 360)",
@@ -815,13 +808,6 @@
         "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
       },
       {
-        "name": "Pluto TV Forever Kids",
-        "logo": "https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8"
-      },
-      {
         "name": "Pluto TV Junior",
         "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
         "group": "Infantiles",
@@ -848,13 +834,6 @@
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8"
-      },
-      {
-        "name": "Pluto TV Toons",
-        "logo": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8"
       },
       {
         "name": "EnerGeek Retro",
@@ -1398,13 +1377,6 @@
         "group": "Shows",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8"
-      },
-      {
-        "name": "Star Trek: The Next Generation",
-        "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
-        "group": "Shows",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8"
       },
       {
         "name": "Star Trek: Voyager",

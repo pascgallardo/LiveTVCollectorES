@@ -276,12 +276,6 @@
     "img": "https://graph.facebook.com/Esport3/picture?width=200&height=200"
   },
   {
-    "name": "Esport3",
-    "type": "Deportivos",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
-    "img": "https://graph.facebook.com/Esport3/picture?width=200&height=200"
-  },
-  {
     "name": "ETB Deportes (Kirolak 360)",
     "type": "Deportivos",
     "url": "https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8",
@@ -684,12 +678,6 @@
     "img": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png"
   },
   {
-    "name": "Pluto TV Forever Kids",
-    "type": "Infantiles",
-    "url": "https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8",
-    "img": "https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png"
-  },
-  {
     "name": "Pluto TV Junior",
     "type": "Infantiles",
     "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8",
@@ -712,12 +700,6 @@
     "type": "Infantiles",
     "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8",
     "img": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png"
-  },
-  {
-    "name": "Pluto TV Toons",
-    "type": "Infantiles",
-    "url": "https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8",
-    "img": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png"
   },
   {
     "name": "EnerGeek Retro",
@@ -1180,12 +1162,6 @@
     "type": "Shows",
     "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8",
     "img": "https://i.imgur.com/JIbupT1.png"
-  },
-  {
-    "name": "Star Trek: The Next Generation",
-    "type": "Shows",
-    "url": "https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8",
-    "img": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png"
   },
   {
     "name": "Star Trek: Voyager",

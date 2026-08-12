@@ -91,8 +91,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos",Esport3 GEO
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos",Esport3
-https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Deportivos",ETB Deportes (Kirolak 360)
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciacocina_cuadrado.jpg" group-title="Cocina",Andalucía Cocina
@@ -227,8 +225,6 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png" group-title="Infantiles",Pluto TV Anime
 https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png" group-title="Infantiles",Pluto TV Forever Kids
-https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="Infantiles",Pluto TV Junior
 https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Infantiles",Pluto TV Kids Classics
@@ -237,8 +233,6 @@ https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png" group-title="Infantiles",Pluto TV Teen
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" group-title="Infantiles",Pluto TV Toons
-https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Infantiles",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Infantiles",EnerGeek Fan
@@ -393,8 +387,6 @@ https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JIbupT1.png" group-title="Shows",Los Asesinatos de Midsomer
 https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="Shows",Star Trek: The Next Generation
-https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Shows",Star Trek: Voyager
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Shows",Pluto TV Series
