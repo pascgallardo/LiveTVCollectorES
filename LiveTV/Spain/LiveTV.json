@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16 07:06:04",
+  "date": "2026-08-16 14:03:18",
   "channels": {
     "Generalistas": [
       {
@@ -244,7 +244,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurnoticias_blanco_cuadrado.jpg",
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
+        "url": "https://rtva-channel42.flumotion.cloud/playlist.m3u8"
       },
       {
         "name": "Actualidad 360",

@@ -66,7 +66,7 @@ https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurnoticias_blanco_cuadrado.jpg" group-title="Informativos",Canal Sur Más Noticias
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+https://rtva-channel42.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveactualidad360_cuadrado.jpg" group-title="Informativos",Actualidad 360
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/cnnesp_cuadrado.jpg" group-title="Informativos",CNN en Español
