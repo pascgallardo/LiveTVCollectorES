@@ -1813,12 +1813,12 @@ Logo: https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_176
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: EnerGeek Retro
-URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES
+URL: https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=TDTCh4nnelsES
 Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: EnerGeek Fan
-URL: https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES
+URL: https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=TDTCh4nnelsES
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -2101,12 +2101,12 @@ Logo: https://image.xumo.com/v1/channels/channel/99992082/600x200.png?type=white
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: EnerGeek Radio Chile HD
-URL: https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=TDTCh4nnelsES
+URL: https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=TDTCh4nnelsES
 Logo: https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: EnerGeek Radio Chile SD
-URL: https://backend.energeek.cl/webtv/egradio/mobile/index.m3u8?token=TDTCh4nnelsES
+URL: https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=TDTCh4nnelsES
 Logo: https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
