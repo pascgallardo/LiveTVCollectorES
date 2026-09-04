@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-04 00:41:27",
+  "date": "2026-09-04 09:14:00",
   "channels": {
     "Generalistas": [
       {
@@ -215,13 +215,6 @@
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8"
-      },
-      {
-        "name": "Aqui No Hay Quien Viva",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/aquinohayquienviva_cuadrado.jpg",
-        "group": "Eventuales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8"
       },
       {
         "name": "La Promesa (RTVE)",
@@ -722,13 +715,6 @@
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://cdn-canalextremadura.watchity.net/fast2/master.m3u8"
-      },
-      {
-        "name": "Disney Junior",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://bbb.exoadash.com/TVD1561/index.mpd"
       },
       {
         "name": "Anime Vision",
