@@ -696,21 +696,6 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/tdp_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Esport3 GEO CAT
-URL: https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-Logo: https://graph.facebook.com/Esport3/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Esport3 GEO
-URL: https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-Logo: https://graph.facebook.com/Esport3/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: ETB Deportes (Kirolak 360)
-URL: https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
-Logo: https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 
 Group: Documentales
 Name: Andalucía Turismo
@@ -718,14 +703,14 @@ URL: https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&liv
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalandaluciaturismo2_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Inglés Total
+URL: https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
+Logo: https://media.tvup.cloud/canales/generic_cd_628ce71965774400228da9ae.jpg?t=1658242386?t=1683806449?t=1687212737?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Historia
 URL: https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/historia_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Love The Planet
-URL: https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetheplanet_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: WaterBear
@@ -733,9 +718,49 @@ URL: https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlis
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Inglés Total
-URL: https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
-Logo: https://media.tvup.cloud/canales/generic_cd_628ce71965774400228da9ae.jpg?t=1658242386?t=1683806449?t=1687212737?width=200&height=200
+Name: NatureTime
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Love The Planet
+URL: https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetheplanet_redondo.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Crimen&Historia
+URL: https://amg01821-lovetv-amg01821c23-lg-es-6727.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-crimenandhistoria-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovecrime&history_redondo.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Historia y Vida
+URL: https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovehistoriayvida_redondo.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Viajes y Sabores
+URL: https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lovetravel&taste_redondo.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: El Mueble
+URL: https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveelmueble_redondo.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Mi Casa
+URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992222&ads.xumo_streamId=99992222&ads.channelId=99992222&ads.ad_tag_id=134055&ads.csid=lgchannels_es_indigeniusmicasaspanish_ssai&ads.channelName=indigeniusmicasaspanish_es&ads.xumo_contentName=IndigeniusMiCasaSpanish&ads.xumo_contentId=2160&ads.xumo_providerName=IndigeniusMiCasaSpanish&ads.xumo_providerId=2160&ads.content_category=IAB8&ads.content_genre=Food%20TV&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+Logo: https://image.xumo.com/v1/channels/channel/99992222/600x200.png?type=white_cropped
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: NatureVision
+URL: https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.inventory_router_id=377&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=lifestyle&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+Logo: https://image.xumo.com/v1/channels/channel/99992449/600x200.png?type=white_cropped
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Planeta Salvaje
+URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992502&ads.xumo_streamId=99992502&ads.channelId=99992502&ads.ad_tag_id=134054&ads.csid=lgchannels_es_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_es&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+Logo: https://image.xumo.com/v1/channels/channel/99992502/600x200.png?type=white_cropped
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Buen Viaje
@@ -746,46 +771,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Travelxp
 URL: https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8
 Logo: http://img.platform.wurl.dev/channel/1613/lg/e2e0ef/LG-Logo-PNG-100x100_v1.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Mi Casa
-URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992222&ads.xumo_streamId=99992222&ads.channelId=99992222&ads.ad_tag_id=134055&ads.csid=lgchannels_es_indigeniusmicasaspanish_ssai&ads.channelName=indigeniusmicasaspanish_es&ads.xumo_contentName=IndigeniusMiCasaSpanish&ads.xumo_contentId=2160&ads.xumo_providerName=IndigeniusMiCasaSpanish&ads.xumo_providerId=2160&ads.content_category=IAB8&ads.content_genre=Food%20TV&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-Logo: https://image.xumo.com/v1/channels/channel/99992222/600x200.png?type=white_cropped
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: NatureTime
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Planeta Salvaje
-URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992502&ads.xumo_streamId=99992502&ads.channelId=99992502&ads.ad_tag_id=134054&ads.csid=lgchannels_es_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_es&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-Logo: https://image.xumo.com/v1/channels/channel/99992502/600x200.png?type=white_cropped
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: NatureVision
-URL: https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992449&ads.xumo_streamId=99992449&ads.channelId=99992449&ads.inventory_router_id=377&ads.csid=lgchannels_es_naturevision_ssai&ads.channelName=&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.xumo_providerName=NatureVision&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=lifestyle&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-Logo: https://image.xumo.com/v1/channels/channel/99992449/600x200.png?type=white_cropped
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Viajes&Sabores
-URL: https://amg01821-lovetv-amg01821c29-lg-es-6725.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viajesandsabores-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-Logo: https://d2mxb63djushzm.cloudfront.net/images/Viajes_Sabores_Logo_372x160.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Crimen&Historia
-URL: https://amg01821-lovetv-amg01821c23-lg-es-6727.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-crimenandhistoria-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-Logo: https://d2mxb63djushzm.cloudfront.net/images/Crimen_Historia_Logo_400x200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Historia y Vida
-URL: https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-Logo: https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/1_Logo_Historia_Vida_332x200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: El Mueble
-URL: https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-Logo: https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Pluto TV True Crime
@@ -1244,11 +1229,6 @@ URL: https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycocina_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: En Play
-URL: https://ztnr.rtve.es/ztnr/6712399.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayenplay_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Al cielo con ella
 URL: https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayalcieloconella_cuadrado.jpg
@@ -1264,181 +1244,171 @@ URL: https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaycuentame_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Conciertos Radio 3
-URL: https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
+Name: La Promesa
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaypromesa_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: La Promesa (RTVE)
-URL: https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8
-Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
+Name: En Play
+URL: https://ztnr.rtve.es/ztnr/6712399.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayenplay_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Los Conciertos Radio 3
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplayconciertosradio3_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
 Group: Films
 Name: Pelis Top (Rakuten TV)
 URL: https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Acción (Rakuten TV)
+Name: Películas de Acción (Rakuten TV)
 URL: https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Comedias (Rakuten TV)
+Name: Thrillers (Rakuten TV)
+URL: https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6480-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_language=es&ads.viewsize=&channel_id=6480&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Sci-Fi (Rakuten TV)
+URL: https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6740-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_language=es&ads.viewsize=&channel_id=6740&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Comedia (Rakuten TV)
 URL: https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Dramas (Rakuten TV)
+Name: Películas Románticas (Rakuten TV)
+URL: https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6105-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Películas de Drama (Rakuten TV)
 URL: https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png
+Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Cine Español (Rakuten TV)
+URL: https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6196-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_language=es&ads.viewsize=&channel_id=6196&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: En Familia (Rakuten TV)
 URL: https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: MyTime Movi Network (Rakuten TV)
-URL: https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cine Friki
 URL: https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20260407T040044SQUARE.png
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cine Western
 URL: https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Grjngo - Películas Del Oeste
 URL: https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
-Logo: http://img.platform.wurl.dev/channel/1906/lg/00f1df/LG-Logo-PNG-100x100_v1.png
+Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo--S3-5cQOxClLIOINqVNN5YvYJzbmEyjAUwBJJzUIjT6xqE-6lxQGHJig1rwQztxKJSAhCBCeFUQv0dYqfGj4eud9QSjI6ty252qdAg_DuirV98e0VORtXXH4Hw6bzCWnueIB4ynTp3bhdP5NaRrG_W3Gkco6ixaLwKeqgW6942RYSUJScqWP4CX/w640-h480-rw/grjngo-logoroku.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: LG 1
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_4.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: LG 1: Film
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_1.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1film_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: LG 1: Spotlight
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/lg1spotlight_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Sony One Hits Comedia
 URL: https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
-Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitscomedia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Sony One Hits Acción
 URL: https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
-Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ActionHits_ChannelLogo_Horizontal.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitsaccion_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Moviesphere
 URL: https://amg00353-amg00353c71-lg-es-10828.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatetvfast-moviespherespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-Logo: https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_400x200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Runtime
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_espana_1400x2000.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/moviesphere_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Runtime Acción
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_3.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Runtime Crimen
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_1.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Runtime Thriller
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000.png
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6125&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Runtime Comedia
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/logo/711x400/runtime_comedia_16x9.png
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6131&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Runtime Romance
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_0.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Runtime Clásicos
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_2.png
+Name: Runtime Crimen
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=3527&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Runtime Familia
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=13804&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/267x400/runtime_familia_2x3.png
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=4647&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_2.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Runtime Romance
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=3056&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Runtime Thriller-Terror
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6120&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Runtime Clásicos
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=3053&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: MyTime Movie Network
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=83.50.205.167&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20Chrome%2F133%20Safari%2F537.36&dnt=0&app_bundle=com.ammo.runtime.tv.html5&app_name=Runtime&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&content_episode=&content_season=&content_livestream=0&channel_name=run&network_name=&did=98018ca96d753d8ba82a6f648d50b513&us_privacy=1NNN&gdpr_consent=0&gdpr=1&lmt=0&device_make=&device_model=
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cines Verdi
-URL: https://daiconnect.com/live/hls/tvup/lg-verdi/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
-Logo: https://media.tvup.cloud/canales/generic_cd_61c334655ca0550022dd5bad.png?t=1670423468?t=1682523821?t=1682579705?t=1684244478?t=1685027302?width=200&height=200
+URL: https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}&USrGDPRC={{CONSENT}}
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Cine Feel Good Verdi
-URL: https://daiconnect.com/live/hls/tvup/lg-feelgood/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
-Logo: https://media.tvup.cloud/canales/generic_cd_61c335178a6158002173130d.png?t=1681700682?t=1682523806?t=1685353350?width=200&height=200
+Name: Cine Feel Good
+URL: https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}&USrGDPRC={{CONSENT}}
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Pelis Top - Rakuten TV
-URL: https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-5983-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_language=es&ads.viewsize=&channel_id=5983&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/d3251db7-8fb9-49d1-bc00-a22504c37a1e-width400-height200.png
+Name: Film&Co
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=5625&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Películas de Acción - Rakuten TV
-URL: https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6069-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_language=es&ads.viewsize=&channel_id=6069&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/06e3fdc0-4d54-4176-a8b4-b905d0b2077f-width400-height200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Comedia - Rakuten TV
-URL: https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6180-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_language=es&ads.viewsize=&channel_id=6180&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/0a261879-2f0c-476b-9f46-0f7d4e3e8b72-width400-height200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Thrillers - Rakuten TV
-URL: https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6480-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_language=es&ads.viewsize=&channel_id=6480&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/bec014df-87c0-4215-885b-a5f8fc2a9422-width400-height200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cine Español - Rakuten TV
-URL: https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6196-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_language=es&ads.viewsize=&channel_id=6196&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/2c834a13-dcc4-4914-8148-9fc1bb82b4c2-width400-height200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Películas Románticas - Rakuten TV
-URL: https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6105-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/c860e396-5092-428d-ae7f-57eacc6ec23f-width400-height200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Películas de Drama - Rakuten TV
-URL: https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6092-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_language=es&ads.viewsize=&channel_id=6092&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/logo-2-1/a9c46921-930e-4f9e-bd54-5828ee5d2390-width400-height200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Sci-Fi - Rakuten TV
-URL: https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6740-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_language=es&ads.viewsize=&channel_id=6740&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/c4973ec6-e9d6-4d11-8709-3b6d1d0d79c2-width400-height200.png
+Name: Sangre Fría
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6130&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Paramount Network de Pluto TV
@@ -1534,11 +1504,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: SensaCine TV x Pluto
 URL: https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 Logo: https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: ARTFLIX - Películas Clásicas
-URL: https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
-Logo: http://img.platform.wurl.dev/channel/1249/lg/dfa8d0/LG-Logo-PNG-100x100_v1.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1732,7 +1697,7 @@ URL: https://live.sakutv.workers.dev/hls/boing
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/boing_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Canal Kidz
+Name: Kidz
 URL: https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/kidz_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
@@ -1743,13 +1708,23 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/extremadurap
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Anime Vision
-URL: https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+URL: https://daiconnect.com/live/hls/tvup/rk-animevision/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6089&ads_content_categories=IAB1&ads_content_genre=animation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=animevision_es&ads_rtv_content_id=7129&ads_rtv_content_language=es&ads_streaming_id=eb84d6c2-c151-4f11-be36-57ea7aedc237&ads_tcs_channel_id=6089&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevision_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Anime Vision Classics
-URL: https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+URL: https://daiconnect.com/live/hls/tvup/rk-animevisionclassics/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6090&ads_content_categories=IAB1&ads_content_genre=animation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=animevision-classics_es&ads_rtv_content_id=7128&ads_rtv_content_language=es&ads_streaming_id=606bb11c-11f6-4755-91e9-220c435ba65a&ads_tcs_channel_id=6090&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevisionclassics_cuadrado.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: EnerGeek Retro
+URL: https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=TDTCh4nnelsES
+Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: EnerGeek Fan
+URL: https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=TDTCh4nnelsES
+Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Detective Conan
@@ -1787,6 +1762,16 @@ URL: https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 Logo: https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Pocoyó
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=5626&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Pitufo TV
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=5444&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YJek0f2QAJvIDykEd5e_U3h3kGLUZa_93MvdnXAMDB4.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Bob Esponja
 URL: https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 Logo: https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
@@ -1815,16 +1800,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Pluto TV Teen
 URL: https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 Logo: https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: EnerGeek Retro
-URL: https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=TDTCh4nnelsES
-Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: EnerGeek Fan
-URL: https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=TDTCh4nnelsES
-Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Anime Onegai Action
@@ -1859,14 +1834,24 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Radio Nacional
+URL: https://ztnr.rtve.es/ztnr/6982891.m3u8
+Logo: https://graph.facebook.com/radionacionalrne/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Radio 5
+URL: https://ztnr.rtve.es/ztnr/6982917.m3u8
+Logo: https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Canal Sur Más Noticias
 URL: https://rtva-channel42.flumotion.cloud/playlist.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurnoticias_blanco_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Actualidad 360
-URL: https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/loveactualidad360_cuadrado.jpg
+Name: Onda Cero
+URL: https://atres-live.ondacero.es/h264/live/obs/master.m3u8
+Logo: https://graph.facebook.com/ondacero/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: CNN en Español
@@ -1884,31 +1869,6 @@ URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/france24esp_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: 3CatInfo GEO CAT
-URL: https://directes-tv-cat.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-Logo: https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: 3CatInfo GEO
-URL: https://directes-tv-es.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-Logo: https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio Nacional
-URL: https://ztnr.rtve.es/ztnr/6982891.m3u8
-Logo: https://graph.facebook.com/radionacionalrne/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 5
-URL: https://ztnr.rtve.es/ztnr/6982917.m3u8
-Logo: https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Onda Cero
-URL: https://atres-live.ondacero.es/h264/live/obs/master.m3u8
-Logo: https://graph.facebook.com/ondacero/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 
 Group: Int. Europa
 Name: TVE Int. Europa
@@ -1919,21 +1879,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Star TVE Europa
 URL: https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/startve_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Antena 3 Internacional
-URL: http://177.10.184.193:8000/play/a06a/index.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/antena3internacional_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TV3 CAT GEO
-URL: https://directes-tv-es.3catdirectes.cat/live-origin/tvc-hls/master.m3u8
-Logo: https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: TV3 CAT
-URL: https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-Logo: https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1975,6 +1920,11 @@ Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
 Group: Musicales
+Name: Radio 3
+URL: https://ztnr.rtve.es/ztnr/6982918.m3u8
+Logo: https://graph.facebook.com/radio3/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 Name: Sol Música España
 URL: https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/solmusica_rosa_cuadrado.jpg
@@ -2103,26 +2053,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Stingray Naturescape
 URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992082&ads.xumo_streamId=99992082&ads.channelId=99992082&ads.ad_tag_id=15717&ads.csid=lgchannels_es_stingraynaturescapeeu_ssai&ads.channelName=stingraynaturescape_it&ads.xumo_contentName=StingrayNaturescapeEU&ads.xumo_contentId=3200&ads.xumo_providerName=StingrayNaturescapeEU&ads.xumo_providerId=3200&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 Logo: https://image.xumo.com/v1/channels/channel/99992082/600x200.png?type=white_cropped
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: EnerGeek Radio Chile HD
-URL: https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=TDTCh4nnelsES
-Logo: https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: EnerGeek Radio Chile SD
-URL: https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=TDTCh4nnelsES
-Logo: https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Radio 3
-URL: https://ztnr.rtve.es/ztnr/6982918.m3u8
-Logo: https://graph.facebook.com/radio3/picture?width=200&height=200
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Conexión Berazategui Argentina
-URL: https://lbgo.bozztv.com/ssh101/ssh101/conexionbera/playlist.m3u8
-Logo: https://graph.facebook.com/conexionberaok/picture?width=200&height=200
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: MTV Originals
@@ -2812,6 +2742,11 @@ URL: https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 Logo: https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
+Name: Curro Jiménez
+URL: https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
+Logo: https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Embrujadas
 URL: https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
 Logo: https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
@@ -2942,16 +2877,6 @@ URL: https://fda256cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/358e266b-c9b4-4c44-b9d3-ea4f92c878f1.jpeg
 Source: https://m3u.work/ICEQGPH.m3u
 --------------------------------------------------
-Name: AnimeVisión
-URL: https://daiconnect.com/live/hls/tvup/rk-animevision/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6089&ads_content_categories=IAB1&ads_content_genre=animation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=animevision_es&ads_rtv_content_id=7129&ads_rtv_content_language=es&ads_streaming_id=eb84d6c2-c151-4f11-be36-57ea7aedc237&ads_tcs_channel_id=6089&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3ad26428-c55b-4645-8202-c349ccbb52cc.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: AnimeVisión Classics
-URL: https://daiconnect.com/live/hls/tvup/rk-animevisionclassics/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6090&ads_content_categories=IAB1&ads_content_genre=animation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=animevision-classics_es&ads_rtv_content_id=7128&ads_rtv_content_language=es&ads_streaming_id=606bb11c-11f6-4755-91e9-220c435ba65a&ads_tcs_channel_id=6090&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/56e7f02c-0dbf-49cf-b8a2-c6b7e2d02c35.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
 Name: K-Drama+
 URL: https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=romance%2Csoap-opera&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=k-drama-plus_es&ads.rtv_content_id=7693&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=ee197caf-7d8a-4272-a4fe-a8d006937cc6&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=2225
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/18918110-1ab1-4aa8-9879-24473b095497.jpeg
@@ -2981,64 +2906,69 @@ Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
 Group: Shows
-Name: BBC Series
-URL: https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png
+Name: like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Shows",AXN White
+URL: https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+Logo: https://i.imgur.com/47IKxmt.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Sony One Series Comedia
 URL: https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
-Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriescomedia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Sony One Éxitos
 URL: https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
-Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-exitos_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Sony One The Blacklist
 URL: https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
-Logo: https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Blacklist_ChannelLogo_Horizontal.png
+Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-blacklist_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Runtime Series
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-Logo: https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_5.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: LOL España
-URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993069&ads.xumo_streamId=99993069&ads.channelId=99993069&ads.ad_tag_id=140650&ads.csid=lgchannels_es_todocomedia_ssai&ads.channelName=todocomedia_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-Logo: https://image.xumo.com/v1/channels/channel/99993069/600x200.png?type=white_cropped
+Name: BBC Series
+URL: https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ac6b11e-3ef5-48d7-a7b8-2639183af3ab.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Todo Drama
 URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993053&ads.xumo_streamId=99993053&ads.channelId=99993053&ads.ad_tag_id=120204&ads.csid=lgchannels_es_tododrama_ssai&ads.channelName=tododrama_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-Logo: https://image.xumo.com/v1/channels/channel/99993053/600x200.png?type=white_cropped
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fd26c4b5-868a-4520-8791-d016d0dd46b8.jpeg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: LOL España
+URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993069&ads.xumo_streamId=99993069&ads.channelId=99993069&ads.ad_tag_id=140650&ads.csid=lgchannels_es_todocomedia_ssai&ads.channelName=todocomedia_es&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_contentId=2054&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_providerId=2054&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/927977ca-717e-449a-9499-d1364efd3bdb.jpeg
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Todo Crimen (Rakuten TV)
+URL: https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6220-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_language=es&ads.viewsize=&channel_id=6220&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: FilmRise Sci-Fi
 URL: https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992180&ads.xumo_streamId=99992180&ads.channelId=99992180&ads.inventory_router_id=377&ads.csid=lgchannels_es_filmrisespanish_ssai&ads.channelName=&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_contentId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_providerId=2701&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads._fw_content_genre=movies&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-Logo: https://image.xumo.com/v1/channels/channel/99992180/600x200.png?type=white_cropped
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/277ead19-5335-42c8-8c64-31bda5696bb9.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Crimen - Rakuten TV
-URL: https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6220-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_language=es&ads.viewsize=&channel_id=6220&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/cb5aaf2e-da5e-42a3-9fbe-d38f5881cae5-width400-height200.png
+Name: Runtime Series
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6132&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Pluto TV Comedia made in Spain
-URL: https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-Logo: https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
+Name: Ana y los 7
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=2722&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ana_y_los_7_16x9_v2.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Vaya semanita
-URL: https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
-Logo: https://i.imgur.com/0bCLNUG.png
+Name: Curro Jiménez
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=3435&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Comedia a lo bestia de Pluto TV
-URL: https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-Logo: https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
+Name: Los Asesinatos de Midsomer
+URL: https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/358e266b-c9b4-4c44-b9d3-ea4f92c878f1.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: 12 Monkeys
@@ -3054,16 +2984,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Melrose Place
 URL: https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 Logo: https://i.imgur.com/hXDj0fV.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Curro Jiménez
-URL: https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
-Logo: https://i.imgur.com/e3biTY5.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Los Asesinatos de Midsomer
-URL: https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
-Logo: https://i.imgur.com/JIbupT1.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Star Trek: Voyager
@@ -3084,6 +3004,21 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: Pluto TV Series Sci-Fi
 URL: https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 Logo: https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Pluto TV Comedia made in Spain
+URL: https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+Logo: https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Comedia a lo bestia de Pluto TV
+URL: https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+Logo: https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
+Name: Vaya semanita
+URL: https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
+Logo: https://i.imgur.com/0bCLNUG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
