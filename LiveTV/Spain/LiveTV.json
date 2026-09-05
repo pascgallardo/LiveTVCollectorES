@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05 17:13:55",
+  "date": "2026-09-05 23:30:15",
   "channels": {
     "Generalistas": [
       {
@@ -94,164 +94,6 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8"
       }
     ],
-    "RTVE Lineales": [
-      {
-        "name": "La 1",
-        "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
-        "group": "RTVE Lineales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8"
-      },
-      {
-        "name": "24 Horas",
-        "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
-        "group": "RTVE Lineales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8"
-      },
-      {
-        "name": "Teledeporte",
-        "logo": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",
-        "group": "RTVE Lineales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
-      },
-      {
-        "name": "Clan",
-        "logo": "https://graph.facebook.com/clantve/picture?width=200&height=200",
-        "group": "RTVE Lineales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8"
-      }
-    ],
-    "Atresplayer": [
-      {
-        "name": "Antena 3",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2024/02/12/513A2F10-2372-47D8-8DC7-18930B8CE9DF.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/fdfff41f394829996e95abb0931fd1f6bcf25568_ES_1787927740_1787956480/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8"
-      },
-      {
-        "name": "Aqui No Hay Quien Viva",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/9F9EF36E-8B6F-4817-8E0A-94B6B8DFBE54.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/d571d554603330653a3c29a2c7a4682da5877043/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8"
-      },
-      {
-        "name": "Atreseries",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2026/03/20/42BBDBB8-D3B3-4287-8B94-9F3A9A633CC1.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/d0d5772e3ddbcae132e1cdf8fe6fba92c1e52e1d_ES_1787927742_1787956482/hlsts/live/a3series_usp/a3series_usp.isml/playlist.m3u8"
-      },
-      {
-        "name": "Canal Flooxer",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2024/02/08/63DFC55A-B40F-4FC7-942D-DDE2645CD841.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/89abe881a2cc5a04f717ef93b0320144d9e14e9b/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8"
-      },
-      {
-        "name": "Canal Kidz",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/04/C5C6C6E4-E7AB-481C-9D69-3EC9ABF96254.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/ec29589e0d788f9f80e7caac600c17e29a53d580/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8"
-      },
-      {
-        "name": "Clasicos",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/FD153570-05C5-4CDA-9A68-66B549740B4E.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/9108a9f2cb705173ce4e32ebeaf9bd31ee6f94d3/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8"
-      },
-      {
-        "name": "Comedia",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/DDA5DE09-FD86-41B1-A7D5-FC9C9951BBD4.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/b272237434cd898700a59c77f173b893fbc15134/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8"
-      },
-      {
-        "name": "El Club De La Comedia",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/04/E3636295-CCD9-4325-8293-E9867F457A9C.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/4e0400225ce0b0f169cef8491f97345094c76b6e/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8"
-      },
-      {
-        "name": "El Hormiguero",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/06/8F5C253E-805D-4389-8F0E-BBE7FF8298B3.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/d20133fe78870f7ccb65b497635a32b1aa31987f/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8"
-      },
-      {
-        "name": "Equipo De Investigacion",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/03/62555AD0-260F-4DF3-8CE5-6143E73A3672.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/8532947a271768ef03954a8152567c8b3d733fb5/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8"
-      },
-      {
-        "name": "Foq",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/FFCBCC26-2F14-4B8C-BE0C-FACC7C5AD13A.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/3d67b72fb46667b7b0323ea8d4d6392184299be3/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8"
-      },
-      {
-        "name": "laSexta",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/03/383160DF-6292-4D7D-A05F-9246292DCEAD.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/0b72ef90c0f3003e2da14d33917d487a0572ff93_ES_1787927741_1787956481/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8"
-      },
-      {
-        "name": "Marlaska Congreso",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/d22696268ab37d25f004aaa66e43643d9cdf431d_ES_1787927747_1787956487/h264/live/eventos02/master.m3u8"
-      },
-      {
-        "name": "Mega",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2025/06/25/6B869761-584A-41A2-9BC0-3631AB7A51E7.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/b510a76b960da82318800210cc42f673f7529467_ES_1787927742_1787956482/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8"
-      },
-      {
-        "name": "Mentes Inquietas",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/30/2A838C78-426E-4546-A32B-C55EB90414F6.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/6d1b3b17581a4d22410c7738c9afcb7ef976afd4/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8"
-      },
-      {
-        "name": "Multicine",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2026/07/29/9EE861DB-8041-403D-97E9-B64C273181FE.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/801bbd0e5c58b38fa7e9cbaa1ef263ae94af80b7/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8"
-      },
-      {
-        "name": "Neox",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/F462CCFC-FFFC-490D-BBB2-604A94D5F099.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/47f758db071f5ad3e68cb86bbf4354cea92f1310_ES_1787927741_1787956481/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8"
-      },
-      {
-        "name": "Nova",
-        "logo": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/29/BBCA4889-6B43-4FF1-ACDE-3A969724C264.png",
-        "group": "Atresplayer",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://atres-live.atresmedia.com/4fdbdbde212c818aa85c05c0a7263c0b7c2b0293_ES_1787927741_1787956481/hlsts/live/nova_usp/nova_usp.isml/playlist.m3u8"
-      }
-    ],
     "Andalucía": [
       {
         "name": "Canal Málaga",
@@ -319,13 +161,6 @@
         "url": "https://senadolive.akamaized.net/hls/live/2006590/punto8/master.m3u8"
       },
       {
-        "name": "El club de la comedia",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg",
-        "group": "Eventuales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8"
-      },
-      {
         "name": "Somos Cine",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/rtveplaysomoscine_cuadrado.jpg",
         "group": "Eventuales",
@@ -380,15 +215,13 @@
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8"
-      }
-    ],
-    "RTVE Temáticos": [
+      },
       {
-        "name": "Play Enplay",
-        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-        "group": "RTVE Temáticos",
+        "name": "El club de la comedia",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg",
+        "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm27_main.m3u8"
+        "url": "https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8"
       }
     ],
     "Informativos": [
@@ -1019,7 +852,7 @@
         "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
       },
       {
-        "name": "Películas de Acción (Rakuten TV)",
+        "name": "Acción (Rakuten TV)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -1047,14 +880,14 @@
         "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
       },
       {
-        "name": "Películas Románticas (Rakuten TV)",
+        "name": "Romántico (Rakuten TV)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6105-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
-        "name": "Películas de Drama (Rakuten TV)",
+        "name": "Drama (Rakuten TV)",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -1278,13 +1111,6 @@
         "url": "https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8"
       },
       {
-        "name": "Pluto TV Sci-Fi",
-        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
-      },
-      {
         "name": "Pluto TV Thrillers",
         "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
         "group": "Films",
@@ -1353,16 +1179,16 @@
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8"
+      },
+      {
+        "name": "Pluto TV Sci-Fi",
+        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+        "group": "Films",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
       }
     ],
     "Shows": [
-      {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Shows\",AXN White",
-        "logo": "https://i.imgur.com/47IKxmt.png",
-        "group": "Shows",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8"
-      },
       {
         "name": "Sony One Series Comedia",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-seriescomedia_cuadrado.jpg",
@@ -1790,46 +1616,11 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3"
       },
       {
-        "name": "Catalunya Ràdio",
-        "logo": "https://graph.facebook.com/catradio/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8"
-      },
-      {
-        "name": "Onda Madrid",
-        "logo": "https://graph.facebook.com/ondamadridradio/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.telemadrid.cross-media.es/6389770485112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNDg1MTEyIn0.MZsybG7gZngXIa5TKgjC4kKqA5hzM_oyShyMLKKaohQ/playlist-hls.m3u8"
-      },
-      {
         "name": "Canal Sur Radio",
         "logo": "https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200",
         "group": "Radio_Populares",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3"
-      },
-      {
-        "name": "Radio Euskadi",
-        "logo": "https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8"
-      },
-      {
-        "name": "Radio Galega",
-        "logo": "https://graph.facebook.com/aradiogalega/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8"
-      },
-      {
-        "name": "Radio María",
-        "logo": "https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200",
-        "group": "Radio_Populares",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://dreamsiteradiocp2.com/proxy/rmspain1?mp=/stream"
       }
     ],
     "Radio_Internacional": [
@@ -1839,363 +1630,6 @@
         "group": "Radio_Internacional",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8"
-      },
-      {
-        "name": "Ràdio Nacional d'Andorra",
-        "logo": "https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8"
-      },
-      {
-        "name": "Andorra Música - Andorra",
-        "logo": "https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/outgest/e2b4dcb0-7ae3-4335-992a-23ba82e529b3/manifest.m3u8"
-      },
-      {
-        "name": "SER Andorra",
-        "logo": "https://pbs.twimg.com/profile_images/1573296068359585794/w5ceuwaR_200x200.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3"
-      },
-      {
-        "name": "Flaix FM Andorra",
-        "logo": "https://graph.facebook.com/flaixandorra/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.giraweb.com/8020/stream/;.mp3"
-      },
-      {
-        "name": "Flaixbac Andorra",
-        "logo": "https://graph.facebook.com/flaixbac/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.giraweb.com/8010/stream/;.mp3"
-      },
-      {
-        "name": "Radio Valira Andorra",
-        "logo": "https://graph.facebook.com/radiovalira/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://mars.streamerr.co/8022/stream"
-      },
-      {
-        "name": "BiG FM Alemania",
-        "logo": "https://graph.facebook.com/RadiobigFM/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.bigfm.de/bigfm-deutschland-128-mp3"
-      },
-      {
-        "name": "QMusic Países Bajos",
-        "logo": "https://graph.facebook.com/QmusicNL/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac"
-      },
-      {
-        "name": "Radio Italia",
-        "logo": "https://graph.facebook.com/radioitalia/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8"
-      },
-      {
-        "name": "RDP Int. Portugal",
-        "logo": "https://graph.facebook.com/rtp/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8"
-      },
-      {
-        "name": "Radio Comercial Portugal",
-        "logo": "https://graph.facebook.com/RadioComercial/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
-      },
-      {
-        "name": "RFM Portugal",
-        "logo": "https://graph.facebook.com/rfmoficial/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3"
-      },
-      {
-        "name": "BFBS Gibraltar 1 2",
-        "logo": "https://graph.facebook.com/BFBSRadio/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac"
-      },
-      {
-        "name": "Radio Montecarlo",
-        "logo": "https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://icy.unitedradio.it/RMC.mp3"
-      },
-      {
-        "name": "Radio San Marino",
-        "logo": "https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/master.m3u8"
-      },
-      {
-        "name": "Tomorrowland Radio",
-        "logo": "https://graph.facebook.com/tomorrowland/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8"
-      },
-      {
-        "name": "Radio Swiss Jazz",
-        "logo": "https://graph.facebook.com/radioswissjazz/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128"
-      },
-      {
-        "name": "Total Rock UK",
-        "logo": "https://graph.facebook.com/TotalRockOnline/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s3.citrus3.com:8056/stream"
-      },
-      {
-        "name": "Gaydio UK",
-        "logo": "https://graph.facebook.com/gaydio/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://listen-gaydio.sharp-stream.com/gaydiouk.mp3"
-      },
-      {
-        "name": "Radio Francia Internacional",
-        "logo": "https://graph.facebook.com/rfienespanol/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3"
-      },
-      {
-        "name": "Jazz Radio Francia",
-        "logo": "https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
-      },
-      {
-        "name": "Rinse FM UK",
-        "logo": "https://graph.facebook.com/rinsefm/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream"
-      },
-      {
-        "name": "Rinse FM France",
-        "logo": "https://graph.facebook.com/rinsefm/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio10.pro-fhi.net/flux-trmqtiat/stream"
-      },
-      {
-        "name": "NPR USA",
-        "logo": "https://graph.facebook.com/NPR/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://npr-ice.streamguys1.com/live.mp3"
-      },
-      {
-        "name": "LOS40 Argentina",
-        "logo": "https://graph.facebook.com/los40argentina/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://frontend.radiohdvivo.com/los40/live?dist=los40-web-live_streaming_play"
-      },
-      {
-        "name": "FM Rock & Pop Argentina",
-        "logo": "https://graph.facebook.com/FmRockandPop/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3"
-      },
-      {
-        "name": "Radioacktiva Colombia",
-        "logo": "https://graph.facebook.com/radioacktiva/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac"
-      },
-      {
-        "name": "LOS40 México",
-        "logo": "https://graph.facebook.com/los40mexico/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3"
-      },
-      {
-        "name": "Ke Buena FM México",
-        "logo": "https://pbs.twimg.com/profile_images/2079241301732605952/kiq2Blb6_200x200.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA.mp3"
-      },
-      {
-        "name": "EXA FM México",
-        "logo": "https://graph.facebook.com/exafm/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3"
-      },
-      {
-        "name": "Amor FM México",
-        "logo": "https://graph.facebook.com/AMORFM.MX/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC.m3u8"
-      },
-      {
-        "name": "Alfa 91.3 FM México",
-        "logo": "https://graph.facebook.com/Alfa913mx/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3"
-      },
-      {
-        "name": "RPP Noticias Perú",
-        "logo": "https://graph.facebook.com/rppnoticias/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8"
-      },
-      {
-        "name": "Radio La Zona Perú",
-        "logo": "https://graph.facebook.com/Radiolazona/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio"
-      },
-      {
-        "name": "Radio Oxígeno Perú",
-        "logo": "https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio"
-      },
-      {
-        "name": "Radio Z Rock & Pop Perú",
-        "logo": "https://graph.facebook.com/ZRocknPop/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/"
-      },
-      {
-        "name": "Radio Nacional Perú",
-        "logo": "https://graph.facebook.com/radionacionaldelperu/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8"
-      },
-      {
-        "name": "Exitosa Radio Perú",
-        "logo": "https://pbs.twimg.com/profile_images/1951269649280040961/RrU47Hlk_200x200.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
-      },
-      {
-        "name": "DelSol Uruguay",
-        "logo": "https://graph.facebook.com/DelSolUy/picture?width=200&height=200",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://delsol-2.nty.uy/stream/1/"
-      },
-      {
-        "name": "CBN Classic Christian",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/classic300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/Classic-Christian-128K"
-      },
-      {
-        "name": "CBN Praise",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/praise300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/praise-128K"
-      },
-      {
-        "name": "CBN Selah",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/selah300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/instrumental-128K"
-      },
-      {
-        "name": "CBN Cross Country",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/cross-country300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/country-128K"
-      },
-      {
-        "name": "CBN Contemporary",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/contemporary300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/contemporary-128K"
-      },
-      {
-        "name": "CBN Gospel",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/gospel300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/gospel-128K"
-      },
-      {
-        "name": "CBN Southern Gospel",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/southern-gospel300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/southern-gospel-128K"
-      },
-      {
-        "name": "CBN Superbook",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/superbook300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/superbook-128K"
-      },
-      {
-        "name": "CBN Fiesta Hoy",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/fiestahoy300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/fiesta-hoy-128K"
-      },
-      {
-        "name": "CBN News",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/news300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/news-128K"
-      },
-      {
-        "name": "CBN Christmas",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/christmas300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/christmas-128K"
-      },
-      {
-        "name": "CBN Cross Country Christmas",
-        "logo": "https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg",
-        "group": "Radio_Internacional",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streams.cbnradio.com/country-christmas-128K"
       }
     ],
     "Radio_Musicales": [
@@ -2333,27 +1767,6 @@
         "url": "https://stream.flaixfm.cat/icecast"
       },
       {
-        "name": "Flaixbac",
-        "logo": "https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.flaixbac.cat/icecast"
-      },
-      {
-        "name": "RAC 105",
-        "logo": "https://graph.facebook.com/rac105/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3"
-      },
-      {
-        "name": "Radio TeleTaxi",
-        "logo": "https://graph.facebook.com/radioteletaxi/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://mdstrm.com/audio/697382c0662b3e30d30e12a4/live.m3u8"
-      },
-      {
         "name": "Radio Clásica RNE",
         "logo": "https://graph.facebook.com/radioclasicartve/picture?width=200&height=200",
         "group": "Radio_Musicales",
@@ -2396,20 +1809,6 @@
         "url": "https://streams1.mdtradio.com:8443/MDTradio2000"
       },
       {
-        "name": "Loca FM Urban",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s1.we4stream.com:2020/stream/locaurban"
-      },
-      {
-        "name": "Loca FM Dance",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_dance/live"
-      },
-      {
         "name": "Loca FM Remember",
         "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
         "group": "Radio_Musicales",
@@ -2417,74 +1816,11 @@
         "url": "https://s2.we4stream.com/listen/loca_remember/live"
       },
       {
-        "name": "Loca FM Hard",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_hard/live"
-      },
-      {
-        "name": "Loca FM House",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_house/live"
-      },
-      {
         "name": "Loca FM Chill Out",
         "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://s2.we4stream.com/listen/loca_chill_out/live"
-      },
-      {
-        "name": "Loca FM Tech House",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_tech_house/live"
-      },
-      {
-        "name": "Loca FM Trance",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_trance/live"
-      },
-      {
-        "name": "Loca FM Techno",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_techo/live"
-      },
-      {
-        "name": "Loca FM Big Room",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_big_room/live"
-      },
-      {
-        "name": "Loca FM Deep House",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_deep_house/live"
-      },
-      {
-        "name": "Loca FM Sessions",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_sessions/live"
-      },
-      {
-        "name": "Loca FM Ambient",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_ambient/live"
       },
       {
         "name": "Loca FM Loca 80's",
@@ -2513,27 +1849,6 @@
         "group": "Radio_Musicales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://s2.we4stream.com/listen/loca_melodic_techno/live"
-      },
-      {
-        "name": "Loca FM Hard Techno",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_hard_techno/live"
-      },
-      {
-        "name": "Loca FM Industrial",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_industrial/live"
-      },
-      {
-        "name": "Loca FM Drum&Bass",
-        "logo": "https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200",
-        "group": "Radio_Musicales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s2.we4stream.com/listen/loca_drum__bass/live"
       },
       {
         "name": "digitalHits FM",
@@ -2643,74 +1958,11 @@
         "url": "https://rtva-live-radio.flumotion.com/rtva/csm.mp3"
       },
       {
-        "name": "Canal Sur Radio Almería",
-        "logo": "https://graph.facebook.com/canalsuralmeria/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csralm.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Cádiz",
-        "logo": "https://graph.facebook.com/canalsurcadiz/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrcad.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Campo de Gibraltar",
-        "logo": "https://graph.facebook.com/canalsurcadiz/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csralg.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Córdoba",
-        "logo": "https://graph.facebook.com/canalsurcordoba/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrcor.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Granada",
-        "logo": "https://graph.facebook.com/canalsurgranada/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrgra.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Huelva",
-        "logo": "https://graph.facebook.com/canalsurhuelva/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrhue.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Jaén",
-        "logo": "https://graph.facebook.com/canalsurjaen/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrjae.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Jerez",
-        "logo": "https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrjer.mp3"
-      },
-      {
         "name": "Canal Sur Radio Málaga",
         "logo": "https://graph.facebook.com/canalsurmalaga/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3"
-      },
-      {
-        "name": "Canal Sur Radio Sevilla",
-        "logo": "https://graph.facebook.com/canalsursevilla/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrsev.mp3"
       },
       {
         "name": "Radio Nacional Andalucía",
@@ -2727,186 +1979,11 @@
         "url": "https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high"
       },
       {
-        "name": "Marcador Almería",
-        "logo": "https://graph.facebook.com/marcadoralmeria/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.indalteco.net/proxy/radiomarca?mp=/rmarcaalm.mp3"
-      },
-      {
         "name": "Radio Marca Málaga",
         "logo": "https://graph.facebook.com/radiomarcamalaga/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://malagafm.streaming-pro.com:8131/malagafmmobile"
-      },
-      {
-        "name": "Radio Marca Sevilla",
-        "logo": "https://pbs.twimg.com/profile_images/830439040218439682/M7-5RkWu_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_SEVILLA.mp3"
-      },
-      {
-        "name": "SER Algeciras",
-        "logo": "https://graph.facebook.com/radioalgeciras/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3"
-      },
-      {
-        "name": "SER Almería",
-        "logo": "https://graph.facebook.com/SERAlmeria/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3"
-      },
-      {
-        "name": "SER Andalucía Centro",
-        "logo": "https://graph.facebook.com/SerAndaluciaCentro/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ESTEPA.mp3"
-      },
-      {
-        "name": "SER Andújar",
-        "logo": "https://graph.facebook.com/serandujar/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANDUJAR.mp3"
-      },
-      {
-        "name": "SER Antequera",
-        "logo": "https://graph.facebook.com/CadenaSERAntequera/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANTEQUERA.mp3"
-      },
-      {
-        "name": "SER Axarquía",
-        "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AXARQUIA.mp3"
-      },
-      {
-        "name": "SER Baza",
-        "logo": "https://pbs.twimg.com/profile_images/1362728539993309185/B2NJDAT0_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAZA.mp3"
-      },
-      {
-        "name": "SER Cádiz",
-        "logo": "https://graph.facebook.com/radiocadizcadenaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3"
-      },
-      {
-        "name": "SER Coca SER Ronda",
-        "logo": "https://graph.facebook.com/SERRonda/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RONDA.mp3"
-      },
-      {
-        "name": "SER Comarca",
-        "logo": "https://graph.facebook.com/radiocomarcaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://eu1.lhdserver.es:8075/stream"
-      },
-      {
-        "name": "SER Córdoba",
-        "logo": "https://graph.facebook.com/radiocordoba/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3"
-      },
-      {
-        "name": "SER Costa de la Luz",
-        "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_COSTA_LUZ.mp3"
-      },
-      {
-        "name": "SER Granada",
-        "logo": "https://graph.facebook.com/radiogranada/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GRANADA.mp3"
-      },
-      {
-        "name": "SER Guadix",
-        "logo": "https://pbs.twimg.com/profile_images/844272346492026884/y6i9L3Fl_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3"
-      },
-      {
-        "name": "SER Huelva",
-        "logo": "https://graph.facebook.com/RadioHuelva/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUELVA.mp3"
-      },
-      {
-        "name": "SER Jaén",
-        "logo": "https://graph.facebook.com/radiojaenser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JAEN.mp3"
-      },
-      {
-        "name": "SER Jerez",
-        "logo": "https://graph.facebook.com/radiojerezser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JEREZ.mp3"
-      },
-      {
-        "name": "SER Jódar",
-        "logo": "https://graph.facebook.com/RadioJodarSER/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JODAR.mp3"
-      },
-      {
-        "name": "SER La Janda",
-        "logo": "https://graph.facebook.com/SERLaJanda/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LA_JANDA.mp3"
-      },
-      {
-        "name": "SER Levante",
-        "logo": "https://graph.facebook.com/cadenaSERlevante/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEVANTE.mp3"
-      },
-      {
-        "name": "SER Linares",
-        "logo": "https://graph.facebook.com/radiolinarescadenaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LINARES.mp3"
-      },
-      {
-        "name": "SER Lucena",
-        "logo": "https://graph.facebook.com/cadenaserlucena/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA.mp3"
-      },
-      {
-        "name": "SER Luna",
-        "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUNA.mp3"
       },
       {
         "name": "SER Málaga",
@@ -2916,256 +1993,11 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3"
       },
       {
-        "name": "SER Marbella Costa del Sol",
-        "logo": "https://pbs.twimg.com/profile_images/1866786104436776960/sby2wtsB_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MARBELLA_COSTA_SOL.mp3"
-      },
-      {
-        "name": "SER Morón",
-        "logo": "https://graph.facebook.com/radiomoron.cadenaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MORON.mp3"
-      },
-      {
-        "name": "SER Motril",
-        "logo": "https://graph.facebook.com/radiomotril/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTRIL.mp3"
-      },
-      {
-        "name": "SER Palma",
-        "logo": "https://pbs.twimg.com/profile_images/1460395024387129345/XXv3tcKr_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PALMA_DEL_RIO.mp3"
-      },
-      {
-        "name": "SER Poniente",
-        "logo": "https://graph.facebook.com/SERponiente/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONIENTE.mp3"
-      },
-      {
-        "name": "SER Roquetas",
-        "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ROQUETAS.mp3"
-      },
-      {
-        "name": "SER Sevilla",
-        "logo": "https://graph.facebook.com/radiosevilla/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3"
-      },
-      {
-        "name": "SER Úbeda",
-        "logo": "https://graph.facebook.com/radioubeda/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_UBEDAAAC.aac"
-      },
-      {
-        "name": "COPE Almería",
-        "logo": "https://pbs.twimg.com/profile_images/1088731982685720577/pd_P8vpq_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/almeria.mp3"
-      },
-      {
-        "name": "COPE Axarquía",
-        "logo": "https://graph.facebook.com/COPE/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://online.vibacomunicacion.com:9986/stream"
-      },
-      {
-        "name": "COPE Cádiz",
-        "logo": "https://pbs.twimg.com/profile_images/1889703051465719808/m3WUXVEz_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/cadiz.mp3"
-      },
-      {
-        "name": "COPE Córdoba",
-        "logo": "https://graph.facebook.com/COPECORDOBA/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/cordoba.mp3"
-      },
-      {
-        "name": "COPE El Ejido",
-        "logo": "https://graph.facebook.com/COPE/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/ejido.mp3"
-      },
-      {
-        "name": "COPE Granada",
-        "logo": "https://pbs.twimg.com/profile_images/1747286899419467776/TXpTfvY1_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/granada.mp3"
-      },
-      {
-        "name": "COPE Guadix",
-        "logo": "https://pbs.twimg.com/profile_images/1130476314115366913/7dTz2hlC_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/guadix.mp3"
-      },
-      {
-        "name": "COPE Huelva",
-        "logo": "https://graph.facebook.com/copehuelva/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/huelva.mp3"
-      },
-      {
-        "name": "COPE Jaén",
-        "logo": "https://graph.facebook.com/ccopejaen/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/jaen.mp3"
-      },
-      {
-        "name": "COPE Jerez",
-        "logo": "https://pbs.twimg.com/profile_images/1765707903418142720/cnEmWXy0_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/jerez.mp3"
-      },
-      {
         "name": "COPE Málaga",
         "logo": "https://pbs.twimg.com/profile_images/1763515200110575616/8TKel8u8_200x200.jpg",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://wecast-bl01.flumotion.com/copesedes/malaga.mp3"
-      },
-      {
-        "name": "COPE Marbella",
-        "logo": "https://graph.facebook.com/copemarbell/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://sonic.sistemahost.es/8236/stream"
-      },
-      {
-        "name": "COPE Motril",
-        "logo": "https://graph.facebook.com/copemotril/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/motril.mp3"
-      },
-      {
-        "name": "COPE Sierra Norte",
-        "logo": "https://graph.facebook.com/COPE/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://eu1.lhdserver.es:8011/stream"
-      },
-      {
-        "name": "COPE Sevilla",
-        "logo": "https://pbs.twimg.com/profile_images/1750090837218693120/7l1S4QEx_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast-bl01.flumotion.com/copesedes/sevilla.mp3"
-      },
-      {
-        "name": "COPE Ronda",
-        "logo": "https://graph.facebook.com/coperonda/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://wecast10-h-cloud.flumotion.com/copesedes/ronda.mp3"
-      },
-      {
-        "name": "Onda Cero Algeciras",
-        "logo": "https://graph.facebook.com/ondaceroalgeciras/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_ALGECIRASAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Almería",
-        "logo": "https://graph.facebook.com/OndaCeroAlmeria/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_ALMERIAAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Baza",
-        "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_BAZAAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Cádiz",
-        "logo": "https://graph.facebook.com/ondacerocadiz/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_CADIZAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Córdoba",
-        "logo": "https://graph.facebook.com/OndaCeroCordoba/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_CORDOBAAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero El Ejido",
-        "logo": "https://graph.facebook.com/OndaCeroElEjido/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_EL_EJIDOAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Granada",
-        "logo": "https://graph.facebook.com/ondacerogr92.0/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_GRANADAAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Huelva",
-        "logo": "https://graph.facebook.com/ondacerohuelva/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_HUELVAAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Jaén",
-        "logo": "https://graph.facebook.com/OndaCeroJaenOficial/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_JAENAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Jerez de la Frontera",
-        "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_JEREZAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Marbella",
-        "logo": "https://graph.facebook.com/onda.ceromarbella/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MARBELLAAAC.m3u8"
-      },
-      {
-        "name": "Onda Cero Motril",
-        "logo": "https://pbs.twimg.com/profile_images/805392346254868480/Jqn3SgQp_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MOTRILAAC.m3u8"
       },
       {
         "name": "Onda Cero Málaga",
@@ -3175,81 +2007,11 @@
         "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MALAGAAAC.m3u8"
       },
       {
-        "name": "Onda Cero Sevilla",
-        "logo": "https://graph.facebook.com/ondacerosevilla/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SEVILLAAAC.m3u8"
-      },
-      {
-        "name": "esRadio Almería",
-        "logo": "https://graph.facebook.com/EsRadioAlmeria/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.indalteco.net/proxy/esradioalmeria?mp=/stream"
-      },
-      {
-        "name": "esRadio Granada",
-        "logo": "https://graph.facebook.com/EsRadioGranada/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://azura.abcorp.es/listen/esradio_granada/radio.mp3"
-      },
-      {
         "name": "esRadio Málaga",
         "logo": "https://graph.facebook.com/EsRadioMlg/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://azura.abcorp.es/listen/esradio_malaga/radio.mp3"
-      },
-      {
-        "name": "LOS40 Almería",
-        "logo": "https://graph.facebook.com/los40/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_ALMERIA.mp3"
-      },
-      {
-        "name": "LOS40 Guadix",
-        "logo": "https://graph.facebook.com/los40/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_GUADIX.mp3"
-      },
-      {
-        "name": "LOS40 Indalo",
-        "logo": "https://graph.facebook.com/los40/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_INDALO.mp3"
-      },
-      {
-        "name": "LOS40 Poniente",
-        "logo": "https://graph.facebook.com/los40/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_PONIENTE.mp3"
-      },
-      {
-        "name": "LOS40 Classic Almería",
-        "logo": "https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.indalteco.net/proxy/40classic?mp=/40classic.mp3"
-      },
-      {
-        "name": "Cadena 100 Campo de Gibraltar",
-        "logo": "https://graph.facebook.com/CADENA100/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.zeno.fm/fkq1xae5bzzuv"
-      },
-      {
-        "name": "Cadena Dial Almería",
-        "logo": "https://graph.facebook.com/cadenadial/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.indalteco.net/proxy/dial?mp=/dial.mp3"
       },
       {
         "name": "Cadena Dial Andalucía Este",
@@ -3259,88 +2021,11 @@
         "url": "http://streaming5.elitecomunicacion.es:8226/stream"
       },
       {
-        "name": "Cadena Dial Arahal",
-        "logo": "https://graph.facebook.com/ArahalalDia/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3"
-      },
-      {
-        "name": "Cadena Dial Levante",
-        "logo": "https://graph.facebook.com/cadenadial/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.indalteco.net/proxy/diallevante?mp=/diallevante.mp3"
-      },
-      {
-        "name": "Cadena Dial Sierra - Alcaudete",
-        "logo": "https://graph.facebook.com/cadenadial/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://streaming.cloud.innovasur.es:8810/alcaudete"
-      },
-      {
-        "name": "Europa FM Huelva",
-        "logo": "https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/EFM_HUELVAAAC.m3u8"
-      },
-      {
-        "name": "Europa FM Sevilla",
-        "logo": "https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/EFM_SEVILLAAAC.m3u8"
-      },
-      {
-        "name": "Radiolé Almería",
-        "logo": "https://graph.facebook.com/radiole/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.indalteco.net/proxy/radiole?mp=/radiole.mp3"
-      },
-      {
-        "name": "Radiolé Costa de la Luz",
-        "logo": "https://graph.facebook.com/radiole/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_COSTA_LUZ.mp3"
-      },
-      {
         "name": "Nostalgia FM",
         "logo": "https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://azura.abcorp.es/radio/8040/live"
-      },
-      {
-        "name": "Onda Cádiz Radio",
-        "logo": "https://graph.facebook.com/ondacadiz/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://ondacadiztv.es:30443/ocr/directo_radio/playlist.m3u8"
-      },
-      {
-        "name": "Radio Planeta",
-        "logo": "https://yt3.ggpht.com/ytc/AKedOLRETQgEcm3bzxRJOct7AMt2oYneaikmoSjYi_GqxQ=s200-c-k-c0x00ffffff-no-rj",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radioplaneta.emitironline.com"
-      },
-      {
-        "name": "Elixir FM",
-        "logo": "https://graph.facebook.com/elixirfiestas/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio.grupoelixir.es:9006/stream"
-      },
-      {
-        "name": "Radio Sierra",
-        "logo": "https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://srv7031.dns-lcinternet.com/8050/stream"
       },
       {
         "name": "Gozadera FM",
@@ -3350,109 +2035,11 @@
         "url": "https://azura.abcorp.es/radio/8030/live"
       },
       {
-        "name": "Radio Puerto",
-        "logo": "https://graph.facebook.com/radiopuertofm/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://enacast.com/radiopuerto/streams/HD"
-      },
-      {
-        "name": "Onda Capital",
-        "logo": "https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://server1.radiocast.es/listen/onda_capital/capitalweb"
-      },
-      {
-        "name": "Beachgrooves",
-        "logo": "https://graph.facebook.com/beach.grooves/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.beachgrooves.com:9000/stream"
-      },
-      {
-        "name": "La Fresca FM",
-        "logo": "https://graph.facebook.com/lafresca.es/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.produccionesdale.com/listen/lafresca/altacalidad"
-      },
-      {
-        "name": "Radio Chipiona",
-        "logo": "https://graph.facebook.com/radiochipiona/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://uk3freenew.listen2myradio.com/live.mp3?typeportmount=s1_19223_stream_430480497"
-      },
-      {
         "name": "Spectrum FM",
         "logo": "https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1"
-      },
-      {
-        "name": "Onda Jerez Radio",
-        "logo": "https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio.ondajerez.com:8443/Ondajerez.mp3"
-      },
-      {
-        "name": "Radio Marbella",
-        "logo": "https://graph.facebook.com/RTVMarbella/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.rtvmarbella.tv/hls/streamingradio.m3u8"
-      },
-      {
-        "name": "Radio La Isla",
-        "logo": "https://graph.facebook.com/radiolaisla/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://server10.emitironline.com:30132/stream"
-      },
-      {
-        "name": "Global Radio",
-        "logo": "https://graph.facebook.com/loveglobalradio/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.aiir.com/ugvtqtv4jfmuv"
-      },
-      {
-        "name": "Candil Radio",
-        "logo": "https://graph.facebook.com/CandilRadio/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://candilradio.com/liveradio/candil/live.mp3"
-      },
-      {
-        "name": "Radio Rociana del Condado",
-        "logo": "https://graph.facebook.com/radiorociana/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.radiorociana.com/;stream.mp3"
-      },
-      {
-        "name": "Integración Radio",
-        "logo": "https://pbs.twimg.com/profile_images/603682455984414720/aXSEPW0z_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://eu1.lhdserver.es:9061/stream"
-      },
-      {
-        "name": "Onda Sur Motril",
-        "logo": "https://graph.facebook.com/telemotriltv/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://radio.telemotril.com:8000/live"
-      },
-      {
-        "name": "Radio Sevillanas",
-        "logo": "https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "http://radio.wesped.com:8000/;stream.mp3"
       },
       {
         "name": "Fiebre Latina Radio",
@@ -3476,67 +2063,11 @@
         "url": "https://streaming2.elitecomunicacion.es:8220/stream?type=.mp3"
       },
       {
-        "name": "Onda Guillena Radio",
-        "logo": "https://graph.facebook.com/onda.guillena/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://srv6021.dns-lcinternet.com:10171/stream"
-      },
-      {
-        "name": "Radio Salobreña",
-        "logo": "https://graph.facebook.com/radiosalobrena/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es:8078/stream"
-      },
-      {
-        "name": "Radio Almaina",
-        "logo": "https://pbs.twimg.com/profile_images/2117013357/perfil-facebook_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3"
-      },
-      {
-        "name": "Radio Cartaya",
-        "logo": "https://graph.facebook.com/radiocartaya/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://eu1.lhdserver.es:9237/stream"
-      },
-      {
-        "name": "Radio Martos",
-        "logo": "https://graph.facebook.com/radiomartos/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es:8234/stream"
-      },
-      {
         "name": "Canal Málaga RTV",
         "logo": "https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8"
-      },
-      {
-        "name": "Cadena Luna",
-        "logo": "https://graph.facebook.com/CadenaLunaRadio/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://radio.almunecar360.com:8100/radio"
-      },
-      {
-        "name": "La Más FM Almuñecar",
-        "logo": "https://graph.facebook.com/LAMASFM/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es:8142/stream"
-      },
-      {
-        "name": "La Mega FM Costa Tropical",
-        "logo": "https://graph.facebook.com/megacostatropical/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming12.elitecomunicacion.es:8642/stream"
       },
       {
         "name": "Latino FM",
@@ -3553,62 +2084,6 @@
         "url": "http://185.23.192.118:8004/;stream.mp3"
       },
       {
-        "name": "Radio Nerja",
-        "logo": "https://graph.facebook.com/radionerja/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://online.vibacomunicacion.com:9974/stream"
-      },
-      {
-        "name": "Radio Mijas",
-        "logo": "https://graph.facebook.com/RadioMijas/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s9.voscast.com:9691/stream"
-      },
-      {
-        "name": "SportDirect Radio",
-        "logo": "https://graph.facebook.com/SportDirectRadio/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming12.elitecomunicacion.es:8036/stream"
-      },
-      {
-        "name": "Radio Ciudad Roquetas",
-        "logo": "https://graph.facebook.com/radiociudadroquetas/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://broadcast.radioponiente.org:8040/;.mp3"
-      },
-      {
-        "name": "Central FM",
-        "logo": "https://graph.facebook.com/131322746891532/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://s29.myradiostream.com/4922/listen.mp3"
-      },
-      {
-        "name": "Onda Mencía Radio",
-        "logo": "https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming12.elitecomunicacion.es:8146/stream"
-      },
-      {
-        "name": "Onda Loja Radio",
-        "logo": "https://graph.facebook.com/370465614347/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stream.radiofutura.es:8090/stream"
-      },
-      {
-        "name": "Radio Arcos",
-        "logo": "https://graph.facebook.com/RadioArcos/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3"
-      },
-      {
         "name": "Chocolate FM",
         "logo": "https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200",
         "group": "Radio_Andalucía",
@@ -3616,81 +2091,11 @@
         "url": "https://streaming2.elitecomunicacion.es:8082/live.mp3"
       },
       {
-        "name": "Granada FM",
-        "logo": "https://pbs.twimg.com/profile_images/1572284910198722561/2BQxFxMX_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es:8028/stream"
-      },
-      {
-        "name": "Oldies FM",
-        "logo": "https://graph.facebook.com/oldiesfmes/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://h3004255.stratoserver.net:8000/oldiesfm"
-      },
-      {
-        "name": "Decibelia FM",
-        "logo": "https://pbs.twimg.com/profile_images/1580311659226210310/umHvZ3-d_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming.shoutcast.com/decibelia"
-      },
-      {
-        "name": "Radio Poniente",
-        "logo": "https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://broadcast.radioponiente.org:8036/;"
-      },
-      {
-        "name": "Canal Sevilla Visión",
-        "logo": "https://graph.facebook.com/canalsevillavision/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://sevillavision.radioca.st/stream"
-      },
-      {
-        "name": "Antena Huelva",
-        "logo": "https://graph.facebook.com/109385783852066/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://stm2.emiteonline.com:9024/antenahuelva"
-      },
-      {
-        "name": "Radio Luz Dalías",
-        "logo": "https://pbs.twimg.com/profile_images/1163744422116438016/Fw93iC2M_200x200.jpg",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://broadcast.radioponiente.org:8034/;.mp3"
-      },
-      {
-        "name": "Like Music Almería",
-        "logo": "https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://broadcast.radioponiente.org:8066/;.mp3"
-      },
-      {
-        "name": "Onda 4 Ronda",
-        "logo": "https://onda4.org/wp-content/uploads/2023/05/onda4_logo2022.jpeg?w=200&h=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://cervera.eldialdigital.com:23161/stream"
-      },
-      {
         "name": "90 FM",
         "logo": "https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg",
         "group": "Radio_Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "http://185.23.192.118:8010/;stream.mp3"
-      },
-      {
-        "name": "Radio Torredonjimeno",
-        "logo": "https://graph.facebook.com/radiotorredonjimeno/picture?width=200&height=200",
-        "group": "Radio_Andalucía",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://streaming2.elitecomunicacion.es:8118/stream"
       }
     ],
     "Noticias": [
