@@ -810,7 +810,7 @@
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/sonyone-hitsaccion_cuadrado.jpg"
   },
   {
-    "name": "Moviesphere",
+    "name": "Movisphere",
     "type": "Films",
     "url": "https://amg00353-amg00353c71-lg-es-10828.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatetvfast-moviespherespain-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]",
     "img": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/moviesphere_cuadrado.jpg"
@@ -858,7 +858,7 @@
     "img": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg"
   },
   {
-    "name": "MyTime Movie Network",
+    "name": "MyTime Movi Network",
     "type": "Films",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=83.50.205.167&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20Chrome%2F133%20Safari%2F537.36&dnt=0&app_bundle=com.ammo.runtime.tv.html5&app_name=Runtime&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&content_episode=&content_season=&content_livestream=0&channel_name=run&network_name=&did=98018ca96d753d8ba82a6f648d50b513&us_privacy=1NNN&gdpr_consent=0&gdpr=1&lmt=0&device_make=&device_model=",
     "img": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg"

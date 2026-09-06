@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05 23:30:15",
+  "date": "2026-09-06 09:15:45",
   "channels": {
     "Generalistas": [
       {
@@ -964,7 +964,7 @@
         "url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8"
       },
       {
-        "name": "Moviesphere",
+        "name": "Movisphere",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/moviesphere_cuadrado.jpg",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
@@ -1020,7 +1020,7 @@
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=3053&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=es&country_region=catalonia&postal_code=08901&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5"
       },
       {
-        "name": "MyTime Movie Network",
+        "name": "MyTime Movi Network",
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
