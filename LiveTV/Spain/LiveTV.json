@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07 09:15:10",
+  "date": "2026-09-07 19:35:37",
   "channels": {
     "Generalistas": [
       {
@@ -17,6 +17,13 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
       },
       {
+        "name": "Antena 3",
+        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://atres-live-ssai.atresmedia.com/e84439693944fab29026c4ef77985a5e55f21d8c_ES_1788776518_1788805258/hlsts/live/antena3_usp/antena3_usp.isml/master.m3u8?response=200&bk-ml=1"
+      },
+      {
         "name": "Cuatro",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg",
         "group": "Generalistas",
@@ -31,11 +38,25 @@
         "url": "https://live.sakutv.workers.dev/hls/telecinco"
       },
       {
+        "name": "La Sexta",
+        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://atres-live-ssai.atresmedia.com/31ad493645d1da1774f40603670ce55b7f8dd01a_ES_1788776675_1788805415/hlsts/live/lasexta_usp/lasexta_usp.isml/master.m3u8?response=200&bk-ml=1"
+      },
+      {
         "name": "Canal Sur Andalucía",
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+      },
+      {
+        "name": "Neox",
+        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://atres-live-ssai.atresmedia.com/bc0d0647963992bece61f2729c1108c5456d32c1_ES_1788776751_1788805491/hlsts/live/neox_usp/neox_usp.isml/master.m3u8?response=200&bk-ml=1"
       },
       {
         "name": "Nova",
@@ -50,6 +71,13 @@
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://live.sakutv.workers.dev/hls/atreseries"
+      },
+      {
+        "name": "Mega",
+        "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg",
+        "group": "Generalistas",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://atres-live-ssai.atresmedia.com/638fbfa050ebfd51fe638498bd61132abd9f8e39_ES_1788776837_1788805577/hlsts/live/mega_usp/mega_usp.isml/master.m3u8?bpkio_sessionid=10c0f42b180-c3b4e406-aa24-4a33-9542-57f783bd86d7&bpkio_serviceid=898aef0932f6aaec38bd4a101aefa447&category=all&bk-teardown=0&nw=514966&resp=vast4&prof=514966%3Aatres_html5_live_ssai&csid=atresplayer_desktop&caid=5ae1c18d986b285a4b24da9c5a6a18357ed1a834493ebf6f&metr=1031&pvrn=76.5424415804449&vprn=34.88914092357809&flag_pre=%2Bplay%2Bsltp%2Bnucr%2Bslcb%2Bemcr%2Baeti%2Bexvt%2Bsync&flag_mid=%2Bplay-sltp%2Bnucr%2Bslcb%2Bemcr%2Baeti%2Bexvt%2Bsync%2Bfbad&mode=live&vdty=variable&vrdu=61&slid_pre=pre&slau_pre=preroll&slid_mid=midLive&tpos=0&ptgt=a&maxd=60&mind=60&slau_mid=Midroll%20Standard&cd=1025%2C576&_fw_gdpr=1&_fw_gdpr_consent=CQmdrkAQmdrkAAHABBENCkFsAP_gAEPgAAiQKTNR_G__bWlr-Tb3abtkeYxP9_hrboQxBgbIkm4FzLvW7JwGx2ERNAyKtiIKmRIAu3TBIQNlHBDURUCgKIgFryDMaE2UoTNKJ6BkiFMRI2NQCFhnmwtjeQCYYup_9kUwmB-t7dr-2dziy4BHn3a5bmS1UJCNIYcsBfvuZBOS89IEd-x8u4v4-EbpEm8eSVF_pGtp4jc6Yls6dBGxt-Tyfb6Pn_f71fBSYAEw0OiCMsiAQIFAQggQAKCsIAKBAEAACQFEBACYMCHIGAC6wiQAgBQADBACAAEGAAIAABIAEIgAgAIBACBAIFAAGABAEBAAQMAAYAKEQCAAEA0CFMCCAQLABIjCgMECEABIICWyoQSAIEFcIUiRwCCBERBQAAIgAFQAAgHhYCEkoJGBBAFxBdAAgAAABBAiwIpCzAFFAZAtAWBJwGRpACT5gkSQ4AAA.IKTNR_G__bXlv-Tb36btkeYxf9_hrboQxBgbIsm4FzLvW7JwG32ETNEyKtiYKmRIAu3TBIQNtHBjURUChKIgVrzDsaE2UoTtKJ-BkiHMRY2NQCFhnmwtjeQCZYup_90VwmR-t7dr-2dziy5Bnv3a9buS1UJiNKYctFfvuZBOS8_IU9_x8-4v4-MbpEm8eSVN_tWtt43c64tv6dpOxt-Tyfb6f__f73fA.f_wACHwAAAAA&_fw_google_audiences=1&_fw_h_referer=https%3A%2F%2Fwww.atresplayer.com&_fw_site_page=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&_fw_devicetype=2-Personal%20Computer&_fw_vcid2=10322057377801887661459430758301628547&_fw_playback_method=3&APIFramework=2&_aam_uuid=&userconsent=true&_fw_player_width=1025&_fw_player_height=478&_fw_br_lg=1&_fw_br_prm=1&_fw_br_wd=0&_fw_br_ch=1&_fw_br_nt=0&_fw_br_sf=0&orig=https%3A%2F%2Fwww.atresplayer.com&ssto=8774.323867304458&gpp=&gpp_sid=&_fw_dpr=1.33&cbfn=tv.freewheel.SDK._instanceQueue%5B%27Context_2%27%5D.requestComplete&bk-ml=1.0"
       },
       {
         "name": "Divinity",
@@ -222,6 +250,13 @@
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8"
+      },
+      {
+        "name": "Multicine atresplayer",
+        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://fast-channels.atresmedia.com/85cecd372210bdbe2392b20413c98a8f068b05ac/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8"
       }
     ],
     "Informativos": [
@@ -665,7 +700,7 @@
         "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/kidz_cuadrado.jpg",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8"
+        "url": "https://fast-channels.atresmedia.com/8ce5d5e632a2cc2c5a9cc7509079f592d677aeb2/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8"
       },
       {
         "name": "Infantil (Canal Extremadura)",

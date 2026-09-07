@@ -3,16 +3,24 @@
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/la2_cuadrado.jpg" group-title="Generalistas",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuadrado.jpg" group-title="Generalistas",Antena 3
+https://atres-live-ssai.atresmedia.com/e84439693944fab29026c4ef77985a5e55f21d8c_ES_1788776518_1788805258/hlsts/live/antena3_usp/antena3_usp.isml/master.m3u8?response=200&bk-ml=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg" group-title="Generalistas",Cuatro
 https://live.sakutv.workers.dev/hls/cuatro
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg" group-title="Generalistas",Telecinco
 https://live.sakutv.workers.dev/hls/telecinco
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/lasexta_cuadrado.jpg" group-title="Generalistas",La Sexta
+https://atres-live-ssai.atresmedia.com/31ad493645d1da1774f40603670ce55b7f8dd01a_ES_1788776675_1788805415/hlsts/live/lasexta_usp/lasexta_usp.isml/master.m3u8?response=200&bk-ml=1
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/canalsurandalucia_verde_cuadrado.jpg" group-title="Generalistas",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarillo_cuadrado.jpg" group-title="Generalistas",Neox
+https://atres-live-ssai.atresmedia.com/bc0d0647963992bece61f2729c1108c5456d32c1_ES_1788776751_1788805491/hlsts/live/neox_usp/neox_usp.isml/master.m3u8?response=200&bk-ml=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg" group-title="Generalistas",Nova
 https://live.sakutv.workers.dev/hls/nova
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg" group-title="Generalistas",Atreseries
 https://live.sakutv.workers.dev/hls/atreseries
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrado.jpg" group-title="Generalistas",Mega
+https://atres-live-ssai.atresmedia.com/638fbfa050ebfd51fe638498bd61132abd9f8e39_ES_1788776837_1788805577/hlsts/live/mega_usp/mega_usp.isml/master.m3u8?bpkio_sessionid=10c0f42b180-c3b4e406-aa24-4a33-9542-57f783bd86d7&bpkio_serviceid=898aef0932f6aaec38bd4a101aefa447&category=all&bk-teardown=0&nw=514966&resp=vast4&prof=514966%3Aatres_html5_live_ssai&csid=atresplayer_desktop&caid=5ae1c18d986b285a4b24da9c5a6a18357ed1a834493ebf6f&metr=1031&pvrn=76.5424415804449&vprn=34.88914092357809&flag_pre=%2Bplay%2Bsltp%2Bnucr%2Bslcb%2Bemcr%2Baeti%2Bexvt%2Bsync&flag_mid=%2Bplay-sltp%2Bnucr%2Bslcb%2Bemcr%2Baeti%2Bexvt%2Bsync%2Bfbad&mode=live&vdty=variable&vrdu=61&slid_pre=pre&slau_pre=preroll&slid_mid=midLive&tpos=0&ptgt=a&maxd=60&mind=60&slau_mid=Midroll%20Standard&cd=1025%2C576&_fw_gdpr=1&_fw_gdpr_consent=CQmdrkAQmdrkAAHABBENCkFsAP_gAEPgAAiQKTNR_G__bWlr-Tb3abtkeYxP9_hrboQxBgbIkm4FzLvW7JwGx2ERNAyKtiIKmRIAu3TBIQNlHBDURUCgKIgFryDMaE2UoTNKJ6BkiFMRI2NQCFhnmwtjeQCYYup_9kUwmB-t7dr-2dziy4BHn3a5bmS1UJCNIYcsBfvuZBOS89IEd-x8u4v4-EbpEm8eSVF_pGtp4jc6Yls6dBGxt-Tyfb6Pn_f71fBSYAEw0OiCMsiAQIFAQggQAKCsIAKBAEAACQFEBACYMCHIGAC6wiQAgBQADBACAAEGAAIAABIAEIgAgAIBACBAIFAAGABAEBAAQMAAYAKEQCAAEA0CFMCCAQLABIjCgMECEABIICWyoQSAIEFcIUiRwCCBERBQAAIgAFQAAgHhYCEkoJGBBAFxBdAAgAAABBAiwIpCzAFFAZAtAWBJwGRpACT5gkSQ4AAA.IKTNR_G__bXlv-Tb36btkeYxf9_hrboQxBgbIsm4FzLvW7JwG32ETNEyKtiYKmRIAu3TBIQNtHBjURUChKIgVrzDsaE2UoTtKJ-BkiHMRY2NQCFhnmwtjeQCZYup_90VwmR-t7dr-2dziy5Bnv3a9buS1UJiNKYctFfvuZBOS8_IU9_x8-4v4-MbpEm8eSVN_tWtt43c64tv6dpOxt-Tyfb6f__f73fA.f_wACHwAAAAA&_fw_google_audiences=1&_fw_h_referer=https%3A%2F%2Fwww.atresplayer.com&_fw_site_page=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&_fw_devicetype=2-Personal%20Computer&_fw_vcid2=10322057377801887661459430758301628547&_fw_playback_method=3&APIFramework=2&_aam_uuid=&userconsent=true&_fw_player_width=1025&_fw_player_height=478&_fw_br_lg=1&_fw_br_prm=1&_fw_br_wd=0&_fw_br_ch=1&_fw_br_nt=0&_fw_br_sf=0&orig=https%3A%2F%2Fwww.atresplayer.com&ssto=8774.323867304458&gpp=&gpp_sid=&_fw_dpr=1.33&cbfn=tv.freewheel.SDK._instanceQueue%5B%27Context_2%27%5D.requestComplete&bk-ml=1.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg" group-title="Generalistas",Divinity
 https://live.sakutv.workers.dev/hls/divinity
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg" group-title="Generalistas",Factoría de Ficción
@@ -61,6 +69,8 @@ https://ztnr.rtve.es/ztnr/6712399.m3u8
 https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/elclubdelacomedia_cuadrado.jpg" group-title="Eventuales",El club de la comedia
 https://fast-channels.atresmedia.com/ca769461bc00ac74ddd0c63941fefbae84cc9fa4/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg" group-title="Eventuales",Multicine atresplayer
+https://fast-channels.atresmedia.com/85cecd372210bdbe2392b20413c98a8f068b05ac/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/24h_cuadrado.jpg" group-title="Informativos",24h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Informativos",Radio Nacional
@@ -184,7 +194,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/boing_cuadrado.jpg" group-title="Infantiles",Boing
 https://live.sakutv.workers.dev/hls/boing
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/kidz_cuadrado.jpg" group-title="Infantiles",Kidz
-https://fast-channels.atresmedia.com/58987aa44549d74beb5809b4350fd95faf91da3f/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+https://fast-channels.atresmedia.com/8ce5d5e632a2cc2c5a9cc7509079f592d677aeb2/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/extremaduraplayinfantil_cuadrado.jpg" group-title="Infantiles",Infantil (Canal Extremadura)
 https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/animevision_cuadrado.jpg" group-title="Infantiles",Anime Vision
