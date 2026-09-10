@@ -258,10 +258,10 @@ def main():
     # Specific M3U sources (12 sources)
     source_urls = [
         "https://m3u.work/OI0Q3l.m3u", 
-        "https://m3u.work/qKChzP8.m3u",
         "https://m3u.work/YawDD3.m3u",
         "https://m3u.work/ICEQGPH.m3u",
         "https://m3u.work/hJiHE3ad.m3u",
+        "https://m3u.work/qKChzP8.m3u"
     ]
 
     # Set check_links=False for super speed, True for accuracy
