@@ -63,6 +63,11 @@ Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
 Group: Cine
+Name: Runtime
+URL: https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+Logo: https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Acción - Rakuten TV
 URL: https://jmp2.uk/stvp-ES2600004BD
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20260707T050928SQUARE.png
@@ -228,11 +233,6 @@ URL: https://jmp2.uk/stvp-ESBC1700004PX
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Runtime
-URL: https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
-Logo: https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
 
 Group: Cocina
 Name: Andalucía Cocina
@@ -277,6 +277,26 @@ Source: https://m3u.work/ICEQGPH.m3u
 --------------------------------------------------
 
 Group: Comedia
+Name: FailArmy
+URL: https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
+Logo: https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Wipeout
+URL: https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
+Logo: https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: South Park Versión Original
+URL: https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+Logo: https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Terapia con Charlie
+URL: https://jmp2.uk/plu-6a0c25d1c3b9403659196293.m3u8
+Logo: https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/colorLogoPNG_1780923463926.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Comedia Made in Spain
 URL: https://jmp2.uk/stvp-ESAJ3800005C5
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png
@@ -311,26 +331,6 @@ Name: LOL España
 URL: https://jmp2.uk/stvp-ES1600006S8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600006S8_20260721T035558SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: FailArmy
-URL: https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
-Logo: https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Wipeout
-URL: https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
-Logo: https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: South Park Versión Original
-URL: https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
-Logo: https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Terapia con Charlie
-URL: https://jmp2.uk/plu-6a0c25d1c3b9403659196293.m3u8
-Logo: https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/colorLogoPNG_1780923463926.png
-Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
 Group: Crimen
@@ -786,6 +786,51 @@ URL: https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 Logo: https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Crimen & Historia
+URL: https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+Logo: https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Aftershock Mi Extraña Obsesión/Loca Compulsión
+URL: https://aftershock-meo-lc-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rivegauche-3-playout/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rivegauche_channel_id=3&ads.rtv_channel_name=aftershock-meo-lc_es&ads.rtv_content_id=3&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ad178d67-d59c-4d38-87b8-49e5ec076ebf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=3&publishing_platform_id=5&tenant_identifier=rivegauche
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Royalworld - Nobleza y dinastías
+URL: https://ccf9b723.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JveWFsd29ybGROb2JsZXpheURpbmFzdGlhc19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=documentary%2Cbiography&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=royalworld-es_es&ads.rtv_content_id=7475&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=48a77516-310c-4a05-a1cd-b9587df86898&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1622
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Planeta Salvaje
+URL: https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=0e2909e9-dc0c-42fb-8749-26b668b374e4&ads.rakuten_user_type=visitor&ads.rtv_channel_name=planeta-salvaje_es&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_channel_id=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/42315941-22ff-4580-aca9-98260d001ad2.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Weather Spy
+URL: https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=documentary&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=weather-spy-new_es&ads.rtv_content_id=5155&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=4d4896d9-72c0-4304-86ff-6867314ee809&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1143
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Nature Time
+URL: https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel_id=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=animals%2Coutdoors&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=nature-time-es_es&ads_rtv_content_id=4330&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3e70ba88-a68f-4f49-a484-194f0b206557&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: CGTN Documentary
+URL: https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel_id=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=documentary&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_channel_name=cgtn-documentary_es&ads_rtv_content_id=5002&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=d96b5a4a-2f70-49ae-840c-962009514764&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Oficios Perdidos
+URL: https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=927&ads_content_categories=IAB1&ads_content_genre=entertainment%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=oficios-perdidos_es&ads_rtv_content_id=6179&ads_rtv_content_language=es&ads_streaming_id=04cdc5f2-e07c-4f2d-8f56-045105e96211&ads_tcs_channel_id=927&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Historia y Vida
+URL: https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8?ads_amagi_channel_id=1030&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=documentary%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=historia-y-vida_es&ads_rtv_content_id=6986&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=67a5089d-c04c-4b90-b34c-1c00bde8818b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
 Name: BBC Earth
 URL: https://jmp2.uk/stvp-ES3200001F1
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png
@@ -856,53 +901,78 @@ URL: https://jmp2.uk/stvp-ES7000088K
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260901T054146SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
-Name: Crimen & Historia
-URL: https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-Logo: https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Aftershock Mi Extraña Obsesión/Loca Compulsión
-URL: https://aftershock-meo-lc-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rivegauche-3-playout/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rivegauche_channel_id=3&ads.rtv_channel_name=aftershock-meo-lc_es&ads.rtv_content_id=3&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ad178d67-d59c-4d38-87b8-49e5ec076ebf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=3&publishing_platform_id=5&tenant_identifier=rivegauche
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Royalworld - Nobleza y dinastías
-URL: https://ccf9b723.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JveWFsd29ybGROb2JsZXpheURpbmFzdGlhc19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=documentary%2Cbiography&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=royalworld-es_es&ads.rtv_content_id=7475&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=48a77516-310c-4a05-a1cd-b9587df86898&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1622
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Planeta Salvaje
-URL: https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=0e2909e9-dc0c-42fb-8749-26b668b374e4&ads.rakuten_user_type=visitor&ads.rtv_channel_name=planeta-salvaje_es&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_channel_id=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/42315941-22ff-4580-aca9-98260d001ad2.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Weather Spy
-URL: https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=documentary&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=weather-spy-new_es&ads.rtv_content_id=5155&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=4d4896d9-72c0-4304-86ff-6867314ee809&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1143
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Nature Time
-URL: https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel_id=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=animals%2Coutdoors&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=nature-time-es_es&ads_rtv_content_id=4330&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3e70ba88-a68f-4f49-a484-194f0b206557&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: CGTN Documentary
-URL: https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel_id=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=documentary&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_channel_name=cgtn-documentary_es&ads_rtv_content_id=5002&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=d96b5a4a-2f70-49ae-840c-962009514764&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Oficios Perdidos
-URL: https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=927&ads_content_categories=IAB1&ads_content_genre=entertainment%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=oficios-perdidos_es&ads_rtv_content_id=6179&ads_rtv_content_language=es&ads_streaming_id=04cdc5f2-e07c-4f2d-8f56-045105e96211&ads_tcs_channel_id=927&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Historia y Vida
-URL: https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8?ads_amagi_channel_id=1030&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=documentary%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=historia-y-vida_es&ads_rtv_content_id=6986&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=67a5089d-c04c-4b90-b34c-1c00bde8818b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
 
 Group: Entretenimiento
+Name: Empeños a lo bestia
+URL: https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+Logo: https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Motor
+URL: https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+Logo: https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Top Gear
+URL: https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
+Logo: https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: El encantador de perros
+URL: https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
+Logo: https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Mi Extraña Obsesión
+URL: https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
+Logo: https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Ice Pilots
+URL: https://jmp2.uk/plu-61b9edc4a4ca6100070bb407.m3u8
+Logo: https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Cazasubastas
+URL: https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
+Logo: https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: La fiebre del Jade
+URL: https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
+Logo: https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: COPS
+URL: https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
+Logo: https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Gasolina
+URL: https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
+Logo: https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: The Pet Collective
+URL: https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=animals&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_channel_name=the-pet-collective-new_es&ads.rtv_content_id=5388&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=3642f111-d787-4d23-b236-ce2328e56198&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1020
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: People Are Awesome
+URL: https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=entertainment&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=people-are-awesome-new_es&ads.rtv_content_id=5120&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=0ed32a42-a5ee-411e-a091-b9bd77df63e7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1161
+Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Revry
+URL: https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=entertainment&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=revry_es&ads.rtv_content_id=1318&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=c64d3f4e-29a4-46c1-afa1-95c3a80934fb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=706
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/51021714-5a06-4be2-b0ff-6f5de75e742e.png
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Fail Army
+URL: https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=comedy&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=jukin-fail-army-new_es&ads.rtv_content_id=5552&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=d8555117-501c-4ac4-a933-8d542af10d09&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1160
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
 Name: 2M
 URL: https://jmp2.uk/stvp-ES4700001VS
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png
@@ -1047,76 +1117,6 @@ Name: Inazuma Eleven
 URL: https://jmp2.uk/stvp-ES2100003VE
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2100003VE_20260818T050632SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Empeños a lo bestia
-URL: https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
-Logo: https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Pluto TV Motor
-URL: https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
-Logo: https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Top Gear
-URL: https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
-Logo: https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: El encantador de perros
-URL: https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
-Logo: https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Mi Extraña Obsesión
-URL: https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
-Logo: https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Ice Pilots
-URL: https://jmp2.uk/plu-61b9edc4a4ca6100070bb407.m3u8
-Logo: https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Cazasubastas
-URL: https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
-Logo: https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: La fiebre del Jade
-URL: https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
-Logo: https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: COPS
-URL: https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
-Logo: https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Pluto TV Gasolina
-URL: https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
-Logo: https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: The Pet Collective
-URL: https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=animals&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_channel_name=the-pet-collective-new_es&ads.rtv_content_id=5388&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=3642f111-d787-4d23-b236-ce2328e56198&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1020
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: People Are Awesome
-URL: https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=entertainment&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=people-are-awesome-new_es&ads.rtv_content_id=5120&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=0ed32a42-a5ee-411e-a091-b9bd77df63e7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1161
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Revry
-URL: https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=entertainment&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=revry_es&ads.rtv_content_id=1318&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=c64d3f4e-29a4-46c1-afa1-95c3a80934fb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=706
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/51021714-5a06-4be2-b0ff-6f5de75e742e.png
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Fail Army
-URL: https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=comedy&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=jukin-fail-army-new_es&ads.rtv_content_id=5552&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=d8555117-501c-4ac4-a933-8d542af10d09&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1160
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
 --------------------------------------------------
 
 Group: Estilo de vida
@@ -2361,6 +2361,76 @@ Source: https://m3u.work/qKChzP8.m3u
 --------------------------------------------------
 
 Group: Noticias
+Name: Euronews
+URL: https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
+Logo: https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: CBS News 24/7
+URL: https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
+Logo: https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: CNN Headlines International
+URL: https://jmp2.uk/plu-66c45c0de7f5e80008b82005.m3u8
+Logo: https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Actualidad 360
+URL: https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
+Logo: https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Euronews EN DIRECTO
+URL: https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6571-restreaming/bitok/eyJzdGlkIjoiZGNhNjVhYmQtMTQzMy00NDdiLWEyZDktYTlhNTI4ZDRiNTg0IiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6571&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=dca65abd-1433-447b-a2d9-a9a528d4b584&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5&tenant_identifier=rtv
+Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Actualidad 360
+URL: https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8?ads_amagi_channel_id=1031&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=actualidad-360_es&ads_rtv_content_id=6987&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=936e508f-dac3-4f47-8dca-e58ad5a89ec0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: The Reuters 60
+URL: https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8?ads_amagi_channel_id=481&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_channel_name=the-reuters-60_es&ads_rtv_content_id=5789&ads_rtv_content_language=de&ads_rtvid=271859&ads_streaming_id=70ade5a7-e3b2-473b-b6be-eb885e661400&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Bloomberg Originals
+URL: https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1%2CIAB12&ads.content_genre=documentary%2Cnews%2Cbusiness&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=bloomberg-originals-new_es&ads.rtv_content_id=6907&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=95c08511-26c1-4808-ae43-9ceb1e037394&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1768
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Bloomberg TV+
+URL: https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB12&ads.content_genre=news%2Cbusiness&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=bloomberg-tv-plus_es&ads.rtv_content_id=6958&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=34b464e2-0bf9-4f03-a74d-11f730433994&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1511
+Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80bb6ac5-9dbf-44fb-8716-dd84aec360f8.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: CGTN
+URL: https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel_id=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_channel_name=cgtn_es&ads_rtv_content_id=5004&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=0f700823-fafc-459b-abe3-22d8fa03dc22&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: Africanews
+URL: https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6576-restreaming/bitok/eyJzdGlkIjoiODgzMzRkMGItZTZiOS00MjcwLWExYjktOTBkNDA4ZTY5ZjJiIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6588&ads.rtv_channel_name=africanews-eng_es&ads.rtv_content_id=6588&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271859&ads.streaming_id=88334d0b-e6b9-4270-a1b9-90d408e69f2b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6588&publishing_platform_id=5&tenant_identifier=rtv
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: NewsWorld
+URL: https://amg01076-amg01076c25-rakuten-es-8818.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworldspanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=1036&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=newsworld-spa_es&ads_rtv_content_id=7038&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=e7038705-a42c-43cf-9bbb-cb839e6df393&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: El País
+URL: https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=926&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=el-pais_es&ads_rtv_content_id=5598&ads_rtv_content_language=es&ads_streaming_id=f11a2fc2-f244-4a8b-8e33-ed251c01dbc6&ads_tcs_channel_id=926&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
+Name: France 24 FAST English
+URL: https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_channel_name=france-24-en_es&ads_rtv_content_id=6311&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=0f31c22d-b498-46d7-83ae-0259335ef33f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg
+Source: https://m3u.work/ICEQGPH.m3u
+--------------------------------------------------
 Name: 24H
 URL: https://jmp2.uk/stvp-ESBC4100004J1
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260707T050921SQUARE.png
@@ -2435,76 +2505,6 @@ Name: Sky News International
 URL: https://jmp2.uk/stvp-ES3400004SS
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400004SS_20250624T020505SQUARE.png
 Source: https://m3u.work/qKChzP8.m3u
---------------------------------------------------
-Name: Euronews
-URL: https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
-Logo: https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: CBS News 24/7
-URL: https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
-Logo: https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: CNN Headlines International
-URL: https://jmp2.uk/plu-66c45c0de7f5e80008b82005.m3u8
-Logo: https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Actualidad 360
-URL: https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
-Logo: https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Euronews EN DIRECTO
-URL: https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6571-restreaming/bitok/eyJzdGlkIjoiZGNhNjVhYmQtMTQzMy00NDdiLWEyZDktYTlhNTI4ZDRiNTg0IiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6571&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=dca65abd-1433-447b-a2d9-a9a528d4b584&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5&tenant_identifier=rtv
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Actualidad 360
-URL: https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8?ads_amagi_channel_id=1031&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=actualidad-360_es&ads_rtv_content_id=6987&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=936e508f-dac3-4f47-8dca-e58ad5a89ec0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: The Reuters 60
-URL: https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8?ads_amagi_channel_id=481&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_channel_name=the-reuters-60_es&ads_rtv_content_id=5789&ads_rtv_content_language=de&ads_rtvid=271859&ads_streaming_id=70ade5a7-e3b2-473b-b6be-eb885e661400&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Bloomberg Originals
-URL: https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1%2CIAB12&ads.content_genre=documentary%2Cnews%2Cbusiness&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=bloomberg-originals-new_es&ads.rtv_content_id=6907&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=95c08511-26c1-4808-ae43-9ceb1e037394&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1768
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Bloomberg TV+
-URL: https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB12&ads.content_genre=news%2Cbusiness&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=bloomberg-tv-plus_es&ads.rtv_content_id=6958&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=34b464e2-0bf9-4f03-a74d-11f730433994&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1511
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80bb6ac5-9dbf-44fb-8716-dd84aec360f8.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: CGTN
-URL: https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel_id=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_channel_name=cgtn_es&ads_rtv_content_id=5004&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=0f700823-fafc-459b-abe3-22d8fa03dc22&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: Africanews
-URL: https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6576-restreaming/bitok/eyJzdGlkIjoiODgzMzRkMGItZTZiOS00MjcwLWExYjktOTBkNDA4ZTY5ZjJiIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=83.50.205.167&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6588&ads.rtv_channel_name=africanews-eng_es&ads.rtv_content_id=6588&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271859&ads.streaming_id=88334d0b-e6b9-4270-a1b9-90d408e69f2b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6588&publishing_platform_id=5&tenant_identifier=rtv
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: NewsWorld
-URL: https://amg01076-amg01076c25-rakuten-es-8818.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworldspanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=1036&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=newsworld-spa_es&ads_rtv_content_id=7038&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=e7038705-a42c-43cf-9bbb-cb839e6df393&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: El País
-URL: https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=926&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=el-pais_es&ads_rtv_content_id=5598&ads_rtv_content_language=es&ads_streaming_id=f11a2fc2-f244-4a8b-8e33-ed251c01dbc6&ads_tcs_channel_id=926&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
---------------------------------------------------
-Name: France 24 FAST English
-URL: https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=83.50.205.167&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_channel_name=france-24-en_es&ads_rtv_content_id=6311&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=0f31c22d-b498-46d7-83ae-0259335ef33f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg
-Source: https://m3u.work/ICEQGPH.m3u
 --------------------------------------------------
 
 Group: Nuevo en Pluto TV
