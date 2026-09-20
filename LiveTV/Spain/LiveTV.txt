@@ -3002,31 +3002,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
 Group: Reality
-Name: Alaska y Mario
-URL: https://jmp2.uk/plu-69c51060ed1b1f1acb5092dc.m3u8
-Logo: https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: America's Next Top Model
-URL: https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
-Logo: https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Los Gipsy Kings
-URL: https://jmp2.uk/plu-68adc3fdd8f7693ae347a63a.m3u8
-Logo: https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: Sí quiero ese vestido
-URL: https://jmp2.uk/plu-6578836cdfed030008ce5bdb.m3u8
-Logo: https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
-Name: MTV Ink Master
-URL: https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8
-Logo: https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG_1783599834588.png
-Source: https://m3u.work/YawDD3.m3u
---------------------------------------------------
 Name: Pilotos del Ártico
 URL: https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment%2Coutdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IcePilotsSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusicepilots_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5914&ads.rakuten_streaming_id=bdd0ccac-2372-4821-b9ca-2582bb40d80e&ads.rakuten_user_type=visitor&ads.rtv_channel_name=ice-pilots-es_es&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883090&ads.xumo_channel_id=88883090&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=ice-pilots-spa-rakutentv&ads.xumo_streamId=88883090
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/47db66d1-8f73-451e-9244-34ce4b1c423c.jpeg
