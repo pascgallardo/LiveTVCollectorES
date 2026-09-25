@@ -29,6 +29,11 @@ URL: https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/parlamentoandalucia_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: Huelva Conecta
+URL: https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
+Logo: https://yt3.ggpht.com/dQxpHlPEeQ6XTzXJu7eJa36C7nT7TjxecHbznRDwEqWmdV5Upl8VMafZMHhCfToJGcdTcy1_bJA=s200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 
 Group: Ciencia Ficción
 Name: Alice Nevers
@@ -63,9 +68,74 @@ Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 
 Group: Cine
+Name: Paramount Network de Pluto TV
+URL: https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+Logo: https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Estelar
+URL: https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+Logo: https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Acción
+URL: https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+Logo: https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Comedia
+URL: https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+Logo: https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Thrillers
+URL: https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+Logo: https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Drama
+URL: https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+Logo: https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Romántico
+URL: https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+Logo: https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Sci-Fi
+URL: https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+Logo: https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Runtime
 URL: https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
 Logo: https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Clásico
+URL: https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+Logo: https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Western
+URL: https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
+Logo: https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Catástrofes
+URL: https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+Logo: https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Comedias Románticas
+URL: https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+Logo: https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Horror
+URL: https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+Logo: https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: Acción - Rakuten TV
@@ -396,6 +466,21 @@ URL: https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 Logo: https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
+Name: Pluto TV True Crime
+URL: https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
+Logo: https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Invasión Alien
+URL: https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+Logo: https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG_1781530240161.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Paranormal
+URL: https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+Logo: https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Archivos Forenses
 URL: https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=ArchivosForenses&ads.content_livestream=0&ads.csid=zeus_es_archivosforenses_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3901&ads.rakuten_streaming_id=5729fbda-9b2a-4986-b6bf-ae20d750dfe1&ads.rakuten_user_type=visitor&ads.rtv_channel_name=filmrise-forensic-files-spa_es&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883012&ads.xumo_channel_id=88883012&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=forensic-files-spa-rakutentv&ads.xumo_streamId=88883012
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg
@@ -451,6 +536,16 @@ Source: https://m3u.work/YawDD3.m3u
 Name: Pluto TV Animales
 URL: https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 Logo: https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Diseño
+URL: https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+Logo: https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Historia
+URL: https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+Logo: https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: Space Live
@@ -756,29 +851,9 @@ URL: https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.co
 Logo: http://img.platform.wurl.dev/channel/1613/lg/e2e0ef/LG-Logo-PNG-100x100_v1.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Pluto TV True Crime
-URL: https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
-Logo: https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Pluto TV Impacto
 URL: https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
 Logo: https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Invasión Alien
-URL: https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
-Logo: https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Historia
-URL: https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
-Logo: https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Diseño
-URL: https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
-Logo: https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Crimen & Historia
@@ -1252,18 +1327,13 @@ URL: https://fast-channels.atresmedia.com/85cecd372210bdbe2392b20413c98a8f068b05
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/multicine_atresplayer_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
+Name: San Sebastián Fes (RTVE)
+URL: https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8
+Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
+Source: https://m3u.work/OI0Q3l.m3u
+--------------------------------------------------
 
 Group: Films
-Name: Pelis Top (Rakuten TV)
-URL: https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Acción (Rakuten TV)
-URL: https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Thrillers (Rakuten TV)
 URL: https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6480-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_language=es&ads.viewsize=&channel_id=6480&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg
@@ -1274,39 +1344,14 @@ URL: https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Comedia (Rakuten TV)
-URL: https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Romántico (Rakuten TV)
 URL: https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6105-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Drama (Rakuten TV)
-URL: https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Cine Español (Rakuten TV)
 URL: https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6196-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_language=es&ads.viewsize=&channel_id=6196&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: En Familia (Rakuten TV)
-URL: https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cine Friki
-URL: https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Cine Western
-URL: https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Grjngo - Películas Del Oeste
@@ -1404,59 +1449,9 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Paramount Network de Pluto TV
-URL: https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
-Logo: https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Cine Estelar
-URL: https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-Logo: https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Cine Acción
-URL: https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
-Logo: https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Cine Comedia
-URL: https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
-Logo: https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Comedias Románticas
-URL: https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
-Logo: https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Cine Romántico
-URL: https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
-Logo: https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Cine Drama
-URL: https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
-Logo: https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Catástrofes
-URL: https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
-Logo: https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Thrillers
-URL: https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-Logo: https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Pluto TV Psycho
 URL: https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 Logo: https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Paranormal
-URL: https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
-Logo: https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Pluto TV Gore & Slasher
@@ -1464,19 +1459,9 @@ URL: https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 Logo: https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Pluto TV Horror
-URL: https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
-Logo: https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Pluto TV Zombies
 URL: https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 Logo: https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Western
-URL: https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
-Logo: https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Pluto TV Cine de autor
@@ -1484,19 +1469,9 @@ URL: https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 Logo: https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Pluto TV Cine Clásico
-URL: https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-Logo: https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: SensaCine TV x Pluto
 URL: https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 Logo: https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Sci-Fi
-URL: https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-Logo: https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -1517,12 +1492,12 @@ Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/antena3_cuad
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Cuatro
-URL: https://live.sakutv.workers.dev/hls/cuatro
+URL: https://live.s2l.workers.dev/hls/cuatro
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Telecinco
-URL: https://live.sakutv.workers.dev/hls/telecinco
+URL: https://live.s2l.workers.dev/hls/telecinco
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1542,12 +1517,12 @@ Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/neox_amarill
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Nova
-URL: https://live.sakutv.workers.dev/hls/nova
+URL: https://live.s2l.workers.dev/hls/nova
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Atreseries
-URL: https://live.sakutv.workers.dev/hls/atreseries
+URL: https://live.s2l.workers.dev/hls/atreseries
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1557,22 +1532,22 @@ Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/mega_cuadrad
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Divinity
-URL: https://live.sakutv.workers.dev/hls/divinity
+URL: https://live.s2l.workers.dev/hls/divinity
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Factoría de Ficción
-URL: https://live.sakutv.workers.dev/hls/fdf
+URL: https://live.s2l.workers.dev/hls/fdf
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Energy
-URL: https://live.sakutv.workers.dev/hls/energy
+URL: https://live.s2l.workers.dev/hls/energy
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Be Mad
-URL: https://live.sakutv.workers.dev/hls/bemad
+URL: https://live.s2l.workers.dev/hls/bemad
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1588,6 +1563,11 @@ Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
 Group: Infantil
+Name: Pluto TV Anime
+URL: https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+Logo: https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Inazuma Eleven
 URL: https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 Logo: https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png
@@ -1613,9 +1593,34 @@ URL: https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 Logo: https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
+Name: One Piece
+URL: https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+Logo: https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Yu-Gi-Oh!
 URL: https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 Logo: https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Junior
+URL: https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
+Logo: https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Pluto TV Kids
+URL: https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+Logo: https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Rugrats
+URL: https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
+Logo: https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: Las Tortugas Ninja
+URL: https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
+Logo: https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: iCarly
@@ -1661,6 +1666,11 @@ Source: https://m3u.work/YawDD3.m3u
 Name: Mattel Junior
 URL: https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
 Logo: https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
+Name: South Park
+URL: https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+Logo: https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
 Name: Pippi Calzaslargas
@@ -1711,7 +1721,7 @@ Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/clan_cuadrad
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Boing
-URL: https://live.sakutv.workers.dev/hls/boing
+URL: https://live.s2l.workers.dev/hls/boing
 Logo: https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/boing_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
@@ -1750,34 +1760,9 @@ URL: https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/detectiveconan_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: One Piece
-URL: https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-Logo: https://i.imgur.com/XsvbAWR.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Las Tortugas Ninja
-URL: https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
-Logo: https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: South Park
-URL: https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-Logo: https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Mr Bean Animated
-URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Infantiles",KinoKazka
 URL: http://stream.mcquack.net/167/index.m3u8
 Logo: https://i.imgur.com/y6SWpsX.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Rugrats
-URL: https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-Logo: https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Pocoyó
@@ -1795,24 +1780,9 @@ URL: https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 Logo: https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Pluto TV Anime
-URL: https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-Logo: https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Junior
-URL: https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
-Logo: https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Pluto TV Kids Classics
 URL: https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 Logo: https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Kids Spain
-URL: https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
-Logo: https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Pluto TV Teen
@@ -1880,11 +1850,6 @@ Source: https://m3u.work/OI0Q3l.m3u
 Name: EuroNews
 URL: https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/euronews_cuadrado.jpg
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: France 24 Español
-URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-Logo: https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/france24esp_cuadrado.jpg
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 
@@ -2612,6 +2577,11 @@ URL: https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8
 Logo: https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
+Name: Medium
+URL: https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
+Logo: https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 
 Group: Radio_Andalucía
 Name: Radio Andalucía Información Málaga
@@ -3151,6 +3121,11 @@ URL: https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 Logo: https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
 Source: https://m3u.work/YawDD3.m3u
 --------------------------------------------------
+Name: Pluto TV Series Sci-Fi
+URL: https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+Logo: https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
+Source: https://m3u.work/YawDD3.m3u
+--------------------------------------------------
 Name: Pluto TV Telenovelas Clásicas
 URL: https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 Logo: https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png
@@ -3360,34 +3335,9 @@ URL: https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99
 Logo: https://image.xumo.com/v1/channels/channel/99993070/600x200.png?type=white_cropped
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
-Name: Medium
-URL: https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
-Logo: https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Melrose Place
-URL: https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
-Logo: https://i.imgur.com/hXDj0fV.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Star Trek: Voyager
-URL: https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-Logo: https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Series
-URL: https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
-Logo: https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
 Name: Pluto TV Series criminales
 URL: https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
 Logo: https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png
-Source: https://m3u.work/OI0Q3l.m3u
---------------------------------------------------
-Name: Pluto TV Series Sci-Fi
-URL: https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
-Logo: https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
 Source: https://m3u.work/OI0Q3l.m3u
 --------------------------------------------------
 Name: Pluto TV Comedia made in Spain

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-25 18:55:35",
+  "date": "2026-09-26 01:24:50",
   "channels": {
     "Generalistas": [
       {
@@ -28,14 +28,14 @@
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/cuatro_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/cuatro"
+        "url": "https://live.s2l.workers.dev/hls/cuatro"
       },
       {
         "name": "Telecinco",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/telecinco_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/telecinco"
+        "url": "https://live.s2l.workers.dev/hls/telecinco"
       },
       {
         "name": "La Sexta",
@@ -63,14 +63,14 @@
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/nova_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/nova"
+        "url": "https://live.s2l.workers.dev/hls/nova"
       },
       {
         "name": "Atreseries",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/atreseries_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/atreseries"
+        "url": "https://live.s2l.workers.dev/hls/atreseries"
       },
       {
         "name": "Mega",
@@ -84,28 +84,28 @@
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/divinity_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/divinity"
+        "url": "https://live.s2l.workers.dev/hls/divinity"
       },
       {
         "name": "Factoría de Ficción",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/factoriadeficcion_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/fdf"
+        "url": "https://live.s2l.workers.dev/hls/fdf"
       },
       {
         "name": "Energy",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/energy_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/energy"
+        "url": "https://live.s2l.workers.dev/hls/energy"
       },
       {
         "name": "Be Mad",
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/bemad_cuadrado.jpg",
         "group": "Generalistas",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/bemad"
+        "url": "https://live.s2l.workers.dev/hls/bemad"
       },
       {
         "name": "TRECE",
@@ -164,6 +164,13 @@
         "group": "Andalucía",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8"
+      },
+      {
+        "name": "Huelva Conecta",
+        "logo": "https://yt3.ggpht.com/dQxpHlPEeQ6XTzXJu7eJa36C7nT7TjxecHbznRDwEqWmdV5Upl8VMafZMHhCfToJGcdTcy1_bJA=s200",
+        "group": "Andalucía",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8"
       }
     ],
     "Eventuales": [
@@ -257,6 +264,13 @@
         "group": "Eventuales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://fast-channels.atresmedia.com/85cecd372210bdbe2392b20413c98a8f068b05ac/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8"
+      },
+      {
+        "name": "San Sebastián Fes (RTVE)",
+        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+        "group": "Eventuales",
+        "source": "https://m3u.work/OI0Q3l.m3u",
+        "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8"
       }
     ],
     "Informativos": [
@@ -308,13 +322,6 @@
         "group": "Informativos",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8"
-      },
-      {
-        "name": "France 24 Español",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/france24esp_cuadrado.jpg",
-        "group": "Informativos",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
       }
     ],
     "Deportivos": [
@@ -491,39 +498,11 @@
         "url": "https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8"
       },
       {
-        "name": "Pluto TV True Crime",
-        "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8"
-      },
-      {
         "name": "Pluto TV Impacto",
         "logo": "https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png",
         "group": "Documentales",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8"
-      },
-      {
-        "name": "Pluto TV Invasión Alien",
-        "logo": "https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8"
-      },
-      {
-        "name": "Pluto TV Historia",
-        "logo": "https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
-      },
-      {
-        "name": "Pluto TV Diseño",
-        "logo": "https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png",
-        "group": "Documentales",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8"
       },
       {
         "name": "Crimen & Historia",
@@ -707,7 +686,7 @@
         "logo": "https://raw.githubusercontent.com/pascgallardo/Iconos_TV/main/boing_cuadrado.jpg",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://live.sakutv.workers.dev/hls/boing"
+        "url": "https://live.s2l.workers.dev/hls/boing"
       },
       {
         "name": "Kidz",
@@ -759,46 +738,11 @@
         "url": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8"
       },
       {
-        "name": "One Piece",
-        "logo": "https://i.imgur.com/XsvbAWR.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8"
-      },
-      {
-        "name": "Las Tortugas Ninja",
-        "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
-      },
-      {
-        "name": "South Park",
-        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"
-      },
-      {
-        "name": "Mr Bean Animated",
-        "logo": "https://github.com/pascgallardo/Iconos_TV/raw/refs/heads/main/mrbeananimated_cuadrado.jpg",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
-      },
-      {
         "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Infantiles\",KinoKazka",
         "logo": "https://i.imgur.com/y6SWpsX.png",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "http://stream.mcquack.net/167/index.m3u8"
-      },
-      {
-        "name": "Rugrats",
-        "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
       },
       {
         "name": "Pocoyó",
@@ -822,32 +766,11 @@
         "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
       },
       {
-        "name": "Pluto TV Anime",
-        "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
-      },
-      {
-        "name": "Pluto TV Junior",
-        "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8"
-      },
-      {
         "name": "Pluto TV Kids Classics",
         "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
         "group": "Infantiles",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8"
-      },
-      {
-        "name": "Pluto TV Kids Spain",
-        "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
-        "group": "Infantiles",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
       },
       {
         "name": "Pluto TV Teen",
@@ -894,20 +817,6 @@
     ],
     "Films": [
       {
-        "name": "Pelis Top (Rakuten TV)",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
-      },
-      {
-        "name": "Acción (Rakuten TV)",
-        "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
-      },
-      {
         "name": "Thrillers (Rakuten TV)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg",
         "group": "Films",
@@ -922,13 +831,6 @@
         "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6740-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_language=es&ads.viewsize=&channel_id=6740&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
-        "name": "Comedia (Rakuten TV)",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
-      },
-      {
         "name": "Romántico (Rakuten TV)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg",
         "group": "Films",
@@ -936,39 +838,11 @@
         "url": "https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6105-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_language=es&ads.viewsize=&channel_id=6105&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
       },
       {
-        "name": "Drama (Rakuten TV)",
-        "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
-      },
-      {
         "name": "Cine Español (Rakuten TV)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6196-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_language=es&ads.viewsize=&channel_id=6196&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv"
-      },
-      {
-        "name": "En Familia (Rakuten TV)",
-        "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-      },
-      {
-        "name": "Cine Friki",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
-      },
-      {
-        "name": "Cine Western",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
       },
       {
         "name": "Grjngo - Películas Del Oeste",
@@ -1104,81 +978,11 @@
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6130&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.ammo.runtime.tv.html5&app_store_url=https%3A%2F%2Fhtml5.runtime.tv%2F&app_domain=runtime.tv&app_name=Runtime&custom_targeting=html5&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=Runtime&content_network=Runtime&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=runtime.tv&content_dist_name=internal&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=1&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=es&country_region=catalonia&postal_code=08906&gender=not_specified&yob=0&consent=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5"
       },
       {
-        "name": "Paramount Network de Pluto TV",
-        "logo": "https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Estelar",
-        "logo": "https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Acción",
-        "logo": "https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Comedia",
-        "logo": "https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8"
-      },
-      {
-        "name": "Pluto TV Comedias Románticas",
-        "logo": "https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Romántico",
-        "logo": "https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Drama",
-        "logo": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
-      },
-      {
-        "name": "Pluto TV Catástrofes",
-        "logo": "https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8"
-      },
-      {
-        "name": "Pluto TV Thrillers",
-        "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8"
-      },
-      {
         "name": "Pluto TV Psycho",
         "logo": "https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8"
-      },
-      {
-        "name": "Pluto TV Paranormal",
-        "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8"
       },
       {
         "name": "Pluto TV Gore & Slasher",
@@ -1188,25 +992,11 @@
         "url": "https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8"
       },
       {
-        "name": "Pluto TV Horror",
-        "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8"
-      },
-      {
         "name": "Pluto TV Zombies",
         "logo": "https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8"
-      },
-      {
-        "name": "Pluto TV Western",
-        "logo": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8"
       },
       {
         "name": "Pluto TV Cine de autor",
@@ -1216,25 +1006,11 @@
         "url": "https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8"
       },
       {
-        "name": "Pluto TV Cine Clásico",
-        "logo": "https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
-      },
-      {
         "name": "SensaCine TV x Pluto",
         "logo": "https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png",
         "group": "Films",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8"
-      },
-      {
-        "name": "Pluto TV Sci-Fi",
-        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-        "group": "Films",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
       }
     ],
     "Shows": [
@@ -1330,46 +1106,11 @@
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993070&ads.xumo_streamId=99993070&ads.channelId=99993070&ads.ad_tag_id=154587&ads.csid=lgchannels_es_nbcu12monkeys_ssai&ads.channelName=12monkeys_es&ads.xumo_contentName=NBCUES&ads.xumo_contentId=4342&ads.xumo_providerName=NBCUES&ads.xumo_providerId=4342&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=es&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]"
       },
       {
-        "name": "Medium",
-        "logo": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8"
-      },
-      {
-        "name": "Melrose Place",
-        "logo": "https://i.imgur.com/hXDj0fV.png",
-        "group": "Shows",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
-      },
-      {
-        "name": "Star Trek: Voyager",
-        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8"
-      },
-      {
-        "name": "Pluto TV Series",
-        "logo": "https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8"
-      },
-      {
         "name": "Pluto TV Series criminales",
         "logo": "https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png",
         "group": "Shows",
         "source": "https://m3u.work/OI0Q3l.m3u",
         "url": "https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8"
-      },
-      {
-        "name": "Pluto TV Series Sci-Fi",
-        "logo": "https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png",
-        "group": "Shows",
-        "source": "https://m3u.work/OI0Q3l.m3u",
-        "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8"
       },
       {
         "name": "Pluto TV Comedia made in Spain",
@@ -2552,11 +2293,102 @@
     ],
     "Cine": [
       {
+        "name": "Paramount Network de Pluto TV",
+        "logo": "https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Estelar",
+        "logo": "https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Acción",
+        "logo": "https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Comedia",
+        "logo": "https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8"
+      },
+      {
+        "name": "Pluto TV Thrillers",
+        "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Drama",
+        "logo": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Romántico",
+        "logo": "https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8"
+      },
+      {
+        "name": "Pluto TV Sci-Fi",
+        "logo": "https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
+      },
+      {
         "name": "Runtime",
         "logo": "https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",
         "group": "Cine",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Clásico",
+        "logo": "https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
+      },
+      {
+        "name": "Pluto TV Western",
+        "logo": "https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8"
+      },
+      {
+        "name": "Pluto TV Catástrofes",
+        "logo": "https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8"
+      },
+      {
+        "name": "Pluto TV Comedias Románticas",
+        "logo": "https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8"
+      },
+      {
+        "name": "Pluto TV Horror",
+        "logo": "https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png",
+        "group": "Cine",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8"
       },
       {
         "name": "Acción - Rakuten TV",
@@ -2836,6 +2668,13 @@
     ],
     "Infantil": [
       {
+        "name": "Pluto TV Anime",
+        "logo": "https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png",
+        "group": "Infantil",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
+      },
+      {
         "name": "Inazuma Eleven",
         "logo": "https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png",
         "group": "Infantil",
@@ -2871,11 +2710,46 @@
         "url": "https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8"
       },
       {
+        "name": "One Piece",
+        "logo": "https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png",
+        "group": "Infantil",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8"
+      },
+      {
         "name": "Yu-Gi-Oh!",
         "logo": "https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png",
         "group": "Infantil",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8"
+      },
+      {
+        "name": "Pluto TV Junior",
+        "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
+        "group": "Infantil",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8"
+      },
+      {
+        "name": "Pluto TV Kids",
+        "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
+        "group": "Infantil",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
+      },
+      {
+        "name": "Rugrats",
+        "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
+        "group": "Infantil",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
+      },
+      {
+        "name": "Las Tortugas Ninja",
+        "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
+        "group": "Infantil",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
       },
       {
         "name": "iCarly",
@@ -2939,6 +2813,13 @@
         "group": "Infantil",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8"
+      },
+      {
+        "name": "South Park",
+        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+        "group": "Infantil",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"
       },
       {
         "name": "Pippi Calzaslargas",
@@ -3120,6 +3001,13 @@
         "group": "Policiacas",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8"
+      },
+      {
+        "name": "Medium",
+        "logo": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
+        "group": "Policiacas",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8"
       }
     ],
     "Series Míticas": [
@@ -3152,6 +3040,27 @@
         "group": "Crimen y Misterio",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8"
+      },
+      {
+        "name": "Pluto TV True Crime",
+        "logo": "https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png",
+        "group": "Crimen y Misterio",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8"
+      },
+      {
+        "name": "Pluto TV Invasión Alien",
+        "logo": "https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG_1781530240161.png",
+        "group": "Crimen y Misterio",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8"
+      },
+      {
+        "name": "Pluto TV Paranormal",
+        "logo": "https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png",
+        "group": "Crimen y Misterio",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8"
       },
       {
         "name": "Archivos Forenses",
@@ -3587,6 +3496,13 @@
         "url": "https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8"
       },
       {
+        "name": "Pluto TV Series Sci-Fi",
+        "logo": "https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8"
+      },
+      {
         "name": "Pluto TV Telenovelas Clásicas",
         "logo": "https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png",
         "group": "Series",
@@ -3825,6 +3741,20 @@
         "group": "Cultura",
         "source": "https://m3u.work/YawDD3.m3u",
         "url": "https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8"
+      },
+      {
+        "name": "Pluto TV Diseño",
+        "logo": "https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png",
+        "group": "Cultura",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8"
+      },
+      {
+        "name": "Pluto TV Historia",
+        "logo": "https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png",
+        "group": "Cultura",
+        "source": "https://m3u.work/YawDD3.m3u",
+        "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
       },
       {
         "name": "Space Live",
